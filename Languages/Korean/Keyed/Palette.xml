@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_PaletteButton>배색</LP_PaletteButton>
+  <LP_PaletteDescription>이 놀이기구의 배색을 고릅니다. 현재: {0}. 외형에 바로 적용되며 건설 비용과 성능은 같습니다.</LP_PaletteDescription>
+  <LP_PaletteCurrent>배색: {0}</LP_PaletteCurrent>
+  <LP_PaletteLegacy>기존 배색</LP_PaletteLegacy>
+  <LP_PaletteBlue>원목＋파랑</LP_PaletteBlue>
+  <LP_PaletteYellow>원목＋노랑</LP_PaletteYellow>
+  <LP_PaletteSage>원목＋세이지</LP_PaletteSage>
+  <LP_PaletteClassic>클래식 알록달록</LP_PaletteClassic>
+</LanguageData>

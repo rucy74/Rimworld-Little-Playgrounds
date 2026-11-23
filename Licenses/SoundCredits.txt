@@ -1,0 +1,23 @@
+Little Playgrounds - sound credits
+
+Edits for all sounds: excerpt, short edge fades, mono, 44.1 kHz, level matching.
+
+Recordings released under CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/) - no attribution required:
+LP_WaterSplash_01.wav - "water splash and flounder about in a puddle" by launemax
+  https://freesound.org/people/launemax/sounds/249929/
+LP_SplashPadSpray_Loop.wav - "sprinkler field recording" by Garuda1982 (6 s loop with a short crossfade)
+  https://freesound.org/people/Garuda1982/sounds/433690/
+LP_SpringRiderCreak_01.wav - "Metallic groan long.wav" by Crinkem
+  https://freesound.org/people/Crinkem/sounds/481787/
+LP_FountainDrink_01.wav - "drinking water fountain.wav" by pawsound
+  https://freesound.org/people/pawsound/sounds/154846/
+
+Sounds made with ElevenLabs Sound Effects (elevenlabs.io), downloaded on a paid plan (royalty-free, no attribution required):
+LP_SandDig_01.wav - "hands digging into sand, the crunch and collapse of dry soil" (shared sound library)
+LP_SandPour_01.wav - "Sand falling from a cliff, subtle disintegration sound" (public sound effects library)
+LP_SwingCreak_01.wav - "Rusty playground swing creaking and squeaking rhythmically" (shared sound library)
+LP_TrampolineBounce_01.wav - "trampoline jump" (shared sound library)
+LP_RoundaboutSpin_01.wav - "old rusty metal playground roundabout slowly spinning" (shared sound library)
+LP_SeesawCreak_01.wav - "creaking sound of a seesaw" (shared sound library)
+LP_ZiplineRoll_01.wav - "Seamless loop of a zipline pulley rolling along a taut steel cable" (shared sound library)
+LP_RockerCreak_01.wav - "Foley sound effect of a soft wooden rocking horse creaking" (shared sound library)

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_VisitorCount>Bezoekers: {0} / {1}</LP_VisitorCount>
+  <LP_AudienceButton>Bezoekers: {0}</LP_AudienceButton>
+  <LP_AudienceCurrent>Toegestane bezoekers: {0}</LP_AudienceCurrent>
+  <LP_AudienceDescription>Kies wie deze apparatuur mag gebruiken. Iedereen is de standaard. Uitgesloten bezoekers stoppen hun huidige bezoek of wachtrij. Deze keuze wordt opgeslagen.</LP_AudienceDescription>
+  <LP_AudienceEveryone>Iedereen</LP_AudienceEveryone>
+  <LP_AudienceChildren>Alleen kinderen</LP_AudienceChildren>
+  <LP_AudienceAdults>Alleen volwassenen</LP_AudienceAdults>
+</LanguageData>

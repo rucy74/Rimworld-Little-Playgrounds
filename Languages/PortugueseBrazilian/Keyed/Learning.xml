@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Setting_LearningWeight>Preferência por aprender através de brincadeiras no playground: {0} (padrão: 2)</LP_Setting_LearningWeight>
+  <LP_Setting_LearningWeightDescription>Ajuste a frequência com que uma criança escolhe brincar no playground como atividade de aprendizagem. Um valor mais alto aumenta a probabilidade de esta atividade ser escolhida.</LP_Setting_LearningWeightDescription>
+  <LP_Setting_LearningWeightTip>Em 1, brincar no playground tem o mesmo peso de seleção que desenhar no chão ou correr na natureza. Em 2, seu peso de seleção é duplicado. Isso não significa o dobro de visitas reais. A chance separada de 50% de brincar quando ocioso permanece inalterada. A configuração se aplica quando o próximo desejo de aprendizagem é selecionado. Os desejos atuais e a brincadeira em andamento permanecem inalterados.</LP_Setting_LearningWeightTip>
+  <LP_Setting_LearningWeightTiming>Aplica-se quando um novo desejo de aprendizagem é escolhido. Os desejos existentes e o jogo em andamento são mantidos.</LP_Setting_LearningWeightTiming>
+</LanguageData>

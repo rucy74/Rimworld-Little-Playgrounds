@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Sandbox.label>sandlåda i ek</LP_Sandbox.label>
+  <LP_Sandbox.description>En sandlåda i blek ek med hörnsäten i elfenben. Upp till tre barn eller vuxna formar en hög till ett torn och sedan ett sandslott, ensamma eller tillsammans. Barn får lärande; vuxna får rekreation. Deras skapelse stannar kvar efter att de lämnat och försvinner långsamt när de inte används.</LP_Sandbox.description>
+  <LP_GardenBench.label>trädgårdsbänk</LP_GardenBench.label>
+  <LP_GardenBench.description>En rundad bänk i ek och elfenben med plats för två personer. Kolonister kan välja den för rekreation eller beordras att koppla av här. Placera ett skärmtak en cell bakom bänken för att skydda den.</LP_GardenBench.description>
+  <LP_ShadeCanopy.label>skärmtak på lekplatsen</LP_ShadeCanopy.label>
+  <LP_ShadeCanopy.description>En skärm av krämtyg på salviastolpar. Placera dess mittmarkör en cell bakom en bänk. Det skyddar ett fem gånger tre område framför utan att ersätta befintliga tak. Tyget förblir ogenomskinligt över sittande besökare och bleknar när dess upphöjda bild skymmer en person.</LP_ShadeCanopy.description>
+  <LP_OakCurb.label>lekplatskant i ek</LP_OakCurb.label>
+  <LP_OakCurb.description>Låg rundad ekkant. Intilliggande lekplatskanter ansluts automatiskt, inklusive runt hörnen. Alla kan kliva över den.</LP_OakCurb.description>
+  <LP_IvoryCurb.label>lekplatskant</LP_IvoryCurb.label>
+  <LP_IvoryCurb.description>Låg elfenbenskant för en färdig lekplatsgräns. Intilliggande lekplatskanter ansluts automatiskt, inklusive runt hörnen. Alla kan kliva över den. Byggs av valfria stenblock; formen och färgerna förblir desamma vilken sten du än använder.</LP_IvoryCurb.description>
+</LanguageData>

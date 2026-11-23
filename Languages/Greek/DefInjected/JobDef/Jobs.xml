@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_RideSwing.reportString>παίζει στην κούνια.</LP_RideSwing.reportString>
+  <LP_RideSlide.reportString>παίζει στην τσουλήθρα.</LP_RideSlide.reportString>
+  <LP_RideSeesaw.reportString>παίζει στην τραμπάλα.</LP_RideSeesaw.reportString>
+  <LP_PlayInSand.reportString>φτιάχνει κάστρα από άμμο.</LP_PlayInSand.reportString>
+  <LP_RelaxOnBench.reportString>χαλαρώνει στο παγκάκι του κήπου.</LP_RelaxOnBench.reportString>
+  <LP_WaitForPlayground.reportString>περιμένει λίγο για TargetA.</LP_WaitForPlayground.reportString>
+  <LP_BounceTrampoline.reportString>αναπηδά στο TargetA.</LP_BounceTrampoline.reportString>
+  <LP_RideZipline.reportString>κάνει βόλτα με TargetA.</LP_RideZipline.reportString>
+  <LP_RideSpringFox.reportString>κουνιέται πάνω σε TargetA.</LP_RideSpringFox.reportString>
+  <LP_SpinRoundabout.reportString>περιστρέφεται σε TargetA.</LP_SpinRoundabout.reportString>
+  <LP_PlayShop.reportString>παίζει μαγαζάκι σε TargetA.</LP_PlayShop.reportString>
+  <LP_PlayHopscotch.reportString>παίζει κουτσό.</LP_PlayHopscotch.reportString>
+  <LP_PlaySplashPad.reportString>παίζει στους πίδακες νερού.</LP_PlaySplashPad.reportString>
+  <LP_WalkCourse.reportString>διασχίζει τη διαδρομή της παιδικής χαράς.</LP_WalkCourse.reportString>
+  <LP_BounceTogether.reportString>αναπηδά στο TargetA.</LP_BounceTogether.reportString>
+  <LP_DrinkAtFountain.reportString>πίνει νερό σε TargetA.</LP_DrinkAtFountain.reportString>
+  <LP_CareSwing.reportString>κάνει κούνια με TargetB.</LP_CareSwing.reportString>
+  <LP_CareSeesaw.reportString>παίζει τραμπάλα με TargetB.</LP_CareSeesaw.reportString>
+  <LP_CareSand.reportString>φτιάχνει κάστρα από άμμο με TargetB.</LP_CareSand.reportString>
+  <LP_CareRoundabout.reportString>γυρίζει τον μύλο με TargetB.</LP_CareRoundabout.reportString>
+  <LP_CarePlayhouse.reportString>παίζει μαγαζάκι με TargetB.</LP_CarePlayhouse.reportString>
+  <LP_CareBounceTogether.reportString>αναπηδά στο τραμπολίνο με TargetB.</LP_CareBounceTogether.reportString>
+  <LP_WatchChildPlay.reportString>παρακολουθεί TargetB να παίζει.</LP_WatchChildPlay.reportString>
+</LanguageData>

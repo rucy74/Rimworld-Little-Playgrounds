@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PaletteButton>Combinazione di colori</LP_PaletteButton>
+  <LP_PaletteDescription>Scegli i colori di questo parco giochi. Attuale: {0}. Cambia aspetto immediatamente; i costi di costruzione e le prestazioni rimangono gli stessi.</LP_PaletteDescription>
+  <LP_PaletteCurrent>Combinazione colori: {0}</LP_PaletteCurrent>
+  <LP_PaletteLegacy>Finitura originale</LP_PaletteLegacy>
+  <LP_PaletteBlue>Legno + blu</LP_PaletteBlue>
+  <LP_PaletteYellow>Legno + giallo</LP_PaletteYellow>
+  <LP_PaletteSage>Legno + verde salvia</LP_PaletteSage>
+  <LP_PaletteClassic>Colori classici</LP_PaletteClassic>
+</LanguageData>

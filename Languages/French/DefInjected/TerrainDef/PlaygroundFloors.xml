@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PlaySandLight.label>sable clair pour aire de jeux</LP_PlaySandLight.label>
+  <LP_PlaySandLight.description>Sable pâle avec des ondulations douces et peu profondes pour un terrain de jeu lumineux. Il s’agit d’une troisième surface sablonneuse, aux côtés du sable fin et du sable granuleux.</LP_PlaySandLight.description>
+  <LP_PlaySand.label>sable fin pour aire de jeux</LP_PlaySand.label>
+  <LP_PlaySand.description>Sable de terrain de jeu tassé, d'un beige chaud, aux grains fins et aux variations discrètes et peu marquées.</LP_PlaySand.description>
+  <LP_PlaySandGrainy.label>sable granuleux pour terrain de jeu</LP_PlaySandGrainy.label>
+  <LP_PlaySandGrainy.description>Sable chaud pour terrain de jeu avec grains visibles et surface légèrement ratissée. Une alternative plus texturée au sable fin pour terrain de jeu.</LP_PlaySandGrainy.description>
+  <LP_RubberSage.label>sol en caoutchouc vert sauge</LP_RubberSage.label>
+  <LP_RubberSage.description>Une surface de jeu mate en miettes de caoutchouc. Sa texture subtile s'assemble sans grille de carrelage. Disponible en sauge, crème et abricot.</LP_RubberSage.description>
+  <LP_RubberCream.label>caoutchouc crème pour aire de jeux</LP_RubberCream.label>
+  <LP_RubberCream.description>Une surface de jeu mate en miettes de caoutchouc. Sa texture subtile s'assemble sans grille de carrelage. Disponible en sauge, crème et abricot.</LP_RubberCream.description>
+  <LP_RubberApricot.label>caoutchouc pour aire de jeux abricot</LP_RubberApricot.label>
+  <LP_RubberApricot.description>Une surface de jeu mate en miettes de caoutchouc. Sa texture subtile s'assemble sans grille de carrelage. Disponible en sauge, crème et abricot.</LP_RubberApricot.description>
+</LanguageData>

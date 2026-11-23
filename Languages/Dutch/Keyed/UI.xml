@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Menu_PlaySwing>Spelen op de schommel</LP_Menu_PlaySwing>
+  <LP_Menu_PlaySlide>Spelen op de glijbaan</LP_Menu_PlaySlide>
+  <LP_Menu_PlaySeesaw>Spelen op de wip</LP_Menu_PlaySeesaw>
+  <LP_Menu_JumpTrampoline>Spring op de trampoline</LP_Menu_JumpTrampoline>
+  <LP_Menu_RideZipline>Met de kabelbaan gaan</LP_Menu_RideZipline>
+  <LP_Menu_BuildSandcastles>Zandkastelen bouwen</LP_Menu_BuildSandcastles>
+  <LP_Menu_RelaxBench>Ontspan op de bank</LP_Menu_RelaxBench>
+  <LP_Menu_TakeDrink>Iets drinken</LP_Menu_TakeDrink>
+  <LP_Menu_PlayCourse>Speel op dit parcours</LP_Menu_PlayCourse>
+  <LP_Menu_PlayAt>Speel op {0}</LP_Menu_PlayAt>
+  <LP_Inspect_CourseLinked>Parcours van {0} verbonden vakjes.</LP_Inspect_CourseLinked>
+  <LP_Inspect_CourseAlone>Staat los, dus hier kan nog niemand spelen. Plaats er nog een stapsteen, houten opstapje of evenwichtsboomstam rand aan rand naast.</LP_Inspect_CourseAlone>
+  <LP_Inspect_CourseCorner>Raakt een ander stuk alleen op een hoek; dat verbindt niet. Stukken verbinden rand aan rand.</LP_Inspect_CourseCorner>
+  <LP_Inspect_CourseWaiting>Verbindt met het geplande stuk ernaast zodra dat is gebouwd.</LP_Inspect_CourseWaiting>
+  <LP_Menu_CourseTooShort>Speel langs dit parcours (er is nog een stuk van rand tot rand nodig)</LP_Menu_CourseTooShort>
+  <LP_Place_CourseLinked>Vormt een parcours van {0} vakjes</LP_Place_CourseLinked>
+  <LP_Place_CourseOccupied>Er ligt hier al een ander parcoursstuk</LP_Place_CourseOccupied>
+  <LP_Place_CourseSelf>Vormt in zijn eentje een parcours van {0} vakjes</LP_Place_CourseSelf>
+  <LP_Place_CourseCorner>Hoekcontact koppelt niet, plaats het rand tegen rand</LP_Place_CourseCorner>
+  <LP_Place_CourseAlone>Kan niet alleen worden gespeeld, plaats een ander stuk rand tegen rand</LP_Place_CourseAlone>
+  <LP_Inspect_SplashClosed>Waterspeeltuin gesloten: onder 10°C.</LP_Inspect_SplashClosed>
+  <LP_Inspect_SeatReturning>Lege stoel keert terug</LP_Inspect_SeatReturning>
+  <LP_Inspect_Rider>Gebruiker: {0}</LP_Inspect_Rider>
+  <LP_Inspect_ReadyOne>Klaar voor één gebruiker</LP_Inspect_ReadyOne>
+  <LP_Inspect_ReadyAny>Klaar voor een gebruiker</LP_Inspect_ReadyAny>
+  <LP_Inspect_SlideRider>Gebruiker: {0} — {1}</LP_Inspect_SlideRider>
+  <LP_SlidePhase_approach>nadert</LP_SlidePhase_approach>
+  <LP_SlidePhase_boarding>instappen</LP_SlidePhase_boarding>
+  <LP_SlidePhase_climbing>klimmen</LP_SlidePhase_climbing>
+  <LP_SlidePhase_platform>platform</LP_SlidePhase_platform>
+  <LP_SlidePhase_seated>zittend</LP_SlidePhase_seated>
+  <LP_SlidePhase_sliding>glijden</LP_SlidePhase_sliding>
+  <LP_SlidePhase_landing>landing</LP_SlidePhase_landing>
+  <LP_SlidePhase_finished>voltooid</LP_SlidePhase_finished>
+  <LP_Inspect_SwingSeats>Linkerstoel: {0}\nRechterstoel: {1}</LP_Inspect_SwingSeats>
+  <LP_Inspect_SeatFree>beschikbaar</LP_Inspect_SeatFree>
+  <LP_Inspect_SeesawTogether>Samen spelen</LP_Inspect_SeesawTogether>
+  <LP_Inspect_SeesawWaiting>Instappen</LP_Inspect_SeesawWaiting>
+  <LP_Inspect_SeesawSolo>Alleen spelen</LP_Inspect_SeesawSolo>
+  <LP_Inspect_SeesawFree>Twee stoelen beschikbaar</LP_Inspect_SeesawFree>
+  <LP_Inspect_SandCastle>Hier is een zandkasteel gebouwd</LP_Inspect_SandCastle>
+  <LP_Inspect_SandTower>Een zandtoren krijgt vorm</LP_Inspect_SandTower>
+  <LP_Inspect_SandMound>Een klein hoopje zand</LP_Inspect_SandMound>
+  <LP_Inspect_SandReady>Klaar om met zand te spelen</LP_Inspect_SandReady>
+  <LP_Setting_ChildcarePlay>Volwassenen spelen met kinderen als kinderopvang</LP_Setting_ChildcarePlay>
+  <LP_Setting_ChildcarePlayTip>Indien ingeschakeld, bezoekt een volwassene die is toegewezen aan de kinderopvang een kind dat alleen speelt. De volwassene kan met het kind meedoen op een schommel, wip, zandbak, draaimolen, speelhuisje of grote trampoline, of naast een toestel voor één persoon toekijken. De volwassene krijgt wat sociale ontspanning, net als wanneer hij met een baby speelt. Als deze instelling is uitgeschakeld, kunnen volwassenen tijdens hun eigen recreatie nog steeds met kinderen spelen.</LP_Setting_ChildcarePlayTip>
+  <LP_Setting_RecordPlay>Speeltuinlogboek (voor foutopsporing)</LP_Setting_RecordPlay>
+  <LP_Setting_RecordPlayTip>Indien ingeschakeld, legt dit logboek elk speeltuinbezoek vast: wie speelde, wie meedeed of toekeek, hoe ze kwamen en waarom een toestel met meerdere plaatsen alleen werd gebruikt. Lees een paneel met apparatuurinformatie of selecteer Logboek bekijken hieronder. Dezelfde informatie wordt ook opgeslagen in het onderstaande bestand.</LP_Setting_RecordPlayTip>
+  <LP_Rec_Open>Logboek bekijken</LP_Rec_Open>
+  <LP_Rec_Title>Speeltuinlogboek</LP_Rec_Title>
+  <LP_Rec_NoMap>Laad een nederzettingskaart om het speeltuinlogboek te bekijken.</LP_Rec_NoMap>
+  <LP_Why_Other>niet hier</LP_Why_Other>
+  <LP_Why_Drafted>wapen getrokken</LP_Why_Drafted>
+  <LP_Why_Downed>bewusteloos</LP_Why_Downed>
+  <LP_Why_Mental>in een mentale toestand</LP_Why_Mental>
+  <LP_Why_Burning>in brand</LP_Why_Burning>
+  <LP_Why_Ordered>voert een bevel uit</LP_Why_Ordered>
+  <LP_Why_Busy>bezet ({0})</LP_Why_Busy>
+  <LP_Why_Gathering>in een bijeenkomst of groep</LP_Why_Gathering>
+  <LP_Why_Fighting>vechten</LP_Why_Fighting>
+  <LP_Why_Needs>gaat eten of slapen</LP_Why_Needs>
+  <LP_Why_NotPlayTime>geen recreatie-uur</LP_Why_NotPlayTime>
+  <LP_Why_JoyFull>recreatie al vol</LP_Why_JoyFull>
+  <LP_Why_PlayCooldown>zojuist gespeeld (opnieuw in {0} h)</LP_Why_PlayCooldown>
+  <LP_Why_CareSettingOff>Spelen als kinderopvang is uitgeschakeld in de mod-instellingen</LP_Why_CareSettingOff>
+  <LP_Why_NotWorkHour>geen werkuur</LP_Why_NotWorkHour>
+  <LP_Why_CannotChildcare>kan Kinderopvang niet doen</LP_Why_CannotChildcare>
+  <LP_Why_ChildcareOff>Kinderopvang uitgeschakeld op het tabblad Werk</LP_Why_ChildcareOff>
+  <LP_Why_CallCooldown>heeft onlangs iemand geroepen (opnieuw in {0} h)</LP_Why_CallCooldown>
+  <LP_Why_BeingCalled>al geroepen door een ander kind</LP_Why_BeingCalled>
+  <LP_Why_Dislike>ze hebben een hekel aan elkaar (mening {0})</LP_Why_Dislike>
+  <LP_Why_TooFar>te ver ({0} s, limiet {1} s)</LP_Why_TooFar>
+  <LP_Why_NotAllowedFun>staat dit soort plezier niet toe (titel)</LP_Why_NotAllowedFun>
+  <LP_Why_NoWatchSpot>geen vrije plek om vanaf te kijken</LP_Why_NoWatchSpot>
+  <LP_Why_NoSeat>geen zitplaats of weg naar het toestel</LP_Why_NoSeat>
+  <LP_Rec_CallerCooldown>dit kind heeft onlangs iemand geroepen (opnieuw in {0} h)</LP_Rec_CallerCooldown>
+  <LP_Rec_NoFriendSite>geen gedeeld toestel in de buurt met twee vrije plaatsen</LP_Rec_NoFriendSite>
+  <LP_Rec_NoChildren>geen ander kind</LP_Rec_NoChildren>
+  <LP_Rec_Friends>vrienden: {0}</LP_Rec_Friends>
+  <LP_Rec_SomeoneThere>iemand zit al op het toestel of is onderweg</LP_Rec_SomeoneThere>
+  <LP_Rec_Called>heeft {0} geroepen ({1})</LP_Rec_Called>
+  <LP_Rec_CalledBy>geroepen door {0}</LP_Rec_CalledBy>
+  <LP_Rec_NoAdults>geen volwassene</LP_Rec_NoAdults>
+  <LP_Rec_Adults>volwassenen: {0}</LP_Rec_Adults>
+  <LP_Rec_Kind_Friend>vriend</LP_Rec_Kind_Friend>
+  <LP_Rec_Kind_Care>Kinderopvang</LP_Rec_Kind_Care>
+  <LP_Rec_Kind_Watch>om te bekijken</LP_Rec_Kind_Watch>
+  <LP_Rec_Kind_Recreation>recreatie</LP_Rec_Kind_Recreation>
+  <LP_Rec_Hold>Wachtte {0} s bij de ingang: {1}</LP_Rec_Hold>
+  <LP_Rec_HoldCap>heeft de volle 10 s gewacht</LP_Rec_HoldCap>
+  <LP_Rec_HoldRiding>iemand anders stapte op</LP_Rec_HoldRiding>
+  <LP_Rec_HoldLate>{0} kon niet op tijd aankomen</LP_Rec_HoldLate>
+  <LP_Rec_HoldArrivedName>{0} gearriveerd</LP_Rec_HoldArrivedName>
+  <LP_Rec_HoldArrived>de metgezel is gearriveerd</LP_Rec_HoldArrived>
+  <LP_Rec_CompanionMissed>heeft {0} geroepen, die niet meereed (nu: {1})</LP_Rec_CompanionMissed>
+  <LP_Rec_WhyUnknown>kwam door {0}; niemand anders kwam</LP_Rec_WhyUnknown>
+  <LP_Rec_Src_Unknown>onbekend</LP_Rec_Src_Unknown>
+  <LP_Rec_Src_Learning>leren</LP_Rec_Src_Learning>
+  <LP_Rec_Src_Idle>vrije tijd</LP_Rec_Src_Idle>
+  <LP_Rec_Src_Invitation>uitnodiging</LP_Rec_Src_Invitation>
+  <LP_Rec_Src_Queue>wachtrij</LP_Rec_Src_Queue>
+  <LP_Rec_Src_FriendCall>geroepen door een vriend</LP_Rec_Src_FriendCall>
+  <LP_Rec_Src_CareCall>geroepen (kinderopvang)</LP_Rec_Src_CareCall>
+  <LP_Rec_Src_WatchCall>geroepen om te kijken</LP_Rec_Src_WatchCall>
+  <LP_Rec_Src_RecreationCall>geroepen (recreatie)</LP_Rec_Src_RecreationCall>
+  <LP_Rec_Src_CareWork>Kinderopvangwerk</LP_Rec_Src_CareWork>
+  <LP_Rec_Src_Recreation>recreatie</LP_Rec_Src_Recreation>
+  <LP_Rec_Src_Ordered>opgedragen</LP_Rec_Src_Ordered>
+  <LP_Rec_Mode_ChildAlone>kind alleen</LP_Rec_Mode_ChildAlone>
+  <LP_Rec_Mode_Children>kinderen samen</LP_Rec_Mode_Children>
+  <LP_Rec_Mode_WithCare>met een volwassene voor kinderopvang</LP_Rec_Mode_WithCare>
+  <LP_Rec_Mode_WithRec>met een volwassene</LP_Rec_Mode_WithRec>
+  <LP_Rec_Mode_Watched>volwassene kijkt toe</LP_Rec_Mode_Watched>
+  <LP_Rec_Mode_AdultAlone>volwassene alleen</LP_Rec_Mode_AdultAlone>
+  <LP_Rec_Mode_AdultCare>volwassene speelt met een kind</LP_Rec_Mode_AdultCare>
+  <LP_Rec_Mode_AdultWithChild>volwassene met kind</LP_Rec_Mode_AdultWithChild>
+  <LP_Rec_Mode_Adults>volwassenen samen</LP_Rec_Mode_Adults>
+  <LP_Rec_Role_child>kind</LP_Rec_Role_child>
+  <LP_Rec_Role_care>Kinderopvang</LP_Rec_Role_care>
+  <LP_Rec_Role_adult>volwassene</LP_Rec_Role_adult>
+  <LP_Rec_JustNow>zojuist</LP_Rec_JustNow>
+  <LP_Rec_Ago>{0} u geleden</LP_Rec_Ago>
+  <LP_Rec_Inspect>Logboek, afgelopen 3 dagen: {0} ritten ({1})</LP_Rec_Inspect>
+  <LP_Rec_InspectAlone>alleen gebruikt: {0}</LP_Rec_InspectAlone>
+  <LP_Rec_File>Logbestand: {0}</LP_Rec_File>
+  <LP_Rec_Off>Het speeltuinlogboek is uitgeschakeld. Schakel het in via Opties &gt; Mod-instellingen &gt; Little Playgrounds.</LP_Rec_Off>
+  <LP_Rec_Page_Rides>Speeltoestellen</LP_Rec_Page_Rides>
+  <LP_Rec_Page_Recent>Recente speeltuinbezoeken</LP_Rec_Page_Recent>
+  <LP_Rec_Page_Decisions>Speelkeuzes</LP_Rec_Page_Decisions>
+  <LP_Rec_Page_Children>Kinderen nu</LP_Rec_Page_Children>
+  <LP_Rec_OnlySelected>Alleen het geselecteerde toestel</LP_Rec_OnlySelected>
+  <LP_Rec_Never>nooit</LP_Rec_Never>
+  <LP_Rec_RideLine>afgelopen 3 dagen {0} ritten: {1}</LP_Rec_RideLine>
+  <LP_Rec_Last>laatst {0}</LP_Rec_Last>
+  <LP_Rec_With>met {0}</LP_Rec_With>
+  <LP_Rec_Watchers>bekeken door {0}</LP_Rec_Watchers>
+  <LP_Rec_Seconds>{0} s</LP_Rec_Seconds>
+  <LP_Rec_WhyAlone>Waarom alleen: {0}</LP_Rec_WhyAlone>
+  <LP_Rec_HowCame>Hoe: {0}</LP_Rec_HowCame>
+  <LP_Rec_ChildLine>leren {0} · uur {1} · nu {2} · laatste rit {3} · speeltuin {4} · roept {5}</LP_Rec_ChildLine>
+  <LP_Rec_Ready>klaar</LP_Rec_Ready>
+  <LP_Rec_ReadyIn>over {0} uur</LP_Rec_ReadyIn>
+  <LP_Rec_Drink>gaat iets drinken</LP_Rec_Drink>
+  <LP_Rec_Joined>heeft zich bij een vriend op {0} aangesloten</LP_Rec_Joined>
+  <LP_Rec_ToPartner>gaat naar {0}, waar iemand op een partner wacht</LP_Rec_ToPartner>
+  <LP_Rec_Chose>heeft {0} gekozen</LP_Rec_Chose>
+  <LP_Rec_RunRoll>worp voor vrij rondrennen (30%)</LP_Rec_RunRoll>
+  <LP_Rec_Running>loopt rond</LP_Rec_Running>
+  <LP_Rec_Queue>staat in de rij voor {0}</LP_Rec_Queue>
+  <LP_Rec_Nobody>niemand geroepen: {0}</LP_Rec_Nobody>
+  <LP_Rec_FromQueue>na {0} s in de wachtrij</LP_Rec_FromQueue>
+  <LP_Setting_FacialPlay>Facial Animation koppelen tijdens het spelen</LP_Setting_FacialPlay>
+  <LP_Setting_FacialPlayTip>Gebruikt alleen een bestaande glimlach als het geïnstalleerde gezichtspakket van Facial Animation er een heeft. Zet dit uit om Little Playgrounds meteen los te koppelen; andere gezichtsanimaties blijven werken. Er worden geen nieuwe gezichtstextures toegevoegd.</LP_Setting_FacialPlayTip>
+  <LP_Setting_FacialPlayError>De gezichtskoppeling is na een fout gestopt. Zet deze optie uit en weer aan om het opnieuw te proberen.</LP_Setting_FacialPlayError>
+  <LP_Setting_Sounds>Geluiden van speeltoestellen</LP_Setting_Sounds>
+  <LP_Setting_SoundsTip>Zachte geluiden tijdens het spelen: krakende schommels, verende trampolines, zand- en waterspel, de drinkfontein. Je hoort ze alleen als je dicht bent ingezoomd; ze volgen het spelvolume en zijn stil zolang het spel gepauzeerd is. De glijbanen en de ballenbak maken geen geluid.</LP_Setting_SoundsTip>
+  <LP_Setting_SoundVolume>Volume van speeltoestellen: {0}</LP_Setting_SoundVolume>
+  <LP_Setting_SoundRides>Geluid per speeltoestel:</LP_Setting_SoundRides>
+  <LP_Setting_RunAround>Kinderen rennen soms rond een speeltoestel in plaats van erop te spelen</LP_Setting_RunAround>
+  <LP_Setting_RunAroundTip>Een kind dat een speeltoestel heeft gekozen, rent er soms omheen en leert daar evenveel van als van een ritje op de schommel. Bij toestellen voor meerdere personen doet een vriendje mee; anders komt een volwassene die voor kinderopvang is ingedeeld kijken. Er moet droge, vrije grond naast het toestel zijn (geen water of modder), anders speelt het kind gewoon op het toestel.</LP_Setting_RunAroundTip>
+  <LP_Setting_RunAroundChance>Kans telkens wanneer een kind een speeltoestel kiest: {0}</LP_Setting_RunAroundChance>
+  <LP_Setting_RunAroundIndoors>Ook onder een dak rondrennen</LP_Setting_RunAroundIndoors>
+  <LP_Setting_RunAroundIndoorsTip>Indien uit, rennen kinderen alleen onder de open hemel, dus binnen wordt er gewoon op de toestellen gespeeld; een schaduwluifel telt niet als dak. Indien aan, rennen ze ook rond toestellen binnen als er in de kamer ruimte is.</LP_Setting_RunAroundIndoorsTip>
+  <LP_Setting_CouplePlay>Stelletjes spelen samen</LP_Setting_CouplePlay>
+  <LP_Setting_CouplePlayTip>Een volwassene die een speeltoestel of bank voor twee kiest, roept zijn of haar partner, die komt als die vrij is of tussen gewone taken door. Een stel zonder iets te doen gaat soms ook uit zichzelf op een afspraakje, hoogstens één keer per dag. Ze wachten op elkaar en krijgen daarna allebei een kleine bonus op stemming en mening.</LP_Setting_CouplePlayTip>
+  <LP_Setting_RequireResearch>Bouwen vereist het onderzoek {0}</LP_Setting_RequireResearch>
+  <LP_Setting_RequireResearchTip>Indien aan, kan alles wat deze mod toevoegt (speeltoestellen, bankjes, hekken en vloeren) pas worden gebouwd nadat {0} is onderzocht. De gewone starts hebben het al, dus alleen kolonies die zonder beginnen, zoals stammen, onderzoeken het eerst. Wat al gebouwd is, blijft staan. Indien uit, kan alles vanaf het begin worden gebouwd.</LP_Setting_RequireResearchTip>
+  <LP_Setting_ToddlerPlay>Peuters spelen op de speeltoestellen</LP_Setting_ToddlerPlay>
+  <LP_Setting_ToddlerPlayMissing>vereist de Toddlers-mod</LP_Setting_ToddlerPlayMissing>
+  <LP_Setting_ToddlerPlayTip>Met de Toddlers-mod spelen peuters die kunnen lopen, ook als ze nog wankelen, op deze speeltoestellen: {0}. Peuters die nog kruipen, blijven eraf. Indien uit, laten peuters alle speeltoestellen met rust. Zonder de Toddlers-mod doet dit niets.</LP_Setting_ToddlerPlayTip>
+</LanguageData>

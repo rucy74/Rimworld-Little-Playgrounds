@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_BlockedUnavailable>Indisponibil</LP_BlockedUnavailable>
+  <LP_BlockedCannotPlay>Nu poate participa la această activitate</LP_BlockedCannotPlay>
+  <LP_BlockedDrafted>Recrutat</LP_BlockedDrafted>
+  <LP_BlockedDowned>Doborât</LP_BlockedDowned>
+  <LP_BlockedMentalState>Afectat mental</LP_BlockedMentalState>
+  <LP_BlockedForbidden>Interzis sau în afara zonei permise</LP_BlockedForbidden>
+  <LP_BlockedAudience>Nepermis de setarea de vârstă a acestui echipament</LP_BlockedAudience>
+  <LP_BlockedTooHot>Prea cald la locul de joacă</LP_BlockedTooHot>
+  <LP_BlockedTooCold>Prea frig la locul de joacă</LP_BlockedTooCold>
+  <LP_BlockedBusy>Folosit sau rezervat</LP_BlockedBusy>
+  <LP_BlockedEntrance>Nu poate ajunge la o intrare sau ieșire liberă</LP_BlockedEntrance>
+  <LP_BlockedReturning>Scaunul se întoarce</LP_BlockedReturning>
+  <LP_BlockedCourseTooShort>Conectați cel puțin două piese de traseu</LP_BlockedCourseTooShort>
+  <LP_BlockedWaterCold>Prea frig sau prea multă zăpadă pentru joaca cu apă</LP_BlockedWaterCold>
+  <LP_DesignButton>Aspect</LP_DesignButton>
+  <LP_DesignDescription>Alegeți aspectul acestui echipament. Curent: {0}. Culorile se aleg separat.</LP_DesignDescription>
+  <LP_DesignOriginal>Original</LP_DesignOriginal>
+  <LP_DesignTimber>Lemn natural</LP_DesignTimber>
+  <LP_DesignBusy>Așteptați până când toți termină de folosit echipamentul.</LP_DesignBusy>
+  <LP_DesignCurrent>Aspect: {0}</LP_DesignCurrent>
+</LanguageData>

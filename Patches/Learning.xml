@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationInsert">
+    <xpath>Defs/ThinkTreeDef[defName="MainColonistBehaviorCore"]/thinkRoot/subNodes/li[@Class="ThinkNode_PrioritySorter"]/subNodes/li[@Class="ThinkNode_Priority_Learn"]/subNodes/li[@Class="JobGiver_Learn"]</xpath>
+    <order>Prepend</order>
+    <!-- Only consume the existing post-play drink offer here. New play is selected by native JobGiver_Learn. -->
+    <value><li Class="LittlePlaygrounds.JobGiver_PlaygroundRefresh"/></value>
+  </Operation>
+</Patch>

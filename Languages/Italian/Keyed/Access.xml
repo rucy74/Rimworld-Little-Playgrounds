@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_VisitorCount>Visitatori: {0} / {1}</LP_VisitorCount>
+  <LP_AudienceButton>Visitatori: {0}</LP_AudienceButton>
+  <LP_AudienceCurrent>Visitatori consentiti: {0}</LP_AudienceCurrent>
+  <LP_AudienceDescription>Scegli chi può utilizzare questa attrezzatura. L'impostazione predefinita è Tutti. I visitatori esclusi interrompono la visita o l'attesa in coda in corso. Questa scelta viene salvata.</LP_AudienceDescription>
+  <LP_AudienceEveryone>Tutti</LP_AudienceEveryone>
+  <LP_AudienceChildren>Solo bambini</LP_AudienceChildren>
+  <LP_AudienceAdults>Solo adulti</LP_AudienceAdults>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Setting_LearningWeight>Preferință pentru învățarea prin joacă pe terenul de joacă: {0} (implicit: 2)</LP_Setting_LearningWeight>
+  <LP_Setting_LearningWeightDescription>Ajustați cât de des un copil alege joaca pe terenul de joacă ca activitate de învățare. O valoare mai mare face ca această activitate să fie mai probabil să fie aleasă.</LP_Setting_LearningWeightDescription>
+  <LP_Setting_LearningWeightTip>La 1, joaca pe locul de joacă are aceeași pondere la tragere ca activitățile obișnuite, de exemplu desenul pe podea sau alergarea în natură. La 2, această pondere se dublează, dar nu și numărul real de vizite. Nu afectează șansa de 50% de a se juca în timpul liber. Modificările se aplică la următoarea alegere a dorinței de învățare; dorințele existente și joaca în curs se păstrează.</LP_Setting_LearningWeightTip>
+  <LP_Setting_LearningWeightTiming>Se aplică atunci când este aleasă o nouă dorință de învățare. Dorințele existente și jocul în curs sunt păstrate.</LP_Setting_LearningWeightTiming>
+</LanguageData>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_BlockedUnavailable>이용할 수 없음</LP_BlockedUnavailable>
+  <LP_BlockedCannotPlay>이 활동을 이용할 수 없음</LP_BlockedCannotPlay>
+  <LP_BlockedDrafted>소집 중</LP_BlockedDrafted>
+  <LP_BlockedDowned>쓰러짐</LP_BlockedDowned>
+  <LP_BlockedMentalState>정신 이상 상태</LP_BlockedMentalState>
+  <LP_BlockedForbidden>금지되었거나 허용 구역 밖</LP_BlockedForbidden>
+  <LP_BlockedAudience>이 시설의 이용 연령 설정으로 제한됨</LP_BlockedAudience>
+  <LP_BlockedTooHot>놀이터가 너무 더움</LP_BlockedTooHot>
+  <LP_BlockedTooCold>놀이터가 너무 추움</LP_BlockedTooCold>
+  <LP_BlockedBusy>이용 중이거나 예약됨</LP_BlockedBusy>
+  <LP_BlockedEntrance>비어 있는 입구나 출구에 접근할 수 없음</LP_BlockedEntrance>
+  <LP_BlockedReturning>좌석이 돌아오는 중</LP_BlockedReturning>
+  <LP_BlockedCourseTooShort>코스 기구를 두 개 이상 연결해야 함</LP_BlockedCourseTooShort>
+  <LP_BlockedWaterCold>물놀이하기에 춥거나 눈이 쌓임</LP_BlockedWaterCold>
+  <LP_DesignButton>디자인</LP_DesignButton>
+  <LP_DesignDescription>이 시설의 외형을 고릅니다. 현재: {0}. 색상은 별도로 선택합니다.</LP_DesignDescription>
+  <LP_DesignOriginal>기존형</LP_DesignOriginal>
+  <LP_DesignTimber>목재형</LP_DesignTimber>
+  <LP_DesignBusy>시설 이용이 끝난 뒤 디자인을 바꿀 수 있습니다.</LP_DesignBusy>
+  <LP_DesignCurrent>디자인: {0}</LP_DesignCurrent>
+</LanguageData>

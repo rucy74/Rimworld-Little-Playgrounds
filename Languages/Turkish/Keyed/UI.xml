@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Menu_PlaySwing>Salıncakta oynayın</LP_Menu_PlaySwing>
+  <LP_Menu_PlaySlide>Kaydırakta oynayın</LP_Menu_PlaySlide>
+  <LP_Menu_PlaySeesaw>Tahterevallide oynayın</LP_Menu_PlaySeesaw>
+  <LP_Menu_JumpTrampoline>Trambolin üzerinde zıplayın</LP_Menu_JumpTrampoline>
+  <LP_Menu_RideZipline>Zipline'a binin</LP_Menu_RideZipline>
+  <LP_Menu_BuildSandcastles>Kumdan kaleler inşa edin</LP_Menu_BuildSandcastles>
+  <LP_Menu_RelaxBench>Bankta rahatlayın</LP_Menu_RelaxBench>
+  <LP_Menu_TakeDrink>Su için</LP_Menu_TakeDrink>
+  <LP_Menu_PlayCourse>Bu oyun parkurunda oyna</LP_Menu_PlayCourse>
+  <LP_Menu_PlayAt>Şurada oynayın: {0}</LP_Menu_PlayAt>
+  <LP_Inspect_CourseLinked>{0} bağlı kareden oluşan parkur.</LP_Inspect_CourseLinked>
+  <LP_Inspect_CourseAlone>Bu parça tek başına kullanılamaz. Yanına, kenarları birbirine değecek şekilde bir basamak taşı, ahşap basamak veya denge kütüğü koyun.</LP_Inspect_CourseAlone>
+  <LP_Inspect_CourseCorner>Başka bir parçaya yalnızca köşeden değiyor, bu bağlantı sayılmaz. Parçalar kenar kenara bağlanır.</LP_Inspect_CourseCorner>
+  <LP_Inspect_CourseWaiting>Yanındaki planlanan parça inşa edilince ona bağlanır.</LP_Inspect_CourseWaiting>
+  <LP_Menu_CourseTooShort>Bu parkurda oynayın (kenar kenara bir parça daha gerekir)</LP_Menu_CourseTooShort>
+  <LP_Place_CourseLinked>{0} karelik bir parkura bağlanır</LP_Place_CourseLinked>
+  <LP_Place_CourseOccupied>Burada zaten başka bir parkur parçası var</LP_Place_CourseOccupied>
+  <LP_Place_CourseSelf>Tek başına {0} karelik bir parkur oluşturur</LP_Place_CourseSelf>
+  <LP_Place_CourseCorner>Köşe teması bağlanmıyor, kenardan kenara yerleştirin</LP_Place_CourseCorner>
+  <LP_Place_CourseAlone>Tek başına oynanamaz, kenar kenara başka bir parça yerleştirin</LP_Place_CourseAlone>
+  <LP_Inspect_SplashClosed>Su oyunu kapalı: 10°C'nin altında.</LP_Inspect_SplashClosed>
+  <LP_Inspect_SeatReturning>Boş koltuk geri dönüyor</LP_Inspect_SeatReturning>
+  <LP_Inspect_Rider>Kullanan: {0}</LP_Inspect_Rider>
+  <LP_Inspect_ReadyOne>Tek kişi için hazır</LP_Inspect_ReadyOne>
+  <LP_Inspect_ReadyAny>Kullanıma hazır</LP_Inspect_ReadyAny>
+  <LP_Inspect_SlideRider>Kullanan: {0} — {1}</LP_Inspect_SlideRider>
+  <LP_SlidePhase_approach>yaklaşma</LP_SlidePhase_approach>
+  <LP_SlidePhase_boarding>binme</LP_SlidePhase_boarding>
+  <LP_SlidePhase_climbing>tırmanma</LP_SlidePhase_climbing>
+  <LP_SlidePhase_platform>üst platform</LP_SlidePhase_platform>
+  <LP_SlidePhase_seated>oturmuş</LP_SlidePhase_seated>
+  <LP_SlidePhase_sliding>kayma</LP_SlidePhase_sliding>
+  <LP_SlidePhase_landing>iniş</LP_SlidePhase_landing>
+  <LP_SlidePhase_finished>tamamlandı</LP_SlidePhase_finished>
+  <LP_Inspect_SwingSeats>Sol koltuk: {0}\nSağ koltuk: {1}</LP_Inspect_SwingSeats>
+  <LP_Inspect_SeatFree>mevcut</LP_Inspect_SeatFree>
+  <LP_Inspect_SeesawTogether>Birlikte oynuyor</LP_Inspect_SeesawTogether>
+  <LP_Inspect_SeesawWaiting>Biniliyor</LP_Inspect_SeesawWaiting>
+  <LP_Inspect_SeesawSolo>Tek başına oynuyor</LP_Inspect_SeesawSolo>
+  <LP_Inspect_SeesawFree>İki koltuk mevcut</LP_Inspect_SeesawFree>
+  <LP_Inspect_SandCastle>Burada kumdan bir kale inşa edildi</LP_Inspect_SandCastle>
+  <LP_Inspect_SandTower>Bir kum kulesi şekilleniyor</LP_Inspect_SandTower>
+  <LP_Inspect_SandMound>Küçük bir kum tümseği</LP_Inspect_SandMound>
+  <LP_Inspect_SandReady>Kum oyununa hazır</LP_Inspect_SandReady>
+  <LP_Setting_ChildcarePlay>Yetişkinler çocuk bakımı işi kapsamında çocuklarla oynar</LP_Setting_ChildcarePlay>
+  <LP_Setting_ChildcarePlayTip>Açıkken çocuk bakımı görevi olan bir yetişkin, tek başına oynayan bir çocuğa gider. Ortak oyun aletlerinde (salıncak, tahterevalli, kum havuzu, döner platform, dükkân oyun evi, büyük trambolin) boş yere geçip birlikte oynar; tek kişilik aletlerin yanında ise durup izler. Bebekle oynarken olduğu gibi yetişkin biraz sosyal eğlence kazanır. Kapalıyken yetişkinler çocuklara yalnızca kendi eğlence zamanlarında katılır.</LP_Setting_ChildcarePlayTip>
+  <LP_Setting_RecordPlay>Oyun alanı kaydı (hata ayıklama)</LP_Setting_RecordPlay>
+  <LP_Setting_RecordPlayTip>Açıkken her ziyaret kaydedilir: kimin oynadığı, kimin katıldığı veya izlediği, nasıl geldiği ve çok kişilik bir oyuncağın neden tek başına kullanıldığı. Oyuncağın bilgi panelinden veya aşağıdaki Kaydı görüntüle düğmesinden bakabilirsiniz. Aynı bilgiler aşağıdaki dosyaya da yazılır.</LP_Setting_RecordPlayTip>
+  <LP_Rec_Open>Kaydı görüntüle</LP_Rec_Open>
+  <LP_Rec_Title>Oyun alanı kaydı</LP_Rec_Title>
+  <LP_Rec_NoMap>Oyun alanı kaydını görüntülemek için bir yerleşim haritası yükleyin.</LP_Rec_NoMap>
+  <LP_Why_Other>burada değil</LP_Why_Other>
+  <LP_Why_Drafted>çatışma modunda</LP_Why_Drafted>
+  <LP_Why_Downed>etkisiz hâlde</LP_Why_Downed>
+  <LP_Why_Mental>ruhsal çöküş</LP_Why_Mental>
+  <LP_Why_Burning>yanıyor</LP_Why_Burning>
+  <LP_Why_Ordered>emir uyguluyor</LP_Why_Ordered>
+  <LP_Why_Busy>meşgul ({0})</LP_Why_Busy>
+  <LP_Why_Gathering>bir toplantıda veya grupta</LP_Why_Gathering>
+  <LP_Why_Fighting>kavga ediyor</LP_Why_Fighting>
+  <LP_Why_Needs>yemek yemek veya uyumak üzere</LP_Why_Needs>
+  <LP_Why_NotPlayTime>eğlence saati değil</LP_Why_NotPlayTime>
+  <LP_Why_JoyFull>eğlence zaten dolu</LP_Why_JoyFull>
+  <LP_Why_PlayCooldown>az önce oynadı ({0} saat sonra tekrar)</LP_Why_PlayCooldown>
+  <LP_Why_CareSettingOff>Çocuk bakımında oynama mod ayarlarında kapalı</LP_Why_CareSettingOff>
+  <LP_Why_NotWorkHour>çalışma saati değil</LP_Why_NotWorkHour>
+  <LP_Why_CannotChildcare>Çocuk Bakımı yapamıyor</LP_Why_CannotChildcare>
+  <LP_Why_ChildcareOff>İş sekmesinde çocuk bakımı kapalı</LP_Why_ChildcareOff>
+  <LP_Why_CallCooldown>yakın zamanda çağrıldı ({0} saat sonra tekrar)</LP_Why_CallCooldown>
+  <LP_Why_BeingCalled>zaten başka bir çocuk tarafından çağrıldı</LP_Why_BeingCalled>
+  <LP_Why_Dislike>birbirlerinden hoşlanmıyorlar (görüş {0})</LP_Why_Dislike>
+  <LP_Why_TooFar>çok uzak ({0} sn, sınır {1} sn)</LP_Why_TooFar>
+  <LP_Why_NotAllowedFun>ünvanı bu tür eğlenceye izin vermiyor</LP_Why_NotAllowedFun>
+  <LP_Why_NoWatchSpot>izlenecek boş yer yok</LP_Why_NoWatchSpot>
+  <LP_Why_NoSeat>boş yer veya oyun aletine giden yol yok</LP_Why_NoSeat>
+  <LP_Rec_CallerCooldown>bu çocuk yakın zamanda birini çağırdı ({0} saat sonra tekrar)</LP_Rec_CallerCooldown>
+  <LP_Rec_NoFriendSite>yakında iki boş yeri olan ortak oyun aleti yok</LP_Rec_NoFriendSite>
+  <LP_Rec_NoChildren>başka çocuk yok</LP_Rec_NoChildren>
+  <LP_Rec_Friends>arkadaşlar: {0}</LP_Rec_Friends>
+  <LP_Rec_SomeoneThere>biri zaten oyun aletinde ya da yolda</LP_Rec_SomeoneThere>
+  <LP_Rec_Called>çağırdı: {0} ({1})</LP_Rec_Called>
+  <LP_Rec_CalledBy>{0} tarafından çağrıldı</LP_Rec_CalledBy>
+  <LP_Rec_NoAdults>yetişkin yok</LP_Rec_NoAdults>
+  <LP_Rec_Adults>yetişkinler: {0}</LP_Rec_Adults>
+  <LP_Rec_Kind_Friend>arkadaş</LP_Rec_Kind_Friend>
+  <LP_Rec_Kind_Care>Çocuk Bakımı</LP_Rec_Kind_Care>
+  <LP_Rec_Kind_Watch>izleme</LP_Rec_Kind_Watch>
+  <LP_Rec_Kind_Recreation>eğlence</LP_Rec_Kind_Recreation>
+  <LP_Rec_Hold>girişte {0} saniye bekledi: {1}</LP_Rec_Hold>
+  <LP_Rec_HoldCap>10 saniyenin tamamını bekledi</LP_Rec_HoldCap>
+  <LP_Rec_HoldRiding>başka biri bindi</LP_Rec_HoldRiding>
+  <LP_Rec_HoldLate>{0} zamanında yetişemedi</LP_Rec_HoldLate>
+  <LP_Rec_HoldArrivedName>{0} geldi</LP_Rec_HoldArrivedName>
+  <LP_Rec_HoldArrived>eşlik eden geldi</LP_Rec_HoldArrived>
+  <LP_Rec_CompanionMissed>çağırdı: {0}, ama birlikte oynamadı (şimdi: {1})</LP_Rec_CompanionMissed>
+  <LP_Rec_WhyUnknown>{0} yoluyla geldi; başka kimse gelmedi</LP_Rec_WhyUnknown>
+  <LP_Rec_Src_Unknown>bilinmiyor</LP_Rec_Src_Unknown>
+  <LP_Rec_Src_Learning>öğrenme</LP_Rec_Src_Learning>
+  <LP_Rec_Src_Idle>boş zaman</LP_Rec_Src_Idle>
+  <LP_Rec_Src_Invitation>davet</LP_Rec_Src_Invitation>
+  <LP_Rec_Src_Queue>kuyruk</LP_Rec_Src_Queue>
+  <LP_Rec_Src_FriendCall>bir arkadaş çağırdı</LP_Rec_Src_FriendCall>
+  <LP_Rec_Src_CareCall>çağrıldı (çocuk bakımı)</LP_Rec_Src_CareCall>
+  <LP_Rec_Src_WatchCall>izlemeye çağrıldı</LP_Rec_Src_WatchCall>
+  <LP_Rec_Src_RecreationCall>çağrıldı (eğlence)</LP_Rec_Src_RecreationCall>
+  <LP_Rec_Src_CareWork>Çocuk bakımı işi</LP_Rec_Src_CareWork>
+  <LP_Rec_Src_Recreation>eğlence</LP_Rec_Src_Recreation>
+  <LP_Rec_Src_Ordered>emir verildi</LP_Rec_Src_Ordered>
+  <LP_Rec_Mode_ChildAlone>çocuk tek başına</LP_Rec_Mode_ChildAlone>
+  <LP_Rec_Mode_Children>çocuklar birlikte</LP_Rec_Mode_Children>
+  <LP_Rec_Mode_WithCare>Çocuk Bakımı yapan bir yetişkinle</LP_Rec_Mode_WithCare>
+  <LP_Rec_Mode_WithRec>bir yetişkinle</LP_Rec_Mode_WithRec>
+  <LP_Rec_Mode_Watched>yetişkin izliyor</LP_Rec_Mode_Watched>
+  <LP_Rec_Mode_AdultAlone>yetişkin tek başına</LP_Rec_Mode_AdultAlone>
+  <LP_Rec_Mode_AdultCare>bir çocukla oynayan yetişkin</LP_Rec_Mode_AdultCare>
+  <LP_Rec_Mode_AdultWithChild>yetişkin bir çocukla birlikte</LP_Rec_Mode_AdultWithChild>
+  <LP_Rec_Mode_Adults>yetişkinler birlikte</LP_Rec_Mode_Adults>
+  <LP_Rec_Role_child>çocuk</LP_Rec_Role_child>
+  <LP_Rec_Role_care>Çocuk Bakımı</LP_Rec_Role_care>
+  <LP_Rec_Role_adult>yetişkin</LP_Rec_Role_adult>
+  <LP_Rec_JustNow>az önce</LP_Rec_JustNow>
+  <LP_Rec_Ago>{0} saat önce</LP_Rec_Ago>
+  <LP_Rec_Inspect>Kayıt, son 3 gün: {0} kullanım ({1})</LP_Rec_Inspect>
+  <LP_Rec_InspectAlone>tek başına kullanım: {0}</LP_Rec_InspectAlone>
+  <LP_Rec_File>Kayıt dosyası: {0}</LP_Rec_File>
+  <LP_Rec_Off>Oyun alanı kaydı kapalı. Ayarlar &gt; Mod Ayarları &gt; Little Playgrounds bölümünden açın.</LP_Rec_Off>
+  <LP_Rec_Page_Rides>Oyun aletleri</LP_Rec_Page_Rides>
+  <LP_Rec_Page_Recent>Son oyun ziyaretleri</LP_Rec_Page_Recent>
+  <LP_Rec_Page_Decisions>Oyun seçimleri</LP_Rec_Page_Decisions>
+  <LP_Rec_Page_Children>Çocuklar şu anda</LP_Rec_Page_Children>
+  <LP_Rec_OnlySelected>Yalnızca seçili oyun aleti</LP_Rec_OnlySelected>
+  <LP_Rec_Never>hiç</LP_Rec_Never>
+  <LP_Rec_RideLine>son 3 gün {0} kullanım: {1}</LP_Rec_RideLine>
+  <LP_Rec_Last>son {0}</LP_Rec_Last>
+  <LP_Rec_With>{0} ile</LP_Rec_With>
+  <LP_Rec_Watchers>{0} tarafından izlendi</LP_Rec_Watchers>
+  <LP_Rec_Seconds>{0} sn</LP_Rec_Seconds>
+  <LP_Rec_WhyAlone>Neden yalnız: {0}</LP_Rec_WhyAlone>
+  <LP_Rec_HowCame>Nasıl: {0}</LP_Rec_HowCame>
+  <LP_Rec_ChildLine>öğrenme {0} · saat {1} · şimdi {2} · son oyun {3} · oyun alanı {4} · çağrı {5}</LP_Rec_ChildLine>
+  <LP_Rec_Ready>hazır</LP_Rec_Ready>
+  <LP_Rec_ReadyIn>{0} saat sonra</LP_Rec_ReadyIn>
+  <LP_Rec_Drink>su içmeye gider</LP_Rec_Drink>
+  <LP_Rec_Joined>bir arkadaşına katıldı: {0}</LP_Rec_Joined>
+  <LP_Rec_ToPartner>birinin oyun arkadaşı beklediği yere gider: {0}</LP_Rec_ToPartner>
+  <LP_Rec_Chose>seçti: {0}</LP_Rec_Chose>
+  <LP_Rec_RunRoll>serbest koşma olasılığı (%30)</LP_Rec_RunRoll>
+  <LP_Rec_Running>etrafta koşuyor</LP_Rec_Running>
+  <LP_Rec_Queue>sıra bekliyor: {0}</LP_Rec_Queue>
+  <LP_Rec_Nobody>kimse çağrılmadı: {0}</LP_Rec_Nobody>
+  <LP_Rec_FromQueue>{0} sn sırada bekledikten sonra</LP_Rec_FromQueue>
+  <LP_Setting_FacialPlay>Oyun sırasında Facial Animation bağlantısı</LP_Setting_FacialPlay>
+  <LP_Setting_FacialPlayTip>Yalnızca kurulu Facial Animation yüz paketi destekliyorsa mevcut bir gülümsemeyi kullanır. Kapatırsanız Little Playgrounds bağlantısı hemen kesilir; diğer yüz animasyonları çalışmaya devam eder. Yeni yüz dokusu eklenmez.</LP_Setting_FacialPlayTip>
+  <LP_Setting_FacialPlayError>Yüz ifadesi bağlantısı bir hata nedeniyle durduruldu. Yeniden denemek için bu seçeneği kapatıp tekrar açın.</LP_Setting_FacialPlayError>
+  <LP_Setting_Sounds>Oyun aleti sesleri</LP_Setting_Sounds>
+  <LP_Setting_SoundsTip>Oynarken çıkan küçük sesler: salıncak gıcırtısı, trambolin zıplaması, kum ve su oyunları, içme çeşmesi. Yalnızca yakına yakınlaştırıldığında duyulur; oyun sesi ayarını izler ve oyun duraklatıldığında sessiz kalır. Kaydıraklar ve top havuzu ses çıkarmaz.</LP_Setting_SoundsTip>
+  <LP_Setting_SoundVolume>Oyun aleti ses düzeyi: {0}</LP_Setting_SoundVolume>
+  <LP_Setting_SoundRides>Her oyun aletinin sesi:</LP_Setting_SoundRides>
+  <LP_Setting_RunAround>Çocuklar bazen oyun aletine binmek yerine etrafında koşar</LP_Setting_RunAround>
+  <LP_Setting_RunAroundTip>Bir oyun aleti seçen çocuk ona binmek yerine etrafında koşabilir ve salıncakta sallanmak kadar öğrenme kazanır. Birlikte kullanılan aletlerde bir arkadaşı da katılır; aksi hâlde çocuk bakımı görevi olan bir yetişkin izlemeye gelir. Aletin yanında kuru ve açık bir zemin (su veya çamur değil) gerekir; yoksa çocuk normal şekilde oynar.</LP_Setting_RunAroundTip>
+  <LP_Setting_RunAroundChance>Çocuğun her oyun aleti seçişinde koşma olasılığı: {0}</LP_Setting_RunAroundChance>
+  <LP_Setting_RunAroundIndoors>Çatı altında da koşsunlar</LP_Setting_RunAroundIndoors>
+  <LP_Setting_RunAroundIndoorsTip>Kapalıyken çocuklar yalnızca açık zeminde koşar, bu yüzden iç mekândaki aletler normal şekilde kullanılır; oyun alanı gölgeliği çatı sayılmaz. Açıkken oda yeterince genişse iç mekândaki aletlerin etrafında da koşarlar.</LP_Setting_RunAroundIndoorsTip>
+  <LP_Setting_CouplePlay>Çiftler birlikte oynar</LP_Setting_CouplePlay>
+  <LP_Setting_CouplePlayTip>İki kişinin paylaşabileceği bir oyun aleti veya bank seçen yetişkin sevgilisini çağırır; sevgilisi boştaysa ya da sıradan işlerinin arasındaysa gelir. Yapacak işi olmayan bir çift de bazen kendi başına buluşmaya çıkar, günde en fazla bir kez. Birbirlerini beklerler ve sonrasında ikisinin de ruh hâli ve birbirleri hakkındaki görüşü biraz artar.</LP_Setting_CouplePlayTip>
+  <LP_Setting_RequireResearch>İnşa için "{0}" araştırması gerekir</LP_Setting_RequireResearch>
+  <LP_Setting_RequireResearchTip>Açıkken bu modun eklediği her şey (oyun aletleri, banklar, çitler ve zeminler) ancak "{0}" araştırıldıktan sonra inşa edilebilir. Olağan başlangıçlarda bu araştırma zaten vardır, bu yüzden yalnızca onsuz başlayan koloniler, örneğin kabileler, önce onu araştırır. Zaten inşa edilmiş olanlar kalır. Kapalıyken her şey baştan inşa edilebilir.</LP_Setting_RequireResearchTip>
+  <LP_Setting_ToddlerPlay>Küçük çocuklar oyun aletlerinde oynar</LP_Setting_ToddlerPlay>
+  <LP_Setting_ToddlerPlayMissing>Toddlers modu gerekir</LP_Setting_ToddlerPlayMissing>
+  <LP_Setting_ToddlerPlayTip>Toddlers modu varken, yürüyebilen küçük çocuklar, hâlâ sendeleyenler de dahil, şu oyun aletlerinde oynar: {0}. Henüz emekleyenler binmez. Kapalıyken küçük çocuklar hiçbir oyun aletini kullanmaz. Toddlers modu yokken bunun bir etkisi yoktur.</LP_Setting_ToddlerPlayTip>
+</LanguageData>

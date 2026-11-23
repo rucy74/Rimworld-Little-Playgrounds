@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Menu_PlaySwing>Грати на гойдалках</LP_Menu_PlaySwing>
+  <LP_Menu_PlaySlide>Грати на гірці</LP_Menu_PlaySlide>
+  <LP_Menu_PlaySeesaw>Грати на балансирі</LP_Menu_PlaySeesaw>
+  <LP_Menu_JumpTrampoline>Стрибати на батуті</LP_Menu_JumpTrampoline>
+  <LP_Menu_RideZipline>Покататися на зіплайні</LP_Menu_RideZipline>
+  <LP_Menu_BuildSandcastles>Будувати замки з піску</LP_Menu_BuildSandcastles>
+  <LP_Menu_RelaxBench>Відпочити на лавці</LP_Menu_RelaxBench>
+  <LP_Menu_TakeDrink>Попити води</LP_Menu_TakeDrink>
+  <LP_Menu_PlayCourse>Пройти цю смугу перешкод</LP_Menu_PlayCourse>
+  <LP_Menu_PlayAt>Грати на {0}</LP_Menu_PlayAt>
+  <LP_Inspect_CourseLinked>Смуга перешкод із {0} з'єднаних клітинок.</LP_Inspect_CourseLinked>
+  <LP_Inspect_CourseAlone>Цей елемент стоїть сам, тож тут поки ніхто не може гратися. Поставте поруч ще одну кам'яну сходинку, дерев'яну сходинку або колоду для рівноваги так, щоб вони торкалися краями.</LP_Inspect_CourseAlone>
+  <LP_Inspect_CourseCorner>Торкається іншого елемента лише кутом, а так елементи не з'єднуються. Елементи з'єднуються краями.</LP_Inspect_CourseCorner>
+  <LP_Inspect_CourseWaiting>З'єднається із запланованим елементом поруч, коли його збудують.</LP_Inspect_CourseWaiting>
+  <LP_Menu_CourseTooShort>Пройти цю смугу перешкод (потрібен ще один елемент, що прилягає краєм)</LP_Menu_CourseTooShort>
+  <LP_Place_CourseLinked>З'єднається в смугу перешкод із {0} клітинок</LP_Place_CourseLinked>
+  <LP_Place_CourseOccupied>Тут уже є елемент смуги перешкод</LP_Place_CourseOccupied>
+  <LP_Place_CourseSelf>Сам утворює смугу перешкод із {0} клітинок</LP_Place_CourseSelf>
+  <LP_Place_CourseCorner>Кутовий контакт не з’єднується, розмістіть його край до краю</LP_Place_CourseCorner>
+  <LP_Place_CourseAlone>Не можна гратися на одному елементі, поставте ще один впритул краєм</LP_Place_CourseAlone>
+  <LP_Inspect_SplashClosed>Ігри з водою закрито: нижче 10°C.</LP_Inspect_SplashClosed>
+  <LP_Inspect_SeatReturning>Порожнє сидіння повертається</LP_Inspect_SeatReturning>
+  <LP_Inspect_Rider>Катається: {0}</LP_Inspect_Rider>
+  <LP_Inspect_ReadyOne>Готово для одного відвідувача</LP_Inspect_ReadyOne>
+  <LP_Inspect_ReadyAny>Готово до катання</LP_Inspect_ReadyAny>
+  <LP_Inspect_SlideRider>Катається: {0} — {1}</LP_Inspect_SlideRider>
+  <LP_SlidePhase_approach>підхід</LP_SlidePhase_approach>
+  <LP_SlidePhase_boarding>посадка</LP_SlidePhase_boarding>
+  <LP_SlidePhase_climbing>підйом</LP_SlidePhase_climbing>
+  <LP_SlidePhase_platform>платформа</LP_SlidePhase_platform>
+  <LP_SlidePhase_seated>сидить</LP_SlidePhase_seated>
+  <LP_SlidePhase_sliding>з'їжджає</LP_SlidePhase_sliding>
+  <LP_SlidePhase_landing>приземлення</LP_SlidePhase_landing>
+  <LP_SlidePhase_finished>завершено</LP_SlidePhase_finished>
+  <LP_Inspect_SwingSeats>Ліве сидіння: {0}\nПраве сидіння: {1}</LP_Inspect_SwingSeats>
+  <LP_Inspect_SeatFree>доступно</LP_Inspect_SeatFree>
+  <LP_Inspect_SeesawTogether>Граються разом</LP_Inspect_SeesawTogether>
+  <LP_Inspect_SeesawWaiting>Посадка</LP_Inspect_SeesawWaiting>
+  <LP_Inspect_SeesawSolo>Гра наодинці</LP_Inspect_SeesawSolo>
+  <LP_Inspect_SeesawFree>Доступні два місця</LP_Inspect_SeesawFree>
+  <LP_Inspect_SandCastle>Тут побудований замок з піску</LP_Inspect_SandCastle>
+  <LP_Inspect_SandTower>Піщана вежа набуває форми</LP_Inspect_SandTower>
+  <LP_Inspect_SandMound>Маленький насип піску</LP_Inspect_SandMound>
+  <LP_Inspect_SandReady>Готовий до гри з піском</LP_Inspect_SandReady>
+  <LP_Setting_ChildcarePlay>Дорослі граються з дітьми як догляд за дітьми</LP_Setting_ChildcarePlay>
+  <LP_Setting_ChildcarePlayTip>Якщо ввімкнено, дорослий, призначений на догляд за дітьми, іде до дитини, яка грається сама. На спільних атракціонах (гойдалка, балансир, пісочниця, карусель, ігровий будиночок, великий батут) дорослий займає вільне місце й грається разом; біля атракціонів для одного він стоїть і дивиться. Як і під час гри з немовлям, дорослий отримує трохи дозвілля із соціальною взаємодією. Якщо вимкнено, дорослі приєднуються до дітей лише під час власного дозвілля.</LP_Setting_ChildcarePlayTip>
+  <LP_Setting_RecordPlay>Журнал ігрового майданчика (для налагодження)</LP_Setting_RecordPlay>
+  <LP_Setting_RecordPlayTip>Якщо ввімкнено, цей журнал реєструє кожне відвідування ігрового майданчика: хто грав, хто приєднувався або спостерігав, як вони прибули та чому обладнання з кількома місцями використовувалося окремо. Прочитайте панель інформації про обладнання або виберіть Переглянути журнал нижче. Ця ж інформація також зберігається у файлі нижче.</LP_Setting_RecordPlayTip>
+  <LP_Rec_Open>Переглянути журнал</LP_Rec_Open>
+  <LP_Rec_Title>Журнал дитячого майданчика</LP_Rec_Title>
+  <LP_Rec_NoMap>Завантажте карту поселення, щоб переглянути журнал ігрового майданчика.</LP_Rec_NoMap>
+  <LP_Why_Other>тут немає</LP_Why_Other>
+  <LP_Why_Drafted>бойовий режим</LP_Why_Drafted>
+  <LP_Why_Downed>знерухомлений</LP_Why_Downed>
+  <LP_Why_Mental>нервовий зрив</LP_Why_Mental>
+  <LP_Why_Burning>горить</LP_Why_Burning>
+  <LP_Why_Ordered>виконує наказ</LP_Why_Ordered>
+  <LP_Why_Busy>зайнято ({0})</LP_Why_Busy>
+  <LP_Why_Gathering>на зборах або в групі</LP_Why_Gathering>
+  <LP_Why_Fighting>бійка</LP_Why_Fighting>
+  <LP_Why_Needs>збирається їсти чи спати</LP_Why_Needs>
+  <LP_Why_NotPlayTime>не час дозвілля</LP_Why_NotPlayTime>
+  <LP_Why_JoyFull>дозвілля вже повне</LP_Why_JoyFull>
+  <LP_Why_PlayCooldown>щойно грався (знову через {0} год)</LP_Why_PlayCooldown>
+  <LP_Why_CareSettingOff>Гру як догляд за дітьми вимкнено в налаштуваннях мода</LP_Why_CareSettingOff>
+  <LP_Why_NotWorkHour>не робочий час</LP_Why_NotWorkHour>
+  <LP_Why_CannotChildcare>не може займатися доглядом за дітьми</LP_Why_CannotChildcare>
+  <LP_Why_ChildcareOff>Догляд за дітьми вимкнено на вкладці «Робота»</LP_Why_ChildcareOff>
+  <LP_Why_CallCooldown>нещодавно кликав (знову через {0} год)</LP_Why_CallCooldown>
+  <LP_Why_BeingCalled>уже кличе інша дитина</LP_Why_BeingCalled>
+  <LP_Why_Dislike>вони не люблять одне одного (ставлення {0})</LP_Why_Dislike>
+  <LP_Why_TooFar>занадто далеко ({0} с, обмеження {1} с)</LP_Why_TooFar>
+  <LP_Why_NotAllowedFun>заборонено такі розваги (титул)</LP_Why_NotAllowedFun>
+  <LP_Why_NoWatchSpot>немає вільного місця для перегляду</LP_Why_NoWatchSpot>
+  <LP_Why_NoSeat>немає місця чи шляху до атракціону</LP_Why_NoSeat>
+  <LP_Rec_CallerCooldown>ця дитина нещодавно когось кликала (знову через {0} год)</LP_Rec_CallerCooldown>
+  <LP_Rec_NoFriendSite>поблизу немає спільного атракціону з двома вільними місцями</LP_Rec_NoFriendSite>
+  <LP_Rec_NoChildren>немає іншої дитини</LP_Rec_NoChildren>
+  <LP_Rec_Friends>друзі: {0}</LP_Rec_Friends>
+  <LP_Rec_SomeoneThere>хтось уже на атракціоні або йде до нього</LP_Rec_SomeoneThere>
+  <LP_Rec_Called>покликав {0} ({1})</LP_Rec_Called>
+  <LP_Rec_CalledBy>його покликав {0}</LP_Rec_CalledBy>
+  <LP_Rec_NoAdults>без дорослих</LP_Rec_NoAdults>
+  <LP_Rec_Adults>дорослі: {0}</LP_Rec_Adults>
+  <LP_Rec_Kind_Friend>друг дитини</LP_Rec_Kind_Friend>
+  <LP_Rec_Kind_Care>Догляд за дітьми</LP_Rec_Kind_Care>
+  <LP_Rec_Kind_Watch>подивитися</LP_Rec_Kind_Watch>
+  <LP_Rec_Kind_Recreation>дозвілля</LP_Rec_Kind_Recreation>
+  <LP_Rec_Hold>чекав {0} с біля входу: {1}</LP_Rec_Hold>
+  <LP_Rec_HoldCap>чекав повних 10 с</LP_Rec_HoldCap>
+  <LP_Rec_HoldRiding>сів хтось інший</LP_Rec_HoldRiding>
+  <LP_Rec_HoldLate>{0} не зміг встигнути</LP_Rec_HoldLate>
+  <LP_Rec_HoldArrivedName>{0} прибув</LP_Rec_HoldArrivedName>
+  <LP_Rec_HoldArrived>супутник прибув</LP_Rec_HoldArrived>
+  <LP_Rec_CompanionMissed>покликав {0}, але той не пішов кататися (зараз: {1})</LP_Rec_CompanionMissed>
+  <LP_Rec_WhyUnknown>прийшов: {0}; більше ніхто не прийшов</LP_Rec_WhyUnknown>
+  <LP_Rec_Src_Unknown>невідомо</LP_Rec_Src_Unknown>
+  <LP_Rec_Src_Learning>навчання</LP_Rec_Src_Learning>
+  <LP_Rec_Src_Idle>вільний час</LP_Rec_Src_Idle>
+  <LP_Rec_Src_Invitation>запрошення</LP_Rec_Src_Invitation>
+  <LP_Rec_Src_Queue>черга</LP_Rec_Src_Queue>
+  <LP_Rec_Src_FriendCall>покликав друг</LP_Rec_Src_FriendCall>
+  <LP_Rec_Src_CareCall>покликали (догляд за дітьми)</LP_Rec_Src_CareCall>
+  <LP_Rec_Src_WatchCall>покликали подивитися</LP_Rec_Src_WatchCall>
+  <LP_Rec_Src_RecreationCall>покликали (дозвілля)</LP_Rec_Src_RecreationCall>
+  <LP_Rec_Src_CareWork>Робота по догляду за дітьми</LP_Rec_Src_CareWork>
+  <LP_Rec_Src_Recreation>дозвілля</LP_Rec_Src_Recreation>
+  <LP_Rec_Src_Ordered>за наказом</LP_Rec_Src_Ordered>
+  <LP_Rec_Mode_ChildAlone>дитина одна</LP_Rec_Mode_ChildAlone>
+  <LP_Rec_Mode_Children>діти разом</LP_Rec_Mode_Children>
+  <LP_Rec_Mode_WithCare>з дорослим по догляду за дітьми</LP_Rec_Mode_WithCare>
+  <LP_Rec_Mode_WithRec>з дорослим</LP_Rec_Mode_WithRec>
+  <LP_Rec_Mode_Watched>дорослий дивиться</LP_Rec_Mode_Watched>
+  <LP_Rec_Mode_AdultAlone>один дорослий</LP_Rec_Mode_AdultAlone>
+  <LP_Rec_Mode_AdultCare>дорослий грає з дитиною</LP_Rec_Mode_AdultCare>
+  <LP_Rec_Mode_AdultWithChild>дорослий з дитиною</LP_Rec_Mode_AdultWithChild>
+  <LP_Rec_Mode_Adults>дорослі разом</LP_Rec_Mode_Adults>
+  <LP_Rec_Role_child>дитина</LP_Rec_Role_child>
+  <LP_Rec_Role_care>Догляд за дітьми</LP_Rec_Role_care>
+  <LP_Rec_Role_adult>дорослий</LP_Rec_Role_adult>
+  <LP_Rec_JustNow>щойно</LP_Rec_JustNow>
+  <LP_Rec_Ago>{0} год тому</LP_Rec_Ago>
+  <LP_Rec_Inspect>Журнал за останні 3 дні: {0} катань ({1})</LP_Rec_Inspect>
+  <LP_Rec_InspectAlone>використовується окремо: {0}</LP_Rec_InspectAlone>
+  <LP_Rec_File>Файл журналу: {0}</LP_Rec_File>
+  <LP_Rec_Off>Журнал ігрового майданчика вимкнено. Увімкніть його: «Налаштування» &gt; «Налаштування модів» &gt; «Little Playgrounds».</LP_Rec_Off>
+  <LP_Rec_Page_Rides>Обладнання для дитячих майданчиків</LP_Rec_Page_Rides>
+  <LP_Rec_Page_Recent>Нещодавні відвідування ігрового майданчика</LP_Rec_Page_Recent>
+  <LP_Rec_Page_Decisions>Вибір гри</LP_Rec_Page_Decisions>
+  <LP_Rec_Page_Children>Діти зараз</LP_Rec_Page_Children>
+  <LP_Rec_OnlySelected>Лише вибраний атракціон</LP_Rec_OnlySelected>
+  <LP_Rec_Never>ніколи</LP_Rec_Never>
+  <LP_Rec_RideLine>за останні 3 дні {0} катань: {1}</LP_Rec_RideLine>
+  <LP_Rec_Last>останній {0}</LP_Rec_Last>
+  <LP_Rec_With>з {0}</LP_Rec_With>
+  <LP_Rec_Watchers>дивилися: {0}</LP_Rec_Watchers>
+  <LP_Rec_Seconds>{0} с</LP_Rec_Seconds>
+  <LP_Rec_WhyAlone>Чому сам: {0}</LP_Rec_WhyAlone>
+  <LP_Rec_HowCame>Як: {0}</LP_Rec_HowCame>
+  <LP_Rec_ChildLine>навчання {0} · година {1} · зараз {2} · останнє катання {3} · майданчик {4} · кличе {5}</LP_Rec_ChildLine>
+  <LP_Rec_Ready>готовий</LP_Rec_Ready>
+  <LP_Rec_ReadyIn>через {0} год</LP_Rec_ReadyIn>
+  <LP_Rec_Drink>іде попити води</LP_Rec_Drink>
+  <LP_Rec_Joined>приєднався до друга на {0}</LP_Rec_Joined>
+  <LP_Rec_ToPartner>йде до {0}, де хтось чекає партнера</LP_Rec_ToPartner>
+  <LP_Rec_Chose>вибрав {0}</LP_Rec_Chose>
+  <LP_Rec_RunRoll>кидок на вільний біг (30%)</LP_Rec_RunRoll>
+  <LP_Rec_Running>бігає</LP_Rec_Running>
+  <LP_Rec_Queue>у черзі на {0}</LP_Rec_Queue>
+  <LP_Rec_Nobody>нікого не покликав: {0}</LP_Rec_Nobody>
+  <LP_Rec_FromQueue>після {0} с у черзі</LP_Rec_FromQueue>
+  <LP_Setting_FacialPlay>Підключати Facial Animation під час гри</LP_Setting_FacialPlay>
+  <LP_Setting_FacialPlayTip>Використовує наявну усмішку, лише якщо її підтримує встановлений набір облич Facial Animation. Вимкніть, щоб одразу від’єднати Little Playgrounds від міміки; інша анімація облич працюватиме далі. Нові текстури облич не додаються.</LP_Setting_FacialPlayTip>
+  <LP_Setting_FacialPlayError>Зв’язок із мімікою зупинено через помилку. Вимкніть і знову ввімкніть цей параметр, щоб спробувати ще раз.</LP_Setting_FacialPlayError>
+  <LP_Setting_Sounds>Звуки атракціонів</LP_Setting_Sounds>
+  <LP_Setting_SoundsTip>Тихі звуки під час гри: рипіння гойдалок, пружні батути, ігри з піском і водою, питний фонтанчик. Їх чути лише при сильному наближенні камери; вони залежать від гучності гри й стихають, поки гру призупинено. Гірки та сухий басейн звуків не мають.</LP_Setting_SoundsTip>
+  <LP_Setting_SoundVolume>Гучність звуків атракціонів: {0}</LP_Setting_SoundVolume>
+  <LP_Setting_SoundRides>Звук для кожного атракціону:</LP_Setting_SoundRides>
+  <LP_Setting_RunAround>Діти іноді бігають навколо атракціону замість катання</LP_Setting_RunAround>
+  <LP_Setting_RunAroundTip>Дитина, яка вибрала атракціон, може натомість побігати навколо нього й навчиться стільки ж, скільки на гойдалці. На атракціонах для двох до неї приєднується друг; інакше подивитися приходить дорослий, призначений доглядати за дітьми. Потрібна суха відкрита земля поруч з атракціоном (не вода й не багнюка), інакше дитина просто катається.</LP_Setting_RunAroundTip>
+  <LP_Setting_RunAroundChance>Шанс щоразу, коли дитина вибирає атракціон: {0}</LP_Setting_RunAroundChance>
+  <LP_Setting_RunAroundIndoors>Бігати й під дахом</LP_Setting_RunAroundIndoors>
+  <LP_Setting_RunAroundIndoorsTip>Якщо вимкнено, діти бігають лише на відкритій землі, тож на атракціонах у приміщенні просто катаються; тіньовий навіс для дитячого майданчика не вважається дахом. Якщо ввімкнено, вони бігають і навколо атракціонів у приміщенні, якщо в кімнаті є місце.</LP_Setting_RunAroundIndoorsTip>
+  <LP_Setting_CouplePlay>Пари граються разом</LP_Setting_CouplePlay>
+  <LP_Setting_CouplePlayTip>Дорослий, який вибрав атракціон чи лавку на двох, кличе свого партнера; той приходить, якщо вільний або перебуває між звичайними справами, а пара без занять іноді сама йде на побачення, не частіше разу на день. Вони чекають одне на одного, а потім обоє отримують невеликий бонус до настрою та ставлення.</LP_Setting_CouplePlayTip>
+  <LP_Setting_RequireResearch>Для будівництва потрібне дослідження «{0}»</LP_Setting_RequireResearch>
+  <LP_Setting_RequireResearchTip>Якщо ввімкнено, усе, що додає цей мод (атракціони, лавки, паркани й підлоги), можна збудувати лише після дослідження «{0}». На звичайному старті воно вже є, тож спершу його досліджують лише поселення, які починають без нього, наприклад племена. Уже збудоване залишається. Якщо вимкнено, усе можна будувати від самого початку.</LP_Setting_RequireResearchTip>
+  <LP_Setting_ToddlerPlay>Малюки граються на атракціонах</LP_Setting_ToddlerPlay>
+  <LP_Setting_ToddlerPlayMissing>потрібен мод Toddlers</LP_Setting_ToddlerPlayMissing>
+  <LP_Setting_ToddlerPlayTip>З модом Toddlers малюки, які вже ходять, навіть якщо ще хитаються, граються на цих атракціонах: {0}. Малюки, які ще повзають, на них не йдуть. Якщо вимкнено, малюки не користуються атракціонами. Без мода Toddlers нічого не змінюється.</LP_Setting_ToddlerPlayTip>
+</LanguageData>

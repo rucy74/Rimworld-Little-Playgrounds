@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_SteppingStump.label>ahşap oyun basamağı</LP_SteppingStump.label>
+  <LP_SteppingStump.description>Kesilmiş ahşaptan alçak bir basamak. Basamak taşları, ahşap basamaklar ve denge kütükleri kenarlarından birleşir. Parkur en az iki kare olmalıdır; tek denge kütüğü zaten iki kare kaplar. Yalnızca köşeleri değen parçalar bağlanmaz. Çocuklar ve yetişkinler bağlantılı rotayı izler.</LP_SteppingStump.description>
+  <LP_SpringFox.label>tilki biçimli yaylı oyuncak</LP_SpringFox.label>
+  <LP_SpringFox.description>Bir yayın üzerine yerleştirilmiş tilki biçimli oyuncak. Bir çocuk veya yetişkin tek başına sallanabilir. Karakterin normal vücudu korunur ve oyuncakla birlikte eğilir.</LP_SpringFox.description>
+  <LP_Roundabout.label>meşe döner platform</LP_Roundabout.label>
+  <LP_Roundabout.description>En fazla dört kişinin kullanabildiği, adaçayı yeşili korkuluklara sahip yuvarlak meşe döner platform. Bir kişi tek başına döndürebilir; biri binerken veya inerken yavaşlayıp durur.</LP_Roundabout.description>
+  <LP_Playhouse.label>küçük dükkân oyun evi</LP_Playhouse.label>
+  <LP_Playhouse.description>Küçük bir mağaza tezgahı bulunan önü açık bir oyun evi. Mağazayı tek başına işletme oyununu oynayın ya da ikinci bir ziyaretçiyi pencerede karşılayın. Çocuklar öğrenir ve yetişkinler eğlenir.</LP_Playhouse.description>
+  <LP_DrinkingFountain.label>iki yükseklikli içme çeşmesi</LP_DrinkingFountain.label>
+  <LP_DrinkingFountain.description>Biri yüksek, biri alçak iki içme kabı. Çocuklar oyun alanındaki etkinliklerden sonra biraz su içmek için durabilir; yetişkinler de onu eğlence için seçer. Kullanılırken ince bir su akar. Bu, susuzluk ihtiyacı eklemez. Her türlü taş bloktan yapılabilir; şekli ve renkleri taş türüne göre değişmez.</LP_DrinkingFountain.description>
+  <LP_Hopscotch.label>bahçe seksek alanı</LP_Hopscotch.label>
+  <LP_Hopscotch.description>Sekiz boyalı seksek karesi. Bir çocuk veya yetişkin, bir partner beklemeden tek başına oynayarak sayıların üzerinden atlar ve geri döner. Her türlü taş bloktan yapılabilir; şekli ve renkleri taş türüne göre değişmez.</LP_Hopscotch.description>
+  <LP_SplashPad.label>fıskiyeli su oyun alanı</LP_SplashPad.label>
+  <LP_SplashPad.description>Zemine gömülü su fıskiyeleri aralıklı olarak çalışırken en fazla üç kişi aralarında dolaşır. Tek başına da oynanabilir. 10 santigrat derecenin altında kapanır ve karla kaplıyken oyun başlayamaz. Her türlü taş bloktan yapılabilir; şekli ve renkleri taş türüne göre değişmez.</LP_SplashPad.description>
+  <LP_SteppingStone.label>oyun alanı basamak taşı</LP_SteppingStone.label>
+  <LP_SteppingStone.description>Alçak ve yuvarlak bir basamak taşı. Taşlar, ahşap basamaklar ve denge kütükleri kenarlarından birleşir. Parkur en az iki kare olmalıdır; tek kütük zaten iki kare kaplar. Yalnızca köşeleri değen parçalar bağlanmaz. Ziyaretçiler bağlantılı bir yolu izleyip geri döner. Her ziyaret en fazla 24 parçalık rotayı ayırır. Her türlü taş bloktan yapılabilir; şekil ve renk aynı kalır.</LP_SteppingStone.description>
+  <LP_BalanceLog.label>denge kütüğü</LP_BalanceLog.label>
+  <LP_BalanceLog.description>İki kare uzunluğunda alçak bir meşe denge kütüğü; iki yönde de yerleştirilebilir. Basamak taşları, ahşap basamaklar ve denge kütükleri kenarlarından birleşir. Parkur en az iki kare olmalıdır; tek kütük yeterlidir. Köşeden temas bağlantı oluşturmaz. Ziyaretçiler bağlantılı rotada dengelerini koruyarak ilerler ve döner. Parkurdaki bütün kareler boş kalmalıdır.</LP_BalanceLog.description>
+  <LP_PlayFence.label>meşe oyun alanı çiti</LP_PlayFence.label>
+  <LP_PlayFence.description>Alçak meşe kazıklar kare ahşap direklere birleştirildi. Bitişik çit parçaları birbirine bağlanır. Bu dekoratif, üzerinden geçilebilen bir oyun alanı sınırıdır, hayvan ağılı bariyeri değildir.</LP_PlayFence.description>
+  <LP_PlayEntrance.label>oyun alanı girişi</LP_PlayEntrance.label>
+  <LP_PlayEntrance.description>Küçük bir Little Playgrounds tabelası olan, her zaman açık bir giriş. Alçak bir bahçe çiti için davetkâr bir geçit.</LP_PlayEntrance.description>
+  <LP_GardenFountain.label>bahçe süs havuzu</LP_GardenFountain.label>
+  <LP_GardenFountain.description>Suyu hafifçe akan alçak, açık renkli taş bir havuz. Oturma alanının yakınına konacak bir bahçe süsü. Her türlü taş bloktan yapılabilir; şekli ve renkleri taş türüne göre değişmez.</LP_GardenFountain.description>
+</LanguageData>

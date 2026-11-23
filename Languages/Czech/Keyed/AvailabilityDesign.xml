@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_BlockedUnavailable>Nedostupné</LP_BlockedUnavailable>
+  <LP_BlockedCannotPlay>Nemůže se této činnosti účastnit</LP_BlockedCannotPlay>
+  <LP_BlockedDrafted>V bojovém režimu</LP_BlockedDrafted>
+  <LP_BlockedDowned>V bezvědomí</LP_BlockedDowned>
+  <LP_BlockedMentalState>Psychické zhroucení</LP_BlockedMentalState>
+  <LP_BlockedForbidden>Zakázáno nebo mimo povolenou oblast</LP_BlockedForbidden>
+  <LP_BlockedAudience>Nepovoleno nastavením věku tohoto vybavení</LP_BlockedAudience>
+  <LP_BlockedTooHot>Na hřišti je příliš horko</LP_BlockedTooHot>
+  <LP_BlockedTooCold>Na hřišti je příliš zima</LP_BlockedTooCold>
+  <LP_BlockedBusy>Používá se nebo je rezervováno</LP_BlockedBusy>
+  <LP_BlockedEntrance>Nelze dojít k volnému vstupu nebo výstupu</LP_BlockedEntrance>
+  <LP_BlockedReturning>Sedačka se vrací</LP_BlockedReturning>
+  <LP_BlockedCourseTooShort>Propojte alespoň dva díly překážkové dráhy</LP_BlockedCourseTooShort>
+  <LP_BlockedWaterCold>Na hraní s vodou je příliš zima nebo sníh</LP_BlockedWaterCold>
+  <LP_DesignButton>Vzhled</LP_DesignButton>
+  <LP_DesignDescription>Vyberte vzhled tohoto vybavení. Aktuální: {0}. Barvy se volí zvlášť.</LP_DesignDescription>
+  <LP_DesignOriginal>Původní</LP_DesignOriginal>
+  <LP_DesignTimber>Dřevěný</LP_DesignTimber>
+  <LP_DesignBusy>Počkejte, až všichni přestanou vybavení používat.</LP_DesignBusy>
+  <LP_DesignCurrent>Vzhled: {0}</LP_DesignCurrent>
+</LanguageData>

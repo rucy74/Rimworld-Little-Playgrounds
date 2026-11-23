@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Setting_LearningWeight>Voorkeur voor leren door middel van spelen op de speelplaats: {0} (standaard: 2)</LP_Setting_LearningWeight>
+  <LP_Setting_LearningWeightDescription>Pas aan hoe vaak een kind spelen op de speelplaats als leeractiviteit kiest. Een hogere waarde maakt het waarschijnlijker dat deze activiteit wordt gekozen.</LP_Setting_LearningWeightDescription>
+  <LP_Setting_LearningWeightTip>Bij 1 heeft spelen in de speeltuin hetzelfde selectiegewicht als vloertekenen of hardlopen in de natuur. Bij 2 wordt het selectiegewicht verdubbeld. Dit betekent niet twee keer zoveel daadwerkelijke bezoeken. De afzonderlijke kans van 50% om te spelen wanneer er niets wordt gedaan, blijft ongewijzigd. De instelling is van toepassing wanneer de volgende leerwens wordt geselecteerd. De huidige verlangens en het voortdurende spel zijn onveranderd.</LP_Setting_LearningWeightTip>
+  <LP_Setting_LearningWeightTiming>Geldt wanneer er een nieuwe leerwens wordt gekozen. Bestaande verlangens en spelen in uitvoering blijven behouden.</LP_Setting_LearningWeightTiming>
+</LanguageData>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_RideSwing.reportString>salıncakta oynuyor.</LP_RideSwing.reportString>
+  <LP_RideSlide.reportString>kaydırakta oynuyor.</LP_RideSlide.reportString>
+  <LP_RideSeesaw.reportString>tahterevallide oynuyor.</LP_RideSeesaw.reportString>
+  <LP_PlayInSand.reportString>kumdan kale yapıyor.</LP_PlayInSand.reportString>
+  <LP_RelaxOnBench.reportString>bahçe bankında dinleniyor.</LP_RelaxOnBench.reportString>
+  <LP_WaitForPlayground.reportString>kısa süre bekliyor: TargetA.</LP_WaitForPlayground.reportString>
+  <LP_BounceTrampoline.reportString>TargetA üzerinde zıplıyor.</LP_BounceTrampoline.reportString>
+  <LP_RideZipline.reportString>biniyor: TargetA.</LP_RideZipline.reportString>
+  <LP_RideSpringFox.reportString>biniyor: TargetA.</LP_RideSpringFox.reportString>
+  <LP_SpinRoundabout.reportString>TargetA üzerinde dönüyor.</LP_SpinRoundabout.reportString>
+  <LP_PlayShop.reportString>dükkâncılık oynuyor: TargetA.</LP_PlayShop.reportString>
+  <LP_PlayHopscotch.reportString>seksek oynuyor.</LP_PlayHopscotch.reportString>
+  <LP_PlaySplashPad.reportString>su fıskiyelerinde oynuyor.</LP_PlaySplashPad.reportString>
+  <LP_WalkCourse.reportString>oyun alanı parkurunu geçiyor.</LP_WalkCourse.reportString>
+  <LP_BounceTogether.reportString>TargetA üzerinde zıplıyor.</LP_BounceTogether.reportString>
+  <LP_DrinkAtFountain.reportString>su içiyor: TargetA.</LP_DrinkAtFountain.reportString>
+  <LP_CareSwing.reportString>TargetB ile salıncakta sallanıyor.</LP_CareSwing.reportString>
+  <LP_CareSeesaw.reportString>TargetB ile tahterevallide oynuyor.</LP_CareSeesaw.reportString>
+  <LP_CareSand.reportString>TargetB ile kumdan kale yapıyor.</LP_CareSand.reportString>
+  <LP_CareRoundabout.reportString>TargetB ile döner platformda dönüyor.</LP_CareRoundabout.reportString>
+  <LP_CarePlayhouse.reportString>TargetB ile dükkâncılık oynuyor.</LP_CarePlayhouse.reportString>
+  <LP_CareBounceTogether.reportString>TargetB ile trambolinde zıplıyor.</LP_CareBounceTogether.reportString>
+  <LP_WatchChildPlay.reportString>TargetB oynarken izliyor.</LP_WatchChildPlay.reportString>
+</LanguageData>

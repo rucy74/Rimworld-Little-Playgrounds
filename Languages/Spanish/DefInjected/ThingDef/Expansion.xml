@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_SteppingStump.label>escalón de madera para parque infantil</LP_SteppingStump.label>
+  <LP_SteppingStump.description>Plataforma baja de madera aserrada para pisar. Las piedras de paso, los escalones de madera y los troncos de equilibrio se conectan entre sí cuando sus bordes se tocan. Un recorrido debe ocupar al menos dos celdas (un tronco de equilibrio ya ocupa dos por sí solo), y las piezas que solo se tocan en una esquina no se conectan. Niños y adultos siguen la ruta conectada.</LP_SteppingStump.description>
+  <LP_SpringFox.label>balancín de muelle con forma de zorro</LP_SpringFox.label>
+  <LP_SpringFox.description>Un juguete mecedor con forma de zorro montado sobre un muelle. Un niño o un adulto puede usarlo solo. El personaje mantiene su cuerpo normal y se inclina hacia adelante y hacia atrás con el juguete.</LP_SpringFox.description>
+  <LP_Roundabout.label>carrusel de roble</LP_Roundabout.label>
+  <LP_Roundabout.description>Un carrusel de juegos redondo de roble con pasamanos de color verde salvia, para hasta cuatro personas. Una persona puede usarlo sola. Se ralentiza y se detiene cuando alguien sube o baja.</LP_Roundabout.description>
+  <LP_Playhouse.label>casita de juegos con tienda</LP_Playhouse.label>
+  <LP_Playhouse.description>Una casita de juegos de frente abierto con un pequeño mostrador. Juega a dirigir la tienda solo o recibe a un segundo visitante en el escaparate. Los niños aprenden y los adultos ganan diversión.</LP_Playhouse.description>
+  <LP_DrinkingFountain.label>fuente para beber a dos alturas</LP_DrinkingFountain.label>
+  <LP_DrinkingFountain.description>Una pila para beber alta y otra baja. Los niños pueden pararse a beber un poco después de jugar en el parque infantil; los adultos también la eligen para divertirse. El pequeño chorro de agua corre mientras se usa. Esto no añade la necesidad de sed. Construida a partir de bloques de piedra; su forma y colores permanecen iguales independientemente de la piedra que utilices.</LP_DrinkingFountain.description>
+  <LP_Hopscotch.label>rayuela de jardín</LP_Hopscotch.label>
+  <LP_Hopscotch.description>Ocho cuadros de rayuela pintados. Un niño o un adulto salta sobre los números y regresa, jugando solo sin esperar a un compañero. Construido a partir de bloques de piedra; su forma y colores permanecen iguales independientemente de la piedra que utilices.</LP_Hopscotch.description>
+  <LP_SplashPad.label>zona de juegos con chorros de agua</LP_SplashPad.label>
+  <LP_SplashPad.description>Los chorros de agua a nivel del suelo rocían en un patrón repetitivo mientras hasta tres personas se mueven por el área de juego. Cada persona también puede jugar sola. Esta actividad se detiene por debajo de los 10 grados centígrados y no puede iniciarse cuando la superficie está cubierta de nieve. Se puede construir a partir de cualquier bloque de piedra, de la misma forma y color.</LP_SplashPad.description>
+  <LP_SteppingStone.label>piedra de paso para parque infantil</LP_SteppingStone.label>
+  <LP_SteppingStone.description>Una piedra de paso baja y redondeada. Las piedras de paso, los escalones de madera y los troncos de equilibrio se conectan entre sí cuando sus bordes se tocan. Un recorrido debe ocupar al menos dos celdas (un tronco de equilibrio ya ocupa dos por sí solo), y las piezas que solo se tocan en una esquina no se conectan. Los visitantes siguen una ruta conectada y regresan. En cada visita se reserva un recorrido de hasta 24 piezas. Se puede construir a partir de cualquier bloque de piedra, de la misma forma y color.</LP_SteppingStone.description>
+  <LP_BalanceLog.label>tronco de equilibrio</LP_BalanceLog.label>
+  <LP_BalanceLog.description>Un tronco de equilibrio bajo de roble, de dos celdas de largo; se puede colocar a lo largo o a lo ancho. Las piedras de paso, los escalones de madera y los troncos de equilibrio se conectan entre sí cuando sus bordes se tocan. Un recorrido debe ocupar al menos dos celdas (un tronco de equilibrio ya ocupa dos por sí solo), y las piezas que solo se tocan en una esquina no se conectan. Los visitantes hacen equilibrio a lo largo de una ruta conectada y regresan. Todas las celdas del recorrido deben permanecer despejadas.</LP_BalanceLog.description>
+  <LP_PlayFence.label>valla de roble para parque infantil</LP_PlayFence.label>
+  <LP_PlayFence.description>Piquetes bajos de roble unidos a postes de madera cuadrados. Las piezas de valla adyacentes se conectan. Es un límite decorativo del área de juegos que se puede pasar por encima, no una barrera para un corral de animales.</LP_PlayFence.description>
+  <LP_PlayEntrance.label>entrada al parque infantil</LP_PlayEntrance.label>
+  <LP_PlayEntrance.description>Una entrada siempre abierta con un pequeño letrero de Little Playgrounds. Una apertura acogedora para una valla baja de jardín.</LP_PlayEntrance.description>
+  <LP_GardenFountain.label>fuente de jardín</LP_GardenFountain.label>
+  <LP_GardenFountain.description>Una pila baja de piedra clara con agua que fluye suavemente. Una pieza central de jardín para colocar cerca de la zona de asientos. Construida a partir de bloques de piedra; su forma y colores permanecen iguales independientemente de la piedra que utilices.</LP_GardenFountain.description>
+</LanguageData>

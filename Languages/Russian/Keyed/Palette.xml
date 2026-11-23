@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PaletteButton>Цветовая схема</LP_PaletteButton>
+  <LP_PaletteDescription>Выберите цвета этой игровой площадки. Текущий: {0}. Сразу меняет внешний вид; затраты на строительство и производительность остаются прежними.</LP_PaletteDescription>
+  <LP_PaletteCurrent>Цветовая схема: {0}</LP_PaletteCurrent>
+  <LP_PaletteLegacy>Оригинальная отделка</LP_PaletteLegacy>
+  <LP_PaletteBlue>Дерево + синий</LP_PaletteBlue>
+  <LP_PaletteYellow>Дерево + желтый</LP_PaletteYellow>
+  <LP_PaletteSage>Дерево + шалфейный зелёный</LP_PaletteSage>
+  <LP_PaletteClassic>Классические цвета</LP_PaletteClassic>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PaletteButton>Esquema de cores</LP_PaletteButton>
+  <LP_PaletteDescription>Escolha as cores deste playground. Atual: {0}. Muda a aparência imediatamente; os custos de construção e o desempenho permanecem os mesmos.</LP_PaletteDescription>
+  <LP_PaletteCurrent>Esquema de cores: {0}</LP_PaletteCurrent>
+  <LP_PaletteLegacy>Acabamento original</LP_PaletteLegacy>
+  <LP_PaletteBlue>Madeira + azul</LP_PaletteBlue>
+  <LP_PaletteYellow>Madeira + amarelo</LP_PaletteYellow>
+  <LP_PaletteSage>Madeira + verde-sálvia</LP_PaletteSage>
+  <LP_PaletteClassic>Cores clássicas</LP_PaletteClassic>
+</LanguageData>

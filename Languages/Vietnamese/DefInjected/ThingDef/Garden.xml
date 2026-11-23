@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Sandbox.label>hộp cát gỗ sồi</LP_Sandbox.label>
+  <LP_Sandbox.description>Hộp cát bằng gỗ sồi nhạt với ghế góc màu ngà. Tối đa ba trẻ em hoặc người lớn đắp một đống cát thành tháp rồi thành lâu đài cát, một mình hoặc cùng nhau. Trẻ em được học tập; người lớn được giải trí. Tác phẩm vẫn còn sau khi họ rời đi và dần mòn đi khi không ai dùng.</LP_Sandbox.description>
+  <LP_GardenBench.label>ghế sân vườn</LP_GardenBench.label>
+  <LP_GardenBench.description>Ghế băng gỗ sồi và màu ngà, bo tròn, đủ chỗ cho hai người. Cư dân có thể tự chọn để giải trí hoặc được ra lệnh nghỉ ở đây. Đặt mái che cách ghế một ô về phía sau để che mát.</LP_GardenBench.description>
+  <LP_ShadeCanopy.label>mái che sân chơi</LP_ShadeCanopy.label>
+  <LP_ShadeCanopy.description>Mái vải màu kem trên các cột xanh xô thơm. Đặt dấu tâm của nó phía sau ghế băng một ô. Nó che một khu vực rộng 5 x 3 ở phía trước mà không thay thế mái nhà sẵn có. Tấm vải vẫn che kín phía trên người đang ngồi và mờ đi khi hình ảnh nhô cao của nó che khuất một nhân vật.</LP_ShadeCanopy.description>
+  <LP_OakCurb.label>viền sân chơi bằng gỗ sồi</LP_OakCurb.label>
+  <LP_OakCurb.description>Viền gỗ sồi thấp, bo tròn. Các đoạn viền sân chơi cạnh nhau tự nối lại, kể cả ở góc. Nhân vật có thể bước qua.</LP_OakCurb.description>
+  <LP_IvoryCurb.label>viền sân chơi</LP_IvoryCurb.label>
+  <LP_IvoryCurb.description>Viền màu ngà thấp, làm ranh giới sân chơi gọn gàng. Các đoạn viền sân chơi cạnh nhau tự nối lại, kể cả ở góc. Nhân vật có thể bước qua. Được xây dựng từ bất kỳ khối đá nào; hình dạng và màu sắc của nó vẫn giữ nguyên cho dù bạn sử dụng loại đá nào.</LP_IvoryCurb.description>
+</LanguageData>

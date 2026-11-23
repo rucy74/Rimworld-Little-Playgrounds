@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_CompactSlide.label>küçük kaydırak</LP_CompactSlide.label>
+  <LP_CompactSlide.description>İç mekândaki bir oyun odası ya da dış mekândaki bir oyun alanı için alçak, küçük bir kaydırak. Üç basamağı çıkıp platformu geçerler ve aşağı kayarlar. Girişi ve iniş yerini boş tutun. Çocuklar öğrenme, yetişkinler eğlence kazanır.</LP_CompactSlide.description>
+  <LP_FloorRocker.label>yer tahterevallisi</LP_FloorRocker.label>
+  <LP_FloorRocker.description>İç ve dış mekânda kullanılabilen, alçak ve yuvarlak tabanlı bir sallanan tahterevalli. Bir ziyaretçi tek başına sallanabilir; iki kişi karşılıklı oturabilir. Çocuklar öğrenme, yetişkinler eğlence kazanır.</LP_FloorRocker.description>
+  <LP_BallPit.label>küçük top havuzu</LP_BallPit.label>
+  <LP_BallPit.description>Rengârenk oyun toplarıyla dolu, yumuşak kenarlı küçük bir havuz. İç ya da dış mekânda en fazla iki ziyaretçi topların arasında dolaşıp birlikte oynayabilir. Çocuklar öğrenme, yetişkinler eğlence kazanır.</LP_BallPit.description>
+</LanguageData>

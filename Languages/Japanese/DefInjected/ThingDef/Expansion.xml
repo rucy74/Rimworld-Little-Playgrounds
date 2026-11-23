@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_SteppingStump.label>遊び場の丸太ステップ</LP_SteppingStump.label>
+  <LP_SteppingStump.description>木材を切って作った低い踏み台です。飛び石、丸太ステップ、バランス丸太は辺を接してつながります。コースには最低2マス必要ですが、丸太1本は2マスを占めるので単独でも使えます。角だけではつながりません。子供も大人もつながった道を進みます。</LP_SteppingStump.description>
+  <LP_SpringFox.label>キツネのスプリング遊具</LP_SpringFox.label>
+  <LP_SpringFox.description>ばねに取り付けたキツネ型の遊具です。子供も大人も1人で乗れます。元の体の姿を保ったまま、遊具と一緒に体を傾けます。</LP_SpringFox.description>
+  <LP_Roundabout.label>オーク材の回転遊具</LP_Roundabout.label>
+  <LP_Roundabout.description>セージグリーンの手すりが付いた円形のオーク材の遊具で、最大4人が乗れます。1人でも遊べます。誰かが乗り降りするときは減速して止まります。</LP_Roundabout.description>
+  <LP_Playhouse.label>お店ごっこ小屋</LP_Playhouse.label>
+  <LP_Playhouse.description>正面が開き、小さなカウンターが付いた遊び小屋です。1人で店員ごっこをしたり、窓の前に来たもう1人を迎えたりできます。子供は学習、大人は娯楽を得ます。</LP_Playhouse.description>
+  <LP_DrinkingFountain.label>高さ違いの水飲み場</LP_DrinkingFountain.label>
+  <LP_DrinkingFountain.description>高低2つの水飲み口があります。子供は遊びの後に短く水を飲み、大人は娯楽として利用することもあります。利用中だけ細い水が流れます。喉の渇きの欲求は追加しません。どの石材ブロックでも建設でき、素材によって形や色は変わりません。</LP_DrinkingFountain.description>
+  <LP_Hopscotch.label>庭のけんけんぱ</LP_Hopscotch.label>
+  <LP_Hopscotch.description>8つのマスが描かれたけんけんぱの遊び場です。子供も大人も数字に沿って跳び、戻ってきます。相手を待たず1人で遊べます。どの石材ブロックでも建設でき、素材によって形や色は変わりません。</LP_Hopscotch.description>
+  <LP_SplashPad.label>遊び場の噴水広場</LP_SplashPad.label>
+  <LP_SplashPad.description>地面の噴水が繰り返し水を出し、最大3人がその間を動き回ります。1人でも遊べます。気温が10度未満になると休止し、雪が積もっていると開始できません。どの石材ブロックでも建設でき、素材によって形や色は変わりません。</LP_SplashPad.description>
+  <LP_SteppingStone.label>遊び場の飛び石</LP_SteppingStone.label>
+  <LP_SteppingStone.description>低く丸い飛び石です。飛び石、丸太ステップ、バランス丸太は辺を接してつながります。コースには最低2マス必要ですが、丸太1本は2マスを占めます。角だけではつながりません。利用者はつながった道を往復し、1回の利用で最大24個の部品からなる道を予約します。どの石材でも形や色は変わりません。</LP_SteppingStone.description>
+  <LP_BalanceLog.label>バランス丸太</LP_BalanceLog.label>
+  <LP_BalanceLog.description>2マスの長さがある低いオーク材の丸太で、縦横どちらにも置けます。飛び石、丸太ステップ、丸太は辺を接してつながります。コースには最低2マス必要ですが、丸太1本でも条件を満たします。角だけではつながりません。利用者はつながった道をバランスを取りながら往復します。コース上のマスを空けてください。</LP_BalanceLog.description>
+  <LP_PlayFence.label>オーク材の遊び場の柵</LP_PlayFence.label>
+  <LP_PlayFence.description>角材の支柱を低いオーク材の板でつないだ柵です。隣の柵とつながります。跨げる装飾用の境界であり、動物を囲う柵ではありません。</LP_PlayFence.description>
+  <LP_PlayEntrance.label>遊び場の入口</LP_PlayEntrance.label>
+  <LP_PlayEntrance.description>Little Playgrounds の小さな看板が付いた、常に開いている入口です。低い庭の柵に温かな出入口を作れます。</LP_PlayEntrance.description>
+  <LP_GardenFountain.label>庭の噴水</LP_GardenFountain.label>
+  <LP_GardenFountain.description>低い淡色の石の水盤に穏やかな水が流れます。ベンチの近くに置く庭の中心飾りです。どの石材ブロックでも建設でき、素材によって形や色は変わりません。</LP_GardenFountain.description>
+</LanguageData>

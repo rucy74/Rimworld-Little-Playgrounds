@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_VisitorCount>Người chơi: {0} / {1}</LP_VisitorCount>
+  <LP_AudienceButton>Người chơi: {0}</LP_AudienceButton>
+  <LP_AudienceCurrent>Người chơi được phép: {0}</LP_AudienceCurrent>
+  <LP_AudienceDescription>Chọn ai có thể dùng thiết bị này. Mặc định là mọi người. Người bị loại sẽ dừng lượt chơi hoặc lượt xếp hàng hiện tại. Lựa chọn này được lưu lại.</LP_AudienceDescription>
+  <LP_AudienceEveryone>Mọi người</LP_AudienceEveryone>
+  <LP_AudienceChildren>Chỉ dành cho trẻ em</LP_AudienceChildren>
+  <LP_AudienceAdults>Chỉ dành cho người lớn</LP_AudienceAdults>
+</LanguageData>

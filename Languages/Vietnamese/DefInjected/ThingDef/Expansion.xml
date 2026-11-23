@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_SteppingStump.label>bậc gỗ sân chơi</LP_SteppingStump.label>
+  <LP_SteppingStump.description>Một bậc thấp làm từ gỗ xẻ. Đá bước chân, bậc gỗ và khúc gỗ thăng bằng nối nhau khi các cạnh tiếp xúc. Tuyến phải có ít nhất hai ô; một khúc gỗ thăng bằng đã dài hai ô. Chạm góc không tạo kết nối. Trẻ em và người lớn đi theo tuyến đã nối.</LP_SteppingStump.description>
+  <LP_SpringFox.label>thú nhún lò xo hình cáo</LP_SpringFox.label>
+  <LP_SpringFox.description>Đồ chơi hình cáo gắn trên lò xo. Một trẻ em hoặc người lớn có thể chơi một mình, giữ nguyên hình dáng cơ thể và nghiêng theo đồ chơi.</LP_SpringFox.description>
+  <LP_Roundabout.label>mâm xoay bằng gỗ sồi</LP_Roundabout.label>
+  <LP_Roundabout.description>Một mâm xoay bằng gỗ sồi, có tay vịn xanh xô thơm, dành cho tối đa bốn người. Một người cũng có thể chơi; mâm xoay chậm lại rồi dừng khi có người lên hoặc xuống.</LP_Roundabout.description>
+  <LP_Playhouse.label>nhà chơi bán hàng nhỏ</LP_Playhouse.label>
+  <LP_Playhouse.description>Nhà chơi để mở mặt trước, có quầy bán hàng nhỏ. Có thể một mình chơi trò trông cửa hàng, hoặc đón người thứ hai ở cửa sổ. Trẻ em được học tập; người lớn được giải trí.</LP_Playhouse.description>
+  <LP_DrinkingFountain.label>vòi nước uống hai độ cao</LP_DrinkingFountain.label>
+  <LP_DrinkingFountain.description>Bát uống nước cao và thấp. Trẻ em có thể dừng lại uống chút nước sau các hoạt động ở sân chơi; người lớn cũng chọn nó để giải trí. Dòng nước nhỏ chảy trong khi nó được sử dụng. Điều này không tạo thêm nhu cầu khát. Được xây dựng từ bất kỳ khối đá nào; hình dạng và màu sắc của nó vẫn giữ nguyên cho dù bạn sử dụng loại đá nào.</LP_DrinkingFountain.description>
+  <LP_Hopscotch.label>ô nhảy lò cò trong vườn</LP_Hopscotch.label>
+  <LP_Hopscotch.description>Tám ô vuông nhảy lò cò được sơn. Một đứa trẻ hoặc người lớn nhảy theo các con số và quay trở lại, chơi một mình mà không cần đợi bạn cùng chơi. Được xây dựng từ bất kỳ khối đá nào; hình dạng và màu sắc của nó vẫn giữ nguyên cho dù bạn sử dụng loại đá nào.</LP_Hopscotch.description>
+  <LP_SplashPad.label>sân chơi vòi phun nước</LP_SplashPad.label>
+  <LP_SplashPad.description>Các vòi phun ngang mặt đất hoạt động theo nhịp trong khi tối đa ba người di chuyển giữa chúng. Có thể chơi một mình. Khu vực đóng khi nhiệt độ dưới 10 độ C và không thể bắt đầu khi có tuyết phủ. Có thể xây bằng mọi loại khối đá; hình dạng và màu sắc không đổi theo vật liệu.</LP_SplashPad.description>
+  <LP_SteppingStone.label>đá bước chân sân chơi</LP_SteppingStone.label>
+  <LP_SteppingStone.description>Một phiến đá thấp, bo tròn để bước lên. Đá bước chân, bậc gỗ và khúc gỗ thăng bằng nối nhau ở các cạnh. Tuyến cần ít nhất hai ô; một khúc gỗ đã chiếm hai ô. Chạm góc không tạo kết nối. Người chơi đi theo một nhánh đã nối rồi quay lại. Mỗi lượt giữ riêng tuyến gồm tối đa 24 bộ phận. Mọi loại khối đá đều dùng được và không đổi hình dạng, màu sắc.</LP_SteppingStone.description>
+  <LP_BalanceLog.label>khúc gỗ thăng bằng</LP_BalanceLog.label>
+  <LP_BalanceLog.description>Khúc gỗ sồi thăng bằng thấp, dài hai ô, có thể đặt theo hai hướng. Đá bước chân, bậc gỗ và khúc gỗ nối nhau ở các cạnh. Tuyến cần ít nhất hai ô; chỉ một khúc gỗ cũng đủ. Chạm góc không tạo kết nối. Người chơi giữ thăng bằng dọc một nhánh đã nối rồi quay về. Mọi ô trên tuyến phải để trống.</LP_BalanceLog.description>
+  <LP_PlayFence.label>hàng rào sân chơi gỗ sồi</LP_PlayFence.label>
+  <LP_PlayFence.description>Cọc gỗ sồi thấp nối với các cột gỗ vuông. Các đoạn hàng rào cạnh nhau tự nối lại. Đây là ranh giới sân chơi để trang trí, có thể bước qua, không phải hàng rào chuồng thú.</LP_PlayFence.description>
+  <LP_PlayEntrance.label>lối vào sân chơi</LP_PlayEntrance.label>
+  <LP_PlayEntrance.description>Lối vào luôn mở, có biển Little Playgrounds nhỏ. Tạo một lối đi thân thiện qua hàng rào thấp của khu vườn.</LP_PlayEntrance.description>
+  <LP_GardenFountain.label>đài phun nước sân vườn</LP_GardenFountain.label>
+  <LP_GardenFountain.description>Bồn đá màu nhạt, thấp, với dòng nước chảy nhẹ. Điểm nhấn cho khu vườn, đặt gần chỗ ngồi. Được xây dựng từ bất kỳ khối đá nào; hình dạng và màu sắc của nó vẫn giữ nguyên cho dù bạn sử dụng loại đá nào.</LP_GardenFountain.description>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Setting_LearningWeight>Preferencia učenia prostredníctvom hry na ihrisku: {0} (predvolené: 2)</LP_Setting_LearningWeight>
+  <LP_Setting_LearningWeightDescription>Upravte, ako často si dieťa vyberá hru na ihrisku ako vzdelávaciu aktivitu. Vyššia hodnota zvyšuje pravdepodobnosť výberu tejto aktivity.</LP_Setting_LearningWeightDescription>
+  <LP_Setting_LearningWeightTip>Pri 1 má hra na ihrisku rovnakú váhu žrebovania ako bežné činnosti, napríklad kreslenie na podlahu alebo pobehovanie v prírode. Pri 2 sa táto váha zdvojnásobí, nie skutočný počet návštev. Neovplyvňuje to 50% šancu na hru vo voľnom čase. Zmeny platia od ďalšieho žrebovania túžby po učení; existujúce túžby a prebiehajúca hra zostanú zachované.</LP_Setting_LearningWeightTip>
+  <LP_Setting_LearningWeightTiming>Platí, keď je zvolená nová túžba po učení. Existujúce túžby a prebiehajúca hra sú zachované.</LP_Setting_LearningWeightTiming>
+</LanguageData>

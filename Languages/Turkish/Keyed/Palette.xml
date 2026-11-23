@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PaletteButton>Renk şeması</LP_PaletteButton>
+  <LP_PaletteDescription>Bu oyun alanının renklerini seçin. Güncel: {0}. Görünümü anında değiştirir; inşaat maliyetleri ve performans aynı kalır.</LP_PaletteDescription>
+  <LP_PaletteCurrent>Renk şeması: {0}</LP_PaletteCurrent>
+  <LP_PaletteLegacy>Orijinal kaplama</LP_PaletteLegacy>
+  <LP_PaletteBlue>Ahşap + mavi</LP_PaletteBlue>
+  <LP_PaletteYellow>Ahşap + sarı</LP_PaletteYellow>
+  <LP_PaletteSage>Ahşap + adaçayı yeşili</LP_PaletteSage>
+  <LP_PaletteClassic>Klasik renkler</LP_PaletteClassic>
+</LanguageData>

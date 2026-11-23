@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_BlockedUnavailable>Indisponível</LP_BlockedUnavailable>
+  <LP_BlockedCannotPlay>Não pode fazer esta atividade</LP_BlockedCannotPlay>
+  <LP_BlockedDrafted>Alistado</LP_BlockedDrafted>
+  <LP_BlockedDowned>Incapacitado</LP_BlockedDowned>
+  <LP_BlockedMentalState>Em estado mental</LP_BlockedMentalState>
+  <LP_BlockedForbidden>Proibido ou fora da área permitida</LP_BlockedForbidden>
+  <LP_BlockedAudience>Não permitido pela definição de idade deste equipamento</LP_BlockedAudience>
+  <LP_BlockedTooHot>Demasiado calor no parque infantil</LP_BlockedTooHot>
+  <LP_BlockedTooCold>Demasiado frio no parque infantil</LP_BlockedTooCold>
+  <LP_BlockedBusy>Em uso ou reservado</LP_BlockedBusy>
+  <LP_BlockedEntrance>Não consegue chegar a uma entrada ou saída livre</LP_BlockedEntrance>
+  <LP_BlockedReturning>O assento está a regressar</LP_BlockedReturning>
+  <LP_BlockedCourseTooShort>Requer pelo menos duas peças de percurso ligadas</LP_BlockedCourseTooShort>
+  <LP_BlockedWaterCold>Demasiado frio ou com neve para brincar com água</LP_BlockedWaterCold>
+  <LP_DesignButton>Estilo</LP_DesignButton>
+  <LP_DesignDescription>Escolhe o aspeto deste equipamento. Atual: {0}. As cores escolhem-se à parte.</LP_DesignDescription>
+  <LP_DesignOriginal>Original</LP_DesignOriginal>
+  <LP_DesignTimber>Madeira natural</LP_DesignTimber>
+  <LP_DesignBusy>Espera até que todos acabem de usar o equipamento.</LP_DesignBusy>
+  <LP_DesignCurrent>Estilo: {0}</LP_DesignCurrent>
+</LanguageData>

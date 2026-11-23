@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TerrainDef ParentName="FloorBase">
+    <defName>LP_PlaySand</defName><label>fine playground sand</label>
+    <description>Settled warm beige playground sand with fine grains and quiet shallow variation.</description>
+    <texturePath>Terrain/PlaySandSettledV7</texturePath><edgeType>Hard</edgeType><renderPrecedence>275</renderPrecedence>
+    <color>(236,242,255)</color>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded><pathCost>2</pathCost><uiOrder>2510</uiOrder>
+    <statBases><Beauty>1</Beauty><WorkToBuild>160</WorkToBuild><Cleanliness>-0.1</Cleanliness></statBases>
+  </TerrainDef>
+  <TerrainDef ParentName="FloorBase">
+    <defName>LP_PlaySandGrainy</defName><label>grainy playground sand</label>
+    <description>Warm playground sand with visible grains and a lightly raked surface. A more textured alternative to fine playground sand.</description>
+    <texturePath>Terrain/PlaySandNativeV5</texturePath><edgeType>Hard</edgeType><renderPrecedence>276</renderPrecedence>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded><pathCost>2</pathCost><uiOrder>2511</uiOrder>
+    <statBases><Beauty>1</Beauty><WorkToBuild>160</WorkToBuild><Cleanliness>-0.1</Cleanliness></statBases>
+  </TerrainDef>
+  <TerrainDef ParentName="FloorBase">
+    <defName>LP_PlaySandLight</defName><label>light playground sand</label>
+    <description>Quiet pale sand with soft shallow ripples for a bright, spacious playground. A third finish alongside fine and grainy sand.</description>
+    <texturePath>Terrain/PlaySandQuietV8</texturePath><edgeType>Hard</edgeType><renderPrecedence>277</renderPrecedence>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded><pathCost>2</pathCost><uiOrder>2512</uiOrder>
+    <statBases><Beauty>1</Beauty><WorkToBuild>160</WorkToBuild><Cleanliness>-0.1</Cleanliness></statBases>
+  </TerrainDef>
+  <TerrainDef Name="LP_RubberFloorBase" ParentName="FloorBase" Abstract="True">
+    <description>A matte rubber-crumb playground surface. Its subtle texture joins without a tile grid. Available in sage, cream and apricot.</description>
+    <texturePath>Terrain/RubberFloorQuietV3</texturePath><edgeType>Hard</edgeType>
+    <isPaintable>true</isPaintable><renderPrecedence>280</renderPrecedence><terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <statBases><Beauty>2</Beauty><WorkToBuild>250</WorkToBuild><CleaningTimeFactor>0.8</CleaningTimeFactor></statBases>
+    <costList><Cloth>2</Cloth><Chemfuel>1</Chemfuel></costList>
+  </TerrainDef>
+  <TerrainDef ParentName="LP_RubberFloorBase"><defName>LP_RubberSage</defName><label>sage playground rubber</label><color>(176,193,156)</color><uiOrder>2520</uiOrder></TerrainDef>
+  <TerrainDef ParentName="LP_RubberFloorBase"><defName>LP_RubberCream</defName><label>cream playground rubber</label><color>(255,244,210)</color><uiOrder>2521</uiOrder></TerrainDef>
+  <TerrainDef ParentName="LP_RubberFloorBase"><defName>LP_RubberApricot</defName><label>apricot playground rubber</label><color>(242,187,153)</color><uiOrder>2522</uiOrder></TerrainDef>
+</Defs>

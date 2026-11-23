@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_BlockedUnavailable>Không thể sử dụng</LP_BlockedUnavailable>
+  <LP_BlockedCannotPlay>Không thể tham gia hoạt động này</LP_BlockedCannotPlay>
+  <LP_BlockedDrafted>Đang ở chế độ chiến đấu</LP_BlockedDrafted>
+  <LP_BlockedDowned>Đã ngã gục</LP_BlockedDowned>
+  <LP_BlockedMentalState>Đang suy sụp tinh thần</LP_BlockedMentalState>
+  <LP_BlockedForbidden>Bị cấm hoặc ngoài khu vực cho phép</LP_BlockedForbidden>
+  <LP_BlockedAudience>Không được phép theo thiết lập độ tuổi của thiết bị này</LP_BlockedAudience>
+  <LP_BlockedTooHot>Sân chơi quá nóng</LP_BlockedTooHot>
+  <LP_BlockedTooCold>Sân chơi quá lạnh</LP_BlockedTooCold>
+  <LP_BlockedBusy>Đang được dùng hoặc đã có người giữ chỗ</LP_BlockedBusy>
+  <LP_BlockedEntrance>Không thể đến lối vào hoặc lối ra thông thoáng</LP_BlockedEntrance>
+  <LP_BlockedReturning>Ghế đang quay về</LP_BlockedReturning>
+  <LP_BlockedCourseTooShort>Cần nối ít nhất hai bộ phận của tuyến</LP_BlockedCourseTooShort>
+  <LP_BlockedWaterCold>Quá lạnh hoặc có tuyết, không thể chơi nước</LP_BlockedWaterCold>
+  <LP_DesignButton>Thiết kế</LP_DesignButton>
+  <LP_DesignDescription>Chọn diện mạo của thiết bị này. Hiện tại: {0}. Màu sắc được chọn riêng.</LP_DesignDescription>
+  <LP_DesignOriginal>Nguyên bản</LP_DesignOriginal>
+  <LP_DesignTimber>Gỗ mộc</LP_DesignTimber>
+  <LP_DesignBusy>Hãy đợi đến khi mọi người dùng xong thiết bị.</LP_DesignBusy>
+  <LP_DesignCurrent>Thiết kế: {0}</LP_DesignCurrent>
+</LanguageData>

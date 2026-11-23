@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_SteppingStump.label>tømmertrinn på lekeplassen</LP_SteppingStump.label>
+  <LP_SteppingStump.description>En lav plattform av saget tre for å tråkke på. Trinnsteiner, tømmertrinn og balansestokker kobles sammen når kantene berører hverandre. En bane må dekke minst to celler (en balansestokk alene dekker to), og deler som bare møtes i et hjørne, kobles ikke sammen. Barn og voksne følger den sammenkoblede ruten.</LP_SteppingStump.description>
+  <LP_SpringFox.label>reveformet fjærvippe</LP_SpringFox.label>
+  <LP_SpringFox.description>En reveformet gyngeleke montert på en fjær. Ett barn eller en voksen kan bruke den alene. Karakteren beholder sin normale kropp og lener seg frem og tilbake med leken.</LP_SpringFox.description>
+  <LP_Roundabout.label>lekeplasskarusell av eik</LP_Roundabout.label>
+  <LP_Roundabout.description>En rund lekeplasskarusell av eik med salviegrønne rekkverk, for opptil fire personer. Én person kan snurre den alene. Den bremser ned og stopper når noen går av eller på.</LP_Roundabout.description>
+  <LP_Playhouse.label>lite butikklekehus</LP_Playhouse.label>
+  <LP_Playhouse.description>Et lekehus med åpen front og en liten butikkdisk. Lek butikk alene, eller ta imot en annen besøkende ved vinduet. Barn lærer og voksne får rekreasjon.</LP_Playhouse.description>
+  <LP_DrinkingFountain.label>drikkefontene i to høyder</LP_DrinkingFountain.label>
+  <LP_DrinkingFountain.description>En høy og en lav drikkeskål. Barn kan stoppe og drikke litt vann etter leken; voksne velger den også for rekreasjon. Den lille vannstrålen renner mens den brukes. Dette legger ikke til et tørstbehov. Bygget av alle steinblokker; formen og fargene forblir de samme uansett hvilken stein du bruker.</LP_DrinkingFountain.description>
+  <LP_Hopscotch.label>paradisruter i hagen</LP_Hopscotch.label>
+  <LP_Hopscotch.description>Åtte malte paradisruter. Et barn eller en voksen hopper langs tallene og kommer tilbake, leker alene uten å vente på en partner. Bygget av alle steinblokker; formen og fargene forblir de samme uansett hvilken stein du bruker.</LP_Hopscotch.description>
+  <LP_SplashPad.label>vannlekeplass med dyser</LP_SplashPad.label>
+  <LP_SplashPad.description>Vannstråler på bakkenivå sprayer i et gjentatt mønster når opptil tre personer beveger seg rundt på lekeområdet. Hver person kan også leke alene. Denne aktiviteten stopper under 10 grader Celsius og kan ikke starte når overflaten er dekket av snø. Bygget av alle steinblokker; formen og fargene forblir de samme uansett hvilken stein du bruker.</LP_SplashPad.description>
+  <LP_SteppingStone.label>trinnstein på lekeplassen</LP_SteppingStone.label>
+  <LP_SteppingStone.description>En lav, avrundet trinnstein. Trinnsteiner, tømmertrinn og balansestokker kobles sammen når kantene berører hverandre. En bane må dekke minst to celler (en balansestokk alene dekker to), og deler som bare møtes i et hjørne, kobles ikke sammen. Besøkende følger en sammenkoblet gren og går tilbake. Hvert besøk reserverer en rute på opptil 24 deler. Bygget av alle steinblokker; formen og fargene forblir de samme uansett hvilken stein du bruker.</LP_SteppingStone.description>
+  <LP_BalanceLog.label>balansestokk</LP_BalanceLog.label>
+  <LP_BalanceLog.description>En lav balansestokk av eik, to celler lang; den kan legges på langs eller på tvers. Trinnsteiner, tømmertrinn og balansestokker kobles sammen når kantene berører hverandre. En bane må dekke minst to celler (en balansestokk alene dekker to), og deler som bare møtes i et hjørne, kobles ikke sammen. Besøkende balanserer langs en sammenkoblet gren og går tilbake. Alle banens celler må holdes frie.</LP_BalanceLog.description>
+  <LP_PlayFence.label>lekeplassgjerde i eik</LP_PlayFence.label>
+  <LP_PlayFence.description>Lave stakittspiler av eik festet til firkantede tømmerstolper. Tilstøtende gjerdestykker kobles sammen. Dette er en dekorativ lekeplassgrense som man kan tråkke over, ikke en innhegning for dyr.</LP_PlayFence.description>
+  <LP_PlayEntrance.label>inngang til lekeplassen</LP_PlayEntrance.label>
+  <LP_PlayEntrance.description>En alltid åpen inngang med et lite Little Playgrounds-skilt. En innbydende åpning for et lavt hagegjerde.</LP_PlayEntrance.description>
+  <LP_GardenFountain.label>hagefontene</LP_GardenFountain.label>
+  <LP_GardenFountain.description>Et lavt, blekt steinbasseng med forsiktig rennende vann. Et midtpunkt i hagen å plassere i nærheten av sittegruppen. Bygget av alle steinblokker; formen og fargene forblir de samme uansett hvilken stein du bruker.</LP_GardenFountain.description>
+</LanguageData>

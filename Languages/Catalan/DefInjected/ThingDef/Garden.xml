@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Sandbox.label>caixa de sorra de roure</LP_Sandbox.label>
+  <LP_Sandbox.description>Una caixa de sorra de roure pàl·lid amb seients cantoners d'ivori. Fins a tres nens o adults transformen un munt de sorra en una torre i després en un castell de sorra, sols o junts. Els nens obtenen aprenentatges; els adults guanyen entreteniment. La seva creació es manté després de marxar i es desgasta lentament quan no s'utilitza.</LP_Sandbox.description>
+  <LP_GardenBench.label>banc de jardí</LP_GardenBench.label>
+  <LP_GardenBench.description>Un banc arrodonit de roure i marfil amb capacitat per a dues persones. Els colons poden triar-lo per entretenir-se o rebre l'ordre de relaxar-se aquí. Col·loqueu una marquesina d'ombra una cel·la darrere del banc per protegir-lo.</LP_GardenBench.description>
+  <LP_ShadeCanopy.label>marquesina d'ombra del parc infantil</LP_ShadeCanopy.label>
+  <LP_ShadeCanopy.description>Una marquesina de tela de color crema sobre pals de color verd sàlvia. Col·loca el seu marcador central una cel·la darrere d'un banc. Fa ombra a una zona de cinc per tres al davant sense substituir les teulades existents. La tela es manté opaca sobre els visitants asseguts i es fa transparent quan la seva imatge elevada tapa un personatge.</LP_ShadeCanopy.description>
+  <LP_OakCurb.label>vorada de roure del parc infantil</LP_OakCurb.label>
+  <LP_OakCurb.description>Vorada baixa de roure arrodonit. La vorada del parc infantil adjacent es connecta automàticament, fins i tot a les cantonades. Els personatges hi poden passar per sobre.</LP_OakCurb.description>
+  <LP_IvoryCurb.label>vorada del parc infantil</LP_IvoryCurb.label>
+  <LP_IvoryCurb.description>Vorada baixa de marfil per a un límit de pati acabat. La vorada del parc infantil adjacent es connecta automàticament, fins i tot a les cantonades. Els personatges hi poden passar per sobre. Construïda amb qualsevol bloc de pedra; la seva forma i colors es mantenen iguals sigui quina sigui la pedra que utilitzeu.</LP_IvoryCurb.description>
+</LanguageData>

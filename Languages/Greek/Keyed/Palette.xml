@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PaletteButton>Χρωματικός συνδυασμός</LP_PaletteButton>
+  <LP_PaletteDescription>Επιλέξτε τα χρώματα αυτού του εξοπλισμού. Τρέχον: {0}. Αλλάζει αμέσως την εμφάνιση. Το κόστος κατασκευής και η απόδοση μένουν ίδια.</LP_PaletteDescription>
+  <LP_PaletteCurrent>Χρωματικός συνδυασμός: {0}</LP_PaletteCurrent>
+  <LP_PaletteLegacy>Αρχικό φινίρισμα</LP_PaletteLegacy>
+  <LP_PaletteBlue>Ξύλο + μπλε</LP_PaletteBlue>
+  <LP_PaletteYellow>Ξύλο + κίτρινο</LP_PaletteYellow>
+  <LP_PaletteSage>Ξύλο + πράσινο φασκόμηλου</LP_PaletteSage>
+  <LP_PaletteClassic>Κλασικά χρώματα</LP_PaletteClassic>
+</LanguageData>

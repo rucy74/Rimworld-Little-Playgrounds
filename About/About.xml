@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Little Playgrounds</name>
+  <author>choco</author>
+  <packageId>choco.littleplaygrounds</packageId>
+  <supportedVersions><li>1.6</li><li>1.7</li></supportedVersions>
+  <modDependencies>
+    <li><packageId>ludeon.rimworld.biotech</packageId><displayName>Biotech</displayName></li>
+  </modDependencies>
+  <description>Build a playground your colonists can actually use. Swings, slides, a seesaw for one or two riders, two sizes of trampoline, a zipline, sand play, a fox spring rider, a roundabout, a playhouse, hopscotch, connected stepping courses and water play bring small everyday moments to the colony.
+
+Children gain learning and adults gain recreation. Choose Children, Adults or Everyone for each facility. Shared activities welcome company, and children sometimes celebrate after a good ride.
+
+Decorate with three sand surfaces, three rubber floor colors, low edging and fences, benches with canopies, drinking fountains and an ornamental fountain. Six ride types offer four individual color palettes.
+
+Requires RimWorld 1.6 or 1.7 and Biotech. 29 languages included. Race mods and Facial Animation are optional. Pawns retain their own bodies and clothing.</description>
+</ModMetaData>

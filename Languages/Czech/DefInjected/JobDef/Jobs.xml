@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_RideSwing.reportString>houpe se na houpačce.</LP_RideSwing.reportString>
+  <LP_RideSlide.reportString>jezdí na skluzavce.</LP_RideSlide.reportString>
+  <LP_RideSeesaw.reportString>houpe se na vahadlové houpačce.</LP_RideSeesaw.reportString>
+  <LP_PlayInSand.reportString>staví hrady z písku.</LP_PlayInSand.reportString>
+  <LP_RelaxOnBench.reportString>odpočívá na zahradní lavičce.</LP_RelaxOnBench.reportString>
+  <LP_WaitForPlayground.reportString>krátce čeká na: TargetA</LP_WaitForPlayground.reportString>
+  <LP_BounceTrampoline.reportString>skáče na: TargetA</LP_BounceTrampoline.reportString>
+  <LP_RideZipline.reportString>jede na: TargetA</LP_RideZipline.reportString>
+  <LP_RideSpringFox.reportString>houpe se na: TargetA</LP_RideSpringFox.reportString>
+  <LP_SpinRoundabout.reportString>točí se na: TargetA</LP_SpinRoundabout.reportString>
+  <LP_PlayShop.reportString>hraje si na obchod u: TargetA</LP_PlayShop.reportString>
+  <LP_PlayHopscotch.reportString>skáče panáka.</LP_PlayHopscotch.reportString>
+  <LP_PlaySplashPad.reportString>hraje si ve vodních tryskách.</LP_PlaySplashPad.reportString>
+  <LP_WalkCourse.reportString>prochází překážkovou dráhu.</LP_WalkCourse.reportString>
+  <LP_BounceTogether.reportString>skáče na: TargetA</LP_BounceTogether.reportString>
+  <LP_DrinkAtFountain.reportString>pije vodu z: TargetA</LP_DrinkAtFountain.reportString>
+  <LP_CareSwing.reportString>houpe se na houpačce spolu s TargetB.</LP_CareSwing.reportString>
+  <LP_CareSeesaw.reportString>houpe se na vahadlové houpačce spolu s TargetB.</LP_CareSeesaw.reportString>
+  <LP_CareSand.reportString>staví hrady z písku spolu s TargetB.</LP_CareSand.reportString>
+  <LP_CareRoundabout.reportString>točí kolotočem spolu s TargetB.</LP_CareRoundabout.reportString>
+  <LP_CarePlayhouse.reportString>hraje si na obchod spolu s TargetB.</LP_CarePlayhouse.reportString>
+  <LP_CareBounceTogether.reportString>skáče na trampolíně spolu s TargetB.</LP_CareBounceTogether.reportString>
+  <LP_WatchChildPlay.reportString>dívá se, jak si hraje TargetB.</LP_WatchChildPlay.reportString>
+</LanguageData>

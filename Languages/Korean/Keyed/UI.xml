@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_Menu_PlaySwing>그네 타기</LP_Menu_PlaySwing>
+  <LP_Menu_PlaySlide>미끄럼틀 타기</LP_Menu_PlaySlide>
+  <LP_Menu_PlaySeesaw>시소 타기</LP_Menu_PlaySeesaw>
+  <LP_Menu_JumpTrampoline>트램펄린에서 뛰기</LP_Menu_JumpTrampoline>
+  <LP_Menu_RideZipline>집라인 타기</LP_Menu_RideZipline>
+  <LP_Menu_BuildSandcastles>모래성 쌓기</LP_Menu_BuildSandcastles>
+  <LP_Menu_RelaxBench>벤치에서 쉬기</LP_Menu_RelaxBench>
+  <LP_Menu_TakeDrink>물 마시기</LP_Menu_TakeDrink>
+  <LP_Menu_PlayCourse>이 코스 따라 놀기</LP_Menu_PlayCourse>
+  <LP_Menu_PlayAt>{0}에서 놀기</LP_Menu_PlayAt>
+  <LP_Inspect_CourseLinked>{0}칸이 이어진 코스입니다.</LP_Inspect_CourseLinked>
+  <LP_Inspect_CourseAlone>혼자 놓여 있어 아직 놀 수 없습니다. 징검돌·목재 발판·균형 통나무를 변이 맞닿게 하나 더 놓으세요.</LP_Inspect_CourseAlone>
+  <LP_Inspect_CourseCorner>다른 조각과 모서리로만 닿아 있어 이어지지 않습니다. 조각은 변이 맞닿아야 이어집니다.</LP_Inspect_CourseCorner>
+  <LP_Inspect_CourseWaiting>옆에 계획된 조각이 지어지면 이어집니다.</LP_Inspect_CourseWaiting>
+  <LP_Menu_CourseTooShort>이 코스 따라 놀기 (변이 맞닿은 조각이 하나 더 필요)</LP_Menu_CourseTooShort>
+  <LP_Place_CourseLinked>이어져서 {0}칸 코스가 됩니다</LP_Place_CourseLinked>
+  <LP_Place_CourseOccupied>이미 다른 코스 조각이 있습니다</LP_Place_CourseOccupied>
+  <LP_Place_CourseSelf>혼자서도 {0}칸 코스가 됩니다</LP_Place_CourseSelf>
+  <LP_Place_CourseCorner>모서리로만 닿으면 이어지지 않습니다. 변이 맞닿게 놓으세요</LP_Place_CourseCorner>
+  <LP_Place_CourseAlone>혼자서는 놀 수 없습니다. 변이 맞닿게 하나 더 놓으세요</LP_Place_CourseAlone>
+  <LP_Inspect_SplashClosed>물놀이 중단: 10°C 미만.</LP_Inspect_SplashClosed>
+  <LP_Inspect_SeatReturning>빈 좌석이 돌아오는 중</LP_Inspect_SeatReturning>
+  <LP_Inspect_Rider>타는 사람: {0}</LP_Inspect_Rider>
+  <LP_Inspect_ReadyOne>한 명이 탈 수 있음</LP_Inspect_ReadyOne>
+  <LP_Inspect_ReadyAny>탈 수 있음</LP_Inspect_ReadyAny>
+  <LP_Inspect_SlideRider>타는 사람: {0} — {1}</LP_Inspect_SlideRider>
+  <LP_SlidePhase_approach>다가가는 중</LP_SlidePhase_approach>
+  <LP_SlidePhase_boarding>타는 중</LP_SlidePhase_boarding>
+  <LP_SlidePhase_climbing>계단 오르는 중</LP_SlidePhase_climbing>
+  <LP_SlidePhase_platform>꼭대기</LP_SlidePhase_platform>
+  <LP_SlidePhase_seated>앉음</LP_SlidePhase_seated>
+  <LP_SlidePhase_sliding>미끄러지는 중</LP_SlidePhase_sliding>
+  <LP_SlidePhase_landing>착지</LP_SlidePhase_landing>
+  <LP_SlidePhase_finished>끝</LP_SlidePhase_finished>
+  <LP_Inspect_SwingSeats>왼쪽 자리: {0}\n오른쪽 자리: {1}</LP_Inspect_SwingSeats>
+  <LP_Inspect_SeatFree>비어 있음</LP_Inspect_SeatFree>
+  <LP_Inspect_SeesawTogether>함께 타는 중</LP_Inspect_SeesawTogether>
+  <LP_Inspect_SeesawWaiting>올라타는 중</LP_Inspect_SeesawWaiting>
+  <LP_Inspect_SeesawSolo>혼자 타는 중</LP_Inspect_SeesawSolo>
+  <LP_Inspect_SeesawFree>두 자리 비어 있음</LP_Inspect_SeesawFree>
+  <LP_Inspect_SandCastle>모래성이 지어져 있음</LP_Inspect_SandCastle>
+  <LP_Inspect_SandTower>모래 탑을 쌓는 중</LP_Inspect_SandTower>
+  <LP_Inspect_SandMound>작은 모래 더미</LP_Inspect_SandMound>
+  <LP_Inspect_SandReady>모래놀이 준비됨</LP_Inspect_SandReady>
+  <LP_Setting_ChildcarePlay>어른이 육아 업무로 아이들과 놀아주기</LP_Setting_ChildcarePlay>
+  <LP_Setting_ChildcarePlayTip>켜면 육아를 맡은 어른이 혼자 노는 아이에게 찾아갑니다. 함께 타는 기구(그네·시소·모래놀이 상자·회전 놀이대·가게 놀이집·큰 트램펄린)는 빈자리에 앉아 같이 놀고, 혼자 타는 기구는 곁에 서서 지켜봅니다. 아기와 놀아줄 때처럼 어른은 사교 오락을 조금 얻습니다. 끄면 어른은 자기 오락 시간에만 아이와 같이 놉니다.</LP_Setting_ChildcarePlayTip>
+  <LP_Setting_RecordPlay>놀이 기록(디버깅용)</LP_Setting_RecordPlay>
+  <LP_Setting_RecordPlayTip>켜면 놀이기구 이용을 모두 기록합니다. 누가 탔는지, 누구와 탔는지, 누가 지켜봤는지, 어떻게 왔는지, 함께 타는 기구를 왜 혼자 탔는지가 남습니다. 기구 정보창과 아래 '기록 보기'에서 확인할 수 있으며, 같은 내용이 아래 파일에도 적힙니다.</LP_Setting_RecordPlayTip>
+  <LP_Rec_Open>기록 보기</LP_Rec_Open>
+  <LP_Rec_Title>놀이 기록</LP_Rec_Title>
+  <LP_Rec_NoMap>기록을 보려면 정착지 지도를 불러오세요.</LP_Rec_NoMap>
+  <LP_Why_Other>다른 곳에 있음</LP_Why_Other>
+  <LP_Why_Drafted>징집됨</LP_Why_Drafted>
+  <LP_Why_Downed>쓰러짐</LP_Why_Downed>
+  <LP_Why_Mental>정신 이상</LP_Why_Mental>
+  <LP_Why_Burning>불붙음</LP_Why_Burning>
+  <LP_Why_Ordered>지시받은 일 중</LP_Why_Ordered>
+  <LP_Why_Busy>바쁨({0})</LP_Why_Busy>
+  <LP_Why_Gathering>모임·무리 중</LP_Why_Gathering>
+  <LP_Why_Fighting>싸우는 중</LP_Why_Fighting>
+  <LP_Why_Needs>곧 먹거나 자야 함</LP_Why_Needs>
+  <LP_Why_NotPlayTime>놀 시간 아님</LP_Why_NotPlayTime>
+  <LP_Why_JoyFull>즐거움 가득</LP_Why_JoyFull>
+  <LP_Why_PlayCooldown>방금 놂({0}시간 뒤 다시)</LP_Why_PlayCooldown>
+  <LP_Why_CareSettingOff>모드 설정에서 육아 놀아 주기 꺼짐</LP_Why_CareSettingOff>
+  <LP_Why_NotWorkHour>일 시간 아님</LP_Why_NotWorkHour>
+  <LP_Why_CannotChildcare>육아를 못 함</LP_Why_CannotChildcare>
+  <LP_Why_ChildcareOff>작업 탭에서 육아 꺼짐</LP_Why_ChildcareOff>
+  <LP_Why_CallCooldown>최근에 불림({0}시간 뒤 다시)</LP_Why_CallCooldown>
+  <LP_Why_BeingCalled>다른 아이가 부르는 중</LP_Why_BeingCalled>
+  <LP_Why_Dislike>사이 나쁨(호감 {0})</LP_Why_Dislike>
+  <LP_Why_TooFar>너무 멂({0}초, 한도 {1}초)</LP_Why_TooFar>
+  <LP_Why_NotAllowedFun>이런 놀이가 금지됨(작위)</LP_Why_NotAllowedFun>
+  <LP_Why_NoWatchSpot>지켜볼 자리 없음</LP_Why_NoWatchSpot>
+  <LP_Why_NoSeat>기구에 자리나 길 없음</LP_Why_NoSeat>
+  <LP_Rec_CallerCooldown>이 아이가 최근에 누구를 부름({0}시간 뒤 다시)</LP_Rec_CallerCooldown>
+  <LP_Rec_NoFriendSite>근처에 두 자리 빈 함께 타는 기구 없음</LP_Rec_NoFriendSite>
+  <LP_Rec_NoChildren>다른 아이 없음</LP_Rec_NoChildren>
+  <LP_Rec_Friends>친구 후보: {0}</LP_Rec_Friends>
+  <LP_Rec_SomeoneThere>이미 누가 타거나 오는 중</LP_Rec_SomeoneThere>
+  <LP_Rec_Called>{0} 부름({1})</LP_Rec_Called>
+  <LP_Rec_CalledBy>{0}의 부름</LP_Rec_CalledBy>
+  <LP_Rec_NoAdults>어른 없음</LP_Rec_NoAdults>
+  <LP_Rec_Adults>어른 후보: {0}</LP_Rec_Adults>
+  <LP_Rec_Kind_Friend>친구</LP_Rec_Kind_Friend>
+  <LP_Rec_Kind_Care>육아</LP_Rec_Kind_Care>
+  <LP_Rec_Kind_Watch>지켜보기</LP_Rec_Kind_Watch>
+  <LP_Rec_Kind_Recreation>오락</LP_Rec_Kind_Recreation>
+  <LP_Rec_Hold>입구에서 {0}초 기다림: {1}</LP_Rec_Hold>
+  <LP_Rec_HoldCap>10초 다 기다림</LP_Rec_HoldCap>
+  <LP_Rec_HoldRiding>다른 사람이 먼저 탐</LP_Rec_HoldRiding>
+  <LP_Rec_HoldLate>{0} 제시간에 못 옴</LP_Rec_HoldLate>
+  <LP_Rec_HoldArrivedName>{0} 도착</LP_Rec_HoldArrivedName>
+  <LP_Rec_HoldArrived>상대가 도착함</LP_Rec_HoldArrived>
+  <LP_Rec_CompanionMissed>{0}(을)를 불렀지만 같이 안 탐(지금: {1})</LP_Rec_CompanionMissed>
+  <LP_Rec_WhyUnknown>{0}(으)로 옴, 다른 사람은 안 옴</LP_Rec_WhyUnknown>
+  <LP_Rec_Src_Unknown>알 수 없음</LP_Rec_Src_Unknown>
+  <LP_Rec_Src_Learning>배움 놀이</LP_Rec_Src_Learning>
+  <LP_Rec_Src_Idle>한가할 때</LP_Rec_Src_Idle>
+  <LP_Rec_Src_Invitation>초대받음</LP_Rec_Src_Invitation>
+  <LP_Rec_Src_Queue>줄 서서</LP_Rec_Src_Queue>
+  <LP_Rec_Src_FriendCall>친구가 부름</LP_Rec_Src_FriendCall>
+  <LP_Rec_Src_CareCall>불려 옴(육아)</LP_Rec_Src_CareCall>
+  <LP_Rec_Src_WatchCall>지켜보러 불려 옴</LP_Rec_Src_WatchCall>
+  <LP_Rec_Src_RecreationCall>불려 옴(오락)</LP_Rec_Src_RecreationCall>
+  <LP_Rec_Src_CareWork>육아 일</LP_Rec_Src_CareWork>
+  <LP_Rec_Src_Recreation>오락</LP_Rec_Src_Recreation>
+  <LP_Rec_Src_Ordered>지시</LP_Rec_Src_Ordered>
+  <LP_Rec_Mode_ChildAlone>아이 혼자</LP_Rec_Mode_ChildAlone>
+  <LP_Rec_Mode_Children>아이끼리</LP_Rec_Mode_Children>
+  <LP_Rec_Mode_WithCare>육아 어른과</LP_Rec_Mode_WithCare>
+  <LP_Rec_Mode_WithRec>어른과(오락)</LP_Rec_Mode_WithRec>
+  <LP_Rec_Mode_Watched>어른이 지켜봄</LP_Rec_Mode_Watched>
+  <LP_Rec_Mode_AdultAlone>어른 혼자</LP_Rec_Mode_AdultAlone>
+  <LP_Rec_Mode_AdultCare>어른이 아이와 놀아 줌</LP_Rec_Mode_AdultCare>
+  <LP_Rec_Mode_AdultWithChild>어른이 아이와</LP_Rec_Mode_AdultWithChild>
+  <LP_Rec_Mode_Adults>어른끼리</LP_Rec_Mode_Adults>
+  <LP_Rec_Role_child>아이</LP_Rec_Role_child>
+  <LP_Rec_Role_care>육아</LP_Rec_Role_care>
+  <LP_Rec_Role_adult>어른</LP_Rec_Role_adult>
+  <LP_Rec_JustNow>방금</LP_Rec_JustNow>
+  <LP_Rec_Ago>{0}시간 전</LP_Rec_Ago>
+  <LP_Rec_Inspect>기록(최근 3일): {0}번 ({1})</LP_Rec_Inspect>
+  <LP_Rec_InspectAlone>혼자 탐 {0}번</LP_Rec_InspectAlone>
+  <LP_Rec_File>기록 파일: {0}</LP_Rec_File>
+  <LP_Rec_Off>놀이 기록이 꺼져 있습니다. 옵션 → 모드 설정 → Little Playgrounds 에서 켜세요.</LP_Rec_Off>
+  <LP_Rec_Page_Rides>기구별</LP_Rec_Page_Rides>
+  <LP_Rec_Page_Recent>최근 이용</LP_Rec_Page_Recent>
+  <LP_Rec_Page_Decisions>놀이 결정</LP_Rec_Page_Decisions>
+  <LP_Rec_Page_Children>아이별 지금</LP_Rec_Page_Children>
+  <LP_Rec_OnlySelected>선택한 기구만</LP_Rec_OnlySelected>
+  <LP_Rec_Never>없음</LP_Rec_Never>
+  <LP_Rec_RideLine>최근 3일 {0}번: {1}</LP_Rec_RideLine>
+  <LP_Rec_Last>마지막 {0}</LP_Rec_Last>
+  <LP_Rec_With>함께 {0}</LP_Rec_With>
+  <LP_Rec_Watchers>지켜봄 {0}</LP_Rec_Watchers>
+  <LP_Rec_Seconds>{0}초</LP_Rec_Seconds>
+  <LP_Rec_WhyAlone>혼자인 이유: {0}</LP_Rec_WhyAlone>
+  <LP_Rec_HowCame>경위: {0}</LP_Rec_HowCame>
+  <LP_Rec_ChildLine>배움 {0} · 시간표 {1} · 지금 {2} · 마지막 놀이 {3} · 놀이터 {4} · 부르기 {5}</LP_Rec_ChildLine>
+  <LP_Rec_Ready>가능</LP_Rec_Ready>
+  <LP_Rec_ReadyIn>{0}시간 뒤</LP_Rec_ReadyIn>
+  <LP_Rec_Drink>물 마시러 감</LP_Rec_Drink>
+  <LP_Rec_Joined>{0}에 초대받아 감</LP_Rec_Joined>
+  <LP_Rec_ToPartner>짝을 기다리는 {0}(으)로 감</LP_Rec_ToPartner>
+  <LP_Rec_Chose>{0} 고름</LP_Rec_Chose>
+  <LP_Rec_RunRoll>뛰어놀기 굴림(30%)</LP_Rec_RunRoll>
+  <LP_Rec_Running>뛰어놂</LP_Rec_Running>
+  <LP_Rec_Queue>{0} 줄 섬</LP_Rec_Queue>
+  <LP_Rec_Nobody>아무도 안 부름: {0}</LP_Rec_Nobody>
+  <LP_Rec_FromQueue>줄 서서 {0}초 기다린 뒤</LP_Rec_FromQueue>
+  <LP_Setting_FacialPlay>놀이 중 Facial Animation 표정 연결</LP_Setting_FacialPlay>
+  <LP_Setting_FacialPlayTip>설치된 Facial Animation 얼굴 팩에 미소가 있을 때만 사용합니다. 끄면 놀이터의 표정 연결만 즉시 해제되며 다른 표정 기능은 유지됩니다. 새 얼굴 그림을 추가하지 않습니다.</LP_Setting_FacialPlayTip>
+  <LP_Setting_FacialPlayError>오류로 표정 연결을 중지했습니다. 다시 시도하려면 이 옵션을 껐다 켜 주세요.</LP_Setting_FacialPlayError>
+  <LP_Setting_Sounds>놀이기구 효과음</LP_Setting_Sounds>
+  <LP_Setting_SoundsTip>놀 때 나는 작은 소리입니다. 그네 삐걱임, 트램펄린 튕김, 모래·물놀이, 급수대 소리가 납니다. 화면을 가까이 확대했을 때만 들리고, 게임 효과음 음량을 따르며 일시정지 중에는 나지 않습니다. 미끄럼틀과 볼풀은 소리가 없습니다.</LP_Setting_SoundsTip>
+  <LP_Setting_SoundVolume>놀이기구 효과음 크기: {0}</LP_Setting_SoundVolume>
+  <LP_Setting_SoundRides>놀이기구별 소리:</LP_Setting_SoundRides>
+  <LP_Setting_RunAround>아이들이 가끔 기구를 타지 않고 그 주변을 뛰어다니기</LP_Setting_RunAround>
+  <LP_Setting_RunAroundTip>기구를 고른 아이가 타는 대신 그 주변을 뛰어다닐 수 있습니다. 배움은 그네를 탄 만큼 찹니다. 함께 타는 기구면 친구도 같이 뛰고, 그렇지 않으면 육아를 맡은 어른이 와서 지켜봅니다. 기구 옆에 마른 빈 땅(물·진흙 제외)이 없으면 그냥 탑니다.</LP_Setting_RunAroundTip>
+  <LP_Setting_RunAroundChance>아이가 기구를 고를 때마다 뛰어다닐 확률: {0}</LP_Setting_RunAroundChance>
+  <LP_Setting_RunAroundIndoors>지붕 아래에서도 뛰어다니기</LP_Setting_RunAroundIndoors>
+  <LP_Setting_RunAroundIndoorsTip>끄면 지붕 없는 빈 땅에서만 뛰어서, 실내 기구는 그냥 탑니다. 놀이터 천막은 지붕으로 치지 않습니다. 켜면 방에 공간이 있을 때 실내 기구 주변에서도 뜁니다.</LP_Setting_RunAroundIndoorsTip>
+  <LP_Setting_CouplePlay>연인끼리 함께 놀기</LP_Setting_CouplePlay>
+  <LP_Setting_CouplePlayTip>어른이 둘이 탈 수 있는 기구나 벤치를 고르면 연인을 부릅니다. 연인이 쉬거나 평범한 일 사이일 때 옵니다. 둘 다 할 일이 없을 때도 가끔 스스로 데이트하러 갑니다(하루 1번까지). 서로 기다렸다 같이 놀고, 둘 다 기분과 호감이 조금 오릅니다.</LP_Setting_CouplePlayTip>
+  <LP_Setting_RequireResearch>짓기 전에 {0} 연구 필요</LP_Setting_RequireResearch>
+  <LP_Setting_RequireResearchTip>켜면 이 모드가 더하는 모든 것(기구·벤치·울타리·바닥)은 {0} 연구를 마친 뒤에만 지을 수 있습니다. 보통 시작은 이 연구를 처음부터 갖고 있어서, 부족처럼 이 연구 없이 시작한 정착지만 먼저 연구합니다. 이미 지은 것은 그대로 남습니다. 끄면 처음부터 모두 지을 수 있습니다.</LP_Setting_RequireResearchTip>
+  <LP_Setting_ToddlerPlay>토들러도 놀이기구에서 놀기</LP_Setting_ToddlerPlay>
+  <LP_Setting_ToddlerPlayMissing>Toddlers 모드 필요</LP_Setting_ToddlerPlayMissing>
+  <LP_Setting_ToddlerPlayTip>Toddlers 모드가 있으면 걸을 수 있는 토들러(비틀비틀 걷는 단계 포함)가 이 기구들에서 놉니다: {0}. 기어다니는 토들러는 타지 않습니다. 끄면 토들러는 어떤 기구도 쓰지 않습니다. Toddlers 모드가 없으면 아무 효과가 없습니다.</LP_Setting_ToddlerPlayTip>
+</LanguageData>

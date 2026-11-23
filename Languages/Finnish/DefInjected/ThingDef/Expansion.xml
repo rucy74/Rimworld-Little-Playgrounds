@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_SteppingStump.label>leikkikentän puuaskelma</LP_SteppingStump.label>
+  <LP_SteppingStump.description>Sahatusta puusta tehty matala astinlaatta. Astinkivet, puuaskelmat ja tasapainotukit yhdistyvät, kun niiden reunat koskettavat. Radan on katettava vähintään kaksi ruutua (yksi tasapainotukki yksinään kattaa kaksi), eivätkä vain kulmista koskettavat palat yhdisty. Lapset ja aikuiset seuraavat yhtenäistä reittiä.</LP_SteppingStump.description>
+  <LP_SpringFox.label>ketunmuotoinen jousikeinu</LP_SpringFox.label>
+  <LP_SpringFox.description>Ketun muotoinen keinuva lelu jouseen kiinnitettynä. Yksi lapsi tai aikuinen voi käyttää sitä yksin. Hahmo säilyttää normaalin vartalonsa ja nojaa edestakaisin lelun kanssa.</LP_SpringFox.description>
+  <LP_Roundabout.label>tamminen leikkikaruselli</LP_Roundabout.label>
+  <LP_Roundabout.description>Pyöreä tamminen leikkipaikkakaruselli salvianvihreillä kaiteilla, jopa neljälle hengelle. Yksi henkilö voi pyörittää sitä yksin. Se hidastaa ja pysähtyy, kun joku nousee kyytiin tai poistuu.</LP_Roundabout.description>
+  <LP_Playhouse.label>pikkukaupan leikkimökki</LP_Playhouse.label>
+  <LP_Playhouse.description>Avoin leikkimökki, jossa on pieni kauppatiski. Leiki kauppaa yksin tai ota toinen vierailija vastaan ikkunalla. Lapset oppivat ja aikuiset saavat hupia.</LP_Playhouse.description>
+  <LP_DrinkingFountain.label>kahden korkeuden juoma-allas</LP_DrinkingFountain.label>
+  <LP_DrinkingFountain.description>Korkea ja matala juomakulho. Lapset voivat pysähtyä juomaan vähän vettä leikin jälkeen; aikuiset valitsevat sen myös huviksi. Pieni vesisuihku virtaa käytön aikana. Tämä ei lisää janon tarvetta. Rakennetaan mistä tahansa kivipaloista; sen muoto ja värit pysyvät samoina, mitä kiveä käytätkin.</LP_DrinkingFountain.description>
+  <LP_Hopscotch.label>pihan ruutuhyppely</LP_Hopscotch.label>
+  <LP_Hopscotch.description>Kahdeksan maalattua hyppyruutua. Lapsi tai aikuinen hyppii numeroita pitkin ja palaa takaisin, leikkien yksin odottamatta kumppania. Rakennetaan mistä tahansa kivipaloista; sen muoto ja värit pysyvät samoina, mitä kiveä käytätkin.</LP_Hopscotch.description>
+  <LP_SplashPad.label>vesisuihkuleikkipaikka</LP_SplashPad.label>
+  <LP_SplashPad.description>Maan tason vesisuihkut suihkuttavat toistuvasti, kun jopa kolme ihmistä liikkuu leikkialueella. Jokainen voi leikkiä myös yksin. Tämä toiminta pysähtyy alle 10 celsiusasteessa eikä voi alkaa, kun pinta on lumen peitossa. Rakennetaan mistä tahansa kivipaloista; sen muoto ja värit pysyvät samoina, mitä kiveä käytätkin.</LP_SplashPad.description>
+  <LP_SteppingStone.label>leikkikentän astinkivi</LP_SteppingStone.label>
+  <LP_SteppingStone.description>Matala, pyöreä astinkivi. Astinkivet, puuaskelmat ja tasapainotukit yhdistyvät, kun niiden reunat koskettavat. Radan on katettava vähintään kaksi ruutua (yksi tasapainotukki yksinään kattaa kaksi), eivätkä vain kulmista koskettavat palat yhdisty. Vierailijat seuraavat yhtenäistä haaraa ja palaavat. Jokaiselle vierailulle varataan enintään 24 palan reitti. Rakennetaan mistä tahansa kivipaloista; sen muoto ja värit pysyvät samoina, mitä kiveä käytätkin.</LP_SteppingStone.description>
+  <LP_BalanceLog.label>tasapainotukki</LP_BalanceLog.label>
+  <LP_BalanceLog.description>Matala tamminen tasapainotukki, kahden ruudun pituinen; sen voi asettaa pitkittäin tai poikittain. Astinkivet, puuaskelmat ja tasapainotukit yhdistyvät, kun niiden reunat koskettavat. Radan on katettava vähintään kaksi ruutua (yksi tasapainotukki yksinään kattaa kaksi), eivätkä vain kulmista koskettavat palat yhdisty. Vierailijat tasapainoilevat yhtenäistä haaraa pitkin ja palaavat takaisin. Kaikkien radan ruutujen on pysyttävä vapaina.</LP_BalanceLog.description>
+  <LP_PlayFence.label>tamminen leikkikentän aita</LP_PlayFence.label>
+  <LP_PlayFence.description>Matalat tammisäleet, jotka on liitetty nelikulmaisiin puupylväisiin. Vierekkäiset aidan osat yhdistyvät. Tämä on koristeellinen leikkikentän raja, jonka yli voi astua, ei eläinten karsinan este.</LP_PlayFence.description>
+  <LP_PlayEntrance.label>leikkikentän sisäänkäynti</LP_PlayEntrance.label>
+  <LP_PlayEntrance.description>Aina auki oleva sisäänkäynti, jossa on pieni Little Playgrounds -kyltti. Kutsuva aukko matalalle puutarha-aidalle.</LP_PlayEntrance.description>
+  <LP_GardenFountain.label>puutarhan suihkulähde</LP_GardenFountain.label>
+  <LP_GardenFountain.description>Matala vaalea kiviallas, jossa pehmeästi virtaava vesi. Puutarhan keskipiste istuinalueen lähelle. Rakennetaan mistä tahansa kivipaloista; sen muoto ja värit pysyvät samoina, mitä kiveä käytätkin.</LP_GardenFountain.description>
+</LanguageData>

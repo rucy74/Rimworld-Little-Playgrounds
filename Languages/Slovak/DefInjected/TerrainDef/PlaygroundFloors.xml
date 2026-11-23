@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PlaySandLight.label>svetlý piesok na ihrisko</LP_PlaySandLight.label>
+  <LP_PlaySandLight.description>Bledý piesok s jemnými plytkými vlnkami pre svetlé ihrisko. Toto je tretí pieskový povrch vedľa jemného piesku a zrnitého piesku.</LP_PlaySandLight.description>
+  <LP_PlaySand.label>jemný piesok na ihrisku</LP_PlaySand.label>
+  <LP_PlaySand.description>Usadený teplý béžový piesok na ihrisku s jemnými zrnami a tichými plytkými variáciami.</LP_PlaySand.description>
+  <LP_PlaySandGrainy.label>zrnitý piesok na ihrisku</LP_PlaySandGrainy.label>
+  <LP_PlaySandGrainy.description>Teplý piesok na ihrisku s viditeľnými zrnami a jemne zhrabnutým povrchom. Viac textúrovaná alternatíva k jemnému piesku na ihrisku.</LP_PlaySandGrainy.description>
+  <LP_RubberSage.label>šalviovozelený gumový povrch</LP_RubberSage.label>
+  <LP_RubberSage.description>Matný povrch ihriska s gumovou drvinou. Jeho jemná textúra sa spája bez mriežky dlaždíc. Dostupné vo farbách šalvia, smotana a marhuľa.</LP_RubberSage.description>
+  <LP_RubberCream.label>krémový gumový povrch</LP_RubberCream.label>
+  <LP_RubberCream.description>Matný povrch ihriska s gumovou drvinou. Jeho jemná textúra sa spája bez mriežky dlaždíc. Dostupné vo farbách šalvia, smotana a marhuľa.</LP_RubberCream.description>
+  <LP_RubberApricot.label>marhuľový gumový povrch</LP_RubberApricot.label>
+  <LP_RubberApricot.description>Matný povrch ihriska s gumovou drvinou. Jeho jemná textúra sa spája bez mriežky dlaždíc. Dostupné vo farbách šalvia, smotana a marhuľa.</LP_RubberApricot.description>
+</LanguageData>

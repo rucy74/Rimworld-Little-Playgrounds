@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PaletteButton>Esquema de colores</LP_PaletteButton>
+  <LP_PaletteDescription>Elige los colores de este parque infantil. Actual: {0}. Cambia de apariencia inmediatamente; los costos de construcción y el rendimiento siguen siendo los mismos.</LP_PaletteDescription>
+  <LP_PaletteCurrent>Esquema de colores: {0}</LP_PaletteCurrent>
+  <LP_PaletteLegacy>Acabado original</LP_PaletteLegacy>
+  <LP_PaletteBlue>Madera + azul</LP_PaletteBlue>
+  <LP_PaletteYellow>Madera + amarillo</LP_PaletteYellow>
+  <LP_PaletteSage>Madera + verde salvia</LP_PaletteSage>
+  <LP_PaletteClassic>Colores clásicos</LP_PaletteClassic>
+</LanguageData>

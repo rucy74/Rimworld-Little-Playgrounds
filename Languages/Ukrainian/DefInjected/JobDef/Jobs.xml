@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_RideSwing.reportString>грає на гойдалках.</LP_RideSwing.reportString>
+  <LP_RideSlide.reportString>грає на гірці.</LP_RideSlide.reportString>
+  <LP_RideSeesaw.reportString>грає на балансирі.</LP_RideSeesaw.reportString>
+  <LP_PlayInSand.reportString>будує замки з піску.</LP_PlayInSand.reportString>
+  <LP_RelaxOnBench.reportString>відпочиває на садовій лавці.</LP_RelaxOnBench.reportString>
+  <LP_WaitForPlayground.reportString>трохи чекає на TargetA.</LP_WaitForPlayground.reportString>
+  <LP_BounceTrampoline.reportString>підстрибує на TargetA.</LP_BounceTrampoline.reportString>
+  <LP_RideZipline.reportString>катається на TargetA.</LP_RideZipline.reportString>
+  <LP_RideSpringFox.reportString>гойдається на TargetA.</LP_RideSpringFox.reportString>
+  <LP_SpinRoundabout.reportString>обертається на TargetA.</LP_SpinRoundabout.reportString>
+  <LP_PlayShop.reportString>грає в магазин у TargetA.</LP_PlayShop.reportString>
+  <LP_PlayHopscotch.reportString>грає в класики.</LP_PlayHopscotch.reportString>
+  <LP_PlaySplashPad.reportString>грає у струменях води.</LP_PlaySplashPad.reportString>
+  <LP_WalkCourse.reportString>проходить смугу перешкод.</LP_WalkCourse.reportString>
+  <LP_BounceTogether.reportString>підстрибує на TargetA.</LP_BounceTogether.reportString>
+  <LP_DrinkAtFountain.reportString>п'є воду з TargetA.</LP_DrinkAtFountain.reportString>
+  <LP_CareSwing.reportString>гойдається на гойдалках разом із TargetB.</LP_CareSwing.reportString>
+  <LP_CareSeesaw.reportString>грає на балансирі разом із TargetB.</LP_CareSeesaw.reportString>
+  <LP_CareSand.reportString>будує замки з піску разом із TargetB.</LP_CareSand.reportString>
+  <LP_CareRoundabout.reportString>крутить карусель разом із TargetB.</LP_CareRoundabout.reportString>
+  <LP_CarePlayhouse.reportString>грає в магазин разом із TargetB.</LP_CarePlayhouse.reportString>
+  <LP_CareBounceTogether.reportString>підстрибує на батуті з TargetB.</LP_CareBounceTogether.reportString>
+  <LP_WatchChildPlay.reportString>дивиться, як грає TargetB.</LP_WatchChildPlay.reportString>
+</LanguageData>

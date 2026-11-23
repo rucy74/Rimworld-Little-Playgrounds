@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PlaySandLight.label>hele mänguväljaku liiv</LP_PlaySandLight.label>
+  <LP_PlaySandLight.description>Heleda ja madala lainetusega kahvatu liiv särava mänguväljaku jaoks. See on peene liiva ja teralise liiva kõrval kolmas liivapind.</LP_PlaySandLight.description>
+  <LP_PlaySand.label>peen mänguväljaku liiv</LP_PlaySand.label>
+  <LP_PlaySand.description>Peeneteraline settinud soe beež mänguväljakuliiv rahuliku, madala vaheldusega.</LP_PlaySand.description>
+  <LP_PlaySandGrainy.label>teraline mänguväljaku liiv</LP_PlaySandGrainy.label>
+  <LP_PlaySandGrainy.description>Soe mänguväljaku liiv nähtavate teradega ja kergelt riisutud pinnaga. Tekstuursem alternatiiv peenele mänguväljaku liivale.</LP_PlaySandGrainy.description>
+  <LP_RubberSage.label>salveiroheline kummipõrand</LP_RubberSage.label>
+  <LP_RubberSage.description>Matt kummipuru mänguväljaku pind. Selle peen tekstuur liitub ilma plaatideta. Saadaval salveirohelise, kreemja ja aprikoosikarva toonina.</LP_RubberSage.description>
+  <LP_RubberCream.label>kreemjas kummipõrand</LP_RubberCream.label>
+  <LP_RubberCream.description>Matt kummipuru mänguväljaku pind. Selle peen tekstuur liitub ilma plaatideta. Saadaval salveirohelise, kreemja ja aprikoosikarva toonina.</LP_RubberCream.description>
+  <LP_RubberApricot.label>aprikoosikarva kummipõrand</LP_RubberApricot.label>
+  <LP_RubberApricot.description>Matt kummipuru mänguväljaku pind. Selle peen tekstuur liitub ilma plaatideta. Saadaval salveirohelise, kreemja ja aprikoosikarva toonina.</LP_RubberApricot.description>
+</LanguageData>

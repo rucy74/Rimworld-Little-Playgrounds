@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BuildingBase">
+    <defName>LP_SharedTrampoline</defName><label>large playground trampoline</label>
+    <description>A broad trampoline for one, two or three visitors. Children and adults bounce between landing spots at their own pace, keeping clear of one another. Children sometimes turn in a high jump. Children gain learning and adults gain recreation. Keep the southern and northern entrances clear.</description>
+    <thingClass>LittlePlaygrounds.Building_PlaygroundFacility</thingClass>
+    <graphicData><texPath>ActiveRideIcons/SharedTrampoline</texPath><graphicClass>LittlePlaygrounds.Graphic_PlaygroundPalette</graphicClass><drawSize>(6.2544,6.2544)</drawSize></graphicData>
+    <size>(5,5)</size><rotatable>false</rotatable><drawerType>RealtimeOnly</drawerType><tickerType>Normal</tickerType>
+    <passability>Standable</passability><pathCost>45</pathCost><fillPercent>0.1</fillPercent><altitudeLayer>Building</altitudeLayer>
+    <designationCategory>Joy</designationCategory>
+    <statBases><MaxHitPoints>260</MaxHitPoints><WorkToBuild>4000</WorkToBuild><Mass>85</Mass><Flammability>0.3</Flammability><Beauty>7</Beauty></statBases>
+    <costList><Steel>130</Steel><Cloth>80</Cloth></costList>
+    <comps><li Class="CompProperties_Forbiddable"/><li Class="LittlePlaygrounds.CompProperties_PlaygroundPalette"/><li Class="LittlePlaygrounds.CompProperties_PlaygroundAccess"/><li Class="LittlePlaygrounds.CompProperties_PlaygroundDesign"/></comps>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded><building><isEdifice>false</isEdifice><joyKind>Gaming_Dexterity</joyKind></building>
+    <modExtensions><li Class="LittlePlaygrounds.ExpansionProperties"><kind>SharedTrampoline</kind><seats>3</seats></li></modExtensions>
+  </ThingDef>
+  <JoyGiverDef ParentName="LP_AdultPlayBase"><defName>LP_AdultSharedTrampoline</defName><thingDefs><li>LP_SharedTrampoline</li></thingDefs><jobDef>LP_BounceTogether</jobDef></JoyGiverDef>
+</Defs>

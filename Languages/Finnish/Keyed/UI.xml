@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Menu_PlaySwing>Leiki keinussa</LP_Menu_PlaySwing>
+  <LP_Menu_PlaySlide>Leiki liukumäellä</LP_Menu_PlaySlide>
+  <LP_Menu_PlaySeesaw>Leiki keinulaudalla</LP_Menu_PlaySeesaw>
+  <LP_Menu_JumpTrampoline>Hypi trampoliinilla</LP_Menu_JumpTrampoline>
+  <LP_Menu_RideZipline>Laske vaijeriliukua</LP_Menu_RideZipline>
+  <LP_Menu_BuildSandcastles>Rakenna hiekkalinnoja</LP_Menu_BuildSandcastles>
+  <LP_Menu_RelaxBench>Rentoudu penkillä</LP_Menu_RelaxBench>
+  <LP_Menu_TakeDrink>Juo vettä</LP_Menu_TakeDrink>
+  <LP_Menu_PlayCourse>Leiki tällä radalla</LP_Menu_PlayCourse>
+  <LP_Menu_PlayAt>Leiki leikkivälineellä {0}</LP_Menu_PlayAt>
+  <LP_Inspect_CourseLinked>Rata, jossa on {0} yhdistettyä ruutua.</LP_Inspect_CourseLinked>
+  <LP_Inspect_CourseAlone>Yksinään, joten kukaan ei voi vielä leikkiä tässä. Aseta toinen astinkivi, puuaskelma tai tasapainotukki sen viereen reuna reunaa vasten.</LP_Inspect_CourseAlone>
+  <LP_Inspect_CourseCorner>Koskettaa toista palaa vain kulmasta, eikä se yhdistä. Palat yhdistyvät reunasta reunaan.</LP_Inspect_CourseCorner>
+  <LP_Inspect_CourseWaiting>Yhdistyy viereiseen suunniteltuun palaan, kun se on rakennettu.</LP_Inspect_CourseWaiting>
+  <LP_Menu_CourseTooShort>Leiki tällä radalla (vaatii toisen palan reunasta reunaan)</LP_Menu_CourseTooShort>
+  <LP_Place_CourseLinked>Liittyy {0} ruudun rataan</LP_Place_CourseLinked>
+  <LP_Place_CourseOccupied>Tässä on jo toinen radan pala</LP_Place_CourseOccupied>
+  <LP_Place_CourseSelf>Muodostaa yksinään {0} ruudun radan</LP_Place_CourseSelf>
+  <LP_Place_CourseCorner>Kulmakosketus ei yhdistä, aseta se reuna reunaa vasten</LP_Place_CourseCorner>
+  <LP_Place_CourseAlone>Ei voi käyttää yksinään, aseta toinen pala reuna reunaa vasten</LP_Place_CourseAlone>
+  <LP_Inspect_SplashClosed>Vesileikki suljettu: alle 10°C.</LP_Inspect_SplashClosed>
+  <LP_Inspect_SeatReturning>Tyhjä istuin palaa lähtöön</LP_Inspect_SeatReturning>
+  <LP_Inspect_Rider>Käyttäjä: {0}</LP_Inspect_Rider>
+  <LP_Inspect_ReadyOne>Valmiina yhdelle käyttäjälle</LP_Inspect_ReadyOne>
+  <LP_Inspect_ReadyAny>Valmiina käyttäjälle</LP_Inspect_ReadyAny>
+  <LP_Inspect_SlideRider>Käyttäjä: {0} — {1}</LP_Inspect_SlideRider>
+  <LP_SlidePhase_approach>tulossa</LP_SlidePhase_approach>
+  <LP_SlidePhase_boarding>nousee</LP_SlidePhase_boarding>
+  <LP_SlidePhase_climbing>kiipeily</LP_SlidePhase_climbing>
+  <LP_SlidePhase_platform>tasanne</LP_SlidePhase_platform>
+  <LP_SlidePhase_seated>istuu</LP_SlidePhase_seated>
+  <LP_SlidePhase_sliding>liukuu</LP_SlidePhase_sliding>
+  <LP_SlidePhase_landing>laskeutuminen</LP_SlidePhase_landing>
+  <LP_SlidePhase_finished>valmis</LP_SlidePhase_finished>
+  <LP_Inspect_SwingSeats>Vasen istuin: {0}\nOikea istuin: {1}</LP_Inspect_SwingSeats>
+  <LP_Inspect_SeatFree>saatavilla</LP_Inspect_SeatFree>
+  <LP_Inspect_SeesawTogether>Yhdessä leikkiminen</LP_Inspect_SeesawTogether>
+  <LP_Inspect_SeesawWaiting>Nousemassa</LP_Inspect_SeesawWaiting>
+  <LP_Inspect_SeesawSolo>Yksin leikkiminen</LP_Inspect_SeesawSolo>
+  <LP_Inspect_SeesawFree>Kaksi paikkaa vapaana</LP_Inspect_SeesawFree>
+  <LP_Inspect_SandCastle>Tänne rakennettu hiekkalinna</LP_Inspect_SandCastle>
+  <LP_Inspect_SandTower>Hiekkatorni muotoutuu</LP_Inspect_SandTower>
+  <LP_Inspect_SandMound>Pieni hiekkakasa</LP_Inspect_SandMound>
+  <LP_Inspect_SandReady>Valmiina hiekkaleikkiin</LP_Inspect_SandReady>
+  <LP_Setting_ChildcarePlay>Aikuiset leikkivät lasten kanssa lastenhoitona</LP_Setting_ChildcarePlay>
+  <LP_Setting_ChildcarePlayTip>Kun tämä on käytössä, lastenhoitoon määrätty aikuinen menee yksin leikkivän lapsen luo. Yhteisillä leikkivälineillä (keinu, keinulauta, hiekkalaatikko, karuselli, leikkimökki, iso trampoliini) aikuinen ottaa vapaan paikan ja leikkii mukana; yhden hengen leikkivälineiden vieressä aikuinen seisoo ja katsoo. Kuten leikkiessään vauvan kanssa, aikuinen saa vähän sosiaalista hupia. Kun asetus on pois päältä, aikuiset leikkivät lasten kanssa vain omalla hupiajallaan.</LP_Setting_ChildcarePlayTip>
+  <LP_Setting_RecordPlay>Leikkikenttäloki (virheenkorjausta varten)</LP_Setting_RecordPlay>
+  <LP_Setting_RecordPlayTip>Kun tämä on käytössä, tämä loki tallentaa jokaisen leikkipaikkakäynnin: kuka leikki, kuka liittyi tai katsoi, kuinka he saapuivat ja miksi useiden istuinten laitteita käytettiin yksin. Lue laitetietopaneeli tai valitse Näytä loki alta. Samat tiedot tallennetaan myös alla olevaan tiedostoon.</LP_Setting_RecordPlayTip>
+  <LP_Rec_Open>Näytä loki</LP_Rec_Open>
+  <LP_Rec_Title>Leikkikenttäloki</LP_Rec_Title>
+  <LP_Rec_NoMap>Lataa asutuskartta nähdäksesi sen leikkipaikkalokin.</LP_Rec_NoMap>
+  <LP_Why_Other>ei täällä</LP_Why_Other>
+  <LP_Why_Drafted>värvätty</LP_Why_Drafted>
+  <LP_Why_Downed>maissa</LP_Why_Downed>
+  <LP_Why_Mental>mielentilassa</LP_Why_Mental>
+  <LP_Why_Burning>tulessa</LP_Why_Burning>
+  <LP_Why_Ordered>noudattaa käskyä</LP_Why_Ordered>
+  <LP_Why_Busy>kiireinen ({0})</LP_Why_Busy>
+  <LP_Why_Gathering>kokoontumisessa tai ryhmässä</LP_Why_Gathering>
+  <LP_Why_Fighting>tappelee</LP_Why_Fighting>
+  <LP_Why_Needs>syömässä tai nukkumassa</LP_Why_Needs>
+  <LP_Why_NotPlayTime>ei hupitunti</LP_Why_NotPlayTime>
+  <LP_Why_JoyFull>hupi on jo täynnä</LP_Why_JoyFull>
+  <LP_Why_PlayCooldown>leikki juuri (taas {0} h kuluttua)</LP_Why_PlayCooldown>
+  <LP_Why_CareSettingOff>Leikki lastenhoitona on pois päältä mod-asetuksissa</LP_Why_CareSettingOff>
+  <LP_Why_NotWorkHour>ei työtuntia</LP_Why_NotWorkHour>
+  <LP_Why_CannotChildcare>ei voi huolehtia lastenhoidosta</LP_Why_CannotChildcare>
+  <LP_Why_ChildcareOff>Lastenhoito pois työvälilehdeltä</LP_Why_ChildcareOff>
+  <LP_Why_CallCooldown>kutsui äskettäin jonkun (taas {0} h kuluttua)</LP_Why_CallCooldown>
+  <LP_Why_BeingCalled>toinen lapsi on jo kutsunut</LP_Why_BeingCalled>
+  <LP_Why_Dislike>he eivät pidä toisistaan (mielipide {0})</LP_Why_Dislike>
+  <LP_Why_TooFar>liian pitkälle ({0} s, raja {1} s)</LP_Why_TooFar>
+  <LP_Why_NotAllowedFun>ei sallinut tällaista hauskanpitoa (otsikko)</LP_Why_NotAllowedFun>
+  <LP_Why_NoWatchSpot>ei vapaata katselupaikkaa</LP_Why_NoWatchSpot>
+  <LP_Why_NoSeat>ei istuinta tai tietä kyytiin</LP_Why_NoSeat>
+  <LP_Rec_CallerCooldown>tämä lapsi kutsui äskettäin jonkun (taas {0} h kuluttua)</LP_Rec_CallerCooldown>
+  <LP_Rec_NoFriendSite>lähellä ei ole yhteistä leikkivälinettä, jossa on kaksi vapaata paikkaa</LP_Rec_NoFriendSite>
+  <LP_Rec_NoChildren>ei muita lapsia</LP_Rec_NoChildren>
+  <LP_Rec_Friends>ystävät: {0}</LP_Rec_Friends>
+  <LP_Rec_SomeoneThere>joku on jo leikkivälineessä tai matkalla</LP_Rec_SomeoneThere>
+  <LP_Rec_Called>kutsui: {0} ({1})</LP_Rec_Called>
+  <LP_Rec_CalledBy>kutsujana {0}</LP_Rec_CalledBy>
+  <LP_Rec_NoAdults>ei aikuista</LP_Rec_NoAdults>
+  <LP_Rec_Adults>aikuiset: {0}</LP_Rec_Adults>
+  <LP_Rec_Kind_Friend>ystävä</LP_Rec_Kind_Friend>
+  <LP_Rec_Kind_Care>Lastenhoito</LP_Rec_Kind_Care>
+  <LP_Rec_Kind_Watch>katsottavaksi</LP_Rec_Kind_Watch>
+  <LP_Rec_Kind_Recreation>hupi</LP_Rec_Kind_Recreation>
+  <LP_Rec_Hold>Odotti {0} s sisäänkäynnin luona: {1}</LP_Rec_Hold>
+  <LP_Rec_HoldCap>odotti täydet 10 s</LP_Rec_HoldCap>
+  <LP_Rec_HoldRiding>joku muu nousi kyytiin</LP_Rec_HoldRiding>
+  <LP_Rec_HoldLate>{0} ei päässyt ajoissa</LP_Rec_HoldLate>
+  <LP_Rec_HoldArrivedName>{0} saapui</LP_Rec_HoldArrivedName>
+  <LP_Rec_HoldArrived>seuralainen saapui</LP_Rec_HoldArrived>
+  <LP_Rec_CompanionMissed>kutsui: {0}, joka ei tullut mukaan (nyt: {1})</LP_Rec_CompanionMissed>
+  <LP_Rec_WhyUnknown>tuli syystä {0}; kukaan muu ei tullut</LP_Rec_WhyUnknown>
+  <LP_Rec_Src_Unknown>tuntematon</LP_Rec_Src_Unknown>
+  <LP_Rec_Src_Learning>oppiminen</LP_Rec_Src_Learning>
+  <LP_Rec_Src_Idle>vapaa-aikaa</LP_Rec_Src_Idle>
+  <LP_Rec_Src_Invitation>kutsu</LP_Rec_Src_Invitation>
+  <LP_Rec_Src_Queue>jono</LP_Rec_Src_Queue>
+  <LP_Rec_Src_FriendCall>ystävän kutsumana</LP_Rec_Src_FriendCall>
+  <LP_Rec_Src_CareCall>kutsuttu (lastenhoito)</LP_Rec_Src_CareCall>
+  <LP_Rec_Src_WatchCall>kutsuttu katsomaan</LP_Rec_Src_WatchCall>
+  <LP_Rec_Src_RecreationCall>kutsuttu (hupi)</LP_Rec_Src_RecreationCall>
+  <LP_Rec_Src_CareWork>Lastenhoitotyö</LP_Rec_Src_CareWork>
+  <LP_Rec_Src_Recreation>hupi</LP_Rec_Src_Recreation>
+  <LP_Rec_Src_Ordered>käsketty</LP_Rec_Src_Ordered>
+  <LP_Rec_Mode_ChildAlone>lapsi yksin</LP_Rec_Mode_ChildAlone>
+  <LP_Rec_Mode_Children>lapset yhdessä</LP_Rec_Mode_Children>
+  <LP_Rec_Mode_WithCare>lastenhoidossa olevan aikuisen kanssa</LP_Rec_Mode_WithCare>
+  <LP_Rec_Mode_WithRec>aikuisen kanssa</LP_Rec_Mode_WithRec>
+  <LP_Rec_Mode_Watched>aikuinen katsomassa</LP_Rec_Mode_Watched>
+  <LP_Rec_Mode_AdultAlone>aikuinen yksin</LP_Rec_Mode_AdultAlone>
+  <LP_Rec_Mode_AdultCare>aikuinen leikkii lapsen kanssa</LP_Rec_Mode_AdultCare>
+  <LP_Rec_Mode_AdultWithChild>aikuinen lapsen kanssa</LP_Rec_Mode_AdultWithChild>
+  <LP_Rec_Mode_Adults>aikuiset yhdessä</LP_Rec_Mode_Adults>
+  <LP_Rec_Role_child>lapsi</LP_Rec_Role_child>
+  <LP_Rec_Role_care>Lastenhoito</LP_Rec_Role_care>
+  <LP_Rec_Role_adult>aikuinen</LP_Rec_Role_adult>
+  <LP_Rec_JustNow>juuri nyt</LP_Rec_JustNow>
+  <LP_Rec_Ago>{0} h sitten</LP_Rec_Ago>
+  <LP_Rec_Inspect>Loki, viimeiset 3 päivää: {0} käyttökertaa ({1})</LP_Rec_Inspect>
+  <LP_Rec_InspectAlone>käytetty yksinään: {0}</LP_Rec_InspectAlone>
+  <LP_Rec_File>Lokitiedosto: {0}</LP_Rec_File>
+  <LP_Rec_Off>Leikkikentän loki on pois päältä. Ota se käyttöön kohdassa Asetukset &gt; Mod-asetukset &gt; Little Playgrounds.</LP_Rec_Off>
+  <LP_Rec_Page_Rides>Leikkikenttälaitteet</LP_Rec_Page_Rides>
+  <LP_Rec_Page_Recent>Viimeaikaiset leikkipuistokäynnit</LP_Rec_Page_Recent>
+  <LP_Rec_Page_Decisions>Leikkivalinnat</LP_Rec_Page_Decisions>
+  <LP_Rec_Page_Children>Lapset nyt</LP_Rec_Page_Children>
+  <LP_Rec_OnlySelected>Vain valittu leikkiväline</LP_Rec_OnlySelected>
+  <LP_Rec_Never>ei koskaan</LP_Rec_Never>
+  <LP_Rec_RideLine>viimeiset 3 päivää {0} käyttökertaa: {1}</LP_Rec_RideLine>
+  <LP_Rec_Last>viimeisin {0}</LP_Rec_Last>
+  <LP_Rec_With>{0}:n kanssa</LP_Rec_With>
+  <LP_Rec_Watchers>katsojana {0}</LP_Rec_Watchers>
+  <LP_Rec_Seconds>{0} s</LP_Rec_Seconds>
+  <LP_Rec_WhyAlone>Miksi yksin: {0}</LP_Rec_WhyAlone>
+  <LP_Rec_HowCame>Miten: {0}</LP_Rec_HowCame>
+  <LP_Rec_ChildLine>oppiminen {0} · tunti {1} · nyt {2} · viimeinen kyyti {3} · leikkipaikka {4} · kutsuu {5}</LP_Rec_ChildLine>
+  <LP_Rec_Ready>valmis</LP_Rec_Ready>
+  <LP_Rec_ReadyIn>{0} tunnin kuluttua</LP_Rec_ReadyIn>
+  <LP_Rec_Drink>menee juomaan</LP_Rec_Drink>
+  <LP_Rec_Joined>liittyi ystävän joukkoon {0}</LP_Rec_Joined>
+  <LP_Rec_ToPartner>menee {0}:ään, jossa joku odottaa kumppania</LP_Rec_ToPartner>
+  <LP_Rec_Chose>valitsi {0}</LP_Rec_Chose>
+  <LP_Rec_RunRoll>arpa vapaalle juoksulle (30 %)</LP_Rec_RunRoll>
+  <LP_Rec_Running>juoksee ympäriinsä</LP_Rec_Running>
+  <LP_Rec_Queue>jonottaa kohteeseen {0}</LP_Rec_Queue>
+  <LP_Rec_Nobody>ketään ei kutsuttu: {0}</LP_Rec_Nobody>
+  <LP_Rec_FromQueue>{0} s jonotuksen jälkeen</LP_Rec_FromQueue>
+  <LP_Setting_FacialPlay>Facial Animation -ilmeet leikin aikana</LP_Setting_FacialPlay>
+  <LP_Setting_FacialPlayTip>Käyttää olemassa olevaa hymyä vain, jos asennetussa Facial Animation -kasvopaketissa on sellainen. Kun asetus poistetaan käytöstä, Little Playgrounds irrotetaan heti; muut kasvoanimaatiot toimivat edelleen. Uusia kasvotekstuureja ei lisätä.</LP_Setting_FacialPlayTip>
+  <LP_Setting_FacialPlayError>Ilmeyhteys pysäytettiin virheen vuoksi. Yritä uudelleen kytkemällä tämä asetus pois ja takaisin päälle.</LP_Setting_FacialPlayError>
+  <LP_Setting_Sounds>Leikkivälineiden äänet</LP_Setting_Sounds>
+  <LP_Setting_SoundsTip>Pieniä ääniä leikin aikana: keinut narisevat, trampoliinit joustavat, hiekka- ja vesileikki, juoma-allas. Ne kuuluvat vain, kun kuva on zoomattu lähelle; ne noudattavat peliäänien voimakkuutta ja ovat hiljaa, kun peli on tauolla. Liukumäillä ja pallomerellä ei ole ääntä.</LP_Setting_SoundsTip>
+  <LP_Setting_SoundVolume>Leikkivälineiden äänenvoimakkuus: {0}</LP_Setting_SoundVolume>
+  <LP_Setting_SoundRides>Ääni leikkivälineittäin:</LP_Setting_SoundRides>
+  <LP_Setting_RunAround>Lapset juoksevat joskus leikkivälineen ympäri sen sijaan, että käyttäisivät sitä</LP_Setting_RunAround>
+  <LP_Setting_RunAroundTip>Leikkivälineen valinnut lapsi voi juosta sen ympäri sen sijaan, että käyttäisi sitä, ja oppii siitä yhtä paljon kuin keinumisesta. Usean hengen leikkivälineillä kaveri tulee mukaan; muuten lastenhoitoon määrätty aikuinen tulee katsomaan. Leikkivälineen vieressä on oltava kuivaa, avointa maata (ei vettä eikä mutaa), muuten lapsi vain käyttää leikkivälinettä.</LP_Setting_RunAroundTip>
+  <LP_Setting_RunAroundChance>Todennäköisyys aina, kun lapsi valitsee leikkivälineen: {0}</LP_Setting_RunAroundChance>
+  <LP_Setting_RunAroundIndoors>Juoksentelu myös katon alla</LP_Setting_RunAroundIndoors>
+  <LP_Setting_RunAroundIndoorsTip>Kun asetus on pois päältä, lapset juoksevat vain taivasalla, joten sisätiloissa olevia leikkivälineitä vain käytetään; leikkipuiston katos ei toimi kattona. Kun asetus on päällä, lapset juoksevat myös sisätiloissa olevien leikkivälineiden ympäri, jos huoneessa on tilaa.</LP_Setting_RunAroundIndoorsTip>
+  <LP_Setting_CouplePlay>Pariskunnat leikkivät yhdessä</LP_Setting_CouplePlay>
+  <LP_Setting_CouplePlayTip>Aikuinen, joka valitsee kahden hengen leikkivälineen tai penkin, kutsuu kumppaninsa, joka tulee, jos on vapaana tai tavallisten töiden välissä. Pariskunta, jolla ei ole mitään tekemistä, lähtee joskus myös omatoimisesti treffeille, enintään kerran päivässä. He odottavat toisiaan, ja sen jälkeen molemmat saavat pienen bonuksen mielialaan ja mielipiteeseen.</LP_Setting_CouplePlayTip>
+  <LP_Setting_RequireResearch>Rakentaminen vaatii tutkimuksen ”{0}”</LP_Setting_RequireResearch>
+  <LP_Setting_RequireResearchTip>Kun asetus on päällä, kaiken tämän modin lisäämän (leikkivälineet, penkit, aidat ja lattiat) voi rakentaa vasta, kun ”{0}” on tutkittu. Tavallisissa aloituksissa se on jo valmiina, joten vain ilman sitä aloittavat siirtokunnat, kuten heimot, tutkivat sen ensin. Jo rakennettu jää paikalleen. Kun asetus on pois päältä, kaiken voi rakentaa alusta asti.</LP_Setting_RequireResearchTip>
+  <LP_Setting_ToddlerPlay>Taaperot leikkivät leikkivälineillä</LP_Setting_ToddlerPlay>
+  <LP_Setting_ToddlerPlayMissing>vaatii Toddlers-modin</LP_Setting_ToddlerPlayMissing>
+  <LP_Setting_ToddlerPlayTip>Toddlers-modin kanssa kävelevät taaperot, myös vielä horjuvat, leikkivät näillä leikkivälineillä: {0}. Vielä konttaavat taaperot eivät mene niille. Kun asetus on pois päältä, taaperot eivät käytä yhtään leikkivälinettä. Ilman Toddlers-modia tällä ei ole vaikutusta.</LP_Setting_ToddlerPlayTip>
+</LanguageData>

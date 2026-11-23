@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_BlockedUnavailable>Indisponible</LP_BlockedUnavailable>
+  <LP_BlockedCannotPlay>Ne peut pas faire cette activité</LP_BlockedCannotPlay>
+  <LP_BlockedDrafted>Mobilisé</LP_BlockedDrafted>
+  <LP_BlockedDowned>À terre</LP_BlockedDowned>
+  <LP_BlockedMentalState>En crise de nerfs</LP_BlockedMentalState>
+  <LP_BlockedForbidden>Interdit ou en dehors de la zone autorisée</LP_BlockedForbidden>
+  <LP_BlockedAudience>Non autorisé par le réglage d'âge de cet équipement</LP_BlockedAudience>
+  <LP_BlockedTooHot>Trop chaud sur l'aire de jeux</LP_BlockedTooHot>
+  <LP_BlockedTooCold>Trop froid sur l'aire de jeux</LP_BlockedTooCold>
+  <LP_BlockedBusy>En cours d'utilisation ou réservé</LP_BlockedBusy>
+  <LP_BlockedEntrance>Aucune entrée ou sortie dégagée accessible</LP_BlockedEntrance>
+  <LP_BlockedReturning>Le siège revient</LP_BlockedReturning>
+  <LP_BlockedCourseTooShort>Nécessite au moins deux éléments de parcours reliés</LP_BlockedCourseTooShort>
+  <LP_BlockedWaterCold>Trop froid ou enneigé pour jouer dans l'eau</LP_BlockedWaterCold>
+  <LP_DesignButton>Style</LP_DesignButton>
+  <LP_DesignDescription>Choisissez l'apparence de cet équipement. Actuel : {0}. Les couleurs se choisissent séparément.</LP_DesignDescription>
+  <LP_DesignOriginal>D'origine</LP_DesignOriginal>
+  <LP_DesignTimber>Bois brut</LP_DesignTimber>
+  <LP_DesignBusy>Attendez que tout le monde ait fini d'utiliser l'équipement.</LP_DesignBusy>
+  <LP_DesignCurrent>Style : {0}</LP_DesignCurrent>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Setting_LearningWeight>Oyun alanında öğrenme tercihi: {0} (varsayılan: 2)</LP_Setting_LearningWeight>
+  <LP_Setting_LearningWeightDescription>Çocuğun öğrenme etkinliği olarak oyun alanını ne sıklıkla seçeceğini ayarlar. Yüksek değerler bu etkinliğin seçilmesini daha olası kılar.</LP_Setting_LearningWeightDescription>
+  <LP_Setting_LearningWeightTip>1 değerinde oyun alanının seçim ağırlığı, yerleri çizme ve doğada koşma gibi etkinliklerle aynıdır. 2 değeri ziyaret sayısını değil, seçim ağırlığını iki katına çıkarır. Boş zamanda oynamaya yönelik ayrı %50 olasılığı değiştirmez. Ayar, sonraki öğrenme isteği seçilirken uygulanır; mevcut istekler ve süren oyun korunur.</LP_Setting_LearningWeightTip>
+  <LP_Setting_LearningWeightTiming>Yeni bir öğrenme isteği seçildiğinde uygulanır. Mevcut istekler ve süren oyun korunur.</LP_Setting_LearningWeightTiming>
+</LanguageData>

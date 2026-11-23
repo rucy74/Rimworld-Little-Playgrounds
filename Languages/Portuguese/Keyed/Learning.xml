@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Setting_LearningWeight>Preferência pela aprendizagem através de brincadeiras no recreio: {0} (padrão: 2)</LP_Setting_LearningWeight>
+  <LP_Setting_LearningWeightDescription>Ajuste a frequência com que uma criança escolhe brincar no recreio como atividade de aprendizagem. Um valor mais elevado aumenta a probabilidade de esta atividade ser escolhida.</LP_Setting_LearningWeightDescription>
+  <LP_Setting_LearningWeightTip>Em 1, brincar no recreio tem o mesmo peso de seleção que desenhar no chão ou correr na natureza. Em 2, o seu peso de seleção é duplicado. Isto não significa o dobro das visitas reais. A hipótese separada de 50% de brincar quando ocioso permanece inalterada. A definição aplica-se quando o próximo desejo de aprendizagem é selecionado. Os desejos atuais e a brincadeira em curso permanecem inalterados.</LP_Setting_LearningWeightTip>
+  <LP_Setting_LearningWeightTiming>Aplica-se quando é escolhido um novo desejo de aprendizagem. Os desejos existentes e o jogo em curso são mantidos.</LP_Setting_LearningWeightTiming>
+</LanguageData>

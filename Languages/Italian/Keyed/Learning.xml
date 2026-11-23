@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Setting_LearningWeight>Preferenza per l'apprendimento attraverso il gioco nel cortile: {0} (impostazione predefinita: 2)</LP_Setting_LearningWeight>
+  <LP_Setting_LearningWeightDescription>Regola la frequenza con cui un bambino sceglie il gioco nel parco giochi come attività di apprendimento. Un valore più alto aumenta le probabilità che questa attività venga scelta.</LP_Setting_LearningWeightDescription>
+  <LP_Setting_LearningWeightTip>A 1, il gioco nel parco giochi ha lo stesso peso di selezione del disegno sul pavimento o della corsa nella natura. A 2, il suo peso di selezione è raddoppiato. Ciò non significa il doppio delle visite effettive. La probabilità separata del 50% di giocare quando inattivo è invariata. L'impostazione si applica quando viene selezionato il successivo desiderio di apprendimento. I desideri attuali e il gioco in corso sono invariati.</LP_Setting_LearningWeightTip>
+  <LP_Setting_LearningWeightTiming>Si applica quando viene scelto un nuovo desiderio di apprendimento. I desideri esistenti e il gioco in corso vengono mantenuti.</LP_Setting_LearningWeightTiming>
+</LanguageData>

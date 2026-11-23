@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Sandbox.label>caixa de areia de carvalho</LP_Sandbox.label>
+  <LP_Sandbox.description>Uma caixa de areia em carvalho claro com assentos de canto em marfim. Até três crianças ou adultos transformam um monte numa torre e depois num castelo de areia, sozinhos ou juntos. As crianças aprendem; os adultos ganham recreação. A sua criação permanece depois de saírem e desgasta-se lentamente quando não é utilizada.</LP_Sandbox.description>
+  <LP_GardenBench.label>banco de jardim</LP_GardenBench.label>
+  <LP_GardenBench.description>Banco arredondado em carvalho e marfim com capacidade para duas pessoas. Os colonos podem escolhê-lo para recreação ou receber ordens para relaxar aqui. Coloque um toldo uma célula atrás do banco para o proteger.</LP_GardenBench.description>
+  <LP_ShadeCanopy.label>toldo para parque infantil</LP_ShadeCanopy.label>
+  <LP_ShadeCanopy.description>Um dossel de tecido creme em postes verde-sálvia. Coloque o seu marcador central uma célula atrás de um banco. Dá sombra a uma área de cinco por três à frente sem substituir os tetos existentes. O tecido permanece opaco sobre os visitantes sentados e desvanece quando a sua imagem elevada tapa uma personagem.</LP_ShadeCanopy.description>
+  <LP_OakCurb.label>rebordo de parque infantil em carvalho</LP_OakCurb.label>
+  <LP_OakCurb.description>Borda baixa e arredondada em carvalho. As bordas adjacentes do parque infantil ligam-se automaticamente, inclusive nos cantos. As personagens podem passar por cima dela.</LP_OakCurb.description>
+  <LP_IvoryCurb.label>rebordo de parque infantil</LP_IvoryCurb.label>
+  <LP_IvoryCurb.description>Borda baixa em marfim para delimitação de parque infantil acabada. As bordas adjacentes do parque infantil ligam-se automaticamente, inclusive nos cantos. As personagens podem passar por cima dela. Construído a partir de quaisquer blocos de pedra; a sua forma e cores permanecem as mesmas, independentemente da pedra que utilizar.</LP_IvoryCurb.description>
+</LanguageData>

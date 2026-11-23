@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PaletteButton>Schemă de culori</LP_PaletteButton>
+  <LP_PaletteDescription>Alegeți culorile acestui loc de joacă. Curent: {0}. Schimbă imediat aspectul; costurile de construcție și performanța rămân aceleași.</LP_PaletteDescription>
+  <LP_PaletteCurrent>Schemă de culori: {0}</LP_PaletteCurrent>
+  <LP_PaletteLegacy>Finisaj original</LP_PaletteLegacy>
+  <LP_PaletteBlue>Lemn + albastru</LP_PaletteBlue>
+  <LP_PaletteYellow>Lemn + galben</LP_PaletteYellow>
+  <LP_PaletteSage>Lemn + verde-salvie</LP_PaletteSage>
+  <LP_PaletteClassic>Culori clasice</LP_PaletteClassic>
+</LanguageData>

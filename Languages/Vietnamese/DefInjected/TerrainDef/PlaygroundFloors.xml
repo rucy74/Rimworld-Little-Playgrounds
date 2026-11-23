@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PlaySandLight.label>cát sân chơi màu sáng</LP_PlaySandLight.label>
+  <LP_PlaySandLight.description>Cát màu sáng có những gợn nhẹ, nông, tạo sân chơi sáng sủa và thoáng đãng. Đây là lựa chọn bề mặt thứ ba bên cạnh cát mịn và cát hạt thô.</LP_PlaySandLight.description>
+  <LP_PlaySand.label>cát sân chơi mịn</LP_PlaySand.label>
+  <LP_PlaySand.description>Cát sân chơi màu be ấm, đã lắng chặt, hạt mịn và bề mặt hơi gợn nhẹ.</LP_PlaySand.description>
+  <LP_PlaySandGrainy.label>cát sân chơi dạng hạt</LP_PlaySandGrainy.label>
+  <LP_PlaySandGrainy.description>Cát sân chơi màu ấm, hạt lộ rõ và bề mặt được cào nhẹ. Thô ráp hơn cát sân chơi mịn.</LP_PlaySandGrainy.description>
+  <LP_RubberSage.label>cao su sân chơi màu xanh xô thơm</LP_RubberSage.label>
+  <LP_RubberSage.description>Bề mặt sân chơi bằng hạt cao su, mờ không bóng. Kết cấu nhẹ nối liền nhau, không lộ lưới ô. Có ba màu: xanh xô thơm, kem và mơ.</LP_RubberSage.description>
+  <LP_RubberCream.label>cao su sân chơi màu kem</LP_RubberCream.label>
+  <LP_RubberCream.description>Bề mặt sân chơi bằng hạt cao su, mờ không bóng. Kết cấu nhẹ nối liền nhau, không lộ lưới ô. Có ba màu: xanh xô thơm, kem và mơ.</LP_RubberCream.description>
+  <LP_RubberApricot.label>cao su sân chơi màu mơ</LP_RubberApricot.label>
+  <LP_RubberApricot.description>Bề mặt sân chơi bằng hạt cao su, mờ không bóng. Kết cấu nhẹ nối liền nhau, không lộ lưới ô. Có ba màu: xanh xô thơm, kem và mơ.</LP_RubberApricot.description>
+</LanguageData>

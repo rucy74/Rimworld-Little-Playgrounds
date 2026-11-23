@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_VisitorCount>Látogatók: {0} / {1}</LP_VisitorCount>
+  <LP_AudienceButton>Látogatók: {0}</LP_AudienceButton>
+  <LP_AudienceCurrent>Engedélyezett látogatók: {0}</LP_AudienceCurrent>
+  <LP_AudienceDescription>Válassza ki, hogy ki használhatja ezt a berendezést. Mindenki az alapértelmezett. A kizárt látogatók leállítják aktuális látogatásukat vagy sorukat. Ez a választás mentve.</LP_AudienceDescription>
+  <LP_AudienceEveryone>Mindenki</LP_AudienceEveryone>
+  <LP_AudienceChildren>Csak gyermekek</LP_AudienceChildren>
+  <LP_AudienceAdults>Csak felnőtteknek</LP_AudienceAdults>
+</LanguageData>

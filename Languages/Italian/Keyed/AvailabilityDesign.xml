@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_BlockedUnavailable>Non disponibile</LP_BlockedUnavailable>
+  <LP_BlockedCannotPlay>Non può fare questa attività</LP_BlockedCannotPlay>
+  <LP_BlockedDrafted>Mobilitato</LP_BlockedDrafted>
+  <LP_BlockedDowned>Inabile</LP_BlockedDowned>
+  <LP_BlockedMentalState>In uno stato mentale</LP_BlockedMentalState>
+  <LP_BlockedForbidden>Vietato o fuori dalla zona autorizzata</LP_BlockedForbidden>
+  <LP_BlockedAudience>Non consentito dall'impostazione di età di questa attrezzatura</LP_BlockedAudience>
+  <LP_BlockedTooHot>Troppo caldo al parco giochi</LP_BlockedTooHot>
+  <LP_BlockedTooCold>Troppo freddo al parco giochi</LP_BlockedTooCold>
+  <LP_BlockedBusy>In uso o riservato</LP_BlockedBusy>
+  <LP_BlockedEntrance>Impossibile raggiungere un ingresso o un'uscita liberi</LP_BlockedEntrance>
+  <LP_BlockedReturning>Il sedile sta tornando</LP_BlockedReturning>
+  <LP_BlockedCourseTooShort>Servono almeno due pezzi del percorso collegati</LP_BlockedCourseTooShort>
+  <LP_BlockedWaterCold>Troppo freddo o innevato per giocare con l'acqua</LP_BlockedWaterCold>
+  <LP_DesignButton>Stile</LP_DesignButton>
+  <LP_DesignDescription>Scegli l'aspetto di questa attrezzatura. Attuale: {0}. I colori si scelgono a parte.</LP_DesignDescription>
+  <LP_DesignOriginal>Originale</LP_DesignOriginal>
+  <LP_DesignTimber>Legno grezzo</LP_DesignTimber>
+  <LP_DesignBusy>Attendi che tutti abbiano finito di usare l'attrezzatura.</LP_DesignBusy>
+  <LP_DesignCurrent>Stile: {0}</LP_DesignCurrent>
+</LanguageData>

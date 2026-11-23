@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_SteppingStump.label>mänguväljaku puitaste</LP_SteppingStump.label>
+  <LP_SteppingStump.description>Madal saepuidust platvorm peale astumiseks. Astekivid, puitastmed ja tasakaalupalgid ühenduvad, kui nende servad kokku puutuvad. Rada peab katma vähemalt kaks ruutu (üks tasakaalupalk üksi katab kaks) ja ainult nurgaga kokku puutuvad tükid ei ühendu. Lapsed ja täiskasvanud järgivad ühendatud marsruuti.</LP_SteppingStump.description>
+  <LP_SpringFox.label>rebasekujuline vedrukiik</LP_SpringFox.label>
+  <LP_SpringFox.description>Vedrule kinnitatud rebasekujuline kiikmänguasi. Üks laps või täiskasvanu saab seda kasutada üksi. Tegelane hoiab oma normaalset keha ja nõjatub koos mänguasjaga edasi-tagasi.</LP_SpringFox.description>
+  <LP_Roundabout.label>tammepuidust karussell</LP_Roundabout.label>
+  <LP_Roundabout.description>Salveiroheliste käsipuudega ümmargune tammepuidust mänguväljaku karussell, kuni neljale inimesele. Üks inimene saab seda üksi keerutada. See aeglustab ja peatub, kui keegi peale või maha läheb.</LP_Roundabout.description>
+  <LP_Playhouse.label>väike poe mängumaja</LP_Playhouse.label>
+  <LP_Playhouse.description>Avatud esikuga mängumaja väikese poeletiga. Mängige üksi poodi või võtke aknal vastu teine külastaja. Lapsed õpivad ja täiskasvanud saavad lõbu.</LP_Playhouse.description>
+  <LP_DrinkingFountain.label>kahe kõrgusega joogipurskkaev</LP_DrinkingFountain.label>
+  <LP_DrinkingFountain.description>Kõrge ja madal joogikauss. Lapsed saavad pärast mänguväljaku tegevusi põgusalt juua; ka täiskasvanud valivad selle lõbu pärast. Väike veejuga jookseb selle kasutamise ajal. See ei lisa janu vajadust. Ehitatud mis tahes kiviplokkidest; selle kuju ja värvid jäävad samaks, olenemata sellest, millist kivi te kasutate.</LP_DrinkingFountain.description>
+  <LP_Hopscotch.label>aia keksumäng</LP_Hopscotch.label>
+  <LP_Hopscotch.description>Kaheksa maalitud keksuruutu. Laps või täiskasvanu hüppab mööda numbreid ja naaseb, mängides üksi, ilma partnerit ootamata. Ehitatud mis tahes kiviplokkidest; selle kuju ja värvid jäävad samaks, olenemata sellest, millist kivi te kasutate.</LP_Hopscotch.description>
+  <LP_SplashPad.label>veejugadega mänguväljak</LP_SplashPad.label>
+  <LP_SplashPad.description>Maapinnal olevad veejoad pihustavad korduva mustriga, kui mängualal liigub kuni kolm inimest. Iga inimene saab mängida ka üksi. See tegevus peatub alla 10 kraadi Celsiuse järgi ega saa alata, kui pind on lumega kaetud. Ehitatud mis tahes kiviplokkidest; selle kuju ja värvid jäävad samaks, olenemata sellest, millist kivi te kasutate.</LP_SplashPad.description>
+  <LP_SteppingStone.label>mänguväljaku astekivi</LP_SteppingStone.label>
+  <LP_SteppingStone.description>Madal ümar astekivi. Astekivid, puitastmed ja tasakaalupalgid ühenduvad, kui nende servad kokku puutuvad. Rada peab katma vähemalt kaks ruutu (üks tasakaalupalk üksi katab kaks) ja ainult nurgaga kokku puutuvad tükid ei ühendu. Külastajad järgivad ühendatud haru ja pöörduvad tagasi. Iga külastus broneerib oma marsruudi, kuni 24 tükki. Ehitatud mis tahes kiviplokkidest; selle kuju ja värvid jäävad samaks, olenemata sellest, millist kivi te kasutate.</LP_SteppingStone.description>
+  <LP_BalanceLog.label>tasakaalupalk</LP_BalanceLog.label>
+  <LP_BalanceLog.description>Madal tammepuust tasakaalupalk, kahe ruudu pikkune; selle saab paigutada piki- või põikisuunas. Astekivid, puitastmed ja tasakaalupalgid ühenduvad, kui nende servad kokku puutuvad. Rada peab katma vähemalt kaks ruutu (üks tasakaalupalk üksi katab kaks) ja ainult nurgaga kokku puutuvad tükid ei ühendu. Külastajad balansseerivad mööda ühendatud haru ja naasevad. Kõik raja ruudud peavad jääma vabaks.</LP_BalanceLog.description>
+  <LP_PlayFence.label>tammepuust mänguväljaku tara</LP_PlayFence.label>
+  <LP_PlayFence.description>Madalad tammepuust lipid on ühendatud nelinurksete puitpostidega. Kõrvuti asetsevad aiatükid ühenduvad. See on dekoratiivne, üle astutav mänguväljaku piir, mitte loomade aediku tõke.</LP_PlayFence.description>
+  <LP_PlayEntrance.label>mänguväljaku sissepääs</LP_PlayEntrance.label>
+  <LP_PlayEntrance.description>Alati avatud sissepääs väikese Little Playgroundsi sildiga. Tervitav ava madalale aiapiirdele.</LP_PlayEntrance.description>
+  <LP_GardenFountain.label>aia purskkaev</LP_GardenFountain.label>
+  <LP_GardenFountain.description>Madal kahvatust kivist vaagen õrnalt voolava veega. Aia keskpunkt istumisnurga lähedale paigutamiseks. Ehitatud mis tahes kiviplokkidest; selle kuju ja värvid jäävad samaks, olenemata sellest, millist kivi te kasutate.</LP_GardenFountain.description>
+</LanguageData>

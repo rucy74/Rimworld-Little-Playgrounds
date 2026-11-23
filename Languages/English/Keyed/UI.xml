@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_Menu_PlaySwing>Play on the swing</LP_Menu_PlaySwing>
+  <LP_Menu_PlaySlide>Play on the slide</LP_Menu_PlaySlide>
+  <LP_Menu_PlaySeesaw>Play on the seesaw</LP_Menu_PlaySeesaw>
+  <LP_Menu_JumpTrampoline>Jump on the trampoline</LP_Menu_JumpTrampoline>
+  <LP_Menu_RideZipline>Ride the zipline</LP_Menu_RideZipline>
+  <LP_Menu_BuildSandcastles>Build sandcastles</LP_Menu_BuildSandcastles>
+  <LP_Menu_RelaxBench>Relax on the bench</LP_Menu_RelaxBench>
+  <LP_Menu_TakeDrink>Take a drink</LP_Menu_TakeDrink>
+  <LP_Menu_PlayCourse>Play along this course</LP_Menu_PlayCourse>
+  <LP_Menu_PlayAt>Play at {0}</LP_Menu_PlayAt>
+  <LP_Inspect_CourseLinked>Course of {0} linked cells.</LP_Inspect_CourseLinked>
+  <LP_Inspect_CourseAlone>On its own, so nobody can play here yet. Place another stepping stone, timber step or balance log edge to edge with it.</LP_Inspect_CourseAlone>
+  <LP_Inspect_CourseCorner>Only meets another piece at a corner, which does not link. Pieces link edge to edge.</LP_Inspect_CourseCorner>
+  <LP_Inspect_CourseWaiting>Links to the planned piece next to it once that is built.</LP_Inspect_CourseWaiting>
+  <LP_Menu_CourseTooShort>Play along this course (needs another piece edge to edge)</LP_Menu_CourseTooShort>
+  <LP_Place_CourseLinked>Links into a course of {0} cells</LP_Place_CourseLinked>
+  <LP_Place_CourseOccupied>Another course piece is already here</LP_Place_CourseOccupied>
+  <LP_Place_CourseSelf>Makes a course of {0} cells on its own</LP_Place_CourseSelf>
+  <LP_Place_CourseCorner>Corner contact does not link, place it edge to edge</LP_Place_CourseCorner>
+  <LP_Place_CourseAlone>Cannot be played on its own, place another piece edge to edge</LP_Place_CourseAlone>
+  <LP_Inspect_SplashClosed>Water play closed: below 10°C.</LP_Inspect_SplashClosed>
+  <LP_Inspect_SeatReturning>Empty seat returning</LP_Inspect_SeatReturning>
+  <LP_Inspect_Rider>Rider: {0}</LP_Inspect_Rider>
+  <LP_Inspect_ReadyOne>Ready for one rider</LP_Inspect_ReadyOne>
+  <LP_Inspect_ReadyAny>Ready for a rider</LP_Inspect_ReadyAny>
+  <LP_Inspect_SlideRider>Rider: {0} — {1}</LP_Inspect_SlideRider>
+  <LP_SlidePhase_approach>approach</LP_SlidePhase_approach>
+  <LP_SlidePhase_boarding>boarding</LP_SlidePhase_boarding>
+  <LP_SlidePhase_climbing>climbing</LP_SlidePhase_climbing>
+  <LP_SlidePhase_platform>platform</LP_SlidePhase_platform>
+  <LP_SlidePhase_seated>seated</LP_SlidePhase_seated>
+  <LP_SlidePhase_sliding>sliding</LP_SlidePhase_sliding>
+  <LP_SlidePhase_landing>landing</LP_SlidePhase_landing>
+  <LP_SlidePhase_finished>finished</LP_SlidePhase_finished>
+  <LP_Inspect_SwingSeats>Left seat: {0}\nRight seat: {1}</LP_Inspect_SwingSeats>
+  <LP_Inspect_SeatFree>available</LP_Inspect_SeatFree>
+  <LP_Inspect_SeesawTogether>Playing together</LP_Inspect_SeesawTogether>
+  <LP_Inspect_SeesawWaiting>Boarding</LP_Inspect_SeesawWaiting>
+  <LP_Inspect_SeesawSolo>Playing alone</LP_Inspect_SeesawSolo>
+  <LP_Inspect_SeesawFree>Two seats available</LP_Inspect_SeesawFree>
+  <LP_Inspect_SandCastle>A sandcastle built here</LP_Inspect_SandCastle>
+  <LP_Inspect_SandTower>A sand tower is taking shape</LP_Inspect_SandTower>
+  <LP_Inspect_SandMound>A small mound of sand</LP_Inspect_SandMound>
+  <LP_Inspect_SandReady>Ready for sand play</LP_Inspect_SandReady>
+  <LP_Setting_ChildcarePlay>Adults play with children as Childcare</LP_Setting_ChildcarePlay>
+  <LP_Setting_ChildcarePlayTip>When on, an adult assigned to Childcare goes to a child playing alone. On shared rides (swing, seesaw, sandbox, roundabout, playhouse, large trampoline) the adult takes the free seat and plays along; next to solo rides the adult stands and watches. Like playing with a baby, the adult gains a little social recreation. When off, adults only join children during their own recreation.</LP_Setting_ChildcarePlayTip>
+  <LP_Setting_RecordPlay>Playground log (for debugging)</LP_Setting_RecordPlay>
+  <LP_Setting_RecordPlayTip>When on, every ride is logged: who rode, with whom, who watched, how they came, and why a shared ride was used alone. See a ride's info panel or use View log below; the same lines are written to the file below.</LP_Setting_RecordPlayTip>
+  <LP_Rec_Open>View log</LP_Rec_Open>
+  <LP_Rec_Title>Playground log</LP_Rec_Title>
+  <LP_Rec_NoMap>Load a settlement map to view its playground log.</LP_Rec_NoMap>
+  <LP_Why_Other>not here</LP_Why_Other>
+  <LP_Why_Drafted>drafted</LP_Why_Drafted>
+  <LP_Why_Downed>down</LP_Why_Downed>
+  <LP_Why_Mental>mental break</LP_Why_Mental>
+  <LP_Why_Burning>on fire</LP_Why_Burning>
+  <LP_Why_Ordered>doing an order</LP_Why_Ordered>
+  <LP_Why_Busy>busy ({0})</LP_Why_Busy>
+  <LP_Why_Gathering>in a gathering or group</LP_Why_Gathering>
+  <LP_Why_Fighting>fighting</LP_Why_Fighting>
+  <LP_Why_Needs>about to eat or sleep</LP_Why_Needs>
+  <LP_Why_NotPlayTime>not a recreation hour</LP_Why_NotPlayTime>
+  <LP_Why_JoyFull>recreation already full</LP_Why_JoyFull>
+  <LP_Why_PlayCooldown>just played (again in {0} h)</LP_Why_PlayCooldown>
+  <LP_Why_CareSettingOff>Childcare play is off in the mod settings</LP_Why_CareSettingOff>
+  <LP_Why_NotWorkHour>not a work hour</LP_Why_NotWorkHour>
+  <LP_Why_CannotChildcare>cannot do Childcare</LP_Why_CannotChildcare>
+  <LP_Why_ChildcareOff>Childcare off in the work tab</LP_Why_ChildcareOff>
+  <LP_Why_CallCooldown>called recently (again in {0} h)</LP_Why_CallCooldown>
+  <LP_Why_BeingCalled>already called by another child</LP_Why_BeingCalled>
+  <LP_Why_Dislike>they dislike each other (opinion {0})</LP_Why_Dislike>
+  <LP_Why_TooFar>too far ({0} s, limit {1} s)</LP_Why_TooFar>
+  <LP_Why_NotAllowedFun>not allowed this kind of fun (title)</LP_Why_NotAllowedFun>
+  <LP_Why_NoWatchSpot>no free spot to watch from</LP_Why_NoWatchSpot>
+  <LP_Why_NoSeat>no seat or way to the ride</LP_Why_NoSeat>
+  <LP_Rec_CallerCooldown>this child called someone recently (again in {0} h)</LP_Rec_CallerCooldown>
+  <LP_Rec_NoFriendSite>no shared ride nearby with two free seats</LP_Rec_NoFriendSite>
+  <LP_Rec_NoChildren>no other child</LP_Rec_NoChildren>
+  <LP_Rec_Friends>friends: {0}</LP_Rec_Friends>
+  <LP_Rec_SomeoneThere>someone is already on the ride or on the way</LP_Rec_SomeoneThere>
+  <LP_Rec_Called>called {0} ({1})</LP_Rec_Called>
+  <LP_Rec_CalledBy>called by {0}</LP_Rec_CalledBy>
+  <LP_Rec_NoAdults>no adult</LP_Rec_NoAdults>
+  <LP_Rec_Adults>adults: {0}</LP_Rec_Adults>
+  <LP_Rec_Kind_Friend>friend</LP_Rec_Kind_Friend>
+  <LP_Rec_Kind_Care>Childcare</LP_Rec_Kind_Care>
+  <LP_Rec_Kind_Watch>to watch</LP_Rec_Kind_Watch>
+  <LP_Rec_Kind_Recreation>recreation</LP_Rec_Kind_Recreation>
+  <LP_Rec_Hold>waited {0} s at the entrance: {1}</LP_Rec_Hold>
+  <LP_Rec_HoldCap>waited the full 10 s</LP_Rec_HoldCap>
+  <LP_Rec_HoldRiding>someone else got on</LP_Rec_HoldRiding>
+  <LP_Rec_HoldLate>{0} could not make it in time</LP_Rec_HoldLate>
+  <LP_Rec_HoldArrivedName>{0} arrived</LP_Rec_HoldArrivedName>
+  <LP_Rec_HoldArrived>the companion arrived</LP_Rec_HoldArrived>
+  <LP_Rec_CompanionMissed>called {0}, who did not ride along (now: {1})</LP_Rec_CompanionMissed>
+  <LP_Rec_WhyUnknown>came by {0}; nobody else came</LP_Rec_WhyUnknown>
+  <LP_Rec_Src_Unknown>unknown</LP_Rec_Src_Unknown>
+  <LP_Rec_Src_Learning>learning</LP_Rec_Src_Learning>
+  <LP_Rec_Src_Idle>free time</LP_Rec_Src_Idle>
+  <LP_Rec_Src_Invitation>invitation</LP_Rec_Src_Invitation>
+  <LP_Rec_Src_Queue>queue</LP_Rec_Src_Queue>
+  <LP_Rec_Src_FriendCall>called by a friend</LP_Rec_Src_FriendCall>
+  <LP_Rec_Src_CareCall>called (Childcare)</LP_Rec_Src_CareCall>
+  <LP_Rec_Src_WatchCall>called to watch</LP_Rec_Src_WatchCall>
+  <LP_Rec_Src_RecreationCall>called (recreation)</LP_Rec_Src_RecreationCall>
+  <LP_Rec_Src_CareWork>Childcare work</LP_Rec_Src_CareWork>
+  <LP_Rec_Src_Recreation>recreation</LP_Rec_Src_Recreation>
+  <LP_Rec_Src_Ordered>ordered</LP_Rec_Src_Ordered>
+  <LP_Rec_Mode_ChildAlone>child alone</LP_Rec_Mode_ChildAlone>
+  <LP_Rec_Mode_Children>children together</LP_Rec_Mode_Children>
+  <LP_Rec_Mode_WithCare>with a Childcare adult</LP_Rec_Mode_WithCare>
+  <LP_Rec_Mode_WithRec>with an adult</LP_Rec_Mode_WithRec>
+  <LP_Rec_Mode_Watched>adult watching</LP_Rec_Mode_Watched>
+  <LP_Rec_Mode_AdultAlone>adult alone</LP_Rec_Mode_AdultAlone>
+  <LP_Rec_Mode_AdultCare>adult playing with a child</LP_Rec_Mode_AdultCare>
+  <LP_Rec_Mode_AdultWithChild>adult with a child</LP_Rec_Mode_AdultWithChild>
+  <LP_Rec_Mode_Adults>adults together</LP_Rec_Mode_Adults>
+  <LP_Rec_Role_child>child</LP_Rec_Role_child>
+  <LP_Rec_Role_care>Childcare</LP_Rec_Role_care>
+  <LP_Rec_Role_adult>adult</LP_Rec_Role_adult>
+  <LP_Rec_JustNow>just now</LP_Rec_JustNow>
+  <LP_Rec_Ago>{0} h ago</LP_Rec_Ago>
+  <LP_Rec_Inspect>Log, last 3 days: {0} rides ({1})</LP_Rec_Inspect>
+  <LP_Rec_InspectAlone>used alone: {0}</LP_Rec_InspectAlone>
+  <LP_Rec_File>Log file: {0}</LP_Rec_File>
+  <LP_Rec_Off>The playground log is off. Turn it on in Options &gt; Mod settings &gt; Little Playgrounds.</LP_Rec_Off>
+  <LP_Rec_Page_Rides>Rides</LP_Rec_Page_Rides>
+  <LP_Rec_Page_Recent>Recent rides</LP_Rec_Page_Recent>
+  <LP_Rec_Page_Decisions>Play choices</LP_Rec_Page_Decisions>
+  <LP_Rec_Page_Children>Children now</LP_Rec_Page_Children>
+  <LP_Rec_OnlySelected>Only the selected ride</LP_Rec_OnlySelected>
+  <LP_Rec_Never>never</LP_Rec_Never>
+  <LP_Rec_RideLine>last 3 days {0} rides: {1}</LP_Rec_RideLine>
+  <LP_Rec_Last>last {0}</LP_Rec_Last>
+  <LP_Rec_With>with {0}</LP_Rec_With>
+  <LP_Rec_Watchers>watched by {0}</LP_Rec_Watchers>
+  <LP_Rec_Seconds>{0} s</LP_Rec_Seconds>
+  <LP_Rec_WhyAlone>Why alone: {0}</LP_Rec_WhyAlone>
+  <LP_Rec_HowCame>How: {0}</LP_Rec_HowCame>
+  <LP_Rec_ChildLine>learning {0} · hour {1} · now {2} · last ride {3} · playground {4} · calling {5}</LP_Rec_ChildLine>
+  <LP_Rec_Ready>ready</LP_Rec_Ready>
+  <LP_Rec_ReadyIn>in {0} h</LP_Rec_ReadyIn>
+  <LP_Rec_Drink>goes for a drink</LP_Rec_Drink>
+  <LP_Rec_Joined>joined a friend on {0}</LP_Rec_Joined>
+  <LP_Rec_ToPartner>goes to {0}, where someone waits for a partner</LP_Rec_ToPartner>
+  <LP_Rec_Chose>chose {0}</LP_Rec_Chose>
+  <LP_Rec_RunRoll>free-running roll (30%)</LP_Rec_RunRoll>
+  <LP_Rec_Running>runs around</LP_Rec_Running>
+  <LP_Rec_Queue>queues for {0}</LP_Rec_Queue>
+  <LP_Rec_Nobody>nobody called: {0}</LP_Rec_Nobody>
+  <LP_Rec_FromQueue>after {0} s in the queue</LP_Rec_FromQueue>
+  <LP_Setting_FacialPlay>Connect Facial Animation during play</LP_Setting_FacialPlay>
+  <LP_Setting_FacialPlayTip>Use an existing smile only when the installed Facial Animation face pack supports it. Switch off to disconnect Little Playgrounds immediately; other facial animations keep working. No new face textures are added.</LP_Setting_FacialPlayTip>
+  <LP_Setting_FacialPlayError>Facial connection stopped after an error. Switch this option off and on to retry.</LP_Setting_FacialPlayError>
+  <LP_Setting_Sounds>Ride sounds</LP_Setting_Sounds>
+  <LP_Setting_SoundsTip>Small sounds while playing: swings creak, trampolines bounce, sand and water play, the drinking fountain. You hear them only when zoomed in close; they follow the game's sound volume and stay quiet while the game is paused. The slides and the ball pit have no sound.</LP_Setting_SoundsTip>
+  <LP_Setting_SoundVolume>Ride sound volume: {0}</LP_Setting_SoundVolume>
+  <LP_Setting_SoundRides>Sound for each ride:</LP_Setting_SoundRides>
+  <LP_Setting_RunAround>Children sometimes run around a ride instead of riding it</LP_Setting_RunAround>
+  <LP_Setting_RunAroundTip>A child who has picked a ride may run around it instead, and learns as much as from a swing ride. On shared rides a friend joins in; otherwise an adult assigned to Childcare comes to watch. Needs dry open ground next to the ride (not water or mud), or the child simply rides.</LP_Setting_RunAroundTip>
+  <LP_Setting_RunAroundChance>Chance each time a child picks a ride: {0}</LP_Setting_RunAroundChance>
+  <LP_Setting_RunAroundIndoors>Also run under a roof</LP_Setting_RunAroundIndoors>
+  <LP_Setting_RunAroundIndoorsTip>When off, children only run on open ground, so rides indoors are simply ridden; a playground canopy does not count as a roof. When on, they also run around indoor rides if the room has space.</LP_Setting_RunAroundIndoorsTip>
+  <LP_Setting_CouplePlay>Couples play together</LP_Setting_CouplePlay>
+  <LP_Setting_CouplePlayTip>An adult who picks a ride or bench two can share calls their love partner, who comes if free or between ordinary tasks, and a couple with nothing to do sometimes goes on a date by themselves, at most once a day. They wait for each other, and afterwards both get a small mood and opinion bonus.</LP_Setting_CouplePlayTip>
+  <LP_Setting_RequireResearch>Building needs {0} research</LP_Setting_RequireResearch>
+  <LP_Setting_RequireResearchTip>When on, everything this mod adds (rides, benches, fences and floors) can be built only after {0} is researched. The usual starts already have it, so only colonies that begin without it, such as tribes, research it first. Anything already built stays. When off, everything can be built from the start.</LP_Setting_RequireResearchTip>
+  <LP_Setting_ToddlerPlay>Toddlers play on the rides</LP_Setting_ToddlerPlay>
+  <LP_Setting_ToddlerPlayMissing>needs the Toddlers mod</LP_Setting_ToddlerPlayMissing>
+  <LP_Setting_ToddlerPlayTip>With the Toddlers mod, toddlers who can walk, wobbly ones included, play on these rides: {0}. Crawling toddlers stay off. When off, toddlers leave every ride alone. Without the Toddlers mod this does nothing.</LP_Setting_ToddlerPlayTip>
+</LanguageData>

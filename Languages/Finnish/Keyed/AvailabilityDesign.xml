@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_BlockedUnavailable>Ei käytettävissä</LP_BlockedUnavailable>
+  <LP_BlockedCannotPlay>Ei voi osallistua tähän toimintaan</LP_BlockedCannotPlay>
+  <LP_BlockedDrafted>Värvätty</LP_BlockedDrafted>
+  <LP_BlockedDowned>Maissa</LP_BlockedDowned>
+  <LP_BlockedMentalState>Mielentilan hallitsema</LP_BlockedMentalState>
+  <LP_BlockedForbidden>Kielletty tai sallitun alueen ulkopuolella</LP_BlockedForbidden>
+  <LP_BlockedAudience>Ei sallittu tämän leikkivälineen ikäasetuksen vuoksi</LP_BlockedAudience>
+  <LP_BlockedTooHot>Liian kuuma leikkikentällä</LP_BlockedTooHot>
+  <LP_BlockedTooCold>Liian kylmä leikkikentällä</LP_BlockedTooCold>
+  <LP_BlockedBusy>Käytössä tai varattu</LP_BlockedBusy>
+  <LP_BlockedEntrance>Ei pääse vapaalle sisään- tai uloskäynnille</LP_BlockedEntrance>
+  <LP_BlockedReturning>Istuin on palaamassa</LP_BlockedReturning>
+  <LP_BlockedCourseTooShort>Yhdistä vähintään kaksi radan osaa</LP_BlockedCourseTooShort>
+  <LP_BlockedWaterCold>Liian kylmä tai luminen vesileikkiin</LP_BlockedWaterCold>
+  <LP_DesignButton>Ulkoasu</LP_DesignButton>
+  <LP_DesignDescription>Valitse tämän leikkivälineen ulkoasu. Nykyinen: {0}. Värit valitaan erikseen.</LP_DesignDescription>
+  <LP_DesignOriginal>Alkuperäinen</LP_DesignOriginal>
+  <LP_DesignTimber>Puu</LP_DesignTimber>
+  <LP_DesignBusy>Ulkoasua voi vaihtaa vasta, kun kukaan ei enää käytä leikkivälinettä.</LP_DesignBusy>
+  <LP_DesignCurrent>Ulkoasu: {0}</LP_DesignCurrent>
+</LanguageData>

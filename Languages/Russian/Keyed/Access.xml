@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_VisitorCount>Посетители: {0} / {1}</LP_VisitorCount>
+  <LP_AudienceButton>Посетители: {0}</LP_AudienceButton>
+  <LP_AudienceCurrent>Разрешенные посетители: {0}</LP_AudienceCurrent>
+  <LP_AudienceDescription>Выберите, кто может пользоваться этим оборудованием. По умолчанию — все. Исключённые посетители прекращают текущее посещение или уходят из очереди. Этот выбор сохраняется.</LP_AudienceDescription>
+  <LP_AudienceEveryone>Все</LP_AudienceEveryone>
+  <LP_AudienceChildren>Только для детей</LP_AudienceChildren>
+  <LP_AudienceAdults>Только для взрослых</LP_AudienceAdults>
+</LanguageData>

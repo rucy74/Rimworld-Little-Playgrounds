@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Menu_PlaySwing>Joacă-te pe leagăn</LP_Menu_PlaySwing>
+  <LP_Menu_PlaySlide>Joacă-te pe tobogan</LP_Menu_PlaySlide>
+  <LP_Menu_PlaySeesaw>Joacă-te pe balansoar</LP_Menu_PlaySeesaw>
+  <LP_Menu_JumpTrampoline>Sari pe trambulină</LP_Menu_JumpTrampoline>
+  <LP_Menu_RideZipline>Dă-te cu tiroliana</LP_Menu_RideZipline>
+  <LP_Menu_BuildSandcastles>Construiește castele de nisip</LP_Menu_BuildSandcastles>
+  <LP_Menu_RelaxBench>Relaxează-te pe bancă</LP_Menu_RelaxBench>
+  <LP_Menu_TakeDrink>Bea apă</LP_Menu_TakeDrink>
+  <LP_Menu_PlayCourse>Parcurge acest traseu cu obstacole</LP_Menu_PlayCourse>
+  <LP_Menu_PlayAt>Joacă la {0}</LP_Menu_PlayAt>
+  <LP_Inspect_CourseLinked>Traseu cu obstacole din {0} celule conectate.</LP_Inspect_CourseLinked>
+  <LP_Inspect_CourseAlone>Stă singură, așa că nimeni nu se poate juca aici încă. Așezați lângă ea o altă piatră de pășit, treaptă din lemn sau buștean de echilibru, margine la margine.</LP_Inspect_CourseAlone>
+  <LP_Inspect_CourseCorner>Atinge altă piesă doar la colț, iar așa nu se leagă. Piesele se leagă margine la margine.</LP_Inspect_CourseCorner>
+  <LP_Inspect_CourseWaiting>Se va lega de piesa planificată de alături după ce va fi construită.</LP_Inspect_CourseWaiting>
+  <LP_Menu_CourseTooShort>Parcurge acest traseu cu obstacole (necesită o altă piesă margine la margine)</LP_Menu_CourseTooShort>
+  <LP_Place_CourseLinked>Se leagă într-un traseu cu obstacole de {0} celule</LP_Place_CourseLinked>
+  <LP_Place_CourseOccupied>Aici există deja o piesă de traseu</LP_Place_CourseOccupied>
+  <LP_Place_CourseSelf>Formează singură un traseu de {0} celule</LP_Place_CourseSelf>
+  <LP_Place_CourseCorner>Contactul de colț nu se leagă, așezați-l margine la margine</LP_Place_CourseCorner>
+  <LP_Place_CourseAlone>Nu se poate juca pe o singură piesă, plasați alta margine la margine</LP_Place_CourseAlone>
+  <LP_Inspect_SplashClosed>Joaca cu apă e închisă: sub 10°C.</LP_Inspect_SplashClosed>
+  <LP_Inspect_SeatReturning>Scaunul gol se întoarce</LP_Inspect_SeatReturning>
+  <LP_Inspect_Rider>Pe echipament: {0}</LP_Inspect_Rider>
+  <LP_Inspect_ReadyOne>Gata pentru o persoană</LP_Inspect_ReadyOne>
+  <LP_Inspect_ReadyAny>Gata de folosit</LP_Inspect_ReadyAny>
+  <LP_Inspect_SlideRider>Pe echipament: {0} — {1}</LP_Inspect_SlideRider>
+  <LP_SlidePhase_approach>apropiere</LP_SlidePhase_approach>
+  <LP_SlidePhase_boarding>urcare</LP_SlidePhase_boarding>
+  <LP_SlidePhase_climbing>cățărare</LP_SlidePhase_climbing>
+  <LP_SlidePhase_platform>platformă</LP_SlidePhase_platform>
+  <LP_SlidePhase_seated>așezat</LP_SlidePhase_seated>
+  <LP_SlidePhase_sliding>alunecare</LP_SlidePhase_sliding>
+  <LP_SlidePhase_landing>aterizare</LP_SlidePhase_landing>
+  <LP_SlidePhase_finished>terminat</LP_SlidePhase_finished>
+  <LP_Inspect_SwingSeats>Scaun din stânga: {0}\nScaun din dreapta: {1}</LP_Inspect_SwingSeats>
+  <LP_Inspect_SeatFree>disponibil</LP_Inspect_SeatFree>
+  <LP_Inspect_SeesawTogether>Se joacă împreună</LP_Inspect_SeesawTogether>
+  <LP_Inspect_SeesawWaiting>Urcare</LP_Inspect_SeesawWaiting>
+  <LP_Inspect_SeesawSolo>Se joacă singur</LP_Inspect_SeesawSolo>
+  <LP_Inspect_SeesawFree>Două locuri disponibile</LP_Inspect_SeesawFree>
+  <LP_Inspect_SandCastle>Un castel de nisip construit aici</LP_Inspect_SandCastle>
+  <LP_Inspect_SandTower>Un turn de nisip prinde formă</LP_Inspect_SandTower>
+  <LP_Inspect_SandMound>O movilă mică de nisip</LP_Inspect_SandMound>
+  <LP_Inspect_SandReady>Gata pentru jocul cu nisip</LP_Inspect_SandReady>
+  <LP_Setting_ChildcarePlay>Adulții se joacă cu copiii ca îngrijire a copiilor</LP_Setting_ChildcarePlay>
+  <LP_Setting_ChildcarePlayTip>Când este activat, un adult desemnat pentru îngrijirea copiilor vizitează un copil care se joacă singur. Adultul se poate alătura copilului într-un leagăn, balansoar, cutie cu nisip, carusel de joacă, căsuță de joacă sau trambulină mare sau să privească lângă echipament pentru o persoană. Adultul câștigă ceva recreere socială, la fel ca atunci când se joacă cu un bebeluș. Când această setare este dezactivată, adulții se pot juca în continuare cu copiii în timpul lor de recreere.</LP_Setting_ChildcarePlayTip>
+  <LP_Setting_RecordPlay>Jurnal de joacă (pentru depanare)</LP_Setting_RecordPlay>
+  <LP_Setting_RecordPlayTip>Când este activat, acest jurnal înregistrează fiecare vizită la locul de joacă: cine a jucat, cine s-a alăturat sau s-a uitat, cum au ajuns și de ce echipamentul cu mai multe locuri a fost folosit singur. Citiți un panou cu informații despre echipament sau selectați Vizualizați jurnalul de mai jos. Aceleași informații sunt salvate și în fișierul de mai jos.</LP_Setting_RecordPlayTip>
+  <LP_Rec_Open>Vizualizați jurnalul</LP_Rec_Open>
+  <LP_Rec_Title>Jurnal de joacă</LP_Rec_Title>
+  <LP_Rec_NoMap>Încărcați o hartă a localității pentru a vedea jurnalul locului de joacă.</LP_Rec_NoMap>
+  <LP_Why_Other>nu aici</LP_Why_Other>
+  <LP_Why_Drafted>recrutat</LP_Why_Drafted>
+  <LP_Why_Downed>doborât</LP_Why_Downed>
+  <LP_Why_Mental>stare mentală</LP_Why_Mental>
+  <LP_Why_Burning>în flăcări</LP_Why_Burning>
+  <LP_Why_Ordered>executarea unei comenzi</LP_Why_Ordered>
+  <LP_Why_Busy>ocupat ({0})</LP_Why_Busy>
+  <LP_Why_Gathering>într-o adunare sau grup</LP_Why_Gathering>
+  <LP_Why_Fighting>luptă</LP_Why_Fighting>
+  <LP_Why_Needs>pe cale să mănânce sau să doarmă</LP_Why_Needs>
+  <LP_Why_NotPlayTime>nu este o oră de recreere</LP_Why_NotPlayTime>
+  <LP_Why_JoyFull>recreerea e deja plină</LP_Why_JoyFull>
+  <LP_Why_PlayCooldown>tocmai s-a jucat (din nou în {0} h)</LP_Why_PlayCooldown>
+  <LP_Why_CareSettingOff>Jocul pentru îngrijirea copiilor este dezactivat în setările modului</LP_Why_CareSettingOff>
+  <LP_Why_NotWorkHour>nu este o oră de lucru</LP_Why_NotWorkHour>
+  <LP_Why_CannotChildcare>nu poate face îngrijirea copiilor</LP_Why_CannotChildcare>
+  <LP_Why_ChildcareOff>Îngrijirea copiilor dezactivată în fila Muncă</LP_Why_ChildcareOff>
+  <LP_Why_CallCooldown>a chemat recent (din nou în {0} h)</LP_Why_CallCooldown>
+  <LP_Why_BeingCalled>deja chemat de alt copil</LP_Why_BeingCalled>
+  <LP_Why_Dislike>nu se plac unul pe altul (opinie {0})</LP_Why_Dislike>
+  <LP_Why_TooFar>prea departe ({0} s, limitează {1} s)</LP_Why_TooFar>
+  <LP_Why_NotAllowedFun>nu este permis acest tip de distracție (titlu)</LP_Why_NotAllowedFun>
+  <LP_Why_NoWatchSpot>nu există un loc liber de unde să privească</LP_Why_NoWatchSpot>
+  <LP_Why_NoSeat>niciun loc sau drum spre echipament</LP_Why_NoSeat>
+  <LP_Rec_CallerCooldown>acest copil a chemat recent pe cineva (din nou în {0} h)</LP_Rec_CallerCooldown>
+  <LP_Rec_NoFriendSite>niciun echipament comun în apropiere cu două locuri libere</LP_Rec_NoFriendSite>
+  <LP_Rec_NoChildren>niciun alt copil</LP_Rec_NoChildren>
+  <LP_Rec_Friends>prieteni: {0}</LP_Rec_Friends>
+  <LP_Rec_SomeoneThere>cineva e deja pe echipament sau pe drum</LP_Rec_SomeoneThere>
+  <LP_Rec_Called>a chemat: {0} ({1})</LP_Rec_Called>
+  <LP_Rec_CalledBy>chemat de {0}</LP_Rec_CalledBy>
+  <LP_Rec_NoAdults>niciun adult</LP_Rec_NoAdults>
+  <LP_Rec_Adults>adulți: {0}</LP_Rec_Adults>
+  <LP_Rec_Kind_Friend>prieten</LP_Rec_Kind_Friend>
+  <LP_Rec_Kind_Care>Îngrijirea copiilor</LP_Rec_Kind_Care>
+  <LP_Rec_Kind_Watch>să privească</LP_Rec_Kind_Watch>
+  <LP_Rec_Kind_Recreation>recreere</LP_Rec_Kind_Recreation>
+  <LP_Rec_Hold>a așteptat {0} s la intrare: {1}</LP_Rec_Hold>
+  <LP_Rec_HoldCap>a așteptat toate cele 10 s</LP_Rec_HoldCap>
+  <LP_Rec_HoldRiding>s-a urcat altcineva</LP_Rec_HoldRiding>
+  <LP_Rec_HoldLate>{0} nu a putut ajunge la timp</LP_Rec_HoldLate>
+  <LP_Rec_HoldArrivedName>{0} a sosit</LP_Rec_HoldArrivedName>
+  <LP_Rec_HoldArrived>însoțitorul a sosit</LP_Rec_HoldArrived>
+  <LP_Rec_CompanionMissed>a chemat: {0}, dar n-a venit (acum: {1})</LP_Rec_CompanionMissed>
+  <LP_Rec_WhyUnknown>a venit: {0}; nimeni altcineva nu a venit</LP_Rec_WhyUnknown>
+  <LP_Rec_Src_Unknown>necunoscut</LP_Rec_Src_Unknown>
+  <LP_Rec_Src_Learning>învățare</LP_Rec_Src_Learning>
+  <LP_Rec_Src_Idle>timp liber</LP_Rec_Src_Idle>
+  <LP_Rec_Src_Invitation>invitație</LP_Rec_Src_Invitation>
+  <LP_Rec_Src_Queue>coadă</LP_Rec_Src_Queue>
+  <LP_Rec_Src_FriendCall>chemat de un prieten</LP_Rec_Src_FriendCall>
+  <LP_Rec_Src_CareCall>chemat (îngrijirea copiilor)</LP_Rec_Src_CareCall>
+  <LP_Rec_Src_WatchCall>chemat să privească</LP_Rec_Src_WatchCall>
+  <LP_Rec_Src_RecreationCall>chemat (recreere)</LP_Rec_Src_RecreationCall>
+  <LP_Rec_Src_CareWork>Lucrări de îngrijire a copiilor</LP_Rec_Src_CareWork>
+  <LP_Rec_Src_Recreation>recreere</LP_Rec_Src_Recreation>
+  <LP_Rec_Src_Ordered>la ordin</LP_Rec_Src_Ordered>
+  <LP_Rec_Mode_ChildAlone>copil singur</LP_Rec_Mode_ChildAlone>
+  <LP_Rec_Mode_Children>copii împreună</LP_Rec_Mode_Children>
+  <LP_Rec_Mode_WithCare>cu un adult pentru îngrijirea copiilor</LP_Rec_Mode_WithCare>
+  <LP_Rec_Mode_WithRec>cu un adult</LP_Rec_Mode_WithRec>
+  <LP_Rec_Mode_Watched>un adult privește</LP_Rec_Mode_Watched>
+  <LP_Rec_Mode_AdultAlone>adult singur</LP_Rec_Mode_AdultAlone>
+  <LP_Rec_Mode_AdultCare>adult care se joacă cu un copil</LP_Rec_Mode_AdultCare>
+  <LP_Rec_Mode_AdultWithChild>adult cu un copil</LP_Rec_Mode_AdultWithChild>
+  <LP_Rec_Mode_Adults>adulți împreună</LP_Rec_Mode_Adults>
+  <LP_Rec_Role_child>copil</LP_Rec_Role_child>
+  <LP_Rec_Role_care>Îngrijirea copiilor</LP_Rec_Role_care>
+  <LP_Rec_Role_adult>adult</LP_Rec_Role_adult>
+  <LP_Rec_JustNow>tocmai acum</LP_Rec_JustNow>
+  <LP_Rec_Ago>{0} h în urmă</LP_Rec_Ago>
+  <LP_Rec_Inspect>Jurnal, ultimele 3 zile: {0} utilizări ({1})</LP_Rec_Inspect>
+  <LP_Rec_InspectAlone>folosit singur: {0}</LP_Rec_InspectAlone>
+  <LP_Rec_File>Fișier jurnal: {0}</LP_Rec_File>
+  <LP_Rec_Off>Jurnalul locului de joacă este oprit. Activați-l în Setări &gt; Mod Settings &gt; Little Playgrounds.</LP_Rec_Off>
+  <LP_Rec_Page_Rides>Echipament de joacă</LP_Rec_Page_Rides>
+  <LP_Rec_Page_Recent>Vizite recente la locul de joacă</LP_Rec_Page_Recent>
+  <LP_Rec_Page_Decisions>Alegeri de joacă</LP_Rec_Page_Decisions>
+  <LP_Rec_Page_Children>Copii acum</LP_Rec_Page_Children>
+  <LP_Rec_OnlySelected>Numai echipamentul selectat</LP_Rec_OnlySelected>
+  <LP_Rec_Never>niciodată</LP_Rec_Never>
+  <LP_Rec_RideLine>ultimele 3 zile, {0} utilizări: {1}</LP_Rec_RideLine>
+  <LP_Rec_Last>ultimul {0}</LP_Rec_Last>
+  <LP_Rec_With>cu {0}</LP_Rec_With>
+  <LP_Rec_Watchers>urmărit de {0}</LP_Rec_Watchers>
+  <LP_Rec_Seconds>{0} s</LP_Rec_Seconds>
+  <LP_Rec_WhyAlone>De ce singur: {0}</LP_Rec_WhyAlone>
+  <LP_Rec_HowCame>Cum: {0}</LP_Rec_HowCame>
+  <LP_Rec_ChildLine>învățare {0} · oră {1} · acum {2} · ultima utilizare {3} · loc de joacă {4} · chemare {5}</LP_Rec_ChildLine>
+  <LP_Rec_Ready>gata</LP_Rec_Ready>
+  <LP_Rec_ReadyIn>în {0} h</LP_Rec_ReadyIn>
+  <LP_Rec_Drink>merge să bea apă</LP_Rec_Drink>
+  <LP_Rec_Joined>s-a alăturat unui prieten pe {0}</LP_Rec_Joined>
+  <LP_Rec_ToPartner>merge la {0}, unde cineva așteaptă un partener</LP_Rec_ToPartner>
+  <LP_Rec_Chose>a ales {0}</LP_Rec_Chose>
+  <LP_Rec_RunRoll>tragere la sorți pentru alergare liberă (30%)</LP_Rec_RunRoll>
+  <LP_Rec_Running>aleargă în jur</LP_Rec_Running>
+  <LP_Rec_Queue>stă la coadă pentru {0}</LP_Rec_Queue>
+  <LP_Rec_Nobody>n-a chemat pe nimeni: {0}</LP_Rec_Nobody>
+  <LP_Rec_FromQueue>după {0} s în coadă</LP_Rec_FromQueue>
+  <LP_Setting_FacialPlay>Conectează Facial Animation în timpul joacei</LP_Setting_FacialPlay>
+  <LP_Setting_FacialPlayTip>Folosește un zâmbet existent doar dacă pachetul de fețe Facial Animation instalat îl are. Dezactivați pentru a deconecta imediat Little Playgrounds; celelalte animații faciale funcționează în continuare. Nu se adaugă texturi noi de fețe.</LP_Setting_FacialPlayTip>
+  <LP_Setting_FacialPlayError>Conexiunea cu expresiile faciale s-a oprit după o eroare. Dezactivați și reactivați această opțiune pentru a reîncerca.</LP_Setting_FacialPlayError>
+  <LP_Setting_Sounds>Sunetele echipamentelor de joacă</LP_Setting_Sounds>
+  <LP_Setting_SoundsTip>Sunete discrete la joacă: scârțâitul leagănelor, săriturile pe trambuline, joaca cu nisip și apă, cișmeaua. Se aud doar când camera e foarte apropiată; urmează volumul jocului și tac cât timp jocul e pe pauză. Toboganele și piscina cu bile nu au sunet.</LP_Setting_SoundsTip>
+  <LP_Setting_SoundVolume>Volumul sunetelor echipamentelor: {0}</LP_Setting_SoundVolume>
+  <LP_Setting_SoundRides>Sunet pentru fiecare echipament:</LP_Setting_SoundRides>
+  <LP_Setting_RunAround>Copiii aleargă uneori în jurul unui echipament în loc să-l folosească</LP_Setting_RunAround>
+  <LP_Setting_RunAroundTip>Un copil care a ales un echipament poate alerga în schimb în jurul lui și învață la fel de mult ca într-un leagăn. La echipamentele pentru doi i se alătură un prieten; altfel vine să privească un adult desemnat pentru îngrijirea copiilor. E nevoie de teren uscat și liber lângă echipament (nu apă sau noroi), altfel copilul pur și simplu îl folosește.</LP_Setting_RunAroundTip>
+  <LP_Setting_RunAroundChance>Șansă de fiecare dată când un copil alege un echipament: {0}</LP_Setting_RunAroundChance>
+  <LP_Setting_RunAroundIndoors>Aleargă și sub acoperiș</LP_Setting_RunAroundIndoors>
+  <LP_Setting_RunAroundIndoorsTip>Când e dezactivat, copiii aleargă doar pe teren deschis, așa că echipamentele din interior sunt pur și simplu folosite; baldachinul pentru umbrirea locului de joacă nu contează ca acoperiș. Când e activat, aleargă și în jurul echipamentelor din interior, dacă în cameră e loc.</LP_Setting_RunAroundIndoorsTip>
+  <LP_Setting_CouplePlay>Cuplurile se joacă împreună</LP_Setting_CouplePlay>
+  <LP_Setting_CouplePlayTip>Un adult care alege un echipament sau o bancă pentru doi își cheamă partenerul, care vine dacă e liber sau între sarcini obișnuite, iar un cuplu fără nimic de făcut merge uneori singur la o întâlnire, cel mult o dată pe zi. Se așteaptă unul pe altul, iar apoi amândoi primesc un mic bonus la dispoziție și opinie.</LP_Setting_CouplePlayTip>
+  <LP_Setting_RequireResearch>Construirea necesită cercetarea „{0}”</LP_Setting_RequireResearch>
+  <LP_Setting_RequireResearchTip>Când e activat, tot ce adaugă acest mod (echipamente, bănci, garduri și pardoseli) se poate construi doar după cercetarea „{0}”. Începuturile obișnuite o au deja, așa că doar coloniile care încep fără ea, cum sunt triburile, o cercetează mai întâi. Ce e deja construit rămâne. Când e dezactivat, totul se poate construi de la început.</LP_Setting_RequireResearchTip>
+  <LP_Setting_ToddlerPlay>Copiii mici se joacă pe echipamente</LP_Setting_ToddlerPlay>
+  <LP_Setting_ToddlerPlayMissing>necesită modul Toddlers</LP_Setting_ToddlerPlayMissing>
+  <LP_Setting_ToddlerPlayTip>Cu modul Toddlers, copiii mici care știu să meargă, chiar și cei care încă se clatină, se joacă pe aceste echipamente: {0}. Cei care încă merg de-a bușilea nu urcă. Când e dezactivat, copiii mici nu folosesc niciun echipament. Fără modul Toddlers, aceasta nu face nimic.</LP_Setting_ToddlerPlayTip>
+</LanguageData>

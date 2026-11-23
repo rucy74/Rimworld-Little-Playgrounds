@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Sandbox.label>piaskownica dębowa</LP_Sandbox.label>
+  <LP_Sandbox.description>Piaskownica z jasnego dębu z narożnymi siedziskami w kolorze kości słoniowej. Maksymalnie troje dzieci lub dorosłych może samodzielnie lub razem uformować kopiec w wieżę, a następnie zamek z piasku. Dzieci zyskują naukę, a dorośli rekreację. Ich twórczość pozostaje po ich odejściu i powoli się zużywa, gdy nie jest używana.</LP_Sandbox.description>
+  <LP_GardenBench.label>ławka ogrodowa</LP_GardenBench.label>
+  <LP_GardenBench.description>Zaokrąglona ławka z dębu i kości słoniowej z miejscem dla dwóch osób. Koloniści mogą wybrać ją do rekreacji albo dostać rozkaz, by tu odpocząć. Umieść zacienienie placu zabaw jedno pole za ławką, aby ją osłonić.</LP_GardenBench.description>
+  <LP_ShadeCanopy.label>zacienienie placu zabaw</LP_ShadeCanopy.label>
+  <LP_ShadeCanopy.description>Baldachim z kremowej tkaniny na szałwiowych słupkach. Umieść jego środkowy znacznik jedno pole za ławką. Osłania obszar pięć na trzy pola przed sobą, nie zastępując istniejących dachów. Nad siedzącymi gośćmi tkanina pozostaje nieprzezroczysta i staje się półprzezroczysta, gdy jej uniesiony obraz zasłania postać.</LP_ShadeCanopy.description>
+  <LP_OakCurb.label>dębowe obrzeże placu zabaw</LP_OakCurb.label>
+  <LP_OakCurb.description>Niskie, zaokrąglone dębowe obrzeże. Sąsiednie obrzeża placu zabaw łączą się automatycznie, także w narożnikach. Postacie mogą je przekraczać.</LP_OakCurb.description>
+  <LP_IvoryCurb.label>obrzeże placu zabaw</LP_IvoryCurb.label>
+  <LP_IvoryCurb.description>Niskie obrzeże w kolorze kości słoniowej, wykańczające granicę placu zabaw. Sąsiednie obrzeża placu zabaw łączą się automatycznie, także w narożnikach. Postacie mogą je przekraczać. Zbudowane z dowolnych bloków kamiennych; jego kształt i kolory pozostają takie same, niezależnie od tego, jakiego kamienia użyjesz.</LP_IvoryCurb.description>
+</LanguageData>

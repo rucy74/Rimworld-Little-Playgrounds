@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Setting_LearningWeight>Preferanse for læring gjennom lekeplasslek: {0} (standard: 2)</LP_Setting_LearningWeight>
+  <LP_Setting_LearningWeightDescription>Juster hvor ofte et barn velger lekeplasslek som læringsønske. En høyere verdi gjør at denne aktiviteten mer sannsynlig blir valgt.</LP_Setting_LearningWeightDescription>
+  <LP_Setting_LearningWeightTip>Ved 1 har lekeplasslek samme utvalgsvekt som gulvtegning eller naturløping. Ved 2 dobles valgvekten. Dette betyr ikke dobbelt så mange faktiske besøk. Den separate 50 % sjansen for å leke når barnet er ledig, er uendret. Innstillingen gjelder når neste læringsønske velges. Nåværende ønsker og pågående lek er uendret.</LP_Setting_LearningWeightTip>
+  <LP_Setting_LearningWeightTiming>Gjelder når nytt læringsønske velges. Eksisterende ønsker og lek i gang beholdes.</LP_Setting_LearningWeightTiming>
+</LanguageData>

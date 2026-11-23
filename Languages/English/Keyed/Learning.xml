@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_Setting_LearningWeight>Playground learning preference: {0} (default: 2)</LP_Setting_LearningWeight>
+  <LP_Setting_LearningWeightDescription>Controls how often playground play is chosen as a child's learning desire. Higher values make children want playground play more often.</LP_Setting_LearningWeightDescription>
+  <LP_Setting_LearningWeightTip>1 gives playground play the same draw weight as ordinary activities such as floor drawing and nature running. 2 doubles that weight, not the actual number of visits. This does not affect the 50% chance to play during idle time. Changes apply to the next learning-desire draw; existing desires and play in progress are kept.</LP_Setting_LearningWeightTip>
+  <LP_Setting_LearningWeightTiming>Applies when a new learning desire is chosen. Existing desires and play in progress are kept.</LP_Setting_LearningWeightTiming>
+</LanguageData>

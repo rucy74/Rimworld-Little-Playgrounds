@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_BlockedUnavailable>Μη διαθέσιμο</LP_BlockedUnavailable>
+  <LP_BlockedCannotPlay>Δεν μπορεί να συμμετάσχει σε αυτή τη δραστηριότητα</LP_BlockedCannotPlay>
+  <LP_BlockedDrafted>Έχει στρατολογηθεί</LP_BlockedDrafted>
+  <LP_BlockedDowned>Ανήμπορος</LP_BlockedDowned>
+  <LP_BlockedMentalState>Σε ψυχική κατάσταση</LP_BlockedMentalState>
+  <LP_BlockedForbidden>Αποκλεισμένο ή εκτός επιτρεπόμενης περιοχής</LP_BlockedForbidden>
+  <LP_BlockedAudience>Δεν επιτρέπεται από τη ρύθμιση ηλικίας αυτού του εξοπλισμού</LP_BlockedAudience>
+  <LP_BlockedTooHot>Πολλή ζέστη στην παιδική χαρά</LP_BlockedTooHot>
+  <LP_BlockedTooCold>Πολύ κρύο στην παιδική χαρά</LP_BlockedTooCold>
+  <LP_BlockedBusy>Σε χρήση ή δεσμευμένο</LP_BlockedBusy>
+  <LP_BlockedEntrance>Δεν μπορεί να φτάσει σε ελεύθερη είσοδο ή έξοδο</LP_BlockedEntrance>
+  <LP_BlockedReturning>Το κάθισμα επιστρέφει</LP_BlockedReturning>
+  <LP_BlockedCourseTooShort>Συνδέστε τουλάχιστον δύο κομμάτια διαδρομής</LP_BlockedCourseTooShort>
+  <LP_BlockedWaterCold>Πολύ κρύο ή χιόνι για παιχνίδι με νερό</LP_BlockedWaterCold>
+  <LP_DesignButton>Εμφάνιση</LP_DesignButton>
+  <LP_DesignDescription>Επιλέξτε την εμφάνιση αυτού του εξοπλισμού. Τρέχουσα: {0}. Τα χρώματα επιλέγονται ξεχωριστά.</LP_DesignDescription>
+  <LP_DesignOriginal>Αρχική</LP_DesignOriginal>
+  <LP_DesignTimber>Ξύλινη</LP_DesignTimber>
+  <LP_DesignBusy>Περιμένετε μέχρι να τελειώσουν όλοι τη χρήση του εξοπλισμού.</LP_DesignBusy>
+  <LP_DesignCurrent>Εμφάνιση: {0}</LP_DesignCurrent>
+</LanguageData>

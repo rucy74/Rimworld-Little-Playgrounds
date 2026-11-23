@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PlaySandLight.label>淺色遊樂場沙地</LP_PlaySandLight.label>
+  <LP_PlaySandLight.description>顏色淺淡、帶有柔和細紋的沙地，讓遊樂場顯得明亮開闊。這是細沙與粗粒沙之外的第三種沙地。</LP_PlaySandLight.description>
+  <LP_PlaySand.label>細沙遊樂場地面</LP_PlaySand.label>
+  <LP_PlaySand.description>溫暖的米黃色遊樂場細沙，顆粒細膩，表面有輕微的自然起伏。</LP_PlaySand.description>
+  <LP_PlaySandGrainy.label>粗粒遊樂場沙地</LP_PlaySandGrainy.label>
+  <LP_PlaySandGrainy.description>溫暖色調的沙地，沙粒清晰可見，表面有輕微的耙痕。比細沙地面更有顆粒感。</LP_PlaySandGrainy.description>
+  <LP_RubberSage.label>鼠尾草綠橡膠地面</LP_RubberSage.label>
+  <LP_RubberSage.description>啞光橡膠顆粒遊樂場地面，紋理細微，鋪滿後不顯方格接縫。提供鼠尾草綠、奶油色和杏色。</LP_RubberSage.description>
+  <LP_RubberCream.label>奶油色橡膠地面</LP_RubberCream.label>
+  <LP_RubberCream.description>啞光橡膠顆粒遊樂場地面，紋理細微，鋪滿後不顯方格接縫。提供鼠尾草綠、奶油色和杏色。</LP_RubberCream.description>
+  <LP_RubberApricot.label>杏色橡膠地面</LP_RubberApricot.label>
+  <LP_RubberApricot.description>啞光橡膠顆粒遊樂場地面，紋理細微，鋪滿後不顯方格接縫。提供鼠尾草綠、奶油色和杏色。</LP_RubberApricot.description>
+</LanguageData>

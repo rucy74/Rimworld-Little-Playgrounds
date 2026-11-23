@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PlaySandLight.label>sabbia chiara da gioco</LP_PlaySandLight.label>
+  <LP_PlaySandLight.description>Sabbia chiara con increspature dolci e poco profonde per un parco giochi luminoso. Questa è una terza superficie sabbiosa, accanto alla sabbia fine e alla sabbia granulosa.</LP_PlaySandLight.description>
+  <LP_PlaySand.label>sabbia fine per parco giochi</LP_PlaySand.label>
+  <LP_PlaySand.description>Sabbia sedimentata, calda, beige per parco giochi con grani fini e variazioni poco profonde.</LP_PlaySand.description>
+  <LP_PlaySandGrainy.label>sabbia granulosa del parco giochi</LP_PlaySandGrainy.label>
+  <LP_PlaySandGrainy.description>Sabbia calda per parchi giochi con granelli visibili e superficie leggermente rastrellata. Un'alternativa più strutturata alla sabbia fine del parco giochi.</LP_PlaySandGrainy.description>
+  <LP_RubberSage.label>pavimentazione in gomma verde salvia</LP_RubberSage.label>
+  <LP_RubberSage.description>Una superficie da gioco opaca in briciola di gomma. La sua struttura sottile si unisce senza una griglia di piastrelle. Disponibile nei colori salvia, crema e albicocca.</LP_RubberSage.description>
+  <LP_RubberCream.label>gomma da gioco color crema</LP_RubberCream.label>
+  <LP_RubberCream.description>Una superficie da gioco opaca in briciola di gomma. La sua struttura sottile si unisce senza una griglia di piastrelle. Disponibile nei colori salvia, crema e albicocca.</LP_RubberCream.description>
+  <LP_RubberApricot.label>gomma da gioco albicocca</LP_RubberApricot.label>
+  <LP_RubberApricot.description>Una superficie da gioco opaca in briciola di gomma. La sua struttura sottile si unisce senza una griglia di piastrelle. Disponibile nei colori salvia, crema e albicocca.</LP_RubberApricot.description>
+</LanguageData>

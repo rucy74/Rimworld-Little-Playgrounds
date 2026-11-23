@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Sandbox.label>bac à sable en chêne</LP_Sandbox.label>
+  <LP_Sandbox.description>Un bac à sable en chêne pâle avec des sièges d'angle ivoire. Jusqu'à trois enfants ou adultes façonnent un monticule en tour puis en château de sable, seuls ou ensemble. Les enfants acquièrent des connaissances ; les adultes gagnent en loisirs. Leur création reste après leur départ et s'use lentement lorsqu'elle n'est pas utilisée.</LP_Sandbox.description>
+  <LP_GardenBench.label>banc de jardin</LP_GardenBench.label>
+  <LP_GardenBench.description>Un banc arrondi en chêne et ivoire pouvant accueillir deux personnes. Les colons peuvent le choisir pour leurs loisirs ou recevoir l'ordre de s'y détendre. Placez un auvent d'ombrage une cellule derrière le banc pour l'abriter.</LP_GardenBench.description>
+  <LP_ShadeCanopy.label>auvent d'ombrage pour aire de jeux</LP_ShadeCanopy.label>
+  <LP_ShadeCanopy.description>Un auvent en tissu crème sur poteaux vert sauge. Placez son marqueur central une cellule derrière un banc. Il abrite une zone de cinq sur trois devant lui sans remplacer les toits existants. Le tissu reste opaque au-dessus des visiteurs assis et s'estompe lorsque son image surélevée masque un personnage.</LP_ShadeCanopy.description>
+  <LP_OakCurb.label>bordure de terrain de jeu en chêne</LP_OakCurb.label>
+  <LP_OakCurb.description>Bordure basse arrondie en chêne. La bordure du terrain de jeu adjacente se connecte automatiquement, y compris dans les coins. Les personnages peuvent l'enjamber.</LP_OakCurb.description>
+  <LP_IvoryCurb.label>bordure de terrain de jeu</LP_IvoryCurb.label>
+  <LP_IvoryCurb.description>Bordure basse ivoire pour une limite de terrain de jeu finie. La bordure du terrain de jeu adjacente se connecte automatiquement, y compris dans les coins. Les personnages peuvent l'enjamber. Construit à partir de n'importe quel bloc de pierre ; sa forme et ses couleurs restent les mêmes quelle que soit la pierre utilisée.</LP_IvoryCurb.description>
+</LanguageData>

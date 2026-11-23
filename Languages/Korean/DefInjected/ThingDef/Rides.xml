@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_Swing.label>놀이터 그네</LP_Swing.label>
+  <LP_Swing.description>네 가지 배색을 고를 수 있는 긴 두 자리 그네입니다. 아이와 어른이 각자 앉아 앞뒤로 흔들며 놀 수 있습니다. 아이는 학습을, 어른은 오락을 얻습니다. 타고 내리는 입구를 비워 두세요.</LP_Swing.description>
+  <LP_Slide.label>놀이터 미끄럼틀</LP_Slide.label>
+  <LP_Slide.description>계단을 올라가 앉은 뒤 실제로 미끄러져 내려오는 미끄럼틀입니다. 아이와 어른이 혼자 이용하며, 배색 버튼으로 색을 고를 수 있습니다. 계단 입구와 내려오는 곳을 비워 두세요.</LP_Slide.description>
+  <LP_Seesaw.label>놀이터 시소</LP_Seesaw.label>
+  <LP_Seesaw.description>혼자 타면 낮은 쪽에서 작게 들썩이고, 둘이 타면 마주 앉아 번갈아 오르내리는 시소입니다. 아이와 어른 모두 혼자 또는 함께 이용할 수 있고, 배색 버튼으로 색을 고를 수 있습니다.</LP_Seesaw.description>
+</LanguageData>

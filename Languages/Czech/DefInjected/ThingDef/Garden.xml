@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Sandbox.label>dubové pískoviště</LP_Sandbox.label>
+  <LP_Sandbox.description>Pískoviště ze světlého dubu se slonovinovými rohovými sedadly. Až tři děti nebo dospělí sami nebo společně vytvarují hromádku do podoby věže a poté hradu z písku. Děti získávají učení; dospělí relaxaci. Jejich výtvor zůstává po jejich odchodu a pomalu se opotřebovává, když se nepoužívá.</LP_Sandbox.description>
+  <LP_GardenBench.label>zahradní lavička</LP_GardenBench.label>
+  <LP_GardenBench.description>Zaoblená lavička z dubu a slonoviny s místem pro dvě osoby. Kolonisté si ji mohou vybrat k relaxaci nebo sem dostat rozkaz k odpočinku. Umístěte stínící stříšku na hřišti jedno políčko za lavičku, aby ji chránila.</LP_GardenBench.description>
+  <LP_ShadeCanopy.label>stínící stříška na hřišti</LP_ShadeCanopy.label>
+  <LP_ShadeCanopy.description>Krémová látková stříška na šalvějových sloupcích. Umístěte její středovou značku jedno políčko za lavičku. Zastřeší plochu pět krát tři políčka před sebou, aniž by nahradila stávající střechy. Nad sedícími návštěvníky zůstává látka neprůhledná a zprůhlední, když její vyvýšený obraz zakryje postavu.</LP_ShadeCanopy.description>
+  <LP_OakCurb.label>dubová obruba hřiště</LP_OakCurb.label>
+  <LP_OakCurb.description>Nízká zaoblená dubová obruba. Sousední obruby hřiště se automaticky spojí, i kolem rohů. Postavy ji mohou překročit.</LP_OakCurb.description>
+  <LP_IvoryCurb.label>obruba hřiště</LP_IvoryCurb.label>
+  <LP_IvoryCurb.description>Nízká obruba ve slonovinové barvě pro úhledné ohraničení hřiště. Sousední obruby hřiště se automaticky spojí, i kolem rohů. Postavy ji mohou překročit. Postaveno z jakýchkoli kamenných bloků; jeho tvar a barvy zůstanou stejné bez ohledu na to, jaký kámen použijete.</LP_IvoryCurb.description>
+</LanguageData>

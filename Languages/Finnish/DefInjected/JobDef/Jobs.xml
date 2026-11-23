@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_RideSwing.reportString>leikkii keinussa.</LP_RideSwing.reportString>
+  <LP_RideSlide.reportString>leikkii liukumäellä.</LP_RideSlide.reportString>
+  <LP_RideSeesaw.reportString>leikkii keinulaudalla.</LP_RideSeesaw.reportString>
+  <LP_PlayInSand.reportString>rakentaa hiekkalinnoja.</LP_PlayInSand.reportString>
+  <LP_RelaxOnBench.reportString>rentoutumassa puutarhapenkillä.</LP_RelaxOnBench.reportString>
+  <LP_WaitForPlayground.reportString>odottaa hetken kohdetta TargetA.</LP_WaitForPlayground.reportString>
+  <LP_BounceTrampoline.reportString>pomppii TargetA:llä.</LP_BounceTrampoline.reportString>
+  <LP_RideZipline.reportString>liukuu leikkivälineellä TargetA.</LP_RideZipline.reportString>
+  <LP_RideSpringFox.reportString>keinuu leikkivälineellä TargetA.</LP_RideSpringFox.reportString>
+  <LP_SpinRoundabout.reportString>pyörii TargetA:llä.</LP_SpinRoundabout.reportString>
+  <LP_PlayShop.reportString>leikkii kauppaa leikkivälineellä TargetA.</LP_PlayShop.reportString>
+  <LP_PlayHopscotch.reportString>hyppii ruutua.</LP_PlayHopscotch.reportString>
+  <LP_PlaySplashPad.reportString>leikkimässä vesisuihkuissa.</LP_PlaySplashPad.reportString>
+  <LP_WalkCourse.reportString>ylittää leikkikentän radan.</LP_WalkCourse.reportString>
+  <LP_BounceTogether.reportString>pomppii TargetA:llä.</LP_BounceTogether.reportString>
+  <LP_DrinkAtFountain.reportString>juo vettä kohteesta TargetA.</LP_DrinkAtFountain.reportString>
+  <LP_CareSwing.reportString>keinuu keinussa TargetB:n kanssa.</LP_CareSwing.reportString>
+  <LP_CareSeesaw.reportString>leikkii keinulaudalla TargetB:n kanssa.</LP_CareSeesaw.reportString>
+  <LP_CareSand.reportString>rakentaa hiekkalinnoja TargetB:n kanssa.</LP_CareSand.reportString>
+  <LP_CareRoundabout.reportString>pyörittää karusellia TargetB:n kanssa.</LP_CareRoundabout.reportString>
+  <LP_CarePlayhouse.reportString>leikkii kauppaa TargetB:n kanssa.</LP_CarePlayhouse.reportString>
+  <LP_CareBounceTogether.reportString>pomppii trampoliinilla TargetB:n kanssa.</LP_CareBounceTogether.reportString>
+  <LP_WatchChildPlay.reportString>katsoo, kun TargetB leikkii.</LP_WatchChildPlay.reportString>
+</LanguageData>

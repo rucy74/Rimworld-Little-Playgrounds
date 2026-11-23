@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_VisitorCount>Külastajad: {0} / {1}</LP_VisitorCount>
+  <LP_AudienceButton>Külastajad: {0}</LP_AudienceButton>
+  <LP_AudienceCurrent>Lubatud külastajad: {0}</LP_AudienceCurrent>
+  <LP_AudienceDescription>Valige, kes võib seda seadet kasutada. Vaikimisi on kõik. Välistatud külastajad peatavad oma praeguse külastuse või järjekorra. See valik on salvestatud.</LP_AudienceDescription>
+  <LP_AudienceEveryone>Kõik</LP_AudienceEveryone>
+  <LP_AudienceChildren>Ainult lapsed</LP_AudienceChildren>
+  <LP_AudienceAdults>Ainult täiskasvanud</LP_AudienceAdults>
+</LanguageData>

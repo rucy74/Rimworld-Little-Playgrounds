@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_BlockedUnavailable>No disponible</LP_BlockedUnavailable>
+  <LP_BlockedCannotPlay>No pot fer aquesta activitat</LP_BlockedCannotPlay>
+  <LP_BlockedDrafted>Reclutat</LP_BlockedDrafted>
+  <LP_BlockedDowned>Inconscient</LP_BlockedDowned>
+  <LP_BlockedMentalState>En crisi nerviosa</LP_BlockedMentalState>
+  <LP_BlockedForbidden>Prohibit o fora de l'àrea permesa</LP_BlockedForbidden>
+  <LP_BlockedAudience>No permès per la configuració d'edat d'aquest equip</LP_BlockedAudience>
+  <LP_BlockedTooHot>Fa massa calor al parc infantil</LP_BlockedTooHot>
+  <LP_BlockedTooCold>Fa massa fred al parc infantil</LP_BlockedTooCold>
+  <LP_BlockedBusy>En ús o reservat</LP_BlockedBusy>
+  <LP_BlockedEntrance>No pot arribar a cap entrada o sortida lliure</LP_BlockedEntrance>
+  <LP_BlockedReturning>El seient està tornant</LP_BlockedReturning>
+  <LP_BlockedCourseTooShort>Calen almenys dues peces del recorregut connectades</LP_BlockedCourseTooShort>
+  <LP_BlockedWaterCold>Fa massa fred o hi ha neu per jugar amb aigua</LP_BlockedWaterCold>
+  <LP_DesignButton>Disseny</LP_DesignButton>
+  <LP_DesignDescription>Tria l'aspecte d'aquest equip. Actual: {0}. Els colors es trien a part.</LP_DesignDescription>
+  <LP_DesignOriginal>Original</LP_DesignOriginal>
+  <LP_DesignTimber>Fusta natural</LP_DesignTimber>
+  <LP_DesignBusy>Espera que tothom acabi d'utilitzar l'equip.</LP_DesignBusy>
+  <LP_DesignCurrent>Disseny: {0}</LP_DesignCurrent>
+</LanguageData>

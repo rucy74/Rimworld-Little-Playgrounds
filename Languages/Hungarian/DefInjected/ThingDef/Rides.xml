@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Swing.label>játszótéri hinta</LP_Swing.label>
+  <LP_Swing.description>Magas, kétüléses hinta négy választható színsémával. A gyermekek és a felnőttek különálló üléseket használnak az előre és hátra lendítéshez. A gyerekek tanulásban, a felnőttek pedig élvezetben részesülnek. Hagyja szabadon a bejáratokat.</LP_Swing.description>
+  <LP_Slide.label>játszótéri csúszda</LP_Slide.label>
+  <LP_Slide.description>Játszótéri csúszda bal oldalon lépcsőkkel, jobb oldalon sima csúszófelülettel. Gyermekek és felnőttek felmásznak, felülnek a tetejére és lecsúsznak. A gyerekek tanulásban, a felnőttek pedig élvezetben részesülnek. Mindkét vége legyen szabad.</LP_Slide.description>
+  <LP_Seesaw.label>kerti libikóka</LP_Seesaw.label>
+  <LP_Seesaw.description>Íves tölgy libikóka két párnázott üléssel. Egy személy kis pattogó mozdulatokat végezhet a talaj közelében. Két emberrel az ülések felváltva emelkednek és süllyednek. Gyermekek és felnőttek játszhatnak egyedül vagy együtt, beleértve a felnőttet és a gyermeket. A gyerekek tanulásban, a felnőttek pedig élvezetben részesülnek. Mindkét vége legyen szabad.</LP_Seesaw.description>
+</LanguageData>

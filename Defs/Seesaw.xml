@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BuildingBase">
+    <defName>LP_Seesaw</defName>
+    <label>garden seesaw</label>
+    <description>A curved oak seesaw with two cushioned seats. A lone rider gently bounces at the low end; two riders take turns rising and falling. Children and adults can play alone or together, including mixed pairs. Children gain learning; adults gain recreation. Leave both ends clear.</description>
+    <thingClass>LittlePlaygrounds.Building_Seesaw</thingClass>
+    <graphicData>
+      <texPath>Things/Building/Selectedseesaw</texPath>
+      <graphicClass>LittlePlaygrounds.Graphic_PlaygroundPalette</graphicClass>
+      <drawSize>(5.7558,1.9186)</drawSize>
+      <drawOffset>(0,0,0.1484)</drawOffset>
+    </graphicData>
+    <size>(7,3)</size>
+    <rotatable>true</rotatable>
+    <drawerType>RealtimeOnly</drawerType>
+    <tickerType>Normal</tickerType>
+    <passability>Standable</passability>
+    <pathCost>35</pathCost>
+    <fillPercent>0.15</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <designationCategory>Joy</designationCategory>
+    <statBases>
+      <MaxHitPoints>150</MaxHitPoints><WorkToBuild>2000</WorkToBuild><Mass>30</Mass>
+      <Flammability>0.6</Flammability><Beauty>7</Beauty>
+    </statBases>
+    <costList><WoodLog>55</WoodLog><Steel>20</Steel></costList>
+    <comps><li Class="LittlePlaygrounds.CompProperties_PlaygroundPalette"/><li Class="LittlePlaygrounds.CompProperties_PlaygroundAccess"/><li Class="LittlePlaygrounds.CompProperties_PlaygroundDesign"/></comps><terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <building><isEdifice>false</isEdifice><joyKind>Gaming_Dexterity</joyKind></building>
+    <modExtensions><li Class="LittlePlaygrounds.TurnProperties"><kind>Symmetric</kind></li></modExtensions>
+  </ThingDef>
+  <JobDef>
+    <defName>LP_RideSeesaw</defName>
+    <driverClass>LittlePlaygrounds.JobDriver_RideSeesaw</driverClass>
+    <reportString>playing on the seesaw.</reportString>
+    <casualInterruptible>true</casualInterruptible>
+    <joyKind>Gaming_Dexterity</joyKind><joyGainRate>1</joyGainRate><joyMaxParticipants>2</joyMaxParticipants>
+  </JobDef>
+  <AnimationDef>
+    <defName>LP_SeesawPose</defName><durationTicks>10000</durationTicks><loopMode>Loop</loopMode>
+    <keyframeParts><li><key>Root</key><value>
+      <workerType>LittlePlaygrounds.SeesawAnimationWorker</workerType>
+      <keyframes><li><tick>0</tick><angle>0</angle></li></keyframes>
+    </value></li></keyframeParts>
+  </AnimationDef>
+</Defs>

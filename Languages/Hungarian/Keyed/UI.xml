@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Menu_PlaySwing>Játssz a hintán</LP_Menu_PlaySwing>
+  <LP_Menu_PlaySlide>Játssz a csúszdán</LP_Menu_PlaySlide>
+  <LP_Menu_PlaySeesaw>Játssz a libikókán</LP_Menu_PlaySeesaw>
+  <LP_Menu_JumpTrampoline>Ugrálj a trambulinon</LP_Menu_JumpTrampoline>
+  <LP_Menu_RideZipline>Csússz a drótkötélpályán</LP_Menu_RideZipline>
+  <LP_Menu_BuildSandcastles>Homokvárak építése</LP_Menu_BuildSandcastles>
+  <LP_Menu_RelaxBench>Pihenjen a padon</LP_Menu_RelaxBench>
+  <LP_Menu_TakeDrink>Igyál vizet</LP_Menu_TakeDrink>
+  <LP_Menu_PlayCourse>Játssz ezen a pályán</LP_Menu_PlayCourse>
+  <LP_Menu_PlayAt>Játssz itt: {0}</LP_Menu_PlayAt>
+  <LP_Inspect_CourseLinked>{0} összekapcsolt cellából álló pálya.</LP_Inspect_CourseLinked>
+  <LP_Inspect_CourseAlone>Önmagában áll, ezért itt még senki sem játszhat. Helyezzen mellé élben illeszkedve egy másik lépőkövet, fa lépőlapot vagy egyensúlyozó farönköt.</LP_Inspect_CourseAlone>
+  <LP_Inspect_CourseCorner>Csak a sarkánál ér egy másik darabhoz, ez nem számít kapcsolódásnak. A darabok élben kapcsolódnak egymáshoz.</LP_Inspect_CourseCorner>
+  <LP_Inspect_CourseWaiting>Kapcsolódik a mellette tervezett darabhoz, amint az megépül.</LP_Inspect_CourseWaiting>
+  <LP_Menu_CourseTooShort>Játssz ezen a pályán (kell még egy élben illeszkedő darab)</LP_Menu_CourseTooShort>
+  <LP_Place_CourseLinked>{0} cellás pályához kapcsolódik</LP_Place_CourseLinked>
+  <LP_Place_CourseOccupied>Itt már van egy másik pályadarab</LP_Place_CourseOccupied>
+  <LP_Place_CourseSelf>Önmagában {0} cellás pályát alkot</LP_Place_CourseSelf>
+  <LP_Place_CourseCorner>A sarkos érintkezés nem kapcsol össze, helyezze élben illeszkedve</LP_Place_CourseCorner>
+  <LP_Place_CourseAlone>Önmagában nem játszható, helyezzen mellé élben egy másik darabot</LP_Place_CourseAlone>
+  <LP_Inspect_SplashClosed>Vízjáték zárva: 10°C alatt.</LP_Inspect_SplashClosed>
+  <LP_Inspect_SeatReturning>Üres ülés visszatér</LP_Inspect_SeatReturning>
+  <LP_Inspect_Rider>Használó: {0}</LP_Inspect_Rider>
+  <LP_Inspect_ReadyOne>Egy használóra kész</LP_Inspect_ReadyOne>
+  <LP_Inspect_ReadyAny>Használatra kész</LP_Inspect_ReadyAny>
+  <LP_Inspect_SlideRider>Használó: {0} — {1}</LP_Inspect_SlideRider>
+  <LP_SlidePhase_approach>közeledés</LP_SlidePhase_approach>
+  <LP_SlidePhase_boarding>felszállás</LP_SlidePhase_boarding>
+  <LP_SlidePhase_climbing>mászás</LP_SlidePhase_climbing>
+  <LP_SlidePhase_platform>platform</LP_SlidePhase_platform>
+  <LP_SlidePhase_seated>ül</LP_SlidePhase_seated>
+  <LP_SlidePhase_sliding>csúszás</LP_SlidePhase_sliding>
+  <LP_SlidePhase_landing>érkezés</LP_SlidePhase_landing>
+  <LP_SlidePhase_finished>kész</LP_SlidePhase_finished>
+  <LP_Inspect_SwingSeats>Bal ülés: {0}\nJobb ülés: {1}</LP_Inspect_SwingSeats>
+  <LP_Inspect_SeatFree>elérhető</LP_Inspect_SeatFree>
+  <LP_Inspect_SeesawTogether>Együtt játszanak</LP_Inspect_SeesawTogether>
+  <LP_Inspect_SeesawWaiting>Felszállás</LP_Inspect_SeesawWaiting>
+  <LP_Inspect_SeesawSolo>Egyedül játszik</LP_Inspect_SeesawSolo>
+  <LP_Inspect_SeesawFree>Két hely áll rendelkezésre</LP_Inspect_SeesawFree>
+  <LP_Inspect_SandCastle>Itt épült homokvár</LP_Inspect_SandCastle>
+  <LP_Inspect_SandTower>Homoktorony formálódik</LP_Inspect_SandTower>
+  <LP_Inspect_SandMound>Egy kis homokdomb</LP_Inspect_SandMound>
+  <LP_Inspect_SandReady>Készen áll a homokjátékra</LP_Inspect_SandReady>
+  <LP_Setting_ChildcarePlay>A felnőttek gyermekgondozásként játszanak a gyerekekkel</LP_Setting_ChildcarePlay>
+  <LP_Setting_ChildcarePlayTip>Bekapcsolva a gyermekgondozásra beosztott felnőtt odamegy az egyedül játszó gyerekhez. Közös játszóeszközökön (hinta, libikóka, homokozó, körhinta, játszóház, nagy trambulin) a felnőtt elfoglalja a szabad helyet és együtt játszik; az egyszemélyes eszközök mellett állva figyel. Ahogy a babával való játéknál, a felnőtt egy kis szociális élvezetben részesül. Kikapcsolva a felnőttek csak a saját szabadidejükben csatlakoznak a gyerekekhez.</LP_Setting_ChildcarePlayTip>
+  <LP_Setting_RecordPlay>Játszótér naplója (hibakereséshez)</LP_Setting_RecordPlay>
+  <LP_Setting_RecordPlayTip>Ha engedélyezve van, ez a napló minden játszótér látogatást rögzít: ki játszott, ki csatlakozott vagy nézte, hogyan érkezett, és miért használták egyedül a több ülőhellyel rendelkező berendezést. Olvasson el egy berendezés információs panelt, vagy válassza az alábbi napló megtekintése lehetőséget. Ugyanezek az információk az alábbi fájlba is mentésre kerülnek.</LP_Setting_RecordPlayTip>
+  <LP_Rec_Open>Napló megtekintése</LP_Rec_Open>
+  <LP_Rec_Title>Játszótér napló</LP_Rec_Title>
+  <LP_Rec_NoMap>Töltsön be egy településtérképet a játszótéri napló megtekintéséhez.</LP_Rec_NoMap>
+  <LP_Why_Other>nincs itt</LP_Why_Other>
+  <LP_Why_Drafted>besorozva</LP_Why_Drafted>
+  <LP_Why_Downed>földön</LP_Why_Downed>
+  <LP_Why_Mental>idegösszeomlás</LP_Why_Mental>
+  <LP_Why_Burning>lángokban áll</LP_Why_Burning>
+  <LP_Why_Ordered>parancsot hajt végre</LP_Why_Ordered>
+  <LP_Why_Busy>elfoglalt ({0})</LP_Why_Busy>
+  <LP_Why_Gathering>egy összejövetelen vagy csoportban</LP_Why_Gathering>
+  <LP_Why_Fighting>harcol</LP_Why_Fighting>
+  <LP_Why_Needs>enni vagy aludni készül</LP_Why_Needs>
+  <LP_Why_NotPlayTime>nem szabadidős óra</LP_Why_NotPlayTime>
+  <LP_Why_JoyFull>az élvezet már tele</LP_Why_JoyFull>
+  <LP_Why_PlayCooldown>épp játszott (újra {0} óra múlva)</LP_Why_PlayCooldown>
+  <LP_Why_CareSettingOff>A gyermekgondozás közbeni játék ki van kapcsolva a mod beállításaiban</LP_Why_CareSettingOff>
+  <LP_Why_NotWorkHour>nem munkaóra</LP_Why_NotWorkHour>
+  <LP_Why_CannotChildcare>nem végezhet gyermekgondozást</LP_Why_CannotChildcare>
+  <LP_Why_ChildcareOff>A gyermekgondozás ki van kapcsolva a Beosztás lapon</LP_Why_ChildcareOff>
+  <LP_Why_CallCooldown>nemrég hívták (újra {0} óra múlva)</LP_Why_CallCooldown>
+  <LP_Why_BeingCalled>már hívott egy másik gyerek</LP_Why_BeingCalled>
+  <LP_Why_Dislike>nem szeretik egymást (értékelés: {0})</LP_Why_Dislike>
+  <LP_Why_TooFar>túl messze ({0} s, korlát {1} s)</LP_Why_TooFar>
+  <LP_Why_NotAllowedFun>a rangja nem engedi ezt a fajta szórakozást</LP_Why_NotAllowedFun>
+  <LP_Why_NoWatchSpot>nincs szabad hely, ahonnan nézhetne</LP_Why_NoWatchSpot>
+  <LP_Why_NoSeat>nincs ülőhely vagy út a játszóeszközhöz</LP_Why_NoSeat>
+  <LP_Rec_CallerCooldown>ez a gyermek nemrég hívott valakit ({0} h múlva ismét)</LP_Rec_CallerCooldown>
+  <LP_Rec_NoFriendSite>nincs a közelben közös játszóeszköz két szabad hellyel</LP_Rec_NoFriendSite>
+  <LP_Rec_NoChildren>nincs más gyerek</LP_Rec_NoChildren>
+  <LP_Rec_Friends>barátok: {0}</LP_Rec_Friends>
+  <LP_Rec_SomeoneThere>valaki már a játszóeszközön van vagy úton van</LP_Rec_SomeoneThere>
+  <LP_Rec_Called>hívta: {0} ({1})</LP_Rec_Called>
+  <LP_Rec_CalledBy>{0} hívta</LP_Rec_CalledBy>
+  <LP_Rec_NoAdults>nincs felnőtt</LP_Rec_NoAdults>
+  <LP_Rec_Adults>felnőttek: {0}</LP_Rec_Adults>
+  <LP_Rec_Kind_Friend>barát</LP_Rec_Kind_Friend>
+  <LP_Rec_Kind_Care>Gyermekgondozás</LP_Rec_Kind_Care>
+  <LP_Rec_Kind_Watch>nézőként</LP_Rec_Kind_Watch>
+  <LP_Rec_Kind_Recreation>szórakozás</LP_Rec_Kind_Recreation>
+  <LP_Rec_Hold>{0} s várt a bejáratnál: {1}</LP_Rec_Hold>
+  <LP_Rec_HoldCap>kivárta a teljes 10 mp-et</LP_Rec_HoldCap>
+  <LP_Rec_HoldRiding>valaki más szállt fel</LP_Rec_HoldRiding>
+  <LP_Rec_HoldLate>{0} nem ért oda időben</LP_Rec_HoldLate>
+  <LP_Rec_HoldArrivedName>{0} megérkezett</LP_Rec_HoldArrivedName>
+  <LP_Rec_HoldArrived>megérkezett a társ</LP_Rec_HoldArrived>
+  <LP_Rec_CompanionMissed>hívta őt: {0}, de nem tartott vele (jelenleg: {1})</LP_Rec_CompanionMissed>
+  <LP_Rec_WhyUnknown>érkezett: {0}; senki más nem jött</LP_Rec_WhyUnknown>
+  <LP_Rec_Src_Unknown>ismeretlen</LP_Rec_Src_Unknown>
+  <LP_Rec_Src_Learning>tanulás</LP_Rec_Src_Learning>
+  <LP_Rec_Src_Idle>szabadidő</LP_Rec_Src_Idle>
+  <LP_Rec_Src_Invitation>meghívás</LP_Rec_Src_Invitation>
+  <LP_Rec_Src_Queue>várólista</LP_Rec_Src_Queue>
+  <LP_Rec_Src_FriendCall>egy barát hívott</LP_Rec_Src_FriendCall>
+  <LP_Rec_Src_CareCall>hívták (gyermekgondozás)</LP_Rec_Src_CareCall>
+  <LP_Rec_Src_WatchCall>nézni hívták</LP_Rec_Src_WatchCall>
+  <LP_Rec_Src_RecreationCall>hívták (szórakozás)</LP_Rec_Src_RecreationCall>
+  <LP_Rec_Src_CareWork>Gyermekgondozási munka</LP_Rec_Src_CareWork>
+  <LP_Rec_Src_Recreation>szórakozás</LP_Rec_Src_Recreation>
+  <LP_Rec_Src_Ordered>parancsra</LP_Rec_Src_Ordered>
+  <LP_Rec_Mode_ChildAlone>gyermek egyedül</LP_Rec_Mode_ChildAlone>
+  <LP_Rec_Mode_Children>gyerekek együtt</LP_Rec_Mode_Children>
+  <LP_Rec_Mode_WithCare>gyermekgondozó felnőttel</LP_Rec_Mode_WithCare>
+  <LP_Rec_Mode_WithRec>felnőttel</LP_Rec_Mode_WithRec>
+  <LP_Rec_Mode_Watched>felnőtt néz</LP_Rec_Mode_Watched>
+  <LP_Rec_Mode_AdultAlone>felnőtt egyedül</LP_Rec_Mode_AdultAlone>
+  <LP_Rec_Mode_AdultCare>gyerekkel játszó felnőtt</LP_Rec_Mode_AdultCare>
+  <LP_Rec_Mode_AdultWithChild>felnőtt egy gyerekkel</LP_Rec_Mode_AdultWithChild>
+  <LP_Rec_Mode_Adults>felnőttek együtt</LP_Rec_Mode_Adults>
+  <LP_Rec_Role_child>gyermek</LP_Rec_Role_child>
+  <LP_Rec_Role_care>Gyermekgondozás</LP_Rec_Role_care>
+  <LP_Rec_Role_adult>felnőtt</LP_Rec_Role_adult>
+  <LP_Rec_JustNow>most</LP_Rec_JustNow>
+  <LP_Rec_Ago>{0} órája</LP_Rec_Ago>
+  <LP_Rec_Inspect>Napló, elmúlt 3 nap: {0} használat ({1})</LP_Rec_Inspect>
+  <LP_Rec_InspectAlone>egyedül használva: {0}</LP_Rec_InspectAlone>
+  <LP_Rec_File>Naplófájl: {0}</LP_Rec_File>
+  <LP_Rec_Off>A játszótér naplója ki van kapcsolva. Kapcsolja be a Beállítások &gt; Mod beállítások &gt; Little Playgrounds menüpontban.</LP_Rec_Off>
+  <LP_Rec_Page_Rides>Játszótéri felszerelés</LP_Rec_Page_Rides>
+  <LP_Rec_Page_Recent>Legutóbbi játszótéri látogatások</LP_Rec_Page_Recent>
+  <LP_Rec_Page_Decisions>Játékválasztások</LP_Rec_Page_Decisions>
+  <LP_Rec_Page_Children>Gyermekek most</LP_Rec_Page_Children>
+  <LP_Rec_OnlySelected>Csak a kiválasztott játszóeszköz</LP_Rec_OnlySelected>
+  <LP_Rec_Never>soha</LP_Rec_Never>
+  <LP_Rec_RideLine>utolsó 3 nap {0} használat: {1}</LP_Rec_RideLine>
+  <LP_Rec_Last>utolsó {0}</LP_Rec_Last>
+  <LP_Rec_With>társ: {0}</LP_Rec_With>
+  <LP_Rec_Watchers>{0} nézte</LP_Rec_Watchers>
+  <LP_Rec_Seconds>{0} s</LP_Rec_Seconds>
+  <LP_Rec_WhyAlone>Miért egyedül: {0}</LP_Rec_WhyAlone>
+  <LP_Rec_HowCame>Hogyan: {0}</LP_Rec_HowCame>
+  <LP_Rec_ChildLine>tanulás {0} · óra {1} · most {2} · utolsó játék {3} · játszótér {4} · hívás {5}</LP_Rec_ChildLine>
+  <LP_Rec_Ready>kész</LP_Rec_Ready>
+  <LP_Rec_ReadyIn>{0} óra múlva</LP_Rec_ReadyIn>
+  <LP_Rec_Drink>elmegy vizet inni</LP_Rec_Drink>
+  <LP_Rec_Joined>csatlakozott egy barátjához itt: {0}</LP_Rec_Joined>
+  <LP_Rec_ToPartner>ide megy: {0}, ahol valaki társra vár</LP_Rec_ToPartner>
+  <LP_Rec_Chose>ezt választotta: {0}</LP_Rec_Chose>
+  <LP_Rec_RunRoll>szabad futás sorsolás (30%)</LP_Rec_RunRoll>
+  <LP_Rec_Running>körbefut</LP_Rec_Running>
+  <LP_Rec_Queue>sorban áll ide: {0}</LP_Rec_Queue>
+  <LP_Rec_Nobody>senkit sem hívott: {0}</LP_Rec_Nobody>
+  <LP_Rec_FromQueue>{0} s sorban állás után</LP_Rec_FromQueue>
+  <LP_Setting_FacialPlay>Facial Animation összekapcsolása játék közben</LP_Setting_FacialPlay>
+  <LP_Setting_FacialPlayTip>Csak akkor használ meglévő mosolyt, ha a telepített Facial Animation arccsomag támogatja. Kikapcsolva a Little Playgrounds kapcsolata azonnal megszűnik, a többi arcanimáció pedig tovább működik. Nem ad hozzá új arctextúrákat.</LP_Setting_FacialPlayTip>
+  <LP_Setting_FacialPlayError>Az arckifejezés-kapcsolat hiba miatt leállt. Az újrapróbáláshoz kapcsolja ki, majd be ezt a beállítást.</LP_Setting_FacialPlayError>
+  <LP_Setting_Sounds>Játszóeszközök hangjai</LP_Setting_Sounds>
+  <LP_Setting_SoundsTip>Apró hangok játék közben: nyikorgó hinta, pattogó trambulin, homok- és vízjáték, ivókút. Csak közelre nagyítva hallhatók, a játék hangerejét követik, és szüneteltetett játéknál elnémulnak. A csúszdáknak és a labdamedencének nincs hangja.</LP_Setting_SoundsTip>
+  <LP_Setting_SoundVolume>Játszóeszközök hangereje: {0}</LP_Setting_SoundVolume>
+  <LP_Setting_SoundRides>Hang játszóeszközönként:</LP_Setting_SoundRides>
+  <LP_Setting_RunAround>A gyerekek néha körbefutják a játszóeszközt ahelyett, hogy használnák</LP_Setting_RunAround>
+  <LP_Setting_RunAroundTip>Az a gyerek, aki játszóeszközt választott, néha inkább körbefutja, és ugyanannyit tanul, mint egy hintázásból. Közös játszóeszköznél egy barát is csatlakozik, különben egy gyermekgondozásra beosztott felnőtt jön oda figyelni. A játszóeszköz mellett száraz, szabad talaj kell (nem víz vagy sár), különben a gyerek egyszerűen használja az eszközt.</LP_Setting_RunAroundTip>
+  <LP_Setting_RunAroundChance>Esély minden alkalommal, amikor egy gyerek játszóeszközt választ: {0}</LP_Setting_RunAroundChance>
+  <LP_Setting_RunAroundIndoors>Tető alatt is futnak</LP_Setting_RunAroundIndoors>
+  <LP_Setting_RunAroundIndoorsTip>Kikapcsolva a gyerekek csak szabad ég alatti, nyílt talajon futnak, így a beltéri játszóeszközöket egyszerűen használják; a játszótéri árnyékoló nem számít tetőnek. Bekapcsolva a beltéri játszóeszközöket is körbefutják, ha a szobában van hely.</LP_Setting_RunAroundIndoorsTip>
+  <LP_Setting_CouplePlay>A párok együtt játszanak</LP_Setting_CouplePlay>
+  <LP_Setting_CouplePlayTip>Az a felnőtt, aki kétszemélyes játszóeszközt vagy padot választ, hívja a párját, aki eljön, ha szabad, vagy éppen két hétköznapi feladat között van; a semmittevő párok néha maguktól is randevúra mennek, naponta legfeljebb egyszer. Megvárják egymást, utána pedig mindketten kapnak egy kis hangulat- és értékelésbónuszt.</LP_Setting_CouplePlayTip>
+  <LP_Setting_RequireResearch>Építéshez szükséges kutatás: {0}</LP_Setting_RequireResearch>
+  <LP_Setting_RequireResearchTip>Bekapcsolva a mod minden eleme (játszóeszközök, padok, kerítések és padlók) csak a „{0}” kutatás után építhető. A szokásos kezdések már rendelkeznek vele, így csak az enélkül induló kolóniák, például a törzsek kutatják ki előbb. A már megépített dolgok megmaradnak. Kikapcsolva minden kezdettől építhető.</LP_Setting_RequireResearchTip>
+  <LP_Setting_ToddlerPlay>A totyogók is játszanak a játszóeszközökön</LP_Setting_ToddlerPlay>
+  <LP_Setting_ToddlerPlayMissing>a Toddlers mod szükséges</LP_Setting_ToddlerPlayMissing>
+  <LP_Setting_ToddlerPlayTip>A Toddlers moddal a járni tudó totyogók, a még bizonytalanul lépkedők is, ezeken a játszóeszközökön játszanak: {0}. A még mászó totyogók nem mennek rájuk. Kikapcsolva a totyogók egyik játszóeszközt sem használják. A Toddlers mod nélkül ennek nincs hatása.</LP_Setting_ToddlerPlayTip>
+</LanguageData>

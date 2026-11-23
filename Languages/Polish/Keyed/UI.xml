@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Menu_PlaySwing>Pobaw się na huśtawce</LP_Menu_PlaySwing>
+  <LP_Menu_PlaySlide>Pobaw się na zjeżdżalni</LP_Menu_PlaySlide>
+  <LP_Menu_PlaySeesaw>Pobaw się na huśtawce wagowej</LP_Menu_PlaySeesaw>
+  <LP_Menu_JumpTrampoline>Poskacz na trampolinie</LP_Menu_JumpTrampoline>
+  <LP_Menu_RideZipline>Jedź tyrolką</LP_Menu_RideZipline>
+  <LP_Menu_BuildSandcastles>Buduj zamki z piasku</LP_Menu_BuildSandcastles>
+  <LP_Menu_RelaxBench>Zrelaksuj się na ławce</LP_Menu_RelaxBench>
+  <LP_Menu_TakeDrink>Napij się</LP_Menu_TakeDrink>
+  <LP_Menu_PlayCourse>Przejdź ten tor przeszkód</LP_Menu_PlayCourse>
+  <LP_Menu_PlayAt>Pobaw się: {0}</LP_Menu_PlayAt>
+  <LP_Inspect_CourseLinked>Tor przeszkód z {0} połączonych pól.</LP_Inspect_CourseLinked>
+  <LP_Inspect_CourseAlone>Stoi sam, więc nikt nie może się tu jeszcze bawić. Postaw obok kolejny kamienny stopień, drewniany stopień lub równoważnię, krawędzią do krawędzi.</LP_Inspect_CourseAlone>
+  <LP_Inspect_CourseCorner>Styka się z innym elementem tylko narożnikiem, a to ich nie łączy. Elementy łączą się krawędziami.</LP_Inspect_CourseCorner>
+  <LP_Inspect_CourseWaiting>Połączy się z zaplanowanym elementem obok, gdy ten zostanie zbudowany.</LP_Inspect_CourseWaiting>
+  <LP_Menu_CourseTooShort>Przejdź ten tor przeszkód (potrzebny kolejny element krawędzią do krawędzi)</LP_Menu_CourseTooShort>
+  <LP_Place_CourseLinked>Połączy się w tor przeszkód z {0} pól</LP_Place_CourseLinked>
+  <LP_Place_CourseOccupied>Tu już jest element toru przeszkód</LP_Place_CourseOccupied>
+  <LP_Place_CourseSelf>Sam tworzy tor przeszkód z {0} pól</LP_Place_CourseSelf>
+  <LP_Place_CourseCorner>Styk narożny nie łączy się, należy go ustawić krawędzią do krawędzi</LP_Place_CourseCorner>
+  <LP_Place_CourseAlone>Na jednym elemencie nie można się bawić, połóż kolejny krawędzią do krawędzi</LP_Place_CourseAlone>
+  <LP_Inspect_SplashClosed>Zabawy w wodzie zamknięte: poniżej 10°C.</LP_Inspect_SplashClosed>
+  <LP_Inspect_SeatReturning>Powrót pustego siedzenia</LP_Inspect_SeatReturning>
+  <LP_Inspect_Rider>Korzysta: {0}</LP_Inspect_Rider>
+  <LP_Inspect_ReadyOne>Gotowe dla jednej osoby</LP_Inspect_ReadyOne>
+  <LP_Inspect_ReadyAny>Gotowe do użycia</LP_Inspect_ReadyAny>
+  <LP_Inspect_SlideRider>Korzysta: {0} — {1}</LP_Inspect_SlideRider>
+  <LP_SlidePhase_approach>podejście</LP_SlidePhase_approach>
+  <LP_SlidePhase_boarding>wsiadanie</LP_SlidePhase_boarding>
+  <LP_SlidePhase_climbing>wspinaczka</LP_SlidePhase_climbing>
+  <LP_SlidePhase_platform>platforma</LP_SlidePhase_platform>
+  <LP_SlidePhase_seated>siedzi</LP_SlidePhase_seated>
+  <LP_SlidePhase_sliding>zjeżdżanie</LP_SlidePhase_sliding>
+  <LP_SlidePhase_landing>lądowanie</LP_SlidePhase_landing>
+  <LP_SlidePhase_finished>zakończone</LP_SlidePhase_finished>
+  <LP_Inspect_SwingSeats>Lewe siedzenie: {0}\nPrawe siedzenie: {1}</LP_Inspect_SwingSeats>
+  <LP_Inspect_SeatFree>wolne</LP_Inspect_SeatFree>
+  <LP_Inspect_SeesawTogether>Wspólna zabawa</LP_Inspect_SeesawTogether>
+  <LP_Inspect_SeesawWaiting>Wsiadanie</LP_Inspect_SeesawWaiting>
+  <LP_Inspect_SeesawSolo>Zabawa samotna</LP_Inspect_SeesawSolo>
+  <LP_Inspect_SeesawFree>Dostępne dwa miejsca</LP_Inspect_SeesawFree>
+  <LP_Inspect_SandCastle>Zbudowano tu zamek z piasku</LP_Inspect_SandCastle>
+  <LP_Inspect_SandTower>Wieża z piasku nabiera kształtu</LP_Inspect_SandTower>
+  <LP_Inspect_SandMound>Mały kopiec piasku</LP_Inspect_SandMound>
+  <LP_Inspect_SandReady>Gotowy do zabawy w piasku</LP_Inspect_SandReady>
+  <LP_Setting_ChildcarePlay>Dorośli bawią się z dziećmi w ramach opieki nad dziećmi</LP_Setting_ChildcarePlay>
+  <LP_Setting_ChildcarePlayTip>Gdy ta opcja jest włączona, dorosły przydzielony do opieki nad dziećmi idzie do dziecka, które bawi się samo. Na wspólnych urządzeniach (huśtawka, huśtawka wagowa, piaskownica, karuzela, domek zabaw, duża trampolina) dorosły zajmuje wolne miejsce i bawi się razem z nim; przy urządzeniach dla jednej osoby stoi obok i patrzy. Tak jak przy zabawie z niemowlęciem, dorosły zyskuje trochę rekreacji z interakcji społecznej. Gdy jest wyłączona, dorośli dołączają do dzieci tylko podczas własnej rekreacji.</LP_Setting_ChildcarePlayTip>
+  <LP_Setting_RecordPlay>Dziennik placu zabaw (do debugowania)</LP_Setting_RecordPlay>
+  <LP_Setting_RecordPlayTip>Po włączeniu ten dziennik rejestruje każdą wizytę na placu zabaw: kto grał, kto dołączył lub oglądał, jak przybyli i dlaczego sprzęt z kilkoma miejscami do siedzenia był używany samodzielnie. Przeczytaj panel informacji o sprzęcie lub wybierz opcję Wyświetl dziennik poniżej. Te same informacje są również zapisane w pliku poniżej.</LP_Setting_RecordPlayTip>
+  <LP_Rec_Open>Wyświetl dziennik</LP_Rec_Open>
+  <LP_Rec_Title>Dziennik placu zabaw</LP_Rec_Title>
+  <LP_Rec_NoMap>Załaduj mapę osady, aby wyświetlić dziennik placu zabaw.</LP_Rec_NoMap>
+  <LP_Why_Other>nie tutaj</LP_Why_Other>
+  <LP_Why_Drafted>w trybie bojowym</LP_Why_Drafted>
+  <LP_Why_Downed>znokautowany</LP_Why_Downed>
+  <LP_Why_Mental>załamanie psychiczne</LP_Why_Mental>
+  <LP_Why_Burning>w ogniu</LP_Why_Burning>
+  <LP_Why_Ordered>wykonuje rozkaz</LP_Why_Ordered>
+  <LP_Why_Busy>zajęty ({0})</LP_Why_Busy>
+  <LP_Why_Gathering>na spotkaniu lub grupie</LP_Why_Gathering>
+  <LP_Why_Fighting>walka</LP_Why_Fighting>
+  <LP_Why_Needs>zaraz będzie jeść lub spać</LP_Why_Needs>
+  <LP_Why_NotPlayTime>to nie jest godzina rekreacji</LP_Why_NotPlayTime>
+  <LP_Why_JoyFull>rekreacja już pełna</LP_Why_JoyFull>
+  <LP_Why_PlayCooldown>właśnie się bawił (znów za {0} godz.)</LP_Why_PlayCooldown>
+  <LP_Why_CareSettingOff>Zabawa w ramach opieki nad dziećmi jest wyłączona w ustawieniach moda</LP_Why_CareSettingOff>
+  <LP_Why_NotWorkHour>to nie jest godzina pracy</LP_Why_NotWorkHour>
+  <LP_Why_CannotChildcare>nie może zajmować się opieką nad dziećmi</LP_Why_CannotChildcare>
+  <LP_Why_ChildcareOff>Opieka nad dziećmi wyłączona w zakładce Praca</LP_Why_ChildcareOff>
+  <LP_Why_CallCooldown>niedawno wołał (znów za {0} godz.)</LP_Why_CallCooldown>
+  <LP_Why_BeingCalled>już woła je inne dziecko</LP_Why_BeingCalled>
+  <LP_Why_Dislike>nie lubią się (opinia {0})</LP_Why_Dislike>
+  <LP_Why_TooFar>za daleko ({0} s, limit {1} s)</LP_Why_TooFar>
+  <LP_Why_NotAllowedFun>niedozwolony taki rodzaj zabawy (tytuł)</LP_Why_NotAllowedFun>
+  <LP_Why_NoWatchSpot>brak wolnego miejsca, by popatrzeć</LP_Why_NoWatchSpot>
+  <LP_Why_NoSeat>brak miejsca lub drogi do urządzenia</LP_Why_NoSeat>
+  <LP_Rec_CallerCooldown>to dziecko niedawno kogoś wołało (znów za {0} godz.)</LP_Rec_CallerCooldown>
+  <LP_Rec_NoFriendSite>brak w pobliżu wspólnego urządzenia z dwoma wolnymi miejscami</LP_Rec_NoFriendSite>
+  <LP_Rec_NoChildren>brak innego dziecka</LP_Rec_NoChildren>
+  <LP_Rec_Friends>przyjaciele: {0}</LP_Rec_Friends>
+  <LP_Rec_SomeoneThere>ktoś już jest na urządzeniu lub w drodze</LP_Rec_SomeoneThere>
+  <LP_Rec_Called>zawołał: {0} ({1})</LP_Rec_Called>
+  <LP_Rec_CalledBy>zawołany przez: {0}</LP_Rec_CalledBy>
+  <LP_Rec_NoAdults>brak osoby dorosłej</LP_Rec_NoAdults>
+  <LP_Rec_Adults>dorośli: {0}</LP_Rec_Adults>
+  <LP_Rec_Kind_Friend>przyjaciel</LP_Rec_Kind_Friend>
+  <LP_Rec_Kind_Care>Opieka nad dziećmi</LP_Rec_Kind_Care>
+  <LP_Rec_Kind_Watch>oglądać</LP_Rec_Kind_Watch>
+  <LP_Rec_Kind_Recreation>rekreacja</LP_Rec_Kind_Recreation>
+  <LP_Rec_Hold>czekał {0} s przy wejściu: {1}</LP_Rec_Hold>
+  <LP_Rec_HoldCap>odczekał pełne 10 s</LP_Rec_HoldCap>
+  <LP_Rec_HoldRiding>ktoś inny wsiadł</LP_Rec_HoldRiding>
+  <LP_Rec_HoldLate>{0} nie dotarł na czas</LP_Rec_HoldLate>
+  <LP_Rec_HoldArrivedName>Przybył {0}</LP_Rec_HoldArrivedName>
+  <LP_Rec_HoldArrived>przybył towarzysz</LP_Rec_HoldArrived>
+  <LP_Rec_CompanionMissed>zawołał: {0}, ale ta osoba nie przyszła (teraz: {1})</LP_Rec_CompanionMissed>
+  <LP_Rec_WhyUnknown>przyszedł: {0}; nikt inny nie przyszedł</LP_Rec_WhyUnknown>
+  <LP_Rec_Src_Unknown>nieznany</LP_Rec_Src_Unknown>
+  <LP_Rec_Src_Learning>nauka</LP_Rec_Src_Learning>
+  <LP_Rec_Src_Idle>czas wolny</LP_Rec_Src_Idle>
+  <LP_Rec_Src_Invitation>zaproszenie</LP_Rec_Src_Invitation>
+  <LP_Rec_Src_Queue>kolejka</LP_Rec_Src_Queue>
+  <LP_Rec_Src_FriendCall>zawołany przez przyjaciela</LP_Rec_Src_FriendCall>
+  <LP_Rec_Src_CareCall>zawołany (opieka nad dziećmi)</LP_Rec_Src_CareCall>
+  <LP_Rec_Src_WatchCall>wezwany, żeby obejrzeć</LP_Rec_Src_WatchCall>
+  <LP_Rec_Src_RecreationCall>zawołany (rekreacja)</LP_Rec_Src_RecreationCall>
+  <LP_Rec_Src_CareWork>Praca w opiece nad dziećmi</LP_Rec_Src_CareWork>
+  <LP_Rec_Src_Recreation>rekreacja</LP_Rec_Src_Recreation>
+  <LP_Rec_Src_Ordered>na rozkaz</LP_Rec_Src_Ordered>
+  <LP_Rec_Mode_ChildAlone>dziecko samo</LP_Rec_Mode_ChildAlone>
+  <LP_Rec_Mode_Children>dzieci razem</LP_Rec_Mode_Children>
+  <LP_Rec_Mode_WithCare>z dorosłym z opieki nad dziećmi</LP_Rec_Mode_WithCare>
+  <LP_Rec_Mode_WithRec>z osobą dorosłą</LP_Rec_Mode_WithRec>
+  <LP_Rec_Mode_Watched>dorosły patrzy</LP_Rec_Mode_Watched>
+  <LP_Rec_Mode_AdultAlone>sam dorosły</LP_Rec_Mode_AdultAlone>
+  <LP_Rec_Mode_AdultCare>dorosły bawi się z dzieckiem</LP_Rec_Mode_AdultCare>
+  <LP_Rec_Mode_AdultWithChild>dorosły z dzieckiem</LP_Rec_Mode_AdultWithChild>
+  <LP_Rec_Mode_Adults>dorośli razem</LP_Rec_Mode_Adults>
+  <LP_Rec_Role_child>dziecko</LP_Rec_Role_child>
+  <LP_Rec_Role_care>Opieka nad dziećmi</LP_Rec_Role_care>
+  <LP_Rec_Role_adult>dorosły</LP_Rec_Role_adult>
+  <LP_Rec_JustNow>właśnie teraz</LP_Rec_JustNow>
+  <LP_Rec_Ago>{0} godz. temu</LP_Rec_Ago>
+  <LP_Rec_Inspect>Dziennik, ostatnie 3 dni: {0} zabaw ({1})</LP_Rec_Inspect>
+  <LP_Rec_InspectAlone>używany samodzielnie: {0}</LP_Rec_InspectAlone>
+  <LP_Rec_File>Plik dziennika: {0}</LP_Rec_File>
+  <LP_Rec_Off>Dziennik placu zabaw jest wyłączony. Włącz go w Opcje &gt; Ustawienia modów &gt; Little Playgrounds.</LP_Rec_Off>
+  <LP_Rec_Page_Rides>Wyposażenie placów zabaw</LP_Rec_Page_Rides>
+  <LP_Rec_Page_Recent>Ostatnie wizyty na placu zabaw</LP_Rec_Page_Recent>
+  <LP_Rec_Page_Decisions>Wybory zabawy</LP_Rec_Page_Decisions>
+  <LP_Rec_Page_Children>Teraz dzieci</LP_Rec_Page_Children>
+  <LP_Rec_OnlySelected>Tylko wybrane urządzenie</LP_Rec_OnlySelected>
+  <LP_Rec_Never>nigdy</LP_Rec_Never>
+  <LP_Rec_RideLine>ostatnie 3 dni, {0} zabaw: {1}</LP_Rec_RideLine>
+  <LP_Rec_Last>ostatni {0}</LP_Rec_Last>
+  <LP_Rec_With>z {0}</LP_Rec_With>
+  <LP_Rec_Watchers>oglądane przez {0}</LP_Rec_Watchers>
+  <LP_Rec_Seconds>{0} s</LP_Rec_Seconds>
+  <LP_Rec_WhyAlone>Dlaczego sam: {0}</LP_Rec_WhyAlone>
+  <LP_Rec_HowCame>Jak: {0}</LP_Rec_HowCame>
+  <LP_Rec_ChildLine>nauka {0} · godzina {1} · teraz {2} · ostatnia zabawa {3} · plac zabaw {4} · wołanie {5}</LP_Rec_ChildLine>
+  <LP_Rec_Ready>gotowy</LP_Rec_Ready>
+  <LP_Rec_ReadyIn>za {0} godz.</LP_Rec_ReadyIn>
+  <LP_Rec_Drink>idzie napić się wody</LP_Rec_Drink>
+  <LP_Rec_Joined>dołączył do znajomego na {0}</LP_Rec_Joined>
+  <LP_Rec_ToPartner>udaje się do {0}, gdzie ktoś czeka na partnera</LP_Rec_ToPartner>
+  <LP_Rec_Chose>wybrał: {0}</LP_Rec_Chose>
+  <LP_Rec_RunRoll>losowanie swobodnego biegania (30%)</LP_Rec_RunRoll>
+  <LP_Rec_Running>biega</LP_Rec_Running>
+  <LP_Rec_Queue>czeka w kolejce do: {0}</LP_Rec_Queue>
+  <LP_Rec_Nobody>nikogo nie zawołano: {0}</LP_Rec_Nobody>
+  <LP_Rec_FromQueue>po {0} s w kolejce</LP_Rec_FromQueue>
+  <LP_Setting_FacialPlay>Łączenie z Facial Animation podczas zabawy</LP_Setting_FacialPlay>
+  <LP_Setting_FacialPlayTip>Używa istniejącego uśmiechu tylko wtedy, gdy obsługuje go zainstalowany pakiet twarzy Facial Animation. Wyłącz, aby od razu odłączyć Little Playgrounds; pozostałe animacje twarzy działają dalej. Nie dodaje nowych tekstur twarzy.</LP_Setting_FacialPlayTip>
+  <LP_Setting_FacialPlayError>Połączenie z mimiką zatrzymano po błędzie. Wyłącz i włącz tę opcję, aby spróbować ponownie.</LP_Setting_FacialPlayError>
+  <LP_Setting_Sounds>Dźwięki urządzeń zabawowych</LP_Setting_Sounds>
+  <LP_Setting_SoundsTip>Ciche odgłosy zabawy: skrzypienie huśtawek, odbijanie na trampolinach, zabawy z piaskiem i wodą, poidełko. Słychać je tylko przy dużym przybliżeniu kamery; zależą od głośności gry i milkną, gdy gra jest zatrzymana. Zjeżdżalnie i basen z kulkami nie wydają dźwięków.</LP_Setting_SoundsTip>
+  <LP_Setting_SoundVolume>Głośność dźwięków urządzeń: {0}</LP_Setting_SoundVolume>
+  <LP_Setting_SoundRides>Dźwięk dla poszczególnych urządzeń:</LP_Setting_SoundRides>
+  <LP_Setting_RunAround>Dzieci czasem biegają wokół urządzenia zamiast z niego korzystać</LP_Setting_RunAround>
+  <LP_Setting_RunAroundTip>Dziecko, które wybrało urządzenie, może zamiast tego pobiegać wokół niego i nauczy się tyle samo, co na huśtawce. Przy urządzeniach dla dwojga dołącza kolega; w przeciwnym razie przychodzi popatrzeć dorosły przypisany do opieki nad dziećmi. Potrzebny jest suchy, wolny teren obok urządzenia (nie woda ani błoto), inaczej dziecko po prostu z niego korzysta.</LP_Setting_RunAroundTip>
+  <LP_Setting_RunAroundChance>Szansa za każdym razem, gdy dziecko wybiera urządzenie: {0}</LP_Setting_RunAroundChance>
+  <LP_Setting_RunAroundIndoors>Bieganie także pod dachem</LP_Setting_RunAroundIndoors>
+  <LP_Setting_RunAroundIndoorsTip>Gdy wyłączone, dzieci biegają tylko na otwartym terenie, więc z urządzeń w pomieszczeniach po prostu korzystają; zacienienie placu zabaw nie liczy się jako dach. Gdy włączone, biegają też wokół urządzeń w pomieszczeniach, jeśli jest tam miejsce.</LP_Setting_RunAroundIndoorsTip>
+  <LP_Setting_CouplePlay>Pary bawią się razem</LP_Setting_CouplePlay>
+  <LP_Setting_CouplePlayTip>Dorosły, który wybierze urządzenie lub ławkę dla dwojga, woła swojego partnera, a ten przychodzi, jeśli jest wolny lub między zwykłymi zajęciami; para, która nie ma nic do roboty, czasem sama idzie na randkę, najwyżej raz dziennie. Czekają na siebie, a potem oboje dostają niewielki bonus do nastroju i opinii.</LP_Setting_CouplePlayTip>
+  <LP_Setting_RequireResearch>Budowa wymaga badania "{0}"</LP_Setting_RequireResearch>
+  <LP_Setting_RequireResearchTip>Gdy włączone, wszystko, co dodaje ten mod (urządzenia, ławki, ogrodzenia i podłogi), można budować dopiero po zbadaniu "{0}". Zwykłe starty mają je od początku, więc najpierw badają je tylko kolonie, które zaczynają bez niego, na przykład plemiona. To, co już zbudowane, zostaje. Gdy wyłączone, wszystko można budować od początku.</LP_Setting_RequireResearchTip>
+  <LP_Setting_ToddlerPlay>Maluchy bawią się na urządzeniach</LP_Setting_ToddlerPlay>
+  <LP_Setting_ToddlerPlayMissing>wymaga moda Toddlers</LP_Setting_ToddlerPlayMissing>
+  <LP_Setting_ToddlerPlayTip>Z modem Toddlers maluchy, które umieją chodzić, także te, które jeszcze się chwieją, bawią się na tych urządzeniach: {0}. Maluchy, które jeszcze raczkują, na nie nie wchodzą. Gdy wyłączone, maluchy nie korzystają z żadnych urządzeń. Bez moda Toddlers nic to nie zmienia.</LP_Setting_ToddlerPlayTip>
+</LanguageData>

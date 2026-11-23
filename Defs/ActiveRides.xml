@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BuildingBase">
+    <defName>LP_Trampoline</defName>
+    <label>playground trampoline</label>
+    <description>A low trampoline on short legs, with a broad padded rim and a small step. One child or adult steps onto the mat, makes a few small jumps, then bounces higher before settling down. Children gain learning; adults gain recreation. Keep the southern entrance clear.</description>
+    <thingClass>LittlePlaygrounds.Building_ActiveRide</thingClass>
+    <graphicData>
+      <texPath>ActiveRideIcons/Trampoline</texPath><graphicClass>LittlePlaygrounds.Graphic_PlaygroundPalette</graphicClass>
+      <drawSize>(3.5739,3.5739)</drawSize>
+    </graphicData>
+    <size>(3,3)</size><rotatable>false</rotatable><drawerType>RealtimeOnly</drawerType><tickerType>Normal</tickerType>
+    <passability>Standable</passability><pathCost>45</pathCost><fillPercent>0.1</fillPercent><altitudeLayer>Building</altitudeLayer>
+    <designationCategory>Joy</designationCategory>
+    <statBases><MaxHitPoints>180</MaxHitPoints><WorkToBuild>2400</WorkToBuild><Mass>45</Mass><Flammability>0.3</Flammability><Beauty>5</Beauty></statBases>
+    <costList><Steel>70</Steel><Cloth>40</Cloth></costList>
+    <comps><li Class="CompProperties_Forbiddable"/><li Class="LittlePlaygrounds.CompProperties_PlaygroundPalette"/><li Class="LittlePlaygrounds.CompProperties_PlaygroundAccess"/><li Class="LittlePlaygrounds.CompProperties_PlaygroundDesign"/></comps>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded><building><isEdifice>false</isEdifice><joyKind>Gaming_Dexterity</joyKind></building>
+    <modExtensions><li Class="LittlePlaygrounds.ActiveRideProperties"><kind>Trampoline</kind></li></modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>LP_Zipline</defName>
+    <label>timber playground zipline</label>
+    <description>A short cable ride between two timber supports. One child or adult sits on the suspended seat, glides to the far end and steps off. The empty seat returns to the starting post before another rider can board. Children gain learning; adults gain recreation. Keep both southern approach cells clear.</description>
+    <thingClass>LittlePlaygrounds.Building_ActiveRide</thingClass>
+    <graphicData>
+      <texPath>ActiveRideIcons/Zipline</texPath><graphicClass>LittlePlaygrounds.Graphic_PlaygroundPalette</graphicClass>
+      <drawSize>(8.2,3.55)</drawSize><drawOffset>(0,0,1.525)</drawOffset>
+    </graphicData>
+    <size>(9,3)</size><rotatable>false</rotatable><drawerType>RealtimeOnly</drawerType><tickerType>Normal</tickerType>
+    <passability>Standable</passability><pathCost>35</pathCost><fillPercent>0.15</fillPercent><altitudeLayer>Building</altitudeLayer>
+    <designationCategory>Joy</designationCategory>
+    <statBases><MaxHitPoints>240</MaxHitPoints><WorkToBuild>3200</WorkToBuild><Mass>70</Mass><Flammability>0.5</Flammability><Beauty>6</Beauty></statBases>
+    <costList><WoodLog>90</WoodLog><Steel>60</Steel><Cloth>10</Cloth></costList>
+    <comps><li Class="CompProperties_Forbiddable"/><li Class="LittlePlaygrounds.CompProperties_PlaygroundPalette"/><li Class="LittlePlaygrounds.CompProperties_PlaygroundAccess"/></comps>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded><building><isEdifice>false</isEdifice><joyKind>Gaming_Dexterity</joyKind></building>
+    <modExtensions><li Class="LittlePlaygrounds.ActiveRideProperties"><kind>Zipline</kind></li></modExtensions>
+  </ThingDef>
+  <JobDef>
+    <defName>LP_BounceTrampoline</defName>
+    <driverClass>LittlePlaygrounds.JobDriver_ActiveRide</driverClass>
+    <reportString>bouncing on TargetA.</reportString>
+    <casualInterruptible>true</casualInterruptible>
+    <joyKind>Gaming_Dexterity</joyKind>
+    <joyGainRate>1</joyGainRate>
+    <joyMaxParticipants>1</joyMaxParticipants>
+  </JobDef>
+  <JobDef>
+    <defName>LP_RideZipline</defName>
+    <driverClass>LittlePlaygrounds.JobDriver_ActiveRide</driverClass>
+    <reportString>riding TargetA.</reportString>
+    <casualInterruptible>true</casualInterruptible>
+    <joyKind>Gaming_Dexterity</joyKind>
+    <joyGainRate>1</joyGainRate>
+    <joyMaxParticipants>1</joyMaxParticipants>
+  </JobDef>
+  <AnimationDef>
+    <defName>LP_ActiveRidePose</defName><durationTicks>10000</durationTicks><loopMode>Loop</loopMode>
+    <keyframeParts><li><key>Root</key><value><workerType>LittlePlaygrounds.ActiveRideAnimationWorker</workerType>
+      <keyframes><li><tick>0</tick><angle>0</angle></li></keyframes>
+    </value></li></keyframeParts>
+  </AnimationDef>
+  <JoyGiverDef ParentName="LP_AdultPlayBase">
+    <defName>LP_AdultTrampoline</defName><thingDefs><li>LP_Trampoline</li></thingDefs><jobDef>LP_BounceTrampoline</jobDef>
+  </JoyGiverDef>
+  <JoyGiverDef ParentName="LP_AdultPlayBase">
+    <defName>LP_AdultZipline</defName><thingDefs><li>LP_Zipline</li></thingDefs><jobDef>LP_RideZipline</jobDef>
+  </JoyGiverDef>
+</Defs>

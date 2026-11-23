@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_BlockedUnavailable>Niet beschikbaar</LP_BlockedUnavailable>
+  <LP_BlockedCannotPlay>Kan deze activiteit niet doen</LP_BlockedCannotPlay>
+  <LP_BlockedDrafted>Wapen getrokken</LP_BlockedDrafted>
+  <LP_BlockedDowned>Bewusteloos</LP_BlockedDowned>
+  <LP_BlockedMentalState>In een mentale toestand</LP_BlockedMentalState>
+  <LP_BlockedForbidden>Verboden of buiten toegestane zone</LP_BlockedForbidden>
+  <LP_BlockedAudience>Niet toegestaan door de leeftijdsinstelling van dit toestel</LP_BlockedAudience>
+  <LP_BlockedTooHot>Te warm in de speeltuin</LP_BlockedTooHot>
+  <LP_BlockedTooCold>Te koud in de speeltuin</LP_BlockedTooCold>
+  <LP_BlockedBusy>In gebruik of gereserveerd</LP_BlockedBusy>
+  <LP_BlockedEntrance>Geen vrije in- of uitgang bereikbaar</LP_BlockedEntrance>
+  <LP_BlockedReturning>De stoel keert nog terug</LP_BlockedReturning>
+  <LP_BlockedCourseTooShort>Verbind minstens twee parcoursstukken</LP_BlockedCourseTooShort>
+  <LP_BlockedWaterCold>Te koud of besneeuwd voor waterspel</LP_BlockedWaterCold>
+  <LP_DesignButton>Ontwerp</LP_DesignButton>
+  <LP_DesignDescription>Kies het uiterlijk van dit speeltoestel. Huidig: {0}. Kleuren worden apart gekozen.</LP_DesignDescription>
+  <LP_DesignOriginal>Origineel</LP_DesignOriginal>
+  <LP_DesignTimber>Hout</LP_DesignTimber>
+  <LP_DesignBusy>Het ontwerp kan pas worden gewijzigd als niemand het toestel meer gebruikt.</LP_DesignBusy>
+  <LP_DesignCurrent>Ontwerp: {0}</LP_DesignCurrent>
+</LanguageData>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_SteppingStump.label>houten opstapje voor speeltuin</LP_SteppingStump.label>
+  <LP_SteppingStump.description>Een laag platform van gezaagd hout om op te stappen. Stapstenen, houten opstapjes en evenwichtsboomstammen verbinden zich wanneer hun randen elkaar raken. Een parcours moet minimaal twee vakjes beslaan (één evenwichtsboomstam beslaat er al twee), en stukken die elkaar alleen in een hoek raken, verbinden niet. Kinderen en volwassenen volgen de verbonden route.</LP_SteppingStump.description>
+  <LP_SpringFox.label>vosvormig veertoestel</LP_SpringFox.label>
+  <LP_SpringFox.description>Een vosvormig schommelspeelgoed gemonteerd op een veer. Eén kind of volwassene kan het alleen gebruiken. Het personage behoudt zijn normale lichaam en leunt heen en weer met het speeltje.</LP_SpringFox.description>
+  <LP_Roundabout.label>eiken draaimolen</LP_Roundabout.label>
+  <LP_Roundabout.description>Een ronde eiken draaimolen met saliegroene leuningen, voor maximaal vier personen. Eén persoon kan hem alleen laten draaien. Hij vertraagt en stopt wanneer iemand in- of uitstapt.</LP_Roundabout.description>
+  <LP_Playhouse.label>winkeltje speelhuisje</LP_Playhouse.label>
+  <LP_Playhouse.description>Een speelhuis met open voorkant en een kleine toonbank. Speel alleen bij het runnen van de winkel, of verwelkom een tweede bezoeker aan de etalage. Kinderen leren en volwassenen krijgen recreatie.</LP_Playhouse.description>
+  <LP_DrinkingFountain.label>drinkfontein op twee hoogtes</LP_DrinkingFountain.label>
+  <LP_DrinkingFountain.description>Een hoge en een lage drinkbak. Kinderen kunnen na het spelen in de speeltuin even wat water drinken; volwassenen kiezen hem ook voor recreatie. Het kleine waterstroompje loopt terwijl hij wordt gebruikt. Dit voegt geen dorstbehoefte toe. Gebouwd uit stenen blokken; de vorm en kleuren blijven hetzelfde, welke steen je ook gebruikt.</LP_DrinkingFountain.description>
+  <LP_Hopscotch.label>hinkelbaan in de tuin</LP_Hopscotch.label>
+  <LP_Hopscotch.description>Acht geschilderde hinkelspelvierkanten. Een kind of volwassene springt langs de cijfers en keert terug, alleen spelend zonder op een partner te wachten. Gebouwd uit stenen blokken; de vorm en kleuren blijven hetzelfde, welke steen je ook gebruikt.</LP_Hopscotch.description>
+  <LP_SplashPad.label>waterspeelplaats met sproeiers</LP_SplashPad.label>
+  <LP_SplashPad.description>Waterstralen op grondniveau spuiten in een zich herhalend patroon terwijl maximaal drie mensen zich door de speelruimte bewegen. Iedereen kan ook alleen spelen. Deze activiteit stopt onder de 10 graden Celsius en kan niet starten als het oppervlak bedekt is met sneeuw. Gebouwd uit stenen blokken; de vorm en kleuren blijven hetzelfde, welke steen je ook gebruikt.</LP_SplashPad.description>
+  <LP_SteppingStone.label>speeltuin-stapsteen</LP_SteppingStone.label>
+  <LP_SteppingStone.description>Een lage, afgeronde stapsteen. Stapstenen, houten opstapjes en evenwichtsboomstammen verbinden zich wanneer hun randen elkaar raken. Een parcours moet minimaal twee vakjes beslaan (één evenwichtsboomstam beslaat er al twee), en stukken die elkaar alleen in een hoek raken, verbinden niet. Bezoekers volgen een verbonden tak en keren terug. Bij elk bezoek wordt een route van maximaal 24 stukken gereserveerd. Gebouwd uit stenen blokken; de vorm en kleuren blijven hetzelfde, welke steen je ook gebruikt.</LP_SteppingStone.description>
+  <LP_BalanceLog.label>evenwichtsboomstam</LP_BalanceLog.label>
+  <LP_BalanceLog.description>Een lage eiken evenwichtsboomstam, twee vakjes lang; je kunt hem in de lengte of in de breedte plaatsen. Stapstenen, houten opstapjes en evenwichtsboomstammen verbinden zich wanneer hun randen elkaar raken. Een parcours moet minimaal twee vakjes beslaan (één evenwichtsboomstam beslaat er al twee), en stukken die elkaar alleen in een hoek raken, verbinden niet. Bezoekers balanceren langs een verbonden tak en keren terug. Alle vakjes van het parcours moeten vrij blijven.</LP_BalanceLog.description>
+  <LP_PlayFence.label>eiken speelhek</LP_PlayFence.label>
+  <LP_PlayFence.description>Lage eikenhouten piketten verbonden met vierkante houten palen. Aangrenzende hekwerken sluiten aan. Dit is een decoratieve, overstapbare speelplaatsafscheiding, geen dierenhokafsluiting.</LP_PlayFence.description>
+  <LP_PlayEntrance.label>speeltuiningang</LP_PlayEntrance.label>
+  <LP_PlayEntrance.description>Een altijd open entree met een klein Little Playgrounds-bordje. Een uitnodigende opening voor een lage tuinschutting.</LP_PlayEntrance.description>
+  <LP_GardenFountain.label>tuinfontein</LP_GardenFountain.label>
+  <LP_GardenFountain.description>Een laag lichtstenen bassin met zacht stromend water. Een blikvanger voor de tuin, om bij de zithoek te plaatsen. Gebouwd uit stenen blokken; de vorm en kleuren blijven hetzelfde, welke steen je ook gebruikt.</LP_GardenFountain.description>
+</LanguageData>

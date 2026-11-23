@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <LearningDesireDef MayRequire="Ludeon.RimWorld.Biotech">
+    <defName>LP_PlaygroundLearning</defName>
+    <label>playground play</label>
+    <description>Play on playground equipment. Requires an accessible playground.</description>
+    <selectionWeight>2</selectionWeight>
+    <workerClass>LittlePlaygrounds.LearningGiver_Playground</workerClass>
+    <iconPath>Things/Building/Selectedswing</iconPath>
+    <!-- Required native metadata; the worker returns the job of the selected activity. -->
+    <jobDef>LP_RideSwing</jobDef>
+  </LearningDesireDef>
+</Defs>

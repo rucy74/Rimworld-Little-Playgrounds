@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PlaySandLight.label>lyst legepladssand</LP_PlaySandLight.label>
+  <LP_PlaySandLight.description>Blegt sand med bløde, lave krusninger til en lys og rummelig legeplads. Dette er en tredje sandoverflade sammen med fint sand og kornet sand.</LP_PlaySandLight.description>
+  <LP_PlaySand.label>fint legepladssand</LP_PlaySand.label>
+  <LP_PlaySand.description>Fast, varmt beige legepladssand med fine korn og rolige, lave variationer.</LP_PlaySand.description>
+  <LP_PlaySandGrainy.label>kornet legepladssand</LP_PlaySandGrainy.label>
+  <LP_PlaySandGrainy.description>Varmt legepladssand med synlige korn og en let rivet overflade. Et mere tekstureret alternativ til fint legepladssand.</LP_PlaySandGrainy.description>
+  <LP_RubberSage.label>salviegrønt gummiunderlag</LP_RubberSage.label>
+  <LP_RubberSage.description>En legepladsoverflade med mat gummikrumme. Dens subtile tekstur går sammen uden et flisegitter. Fås i salvie, creme og abrikos.</LP_RubberSage.description>
+  <LP_RubberCream.label>cremefarvet gummiunderlag</LP_RubberCream.label>
+  <LP_RubberCream.description>En legepladsoverflade med mat gummikrumme. Dens subtile tekstur går sammen uden et flisegitter. Fås i salvie, creme og abrikos.</LP_RubberCream.description>
+  <LP_RubberApricot.label>abrikosfarvet gummiunderlag</LP_RubberApricot.label>
+  <LP_RubberApricot.description>En legepladsoverflade med mat gummikrumme. Dens subtile tekstur går sammen uden et flisegitter. Fås i salvie, creme og abrikos.</LP_RubberApricot.description>
+</LanguageData>

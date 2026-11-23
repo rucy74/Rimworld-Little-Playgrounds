@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PaletteButton>Färgschema</LP_PaletteButton>
+  <LP_PaletteDescription>Välj lekplatsens färger. Nuvarande: {0}. Byter utseende omedelbart; byggkostnaderna och prestanda förblir desamma.</LP_PaletteDescription>
+  <LP_PaletteCurrent>Färgschema: {0}</LP_PaletteCurrent>
+  <LP_PaletteLegacy>Originalfinish</LP_PaletteLegacy>
+  <LP_PaletteBlue>Trä + blå</LP_PaletteBlue>
+  <LP_PaletteYellow>Trä + gul</LP_PaletteYellow>
+  <LP_PaletteSage>Trä + salviagrönt</LP_PaletteSage>
+  <LP_PaletteClassic>Klassiska färger</LP_PaletteClassic>
+</LanguageData>

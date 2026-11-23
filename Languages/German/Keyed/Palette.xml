@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PaletteButton>Farbschema</LP_PaletteButton>
+  <LP_PaletteDescription>Wählen Sie die Farben dieses Spielplatzes. Aktuell: {0}. Ändert das Aussehen sofort; Baukosten und Leistung bleiben gleich.</LP_PaletteDescription>
+  <LP_PaletteCurrent>Farbschema: {0}</LP_PaletteCurrent>
+  <LP_PaletteLegacy>Ursprüngliches Finish</LP_PaletteLegacy>
+  <LP_PaletteBlue>Holz + Blau</LP_PaletteBlue>
+  <LP_PaletteYellow>Holz + Gelb</LP_PaletteYellow>
+  <LP_PaletteSage>Holz + Salbeigrün</LP_PaletteSage>
+  <LP_PaletteClassic>Klassische Farben</LP_PaletteClassic>
+</LanguageData>

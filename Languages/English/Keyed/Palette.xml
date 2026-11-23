@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_PaletteButton>Color scheme</LP_PaletteButton>
+  <LP_PaletteDescription>Choose this playground's colors. Current: {0}. Changes appearance immediately; construction costs and performance stay the same.</LP_PaletteDescription>
+  <LP_PaletteCurrent>Color scheme: {0}</LP_PaletteCurrent>
+  <LP_PaletteLegacy>Original finish</LP_PaletteLegacy>
+  <LP_PaletteBlue>Wood + blue</LP_PaletteBlue>
+  <LP_PaletteYellow>Wood + yellow</LP_PaletteYellow>
+  <LP_PaletteSage>Wood + sage</LP_PaletteSage>
+  <LP_PaletteClassic>Classic colors</LP_PaletteClassic>
+</LanguageData>

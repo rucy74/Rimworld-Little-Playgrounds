@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PlaySandLight.label>světlý písek na hřiště</LP_PlaySandLight.label>
+  <LP_PlaySandLight.description>Bledý písek s jemnými, mělkými vlnkami pro světlé hřiště. Toto je třetí pískový povrch vedle jemného písku a zrnitého písku.</LP_PlaySandLight.description>
+  <LP_PlaySand.label>jemný písek na hřišti</LP_PlaySand.label>
+  <LP_PlaySand.description>Usazený teplý béžový písek na hřišti s jemnými zrny a tichými mělkými variacemi.</LP_PlaySand.description>
+  <LP_PlaySandGrainy.label>zrnitý písek na hřišti</LP_PlaySandGrainy.label>
+  <LP_PlaySandGrainy.description>Teplý písek na hřišti s viditelnými zrny a lehce hrabaným povrchem. Více texturovaná alternativa k jemnému písku na hřišti.</LP_PlaySandGrainy.description>
+  <LP_RubberSage.label>šalvějově zelený gumový povrch</LP_RubberSage.label>
+  <LP_RubberSage.description>Matný povrch hřiště s pryžovou drtí. Jeho jemná textura se spojuje bez mřížky dlaždic. K dispozici v šalvějovém, smetanovém a meruňkovém provedení.</LP_RubberSage.description>
+  <LP_RubberCream.label>krémový gumový povrch</LP_RubberCream.label>
+  <LP_RubberCream.description>Matný povrch hřiště s pryžovou drtí. Jeho jemná textura se spojuje bez mřížky dlaždic. K dispozici v šalvějovém, smetanovém a meruňkovém provedení.</LP_RubberCream.description>
+  <LP_RubberApricot.label>meruňkový gumový povrch</LP_RubberApricot.label>
+  <LP_RubberApricot.description>Matný povrch hřiště s pryžovou drtí. Jeho jemná textura se spojuje bez mřížky dlaždic. K dispozici v šalvějovém, smetanovém a meruňkovém provedení.</LP_RubberApricot.description>
+</LanguageData>

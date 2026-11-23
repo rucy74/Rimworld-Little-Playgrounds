@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_SteppingStump.label>tømmertrin på legepladsen</LP_SteppingStump.label>
+  <LP_SteppingStump.description>En lav platform af savet træ, til at træde på. Trædesten, trætrin og balancestammer forbindes, når deres kanter rører hinanden. En bane skal dække mindst to celler (en balancestamme alene dækker to), og stykker, der kun rører hinanden ved et hjørne, forbindes ikke. Børn og voksne følger den forbundne rute.</LP_SteppingStump.description>
+  <LP_SpringFox.label>ræveformet vippedyr</LP_SpringFox.label>
+  <LP_SpringFox.description>Et ræveformet gyngelegetøj monteret på en fjeder. Et barn eller voksen kan bruge det alene. Karakteren bevarer deres normale krop og læner sig frem og tilbage med legetøjet.</LP_SpringFox.description>
+  <LP_Roundabout.label>legekarrusel af egetræ</LP_Roundabout.label>
+  <LP_Roundabout.description>En rund legepladskarrusel i egetræ med salviegrønne gelændere til op til fire personer. Én person kan dreje den alene. Den sænker farten og stopper, når nogen stiger på eller af.</LP_Roundabout.description>
+  <LP_Playhouse.label>lille butikslegehus</LP_Playhouse.label>
+  <LP_Playhouse.description>Et legehus med en lille butiksdisk. Leg købmand alene, eller byd en anden besøgende velkommen ved vinduet. Børn lærer og voksne får rekreation.</LP_Playhouse.description>
+  <LP_DrinkingFountain.label>drikkefontæne i to højder</LP_DrinkingFountain.label>
+  <LP_DrinkingFountain.description>En høj og en lav drikkeskål. Børn kan stoppe op og drikke en tår vand efter legen; voksne vælger den også til rekreation. Den lille vandstrøm løber, mens den bruges. Dette tilføjer ikke et tørstbehov. Bygges af alle slags stenblokke; formen og farverne forbliver de samme, uanset hvilken sten du bruger.</LP_DrinkingFountain.description>
+  <LP_Hopscotch.label>hinkerude i haven</LP_Hopscotch.label>
+  <LP_Hopscotch.description>Otte malede hinkefelter. Et barn eller en voksen hinker langs numrene og vender tilbage og leger alene uden at vente på en partner. Bygges af alle slags stenblokke; formen og farverne forbliver de samme, uanset hvilken sten du bruger.</LP_Hopscotch.description>
+  <LP_SplashPad.label>vandlegeplads med springvand</LP_SplashPad.label>
+  <LP_SplashPad.description>Vandstråler fra jorden sprøjter i et gentaget mønster, når op til tre personer bevæger sig rundt på legeområdet. Hver person kan også lege alene. Denne aktivitet stopper under 10 grader Celsius og kan ikke starte, når overfladen er dækket af sne. Bygges af alle slags stenblokke; formen og farverne forbliver de samme, uanset hvilken sten du bruger.</LP_SplashPad.description>
+  <LP_SteppingStone.label>trædesten til legepladsen</LP_SteppingStone.label>
+  <LP_SteppingStone.description>En lav, afrundet trædesten. Trædesten, trætrin og balancestammer forbindes, når deres kanter rører hinanden. En bane skal dække mindst to celler (en balancestamme alene dækker to), og stykker, der kun rører hinanden ved et hjørne, forbindes ikke. Besøgende følger en forbundet gren og vender tilbage. Hvert besøg reserverer en rute på op til 24 stykker. Bygges af alle slags stenblokke; formen og farverne forbliver de samme, uanset hvilken sten du bruger.</LP_SteppingStone.description>
+  <LP_BalanceLog.label>balancestamme</LP_BalanceLog.label>
+  <LP_BalanceLog.description>En lav balancestamme af eg, to celler lang; den kan lægges på langs eller på tværs. Trædesten, trætrin og balancestammer forbindes, når deres kanter rører hinanden. En bane skal dække mindst to celler (en balancestamme alene dækker to), og stykker, der kun rører hinanden ved et hjørne, forbindes ikke. Besøgende balancerer langs en forbundet gren og vender tilbage. Alle banens celler skal holdes fri.</LP_BalanceLog.description>
+  <LP_PlayFence.label>egelegepladshegn</LP_PlayFence.label>
+  <LP_PlayFence.description>Lave egetræsstakitter sat sammen med firkantede træstolper. Tilstødende hegnsstykker forbindes. Dette er en dekorativ legepladsgrænse, man kan træde over, ikke en indhegning til dyr.</LP_PlayFence.description>
+  <LP_PlayEntrance.label>indgang til legepladsen</LP_PlayEntrance.label>
+  <LP_PlayEntrance.description>En altid åben indgang med et lille Little Playgrounds-skilt. En indbydende åbning til et lavt havehegn.</LP_PlayEntrance.description>
+  <LP_GardenFountain.label>havefontæne</LP_GardenFountain.label>
+  <LP_GardenFountain.description>Et lavt blegt stenbassin med blidt rindende vand. Et midtpunkt i haven, som kan placeres nær siddeområdet. Bygges af alle slags stenblokke; formen og farverne forbliver de samme, uanset hvilken sten du bruger.</LP_GardenFountain.description>
+</LanguageData>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BuildingBase">
+    <defName>LP_Swing</defName>
+    <label>playground swing</label>
+    <description>A tall two-seat swing with four selectable color schemes. Children and adults use independent seats to swing forward and back. Children gain learning; adults gain recreation. Leave the entrances clear.</description>
+    <thingClass>LittlePlaygrounds.Building_Swing</thingClass>
+    <graphicData>
+      <texPath>Things/Building/Selectedswing</texPath>
+      <graphicClass>LittlePlaygrounds.Graphic_PlaygroundPalette</graphicClass>
+      <drawSize>(4.6398,4.6398)</drawSize>
+      <drawOffset>(0,0,1.7871)</drawOffset>
+    </graphicData>
+    <size>(5,3)</size>
+    <rotatable>true</rotatable>
+    <drawerType>RealtimeOnly</drawerType>
+    <passability>Standable</passability>
+    <pathCost>35</pathCost>
+    <fillPercent>0.15</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <designationCategory>Joy</designationCategory>
+    <statBases>
+      <MaxHitPoints>160</MaxHitPoints>
+      <WorkToBuild>1800</WorkToBuild>
+      <Mass>30</Mass>
+      <Flammability>0.4</Flammability>
+      <Beauty>5</Beauty>
+    </statBases>
+    <costList><Steel>45</Steel><WoodLog>20</WoodLog></costList>
+    <comps><li Class="LittlePlaygrounds.CompProperties_PlaygroundPalette"/><li Class="LittlePlaygrounds.CompProperties_PlaygroundAccess"/><li Class="LittlePlaygrounds.CompProperties_PlaygroundDesign"/></comps><terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <building><isEdifice>false</isEdifice><joyKind>Gaming_Dexterity</joyKind></building>
+    <modExtensions><li Class="LittlePlaygrounds.TurnProperties"><kind>Symmetric</kind></li></modExtensions>
+  </ThingDef>
+  <JobDef>
+    <defName>LP_RideSwing</defName>
+    <driverClass>LittlePlaygrounds.JobDriver_RideSwing</driverClass>
+    <reportString>playing on the swing.</reportString>
+    <casualInterruptible>true</casualInterruptible>
+    <joyKind>Gaming_Dexterity</joyKind><joyGainRate>1</joyGainRate><joyMaxParticipants>2</joyMaxParticipants>
+  </JobDef>
+  <AnimationDef>
+    <defName>LP_SwingPose</defName>
+    <durationTicks>10000</durationTicks>
+    <loopMode>Loop</loopMode>
+    <keyframeParts>
+      <li>
+        <key>Root</key>
+        <value>
+          <workerType>LittlePlaygrounds.SwingAnimationWorker</workerType>
+          <keyframes><li><tick>0</tick><angle>0</angle></li></keyframes>
+        </value>
+      </li>
+    </keyframeParts>
+  </AnimationDef>
+</Defs>

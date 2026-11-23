@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Setting_LearningWeight>Játszótéri játékon keresztüli tanulás preferenciája: {0} (alapértelmezett: 2)</LP_Setting_LearningWeight>
+  <LP_Setting_LearningWeightDescription>Állítsa be, hogy a gyermek milyen gyakran választja a játszótéri játékot tanulási tevékenységként. Magasabb értéknél a gyerekek gyakrabban akarnak a játszótéren játszani.</LP_Setting_LearningWeightDescription>
+  <LP_Setting_LearningWeightTip>Az 1-nél a játszótéri játéknak ugyanolyan súlya van, mint a padlórajzolásnak vagy a természetfutásnak. 2-nél a kiválasztási súlya megduplázódik. Ez nem jelent kétszer annyi tényleges látogatást. A különálló 50% esély a játékra üresjáratban változatlan. A beállítás a következő tanulási vágy kiválasztásakor érvényes. A jelenlegi vágyak és a folyamatos játék változatlanok.</LP_Setting_LearningWeightTip>
+  <LP_Setting_LearningWeightTiming>Új tanulási vágy kiválasztásakor érvényes. A meglévő vágyak és a folyamatban lévő játék megmarad.</LP_Setting_LearningWeightTiming>
+</LanguageData>

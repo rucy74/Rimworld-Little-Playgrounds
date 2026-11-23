@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Setting_LearningWeight>Ưu tiên học qua vui chơi: {0} (mặc định: 2)</LP_Setting_LearningWeight>
+  <LP_Setting_LearningWeightDescription>Điều chỉnh mức độ trẻ chọn vui chơi ở sân chơi làm hoạt động học tập. Giá trị cao hơn khiến hoạt động này dễ được chọn hơn.</LP_Setting_LearningWeightDescription>
+  <LP_Setting_LearningWeightTip>Ở mức 1, vui chơi ở sân chơi có trọng số lựa chọn ngang với các hoạt động thông thường như vẽ trên mặt đất và khám phá xung quanh. Mức 2 tăng gấp đôi trọng số, không phải số lần đến chơi thực tế. Xác suất 50% đi chơi lúc rảnh không bị ảnh hưởng. Thay đổi áp dụng khi chọn mong muốn học tập tiếp theo; mong muốn hiện tại và lượt chơi đang diễn ra được giữ nguyên.</LP_Setting_LearningWeightTip>
+  <LP_Setting_LearningWeightTiming>Áp dụng khi mong muốn học tập mới được chọn. Mong muốn hiện tại và lượt chơi đang diễn ra được giữ nguyên.</LP_Setting_LearningWeightTiming>
+</LanguageData>

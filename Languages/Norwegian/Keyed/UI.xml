@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Menu_PlaySwing>Lek på husken</LP_Menu_PlaySwing>
+  <LP_Menu_PlaySlide>Lek på sklien</LP_Menu_PlaySlide>
+  <LP_Menu_PlaySeesaw>Lek på vippen</LP_Menu_PlaySeesaw>
+  <LP_Menu_JumpTrampoline>Hopp på trampolinen</LP_Menu_JumpTrampoline>
+  <LP_Menu_RideZipline>Kjør taubanen</LP_Menu_RideZipline>
+  <LP_Menu_BuildSandcastles>Bygg sandslott</LP_Menu_BuildSandcastles>
+  <LP_Menu_RelaxBench>Slapp av på benken</LP_Menu_RelaxBench>
+  <LP_Menu_TakeDrink>Drikk litt vann</LP_Menu_TakeDrink>
+  <LP_Menu_PlayCourse>Lek på denne banen</LP_Menu_PlayCourse>
+  <LP_Menu_PlayAt>Lek på {0}</LP_Menu_PlayAt>
+  <LP_Inspect_CourseLinked>Bane på {0} sammenkoblede celler.</LP_Inspect_CourseLinked>
+  <LP_Inspect_CourseAlone>Står alene, så ingen kan leke her ennå. Plasser en trinnstein, et tømmertrinn eller en balansestokk til, kant i kant med den.</LP_Inspect_CourseAlone>
+  <LP_Inspect_CourseCorner>Møter bare en annen del i et hjørne, og det kobler ikke. Deler kobles kant i kant.</LP_Inspect_CourseCorner>
+  <LP_Inspect_CourseWaiting>Kobles til den planlagte delen ved siden av når den er bygget.</LP_Inspect_CourseWaiting>
+  <LP_Menu_CourseTooShort>Lek langs denne banen (trenger en del til kant i kant)</LP_Menu_CourseTooShort>
+  <LP_Place_CourseLinked>Kobles inn i en bane på {0} celler</LP_Place_CourseLinked>
+  <LP_Place_CourseOccupied>En annen banedel ligger allerede her</LP_Place_CourseOccupied>
+  <LP_Place_CourseSelf>Lager alene en bane på {0} celler</LP_Place_CourseSelf>
+  <LP_Place_CourseCorner>Hjørnekontakt kobles ikke sammen, plasser den kant i kant</LP_Place_CourseCorner>
+  <LP_Place_CourseAlone>Kan ikke brukes alene, plasser en del til kant i kant</LP_Place_CourseAlone>
+  <LP_Inspect_SplashClosed>Vannlek stengt: under 10°C.</LP_Inspect_SplashClosed>
+  <LP_Inspect_SeatReturning>Tomt sete returnerer</LP_Inspect_SeatReturning>
+  <LP_Inspect_Rider>Bruker: {0}</LP_Inspect_Rider>
+  <LP_Inspect_ReadyOne>Klar for én bruker</LP_Inspect_ReadyOne>
+  <LP_Inspect_ReadyAny>Klar for en bruker</LP_Inspect_ReadyAny>
+  <LP_Inspect_SlideRider>Bruker: {0} — {1}</LP_Inspect_SlideRider>
+  <LP_SlidePhase_approach>på vei</LP_SlidePhase_approach>
+  <LP_SlidePhase_boarding>stiger på</LP_SlidePhase_boarding>
+  <LP_SlidePhase_climbing>klatring</LP_SlidePhase_climbing>
+  <LP_SlidePhase_platform>plattform</LP_SlidePhase_platform>
+  <LP_SlidePhase_seated>sittende</LP_SlidePhase_seated>
+  <LP_SlidePhase_sliding>sklir</LP_SlidePhase_sliding>
+  <LP_SlidePhase_landing>landing</LP_SlidePhase_landing>
+  <LP_SlidePhase_finished>ferdig</LP_SlidePhase_finished>
+  <LP_Inspect_SwingSeats>Venstre sete: {0}\nHøyre sete: {1}</LP_Inspect_SwingSeats>
+  <LP_Inspect_SeatFree>tilgjengelig</LP_Inspect_SeatFree>
+  <LP_Inspect_SeesawTogether>Leker sammen</LP_Inspect_SeesawTogether>
+  <LP_Inspect_SeesawWaiting>Stiger på</LP_Inspect_SeesawWaiting>
+  <LP_Inspect_SeesawSolo>Leker alene</LP_Inspect_SeesawSolo>
+  <LP_Inspect_SeesawFree>To ledige seter</LP_Inspect_SeesawFree>
+  <LP_Inspect_SandCastle>Et sandslott bygget her</LP_Inspect_SandCastle>
+  <LP_Inspect_SandTower>Et sandtårn tar form</LP_Inspect_SandTower>
+  <LP_Inspect_SandMound>En liten haug med sand</LP_Inspect_SandMound>
+  <LP_Inspect_SandReady>Klar for sandlek</LP_Inspect_SandReady>
+  <LP_Setting_ChildcarePlay>Voksne leker med barn som barnepass</LP_Setting_ChildcarePlay>
+  <LP_Setting_ChildcarePlayTip>Når den er aktivert, besøker en voksen som er tildelt barnepass et barn som leker alene. Den voksne kan bli med barnet på huske, vippe, sandkasse, lekeplasskarusell, lekehus eller stor trampoline, eller se ved siden av utstyr for én person. Den voksne får litt sosial rekreasjon, akkurat som når han leker med en baby. Når denne innstillingen er deaktivert, kan voksne fortsatt leke med barn under deres egen fritid.</LP_Setting_ChildcarePlayTip>
+  <LP_Setting_RecordPlay>Lekeplasslogg (for feilsøking)</LP_Setting_RecordPlay>
+  <LP_Setting_RecordPlayTip>Når den er aktivert, registrerer denne loggen hvert lekeplassbesøk: hvem som lekte, hvem som ble med eller så på, hvordan de ankom, og hvorfor utstyr med flere seter ble brukt alene. Les et utstyrsinformasjonspanel eller velg Se loggen nedenfor. Den samme informasjonen lagres også i filen nedenfor.</LP_Setting_RecordPlayTip>
+  <LP_Rec_Open>Se loggen</LP_Rec_Open>
+  <LP_Rec_Title>Lekeplasslogg</LP_Rec_Title>
+  <LP_Rec_NoMap>Last inn et bosettingskart for å se lekeplassloggen.</LP_Rec_NoMap>
+  <LP_Why_Other>ikke her</LP_Why_Other>
+  <LP_Why_Drafted>innkalt</LP_Why_Drafted>
+  <LP_Why_Downed>ukampdyktig</LP_Why_Downed>
+  <LP_Why_Mental>mentalt sammenbrudd</LP_Why_Mental>
+  <LP_Why_Burning>i brann</LP_Why_Burning>
+  <LP_Why_Ordered>utfører en ordre</LP_Why_Ordered>
+  <LP_Why_Busy>opptatt ({0})</LP_Why_Busy>
+  <LP_Why_Gathering>i en samling eller gruppe</LP_Why_Gathering>
+  <LP_Why_Fighting>slåss</LP_Why_Fighting>
+  <LP_Why_Needs>skal spise eller sove</LP_Why_Needs>
+  <LP_Why_NotPlayTime>ikke en rekreasjonstime</LP_Why_NotPlayTime>
+  <LP_Why_JoyFull>rekreasjonen er allerede full</LP_Why_JoyFull>
+  <LP_Why_PlayCooldown>lekte nettopp (igjen om {0} h)</LP_Why_PlayCooldown>
+  <LP_Why_CareSettingOff>Barnepass er av i mod-innstillingene</LP_Why_CareSettingOff>
+  <LP_Why_NotWorkHour>ikke en arbeidstime</LP_Why_NotWorkHour>
+  <LP_Why_CannotChildcare>kan ikke utføre barnepass</LP_Why_CannotChildcare>
+  <LP_Why_ChildcareOff>Barnepass av i arbeidsfanen</LP_Why_ChildcareOff>
+  <LP_Why_CallCooldown>ropte på noen nylig (igjen om {0} h)</LP_Why_CallCooldown>
+  <LP_Why_BeingCalled>allerede ropt på av et annet barn</LP_Why_BeingCalled>
+  <LP_Why_Dislike>de misliker hverandre (mening {0})</LP_Why_Dislike>
+  <LP_Why_TooFar>for langt ({0} s, grense {1} s)</LP_Why_TooFar>
+  <LP_Why_NotAllowedFun>ikke tillatt denne typen moro (tittel)</LP_Why_NotAllowedFun>
+  <LP_Why_NoWatchSpot>ingen ledig plass å se fra</LP_Why_NoWatchSpot>
+  <LP_Why_NoSeat>ikke noe sete eller vei til lekeapparatet</LP_Why_NoSeat>
+  <LP_Rec_CallerCooldown>dette barnet ropte på noen nylig (igjen om {0} h)</LP_Rec_CallerCooldown>
+  <LP_Rec_NoFriendSite>ikke noe felles lekeapparat i nærheten med to ledige seter</LP_Rec_NoFriendSite>
+  <LP_Rec_NoChildren>ingen andre barn</LP_Rec_NoChildren>
+  <LP_Rec_Friends>venner: {0}</LP_Rec_Friends>
+  <LP_Rec_SomeoneThere>noen er allerede på lekeapparatet eller på vei</LP_Rec_SomeoneThere>
+  <LP_Rec_Called>ropte på {0} ({1})</LP_Rec_Called>
+  <LP_Rec_CalledBy>ropt på av {0}</LP_Rec_CalledBy>
+  <LP_Rec_NoAdults>ingen voksen</LP_Rec_NoAdults>
+  <LP_Rec_Adults>voksne: {0}</LP_Rec_Adults>
+  <LP_Rec_Kind_Friend>venn</LP_Rec_Kind_Friend>
+  <LP_Rec_Kind_Care>Barnepass</LP_Rec_Kind_Care>
+  <LP_Rec_Kind_Watch>for å se</LP_Rec_Kind_Watch>
+  <LP_Rec_Kind_Recreation>rekreasjon</LP_Rec_Kind_Recreation>
+  <LP_Rec_Hold>Ventet {0} s ved inngangen: {1}</LP_Rec_Hold>
+  <LP_Rec_HoldCap>ventet i hele 10 s</LP_Rec_HoldCap>
+  <LP_Rec_HoldRiding>noen andre gikk på</LP_Rec_HoldRiding>
+  <LP_Rec_HoldLate>{0} klarte ikke å komme i tide</LP_Rec_HoldLate>
+  <LP_Rec_HoldArrivedName>{0} ankom</LP_Rec_HoldArrivedName>
+  <LP_Rec_HoldArrived>følgesvennen ankom</LP_Rec_HoldArrived>
+  <LP_Rec_CompanionMissed>ropte på {0}, som ikke ble med (nå: {1})</LP_Rec_CompanionMissed>
+  <LP_Rec_WhyUnknown>kom via {0}; ingen andre kom</LP_Rec_WhyUnknown>
+  <LP_Rec_Src_Unknown>ukjent</LP_Rec_Src_Unknown>
+  <LP_Rec_Src_Learning>læring</LP_Rec_Src_Learning>
+  <LP_Rec_Src_Idle>fritid</LP_Rec_Src_Idle>
+  <LP_Rec_Src_Invitation>invitasjon</LP_Rec_Src_Invitation>
+  <LP_Rec_Src_Queue>kø</LP_Rec_Src_Queue>
+  <LP_Rec_Src_FriendCall>ropt på av en venn</LP_Rec_Src_FriendCall>
+  <LP_Rec_Src_CareCall>ropt på (barnepass)</LP_Rec_Src_CareCall>
+  <LP_Rec_Src_WatchCall>ropt på for å se på</LP_Rec_Src_WatchCall>
+  <LP_Rec_Src_RecreationCall>ropt på (rekreasjon)</LP_Rec_Src_RecreationCall>
+  <LP_Rec_Src_CareWork>Barnepassarbeid</LP_Rec_Src_CareWork>
+  <LP_Rec_Src_Recreation>rekreasjon</LP_Rec_Src_Recreation>
+  <LP_Rec_Src_Ordered>beordret</LP_Rec_Src_Ordered>
+  <LP_Rec_Mode_ChildAlone>barn alene</LP_Rec_Mode_ChildAlone>
+  <LP_Rec_Mode_Children>barn sammen</LP_Rec_Mode_Children>
+  <LP_Rec_Mode_WithCare>med en voksen i barnepass</LP_Rec_Mode_WithCare>
+  <LP_Rec_Mode_WithRec>med en voksen</LP_Rec_Mode_WithRec>
+  <LP_Rec_Mode_Watched>voksen ser på</LP_Rec_Mode_Watched>
+  <LP_Rec_Mode_AdultAlone>voksen alene</LP_Rec_Mode_AdultAlone>
+  <LP_Rec_Mode_AdultCare>voksen leker med et barn</LP_Rec_Mode_AdultCare>
+  <LP_Rec_Mode_AdultWithChild>voksen med et barn</LP_Rec_Mode_AdultWithChild>
+  <LP_Rec_Mode_Adults>voksne sammen</LP_Rec_Mode_Adults>
+  <LP_Rec_Role_child>barn</LP_Rec_Role_child>
+  <LP_Rec_Role_care>Barnepass</LP_Rec_Role_care>
+  <LP_Rec_Role_adult>voksen</LP_Rec_Role_adult>
+  <LP_Rec_JustNow>akkurat nå</LP_Rec_JustNow>
+  <LP_Rec_Ago>{0} t siden</LP_Rec_Ago>
+  <LP_Rec_Inspect>Logg, siste 3 dager: {0} turer ({1})</LP_Rec_Inspect>
+  <LP_Rec_InspectAlone>brukt alene: {0}</LP_Rec_InspectAlone>
+  <LP_Rec_File>Loggfil: {0}</LP_Rec_File>
+  <LP_Rec_Off>Lekeplassloggen er av. Slå den på i Innstillinger &gt; Mod-innstillinger &gt; Little Playgrounds.</LP_Rec_Off>
+  <LP_Rec_Page_Rides>Lekeutstyr</LP_Rec_Page_Rides>
+  <LP_Rec_Page_Recent>Nylige besøk på lekeplassen</LP_Rec_Page_Recent>
+  <LP_Rec_Page_Decisions>Lekevalg</LP_Rec_Page_Decisions>
+  <LP_Rec_Page_Children>Barn nå</LP_Rec_Page_Children>
+  <LP_Rec_OnlySelected>Bare det valgte lekeapparatet</LP_Rec_OnlySelected>
+  <LP_Rec_Never>aldri</LP_Rec_Never>
+  <LP_Rec_RideLine>siste 3 dager {0} turer: {1}</LP_Rec_RideLine>
+  <LP_Rec_Last>sist {0}</LP_Rec_Last>
+  <LP_Rec_With>med {0}</LP_Rec_With>
+  <LP_Rec_Watchers>sett av {0}</LP_Rec_Watchers>
+  <LP_Rec_Seconds>{0} s</LP_Rec_Seconds>
+  <LP_Rec_WhyAlone>Hvorfor alene: {0}</LP_Rec_WhyAlone>
+  <LP_Rec_HowCame>Hvordan: {0}</LP_Rec_HowCame>
+  <LP_Rec_ChildLine>læring {0} · time {1} · nå {2} · siste tur {3} · lekeplass {4} · roper på {5}</LP_Rec_ChildLine>
+  <LP_Rec_Ready>klar</LP_Rec_Ready>
+  <LP_Rec_ReadyIn>i {0} h</LP_Rec_ReadyIn>
+  <LP_Rec_Drink>går og drikker</LP_Rec_Drink>
+  <LP_Rec_Joined>ble med en venn på {0}</LP_Rec_Joined>
+  <LP_Rec_ToPartner>går til {0}, der noen venter på en partner</LP_Rec_ToPartner>
+  <LP_Rec_Chose>valgte {0}</LP_Rec_Chose>
+  <LP_Rec_RunRoll>trekning for fritt løp (30 %)</LP_Rec_RunRoll>
+  <LP_Rec_Running>løper rundt</LP_Rec_Running>
+  <LP_Rec_Queue>står i kø for {0}</LP_Rec_Queue>
+  <LP_Rec_Nobody>ingen ropt på: {0}</LP_Rec_Nobody>
+  <LP_Rec_FromQueue>etter {0} s i køen</LP_Rec_FromQueue>
+  <LP_Setting_FacialPlay>Koble til Facial Animation under lek</LP_Setting_FacialPlay>
+  <LP_Setting_FacialPlayTip>Bruker bare et eksisterende smil når den installerte ansiktspakken for Facial Animation har et. Slå av for å koble fra Little Playgrounds med en gang; andre ansiktsanimasjoner fortsetter å virke. Ingen nye ansiktsteksturer legges til.</LP_Setting_FacialPlayTip>
+  <LP_Setting_FacialPlayError>Ansiktskoblingen stoppet etter en feil. Slå dette valget av og på igjen for å prøve på nytt.</LP_Setting_FacialPlayError>
+  <LP_Setting_Sounds>Lyder fra lekeapparater</LP_Setting_Sounds>
+  <LP_Setting_SoundsTip>Små lyder under lek: husker knirker, trampoliner fjærer, sand- og vannlek, drikkefontenen. De høres bare når du har zoomet tett inn; de følger spillvolumet og er stille mens spillet er satt på pause. Sklier og ballbingen har ingen lyd.</LP_Setting_SoundsTip>
+  <LP_Setting_SoundVolume>Lydvolum for lekeapparater: {0}</LP_Setting_SoundVolume>
+  <LP_Setting_SoundRides>Lyd for hvert lekeapparat:</LP_Setting_SoundRides>
+  <LP_Setting_RunAround>Barn løper noen ganger rundt et lekeapparat i stedet for å bruke det</LP_Setting_RunAround>
+  <LP_Setting_RunAroundTip>Et barn som har valgt et lekeapparat, kan løpe rundt det i stedet og lærer like mye som av en tur på husken. På apparater for flere blir en venn med; ellers kommer en voksen som er satt til barnepass, og ser på. Krever tørr, åpen mark ved siden av apparatet (ikke vann eller gjørme), ellers bruker barnet bare apparatet.</LP_Setting_RunAroundTip>
+  <LP_Setting_RunAroundChance>Sjanse hver gang et barn velger et lekeapparat: {0}</LP_Setting_RunAroundChance>
+  <LP_Setting_RunAroundIndoors>Løp også under tak</LP_Setting_RunAroundIndoors>
+  <LP_Setting_RunAroundIndoorsTip>Når av, løper barn bare under åpen himmel, så lekeapparater innendørs bare brukes vanlig; et skyggetak på lekeplassen teller ikke som tak. Når på, løper de også rundt apparater innendørs hvis det er plass i rommet.</LP_Setting_RunAroundIndoorsTip>
+  <LP_Setting_CouplePlay>Par leker sammen</LP_Setting_CouplePlay>
+  <LP_Setting_CouplePlayTip>En voksen som velger et lekeapparat eller en benk for to, roper på partneren sin, som kommer hvis partneren er ledig eller mellom vanlige oppgaver. Et par uten noe å gjøre drar også noen ganger på date på egen hånd, høyst én gang om dagen. De venter på hverandre, og etterpå får begge en liten bonus til humør og mening.</LP_Setting_CouplePlayTip>
+  <LP_Setting_RequireResearch>Bygging krever forskningen «{0}»</LP_Setting_RequireResearch>
+  <LP_Setting_RequireResearchTip>Når på, kan alt denne moden legger til (lekeapparater, benker, gjerder og gulv), bygges først når «{0}» er forsket fram. Vanlige starter har den allerede, så bare kolonier som begynner uten, som stammer, må forske på den først. Det som allerede er bygget, blir stående. Når av, kan alt bygges fra starten.</LP_Setting_RequireResearchTip>
+  <LP_Setting_ToddlerPlay>Småbarn leker på lekeapparatene</LP_Setting_ToddlerPlay>
+  <LP_Setting_ToddlerPlayMissing>krever Toddlers-moden</LP_Setting_ToddlerPlayMissing>
+  <LP_Setting_ToddlerPlayTip>Med Toddlers-moden leker småbarn som kan gå, også de som fortsatt vakler, på disse lekeapparatene: {0}. Småbarn som fortsatt kryper, holder seg unna. Når av, lar småbarn alle lekeapparater være. Uten Toddlers-moden gjør dette ingenting.</LP_Setting_ToddlerPlayTip>
+</LanguageData>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_RideSwing.reportString>a brincar no baloiço.</LP_RideSwing.reportString>
+  <LP_RideSlide.reportString>a brincar no escorrega.</LP_RideSlide.reportString>
+  <LP_RideSeesaw.reportString>a brincar no balancé.</LP_RideSeesaw.reportString>
+  <LP_PlayInSand.reportString>a construir castelos de areia.</LP_PlayInSand.reportString>
+  <LP_RelaxOnBench.reportString>a relaxar no banco do jardim.</LP_RelaxOnBench.reportString>
+  <LP_WaitForPlayground.reportString>a aguardar brevemente por TargetA.</LP_WaitForPlayground.reportString>
+  <LP_BounceTrampoline.reportString>a saltar em TargetA.</LP_BounceTrampoline.reportString>
+  <LP_RideZipline.reportString>a deslizar em TargetA.</LP_RideZipline.reportString>
+  <LP_RideSpringFox.reportString>a baloiçar-se em TargetA.</LP_RideSpringFox.reportString>
+  <LP_SpinRoundabout.reportString>a rodar em TargetA.</LP_SpinRoundabout.reportString>
+  <LP_PlayShop.reportString>a brincar às lojas em TargetA.</LP_PlayShop.reportString>
+  <LP_PlayHopscotch.reportString>a jogar à macaca.</LP_PlayHopscotch.reportString>
+  <LP_PlaySplashPad.reportString>a brincar nos jatos de água.</LP_PlaySplashPad.reportString>
+  <LP_WalkCourse.reportString>a atravessar o percurso do parque infantil.</LP_WalkCourse.reportString>
+  <LP_BounceTogether.reportString>a saltar em TargetA.</LP_BounceTogether.reportString>
+  <LP_DrinkAtFountain.reportString>a beber água em TargetA.</LP_DrinkAtFountain.reportString>
+  <LP_CareSwing.reportString>a balançar com TargetB.</LP_CareSwing.reportString>
+  <LP_CareSeesaw.reportString>a andar no balancé com TargetB.</LP_CareSeesaw.reportString>
+  <LP_CareSand.reportString>a construir castelos de areia com TargetB.</LP_CareSand.reportString>
+  <LP_CareRoundabout.reportString>a brincar no carrossel do parque infantil com TargetB.</LP_CareRoundabout.reportString>
+  <LP_CarePlayhouse.reportString>a brincar às lojas com TargetB.</LP_CarePlayhouse.reportString>
+  <LP_CareBounceTogether.reportString>a saltar no trampolim com TargetB.</LP_CareBounceTogether.reportString>
+  <LP_WatchChildPlay.reportString>a ver TargetB brincar.</LP_WatchChildPlay.reportString>
+</LanguageData>

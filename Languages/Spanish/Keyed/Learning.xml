@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Setting_LearningWeight>Preferencia de aprendizaje a través del juego en el patio de recreo: {0} (predeterminado: 2)</LP_Setting_LearningWeight>
+  <LP_Setting_LearningWeightDescription>Ajuste la frecuencia con la que un niño elige jugar en el patio de recreo como actividad de aprendizaje. Un valor más alto hace que sea más probable que se elija esta actividad.</LP_Setting_LearningWeightDescription>
+  <LP_Setting_LearningWeightTip>En 1, el juego en el patio de recreo tiene el mismo peso de selección que dibujar en el suelo o correr en la naturaleza. En 2, su peso de selección se duplica. Esto no significa el doble de visitas reales. La probabilidad separada del 50 % de jugar cuando está inactivo no ha cambiado. La configuración se aplica cuando se selecciona el siguiente deseo de aprendizaje. Los deseos actuales y el juego en curso no cambian.</LP_Setting_LearningWeightTip>
+  <LP_Setting_LearningWeightTiming>Aplica cuando se elige un nuevo deseo de aprendizaje. Se mantienen los deseos existentes y el juego en curso.</LP_Setting_LearningWeightTiming>
+</LanguageData>

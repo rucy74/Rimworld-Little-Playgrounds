@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PaletteButton>配色方案</LP_PaletteButton>
+  <LP_PaletteDescription>選擇這個遊樂場的顏色。當前：{0}。立即改變外觀；建設成本和性能保持不變。</LP_PaletteDescription>
+  <LP_PaletteCurrent>配色方案：{0}</LP_PaletteCurrent>
+  <LP_PaletteLegacy>原始飾面</LP_PaletteLegacy>
+  <LP_PaletteBlue>木色 + 藍色</LP_PaletteBlue>
+  <LP_PaletteYellow>木色 + 黃色</LP_PaletteYellow>
+  <LP_PaletteSage>原木＋鼠尾草綠</LP_PaletteSage>
+  <LP_PaletteClassic>經典顏色</LP_PaletteClassic>
+</LanguageData>

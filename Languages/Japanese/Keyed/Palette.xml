@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PaletteButton>カラースキーム</LP_PaletteButton>
+  <LP_PaletteDescription>この遊具の色を選びます。現在: {0}。見た目はすぐに変わり、建設コストや性能は変わりません。</LP_PaletteDescription>
+  <LP_PaletteCurrent>カラースキーム: {0}</LP_PaletteCurrent>
+  <LP_PaletteLegacy>オリジナル仕上げ</LP_PaletteLegacy>
+  <LP_PaletteBlue>木+青</LP_PaletteBlue>
+  <LP_PaletteYellow>木+黄色</LP_PaletteYellow>
+  <LP_PaletteSage>木材＋セージグリーン</LP_PaletteSage>
+  <LP_PaletteClassic>クラシックカラー</LP_PaletteClassic>
+</LanguageData>

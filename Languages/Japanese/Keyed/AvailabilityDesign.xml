@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_BlockedUnavailable>利用不可</LP_BlockedUnavailable>
+  <LP_BlockedCannotPlay>この遊びを利用できない</LP_BlockedCannotPlay>
+  <LP_BlockedDrafted>徴兵中</LP_BlockedDrafted>
+  <LP_BlockedDowned>意識不明</LP_BlockedDowned>
+  <LP_BlockedMentalState>精神崩壊中</LP_BlockedMentalState>
+  <LP_BlockedForbidden>禁止中、または許可ゾーン外</LP_BlockedForbidden>
+  <LP_BlockedAudience>この遊具の年齢設定により利用不可</LP_BlockedAudience>
+  <LP_BlockedTooHot>遊び場が暑すぎる</LP_BlockedTooHot>
+  <LP_BlockedTooCold>遊び場が寒すぎる</LP_BlockedTooCold>
+  <LP_BlockedBusy>使用中または予約済み</LP_BlockedBusy>
+  <LP_BlockedEntrance>空いている入口や出口に行けない</LP_BlockedEntrance>
+  <LP_BlockedReturning>座席が戻っている途中</LP_BlockedReturning>
+  <LP_BlockedCourseTooShort>コースの部品を2つ以上つなげる必要がある</LP_BlockedCourseTooShort>
+  <LP_BlockedWaterCold>水遊びには寒すぎるか、雪が積もっている</LP_BlockedWaterCold>
+  <LP_DesignButton>デザイン</LP_DesignButton>
+  <LP_DesignDescription>この遊具の見た目を選びます。現在：{0}。色は別に選びます。</LP_DesignDescription>
+  <LP_DesignOriginal>オリジナル</LP_DesignOriginal>
+  <LP_DesignTimber>白木</LP_DesignTimber>
+  <LP_DesignBusy>全員が遊具を使い終わるまでお待ちください。</LP_DesignBusy>
+  <LP_DesignCurrent>デザイン：{0}</LP_DesignCurrent>
+</LanguageData>

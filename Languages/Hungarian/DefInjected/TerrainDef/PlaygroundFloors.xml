@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PlaySandLight.label>világos játszótéri homok</LP_PlaySandLight.label>
+  <LP_PlaySandLight.description>Halvány homok enyhe, sekély hullámokkal a világos játszótérért. Ez egy harmadik homokfelület a finom homok és a szemcsés homok mellett.</LP_PlaySandLight.description>
+  <LP_PlaySand.label>finom játszótéri homok</LP_PlaySand.label>
+  <LP_PlaySand.description>Leülepedett, meleg bézs játszótéri homok finom szemcsékkel és enyhe, sekély hullámzással.</LP_PlaySand.description>
+  <LP_PlaySandGrainy.label>szemcsés játszótéri homok</LP_PlaySandGrainy.label>
+  <LP_PlaySandGrainy.description>Meleg játszótéri homok látható szemcsékkel és enyhén gereblyézett felülettel. Texturáltabb alternatíva a finom játszótéri homok helyett.</LP_PlaySandGrainy.description>
+  <LP_RubberSage.label>zsályazöld gumiburkolat</LP_RubberSage.label>
+  <LP_RubberSage.description>Matt gumi-morzsa játszótéri felület. Finom textúrája csemperács nélkül illeszkedik. Zsályazöld, krém és barack színben kapható.</LP_RubberSage.description>
+  <LP_RubberCream.label>krémszínű játszótéri gumi</LP_RubberCream.label>
+  <LP_RubberCream.description>Matt gumi-morzsa játszótéri felület. Finom textúrája csemperács nélkül illeszkedik. Zsályazöld, krém és barack színben kapható.</LP_RubberCream.description>
+  <LP_RubberApricot.label>barackszínű játszótéri gumi</LP_RubberApricot.label>
+  <LP_RubberApricot.description>Matt gumi-morzsa játszótéri felület. Finom textúrája csemperács nélkül illeszkedik. Zsályazöld, krém és barack színben kapható.</LP_RubberApricot.description>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PaletteButton>Värimaailma</LP_PaletteButton>
+  <LP_PaletteDescription>Valitse tämän leikkipaikan värit. Nykyinen: {0}. Muuttaa ulkonäköä välittömästi; rakennuskustannukset ja suorituskyky pysyvät samoina.</LP_PaletteDescription>
+  <LP_PaletteCurrent>Värimaailma: {0}</LP_PaletteCurrent>
+  <LP_PaletteLegacy>Alkuperäinen viimeistely</LP_PaletteLegacy>
+  <LP_PaletteBlue>Puu + sininen</LP_PaletteBlue>
+  <LP_PaletteYellow>Puu + keltainen</LP_PaletteYellow>
+  <LP_PaletteSage>Puu + salvianvihreä</LP_PaletteSage>
+  <LP_PaletteClassic>Klassiset värit</LP_PaletteClassic>
+</LanguageData>

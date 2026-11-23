@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Sandbox.label>tamme liivakast</LP_Sandbox.label>
+  <LP_Sandbox.description>Kahvatu tamme liivakast elevandiluust nurgaistmetega. Kuni kolm last või täiskasvanut vormivad üksi või koos küngast torni ja seejärel liivalossi. Lapsed õpivad; täiskasvanud saavad lõbu. Nende looming jääb pärast lahkumist alles ja kulub aeglaselt, kui neid ei kasutata.</LP_Sandbox.description>
+  <LP_GardenBench.label>aiapink</LP_GardenBench.label>
+  <LP_GardenBench.description>Ümar tammest ja elevandiluust pink, kus on ruumi kahele inimesele. Kolonistid saavad selle valida lõbu pärast või neid saab käskida siin lõõgastuma. Asetage mänguväljaku varjualune ühe ruudu võrra pingi taha, et seda varjata.</LP_GardenBench.description>
+  <LP_ShadeCanopy.label>mänguväljaku varjualune</LP_ShadeCanopy.label>
+  <LP_ShadeCanopy.description>Kreemjas kangast varikatus salveiroheliste postidega. Asetage selle keskmine marker ühe ruudu võrra pingi taha. See varjab enda ees viis korda kolm ala ilma olemasolevaid katuseid välja vahetamata. Kangas jääb istuvate külastajate kohal läbipaistmatuks ja tuhmub, kui selle kõrgendatud kujutis varjab tegelase.</LP_ShadeCanopy.description>
+  <LP_OakCurb.label>tammepuust mänguväljaku ääris</LP_OakCurb.label>
+  <LP_OakCurb.description>Madal ümar tamme kant. Kõrvuti asetsev mänguväljaku ääris ühendub automaatselt, sealhulgas nurkade ümber. Kõik saavad sellest üle astuda.</LP_OakCurb.description>
+  <LP_IvoryCurb.label>mänguväljaku ääris</LP_IvoryCurb.label>
+  <LP_IvoryCurb.description>Madal elevandiluust ääris viimistletud mänguväljaku piirde jaoks. Kõrvuti asetsev mänguväljaku ääris ühendub automaatselt, sealhulgas nurkade ümber. Kõik saavad sellest üle astuda. Ehitatud mis tahes kiviplokkidest; selle kuju ja värvid jäävad samaks, olenemata sellest, millist kivi te kasutate.</LP_IvoryCurb.description>
+</LanguageData>

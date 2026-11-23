@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_Setting_LearningWeight>놀이터 배움 선호도: {0} (기본값: 2)</LP_Setting_LearningWeight>
+  <LP_Setting_LearningWeightDescription>아이가 원하는 배움 활동으로 ‘놀이터에서 놀기’가 선택되는 비중입니다. 높일수록 놀이터 활동을 더 자주 원하게 됩니다.</LP_Setting_LearningWeightDescription>
+  <LP_Setting_LearningWeightTip>1은 그림 그리기·자연에서 뛰놀기 등 일반 배움 활동과 같은 추첨 비중입니다. 2는 그 비중의 두 배이며, 실제 방문 횟수가 두 배가 되는 것은 아닙니다. 한가할 때 50%로 놀러 가는 행동에는 영향을 주지 않습니다. 다음 배움 욕구가 선택될 때부터 적용되며, 이미 떠 있는 욕구나 진행 중인 놀이는 유지됩니다.</LP_Setting_LearningWeightTip>
+  <LP_Setting_LearningWeightTiming>다음 배움 욕구가 선택될 때부터 적용됩니다. 이미 떠 있는 욕구나 진행 중인 놀이는 유지됩니다.</LP_Setting_LearningWeightTiming>
+</LanguageData>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_RideSwing.reportString>se joacă pe leagăn.</LP_RideSwing.reportString>
+  <LP_RideSlide.reportString>se joacă pe tobogan.</LP_RideSlide.reportString>
+  <LP_RideSeesaw.reportString>se joacă pe balansoar.</LP_RideSeesaw.reportString>
+  <LP_PlayInSand.reportString>construiește castele de nisip.</LP_PlayInSand.reportString>
+  <LP_RelaxOnBench.reportString>se relaxează pe banca de grădină.</LP_RelaxOnBench.reportString>
+  <LP_WaitForPlayground.reportString>așteaptă pentru scurt timp pentru TargetA.</LP_WaitForPlayground.reportString>
+  <LP_BounceTrampoline.reportString>sare pe TargetA.</LP_BounceTrampoline.reportString>
+  <LP_RideZipline.reportString>se dă cu TargetA.</LP_RideZipline.reportString>
+  <LP_RideSpringFox.reportString>se leagănă pe TargetA.</LP_RideSpringFox.reportString>
+  <LP_SpinRoundabout.reportString>se învârte pe TargetA.</LP_SpinRoundabout.reportString>
+  <LP_PlayShop.reportString>se joacă de-a magazinul la TargetA.</LP_PlayShop.reportString>
+  <LP_PlayHopscotch.reportString>joacă șotron.</LP_PlayHopscotch.reportString>
+  <LP_PlaySplashPad.reportString>se joacă în jeturile de apă.</LP_PlaySplashPad.reportString>
+  <LP_WalkCourse.reportString>parcurge traseul cu obstacole.</LP_WalkCourse.reportString>
+  <LP_BounceTogether.reportString>sare pe TargetA.</LP_BounceTogether.reportString>
+  <LP_DrinkAtFountain.reportString>bea apă la TargetA.</LP_DrinkAtFountain.reportString>
+  <LP_CareSwing.reportString>se dă în leagăn împreună cu TargetB.</LP_CareSwing.reportString>
+  <LP_CareSeesaw.reportString>se joacă pe balansoar împreună cu TargetB.</LP_CareSeesaw.reportString>
+  <LP_CareSand.reportString>construiește castele de nisip împreună cu TargetB.</LP_CareSand.reportString>
+  <LP_CareRoundabout.reportString>învârte caruselul împreună cu TargetB.</LP_CareRoundabout.reportString>
+  <LP_CarePlayhouse.reportString>se joacă de-a magazinul împreună cu TargetB.</LP_CarePlayhouse.reportString>
+  <LP_CareBounceTogether.reportString>sare pe trambulină împreună cu TargetB.</LP_CareBounceTogether.reportString>
+  <LP_WatchChildPlay.reportString>privește cum se joacă TargetB.</LP_WatchChildPlay.reportString>
+</LanguageData>

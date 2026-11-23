@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_RideCompactSlide.reportString>đang chơi cầu trượt nhỏ.</LP_RideCompactSlide.reportString>
+  <LP_RideFloorRocker.reportString>đang đung đưa trên bập bênh sàn.</LP_RideFloorRocker.reportString>
+  <LP_PlayBallPit.reportString>đang chơi trong hồ bóng.</LP_PlayBallPit.reportString>
+  <LP_CareFloorRocker.reportString>đang chơi bập bênh sàn cùng TargetB.</LP_CareFloorRocker.reportString>
+  <LP_CareBallPit.reportString>đang chơi trong hồ bóng cùng TargetB.</LP_CareBallPit.reportString>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Sandbox.label>tölgy homokozó</LP_Sandbox.label>
+  <LP_Sandbox.description>Halvány tölgyfa homokozó elefántcsontszínű sarokülésekkel. Legfeljebb három gyerek vagy felnőtt egy homokkupacot előbb toronnyá, majd homokvárrá formál, egyedül vagy együtt. A gyerekek tanulásban, a felnőttek pedig élvezetben részesülnek. Alkotásuk távozásuk után is megmarad, és használaton kívül lassan elkopik.</LP_Sandbox.description>
+  <LP_GardenBench.label>kerti pad</LP_GardenBench.label>
+  <LP_GardenBench.description>Lekerekített, tölgyfa és elefántcsontszín pad két személy számára. A telepesek szórakozásként választhatják, vagy utasítást kaphatnak, hogy itt pihenjenek. Helyezzen egy játszótéri árnyékolót egy cellával a pad mögé, hogy árnyékot adjon.</LP_GardenBench.description>
+  <LP_ShadeCanopy.label>játszótéri árnyékoló</LP_ShadeCanopy.label>
+  <LP_ShadeCanopy.description>Krémszínű vászon árnyékoló zsályazöld oszlopokon. Helyezze a középjelölőjét egy cellával egy pad mögé. Előtte egy öt-szer-három cellás területet fed le, a meglévő tetők lecserélése nélkül. A vászon az ülő látogatók felett átlátszatlan marad, és elhalványul, ha a magasított képe eltakar egy karaktert.</LP_ShadeCanopy.description>
+  <LP_OakCurb.label>tölgy játszótér szegély</LP_OakCurb.label>
+  <LP_OakCurb.description>Alacsony, lekerekített tölgy szegély. A szomszédos játszótér szegélyek automatikusan összekapcsolódnak, beleértve a sarkokat is. A karakterek átléphetnek rajta.</LP_OakCurb.description>
+  <LP_IvoryCurb.label>játszótér szegély</LP_IvoryCurb.label>
+  <LP_IvoryCurb.description>Alacsony elefántcsontszínű szegély a rendezett játszótéri határhoz. A szomszédos játszótér szegélyek automatikusan összekapcsolódnak, beleértve a sarkokat is. A karakterek átléphetnek rajta. Bármilyen kőtömbből épülhet; alakja és színei ugyanazok maradnak, bármilyen követ használ is.</LP_IvoryCurb.description>
+</LanguageData>

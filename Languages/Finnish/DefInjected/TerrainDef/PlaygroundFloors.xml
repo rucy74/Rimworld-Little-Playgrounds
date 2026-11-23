@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PlaySandLight.label>vaalea leikkihiekka</LP_PlaySandLight.label>
+  <LP_PlaySandLight.description>Vaaleaa hiekkaa, jossa on lempeitä, matalia aaltoja valoisaan leikkipaikkaan. Tämä on kolmas hiekkapinta hienon ja rakeisen hiekan rinnalla.</LP_PlaySandLight.description>
+  <LP_PlaySand.label>hieno leikkipaikan hiekka</LP_PlaySand.label>
+  <LP_PlaySand.description>Tiivis, lämpimän beige leikkipaikkahiekka, jossa on hienot rakeet ja rauhallista, matalaa vaihtelua.</LP_PlaySand.description>
+  <LP_PlaySandGrainy.label>rakeinen leikkipaikan hiekka</LP_PlaySandGrainy.label>
+  <LP_PlaySandGrainy.description>Lämmin leikkipaikkahiekka, jossa on näkyviä rakeita ja kevyesti haravoitu pinta. Kuvioitumpi vaihtoehto hienolle leikkipaikkahiekalle.</LP_PlaySandGrainy.description>
+  <LP_RubberSage.label>salvianvihreä kumipinnoite</LP_RubberSage.label>
+  <LP_RubberSage.description>Matta kumimuruinen leikkikentän pinta. Sen hienovarainen rakenne yhdistyy ilman laattaverkkoa. Saatavana salvia, kerma ja aprikoosi.</LP_RubberSage.description>
+  <LP_RubberCream.label>kermanvärinen kumipinnoite</LP_RubberCream.label>
+  <LP_RubberCream.description>Matta kumimuruinen leikkikenttäpinta. Sen hienovarainen rakenne yhdistyy ilman laattaverkkoa. Saatavana salvia, kerma ja aprikoosi.</LP_RubberCream.description>
+  <LP_RubberApricot.label>aprikoosinvärinen kumipinnoite</LP_RubberApricot.label>
+  <LP_RubberApricot.description>Matta kumimuruinen leikkikentän pinta. Sen hienovarainen rakenne yhdistyy ilman laattaverkkoa. Saatavana salvia, kerma ja aprikoosi.</LP_RubberApricot.description>
+</LanguageData>

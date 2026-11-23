@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_RideCompactSlide.reportString>παίζει στη μικρή τσουλήθρα.</LP_RideCompactSlide.reportString>
+  <LP_RideFloorRocker.reportString>κουνιέται στην τραμπάλα δαπέδου.</LP_RideFloorRocker.reportString>
+  <LP_PlayBallPit.reportString>παίζει στην μπαλοπισίνα.</LP_PlayBallPit.reportString>
+  <LP_CareFloorRocker.reportString>κουνιέται στην τραμπάλα δαπέδου με TargetB.</LP_CareFloorRocker.reportString>
+  <LP_CareBallPit.reportString>παίζει στην μπαλοπισίνα με TargetB.</LP_CareBallPit.reportString>
+</LanguageData>

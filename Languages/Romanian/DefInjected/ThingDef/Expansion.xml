@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_SteppingStump.label>treaptă din lemn pentru locul de joacă</LP_SteppingStump.label>
+  <LP_SteppingStump.description>O treaptă joasă din lemn tăiat. Pietrele de pășit, treptele din lemn și bușteni de echilibru se leagă între ei margine la margine. Un traseu are nevoie de cel puțin două celule (un buștean de echilibru are singur două), iar piesele care se ating doar la colț nu se leagă. Copiii și adulții urmează traseul conectat.</LP_SteppingStump.description>
+  <LP_SpringFox.label>balansoar pe arc în formă de vulpe</LP_SpringFox.label>
+  <LP_SpringFox.description>O jucărie balansoar în formă de vulpe montată pe un arc. Un copil sau un adult îl poate folosi singur. Personajul își păstrează corpul normal și se aplecă înainte și înapoi cu jucăria.</LP_SpringFox.description>
+  <LP_Roundabout.label>carusel din stejar</LP_Roundabout.label>
+  <LP_Roundabout.description>Un carusel rotund de teren de joacă din stejar cu balustrade verde salvie, pentru până la patru persoane. O singură persoană îl poate folosi singură. Încetinește și se oprește când cineva urcă sau coboară.</LP_Roundabout.description>
+  <LP_Playhouse.label>căsuță de joacă pentru magazinul mic</LP_Playhouse.label>
+  <LP_Playhouse.description>O casă de joacă deschisă, cu un mic tejghea pentru magazin. Joacă-te la conducerea magazinului singur sau întâmpină un al doilea vizitator la vitrină. Copiii învață și adulții câștigă recreere.</LP_Playhouse.description>
+  <LP_DrinkingFountain.label>cișmea la două înălțimi</LP_DrinkingFountain.label>
+  <LP_DrinkingFountain.description>Un vas de băut înalt și jos. Copiii se pot opri să bea puțină apă după activitățile de joacă; adulții îl aleg și pentru recreere. Micul curent de apă curge în timp ce este folosit. Acest lucru nu adaugă o nevoie de sete. Construit din orice blocuri de piatră; forma și culorile sale rămân aceleași, indiferent de piatră pe care o folosiți.</LP_DrinkingFountain.description>
+  <LP_Hopscotch.label>șotron de grădină</LP_Hopscotch.label>
+  <LP_Hopscotch.description>Opt pătrate pictate. Un copil sau un adult sare de-a lungul numerelor și se întoarce, jucându-se singur, fără a aștepta un partener. Construit din orice blocuri de piatră; forma și culorile sale rămân aceleași, indiferent de piatră pe care o folosiți.</LP_Hopscotch.description>
+  <LP_SplashPad.label>loc de joacă cu jeturi de apă</LP_SplashPad.label>
+  <LP_SplashPad.description>Jeturile de apă la nivelul solului pulverizează în mod repetat, în timp ce până la trei persoane se deplasează în jurul zonei de joacă. Fiecare persoană se poate juca și singură. Această activitate se oprește sub 10 grade Celsius și nu poate începe când suprafața este acoperită de zăpadă. Construit din orice blocuri de piatră; forma și culorile sale rămân aceleași, indiferent de piatra pe care o folosiți.</LP_SplashPad.description>
+  <LP_SteppingStone.label>piatră de pășit pentru locul de joacă</LP_SteppingStone.label>
+  <LP_SteppingStone.description>O piatră de pășit joasă și rotunjită. Pietrele de pășit, treptele din lemn și bușteni de echilibru se leagă între ei margine la margine. Un traseu are nevoie de cel puțin două celule (un buștean de echilibru are singur două), iar piesele care se ating doar la colț nu se leagă. Vizitatorii urmează o ramură conectată și se întorc. O vizită își rezervă traseul, de până la 24 de piese. Construită din orice blocuri de piatră; forma și culorile sale rămân aceleași, indiferent de piatra pe care o folosiți.</LP_SteppingStone.description>
+  <LP_BalanceLog.label>buștean de echilibru</LP_BalanceLog.label>
+  <LP_BalanceLog.description>Un buștean de echilibru jos, din stejar, lung de două celule; poate fi așezat pe lungime sau pe lățime. Pietrele de pășit, treptele din lemn și bușteni de echilibru se leagă între ei margine la margine. Un traseu are nevoie de cel puțin două celule (un buștean de echilibru are singur două), iar piesele care se ating doar la colț nu se leagă. Vizitatorii își țin echilibrul de-a lungul unei ramuri conectate, apoi se întorc. Toate celulele traseului trebuie să rămână libere.</LP_BalanceLog.description>
+  <LP_PlayFence.label>gard de stejar pentru locul de joacă</LP_PlayFence.label>
+  <LP_PlayFence.description>Pichete joase de stejar îmbinate cu stâlpi pătrați din lemn. Piesele de gard adiacente se conectează. Aceasta este o limită decorativă a unui loc de joacă, nu o barieră pentru animale.</LP_PlayFence.description>
+  <LP_PlayEntrance.label>intrare la locul de joacă</LP_PlayEntrance.label>
+  <LP_PlayEntrance.description>O intrare mereu deschisă, cu un mic semn Little Playgrounds. O deschidere primitoare pentru un gard jos de grădină.</LP_PlayEntrance.description>
+  <LP_GardenFountain.label>fântână de grădină</LP_GardenFountain.label>
+  <LP_GardenFountain.description>Un bazin jos de piatră palid, cu apă care curge ușor. O piesă centrală de grădină de plasat lângă zona de relaxare. Construit din orice blocuri de piatră; forma și culorile sale rămân aceleași, indiferent de piatră pe care o folosiți.</LP_GardenFountain.description>
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Children's free time (user 2026-10-26): first in the colonist idle node, ahead of the idle wander that vanilla falls
+     back to and that Do Something for Idle replaces with its pastimes. -->
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThinkTreeDef[defName="Humanlike"]/thinkRoot/subNodes/li[@Class="ThinkNode_ConditionalColonist"]/subNodes/li[@Class="ThinkNode_Tagger" and tagToGive="Idle"]/subNodes</xpath>
+    <order>Prepend</order>
+    <value><li Class="LittlePlaygrounds.JobGiver_IdlePlay"/></value>
+  </Operation>
+</Patch>

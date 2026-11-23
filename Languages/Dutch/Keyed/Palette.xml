@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PaletteButton>Kleurenschema</LP_PaletteButton>
+  <LP_PaletteDescription>Kies de kleuren van deze speeltuin. Huidig: {0}. Verandert onmiddellijk van uiterlijk; bouwkosten en prestaties blijven hetzelfde.</LP_PaletteDescription>
+  <LP_PaletteCurrent>Kleurenschema: {0}</LP_PaletteCurrent>
+  <LP_PaletteLegacy>Originele afwerking</LP_PaletteLegacy>
+  <LP_PaletteBlue>Hout + blauw</LP_PaletteBlue>
+  <LP_PaletteYellow>Hout + geel</LP_PaletteYellow>
+  <LP_PaletteSage>Hout + saliegroen</LP_PaletteSage>
+  <LP_PaletteClassic>Klassieke kleuren</LP_PaletteClassic>
+</LanguageData>

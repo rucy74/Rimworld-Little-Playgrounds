@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Menu_PlaySwing>Juga al gronxador</LP_Menu_PlaySwing>
+  <LP_Menu_PlaySlide>Juga al tobogan</LP_Menu_PlaySlide>
+  <LP_Menu_PlaySeesaw>Juga al balancí</LP_Menu_PlaySeesaw>
+  <LP_Menu_JumpTrampoline>Salta al llit elàstic</LP_Menu_JumpTrampoline>
+  <LP_Menu_RideZipline>Puja a la tirolina</LP_Menu_RideZipline>
+  <LP_Menu_BuildSandcastles>Construeix castells de sorra</LP_Menu_BuildSandcastles>
+  <LP_Menu_RelaxBench>Relaxa't al banc</LP_Menu_RelaxBench>
+  <LP_Menu_TakeDrink>Beu aigua</LP_Menu_TakeDrink>
+  <LP_Menu_PlayCourse>Juga en aquesta pista d'obstacles del parc infantil</LP_Menu_PlayCourse>
+  <LP_Menu_PlayAt>Juga a {0}</LP_Menu_PlayAt>
+  <LP_Inspect_CourseLinked>Recorregut de {0} cel·les enllaçades.</LP_Inspect_CourseLinked>
+  <LP_Inspect_CourseAlone>Està sola, així que encara no hi pot jugar ningú. Col·loqueu una altra pedra de pas, un graó de fusta o un tronc d'equilibri al costat, vora amb vora.</LP_Inspect_CourseAlone>
+  <LP_Inspect_CourseCorner>Només es troba una altra peça en una cantonada, que no s'enllaça. Les peces enllacen vora amb vora.</LP_Inspect_CourseCorner>
+  <LP_Inspect_CourseWaiting>S'enllaçarà a la peça planificada del costat quan estigui construïda.</LP_Inspect_CourseWaiting>
+  <LP_Menu_CourseTooShort>Juga al llarg d'aquest recorregut (necessita una altra peça vora a vora)</LP_Menu_CourseTooShort>
+  <LP_Place_CourseLinked>S'enllaça a un recorregut de {0} cel·les</LP_Place_CourseLinked>
+  <LP_Place_CourseOccupied>Aquí ja hi ha una altra peça del recorregut</LP_Place_CourseOccupied>
+  <LP_Place_CourseSelf>Forma tota sola un recorregut de {0} cel·les</LP_Place_CourseSelf>
+  <LP_Place_CourseCorner>El contacte de la cantonada no s'enllaça, col·loqueu-lo vora a vora</LP_Place_CourseCorner>
+  <LP_Place_CourseAlone>No es pot jugar sol, col·loca una altra peça vora a vora</LP_Place_CourseAlone>
+  <LP_Inspect_SplashClosed>Joc aquàtic tancat: per sota de 10°C.</LP_Inspect_SplashClosed>
+  <LP_Inspect_SeatReturning>El seient buit torna</LP_Inspect_SeatReturning>
+  <LP_Inspect_Rider>Ocupant: {0}</LP_Inspect_Rider>
+  <LP_Inspect_ReadyOne>A punt per a una persona</LP_Inspect_ReadyOne>
+  <LP_Inspect_ReadyAny>A punt per a algú</LP_Inspect_ReadyAny>
+  <LP_Inspect_SlideRider>Ocupant: {0} — {1}</LP_Inspect_SlideRider>
+  <LP_SlidePhase_approach>aproximació</LP_SlidePhase_approach>
+  <LP_SlidePhase_boarding>accés</LP_SlidePhase_boarding>
+  <LP_SlidePhase_climbing>escalada</LP_SlidePhase_climbing>
+  <LP_SlidePhase_platform>plataforma</LP_SlidePhase_platform>
+  <LP_SlidePhase_seated>assegut</LP_SlidePhase_seated>
+  <LP_SlidePhase_sliding>lliscant</LP_SlidePhase_sliding>
+  <LP_SlidePhase_landing>arribada</LP_SlidePhase_landing>
+  <LP_SlidePhase_finished>acabat</LP_SlidePhase_finished>
+  <LP_Inspect_SwingSeats>Seient esquerre: {0}\nSeient dret: {1}</LP_Inspect_SwingSeats>
+  <LP_Inspect_SeatFree>disponible</LP_Inspect_SeatFree>
+  <LP_Inspect_SeesawTogether>Jugant junts</LP_Inspect_SeesawTogether>
+  <LP_Inspect_SeesawWaiting>Pujant</LP_Inspect_SeesawWaiting>
+  <LP_Inspect_SeesawSolo>Jugant sol</LP_Inspect_SeesawSolo>
+  <LP_Inspect_SeesawFree>Dos seients disponibles</LP_Inspect_SeesawFree>
+  <LP_Inspect_SandCastle>Un castell de sorra construït aquí</LP_Inspect_SandCastle>
+  <LP_Inspect_SandTower>Una torre de sorra està prenent forma</LP_Inspect_SandTower>
+  <LP_Inspect_SandMound>Un petit monticle de sorra</LP_Inspect_SandMound>
+  <LP_Inspect_SandReady>A punt per jugar a la sorra</LP_Inspect_SandReady>
+  <LP_Setting_ChildcarePlay>Els adults juguen amb els nens durant les atencions infantils</LP_Setting_ChildcarePlay>
+  <LP_Setting_ChildcarePlayTip>Quan està activat, un adult assignat a atencions infantils visita un nen que juga sol. L'adult pot unir-se al nen en un gronxador, un balancí, una caixa de sorra, un carrusel, una caseta de jocs o un llit elàstic gran, o mirar al costat de l'equip per a una persona. L'adult guanya una mica d'entreteniment social, igual que quan juga amb un nadó. Quan aquesta configuració està desactivada, els adults només juguen amb els nens durant el seu propi temps d'entreteniment.</LP_Setting_ChildcarePlayTip>
+  <LP_Setting_RecordPlay>Registre del parc infantil (per a la depuració)</LP_Setting_RecordPlay>
+  <LP_Setting_RecordPlayTip>Quan està activat, aquest registre registra cada visita al pati: qui va jugar, qui s'hi va unir o els va mirar, com van arribar i per què s'utilitzaven equips amb diversos seients sols. Llegiu un tauler d'informació de l'equip o seleccioneu Mostra el registre a continuació. La mateixa informació també es desa al fitxer següent.</LP_Setting_RecordPlayTip>
+  <LP_Rec_Open>Mostra el registre</LP_Rec_Open>
+  <LP_Rec_Title>Registre de jocs</LP_Rec_Title>
+  <LP_Rec_NoMap>Carregueu un mapa de l'assentament per veure'n el registre del parc infantil.</LP_Rec_NoMap>
+  <LP_Why_Other>no hi és</LP_Why_Other>
+  <LP_Why_Drafted>reclutat</LP_Why_Drafted>
+  <LP_Why_Downed>inconscient</LP_Why_Downed>
+  <LP_Why_Mental>crisi mental</LP_Why_Mental>
+  <LP_Why_Burning>en flames</LP_Why_Burning>
+  <LP_Why_Ordered>complint una ordre</LP_Why_Ordered>
+  <LP_Why_Busy>ocupat ({0})</LP_Why_Busy>
+  <LP_Why_Gathering>en una reunió o grup</LP_Why_Gathering>
+  <LP_Why_Fighting>lluita</LP_Why_Fighting>
+  <LP_Why_Needs>a punt de menjar o dormir</LP_Why_Needs>
+  <LP_Why_NotPlayTime>no és hora d'entretenir-se</LP_Why_NotPlayTime>
+  <LP_Why_JoyFull>entreteniment ja al màxim</LP_Why_JoyFull>
+  <LP_Why_PlayCooldown>acaba de jugar (de nou d'aquí a {0} h)</LP_Why_PlayCooldown>
+  <LP_Why_CareSettingOff>El joc durant les atencions infantils està desactivat a la configuració del mod</LP_Why_CareSettingOff>
+  <LP_Why_NotWorkHour>no és una hora de treball</LP_Why_NotWorkHour>
+  <LP_Why_CannotChildcare>no pot fer atencions infantils</LP_Why_CannotChildcare>
+  <LP_Why_ChildcareOff>Atencions infantils desactivades a la pestanya de treball</LP_Why_ChildcareOff>
+  <LP_Why_CallCooldown>cridat recentment (de nou d'aquí a {0} h)</LP_Why_CallCooldown>
+  <LP_Why_BeingCalled>ja l'ha cridat un altre nen</LP_Why_BeingCalled>
+  <LP_Why_Dislike>no es cauen bé (opinió {0})</LP_Why_Dislike>
+  <LP_Why_TooFar>massa lluny ({0} s, límit {1} s)</LP_Why_TooFar>
+  <LP_Why_NotAllowedFun>no es permet aquest tipus de diversió (títol)</LP_Why_NotAllowedFun>
+  <LP_Why_NoWatchSpot>no hi ha cap lloc lliure des d'on mirar</LP_Why_NoWatchSpot>
+  <LP_Why_NoSeat>no hi ha seient ni camí cap al joc</LP_Why_NoSeat>
+  <LP_Rec_CallerCooldown>aquest nen ha cridat algú recentment (de nou d'aquí a {0} h)</LP_Rec_CallerCooldown>
+  <LP_Rec_NoFriendSite>no hi ha cap joc compartit a prop amb dos seients lliures</LP_Rec_NoFriendSite>
+  <LP_Rec_NoChildren>cap altre nen</LP_Rec_NoChildren>
+  <LP_Rec_Friends>amics: {0}</LP_Rec_Friends>
+  <LP_Rec_SomeoneThere>algú ja és al joc o hi va</LP_Rec_SomeoneThere>
+  <LP_Rec_Called>ha cridat {0} ({1})</LP_Rec_Called>
+  <LP_Rec_CalledBy>cridat per {0}</LP_Rec_CalledBy>
+  <LP_Rec_NoAdults>cap adult</LP_Rec_NoAdults>
+  <LP_Rec_Adults>adults: {0}</LP_Rec_Adults>
+  <LP_Rec_Kind_Friend>amic</LP_Rec_Kind_Friend>
+  <LP_Rec_Kind_Care>Atencions infantils</LP_Rec_Kind_Care>
+  <LP_Rec_Kind_Watch>per veure</LP_Rec_Kind_Watch>
+  <LP_Rec_Kind_Recreation>entreteniment</LP_Rec_Kind_Recreation>
+  <LP_Rec_Hold>ha esperat {0} s a l'entrada: {1}</LP_Rec_Hold>
+  <LP_Rec_HoldCap>va esperar els 10 s complets</LP_Rec_HoldCap>
+  <LP_Rec_HoldRiding>algú altre hi ha pujat</LP_Rec_HoldRiding>
+  <LP_Rec_HoldLate>{0} no ha pogut arribar a temps</LP_Rec_HoldLate>
+  <LP_Rec_HoldArrivedName>{0} ha arribat</LP_Rec_HoldArrivedName>
+  <LP_Rec_HoldArrived>va arribar el company</LP_Rec_HoldArrived>
+  <LP_Rec_CompanionMissed>ha cridat {0}, que no ha vingut (ara: {1})</LP_Rec_CompanionMissed>
+  <LP_Rec_WhyUnknown>va venir per {0}; ningú més va venir</LP_Rec_WhyUnknown>
+  <LP_Rec_Src_Unknown>desconegut</LP_Rec_Src_Unknown>
+  <LP_Rec_Src_Learning>aprenentatge</LP_Rec_Src_Learning>
+  <LP_Rec_Src_Idle>temps lliure</LP_Rec_Src_Idle>
+  <LP_Rec_Src_Invitation>invitació</LP_Rec_Src_Invitation>
+  <LP_Rec_Src_Queue>cua</LP_Rec_Src_Queue>
+  <LP_Rec_Src_FriendCall>cridat per un amic</LP_Rec_Src_FriendCall>
+  <LP_Rec_Src_CareCall>cridat (atencions infantils)</LP_Rec_Src_CareCall>
+  <LP_Rec_Src_WatchCall>cridat per mirar</LP_Rec_Src_WatchCall>
+  <LP_Rec_Src_RecreationCall>cridat (entreteniment)</LP_Rec_Src_RecreationCall>
+  <LP_Rec_Src_CareWork>Feina d'atencions infantils</LP_Rec_Src_CareWork>
+  <LP_Rec_Src_Recreation>entreteniment</LP_Rec_Src_Recreation>
+  <LP_Rec_Src_Ordered>per ordre</LP_Rec_Src_Ordered>
+  <LP_Rec_Mode_ChildAlone>nen sol</LP_Rec_Mode_ChildAlone>
+  <LP_Rec_Mode_Children>nens junts</LP_Rec_Mode_Children>
+  <LP_Rec_Mode_WithCare>amb un adult d'atencions infantils</LP_Rec_Mode_WithCare>
+  <LP_Rec_Mode_WithRec>amb un adult</LP_Rec_Mode_WithRec>
+  <LP_Rec_Mode_Watched>un adult mirant</LP_Rec_Mode_Watched>
+  <LP_Rec_Mode_AdultAlone>adult sol</LP_Rec_Mode_AdultAlone>
+  <LP_Rec_Mode_AdultCare>adult jugant amb un nen</LP_Rec_Mode_AdultCare>
+  <LP_Rec_Mode_AdultWithChild>adult amb un nen</LP_Rec_Mode_AdultWithChild>
+  <LP_Rec_Mode_Adults>adults junts</LP_Rec_Mode_Adults>
+  <LP_Rec_Role_child>nen</LP_Rec_Role_child>
+  <LP_Rec_Role_care>Atencions infantils</LP_Rec_Role_care>
+  <LP_Rec_Role_adult>adult</LP_Rec_Role_adult>
+  <LP_Rec_JustNow>ara mateix</LP_Rec_JustNow>
+  <LP_Rec_Ago>fa {0} h</LP_Rec_Ago>
+  <LP_Rec_Inspect>Registre, 3 darrers dies: {0} usos ({1})</LP_Rec_Inspect>
+  <LP_Rec_InspectAlone>utilitzat sol: {0}</LP_Rec_InspectAlone>
+  <LP_Rec_File>Fitxer de registre: {0}</LP_Rec_File>
+  <LP_Rec_Off>El registre del parc infantil està desactivat. Activeu-lo a Opcions &gt; Configuració de modificacions &gt; Little Playgrounds.</LP_Rec_Off>
+  <LP_Rec_Page_Rides>Equipament del parc infantil</LP_Rec_Page_Rides>
+  <LP_Rec_Page_Recent>Visites recents al pati</LP_Rec_Page_Recent>
+  <LP_Rec_Page_Decisions>Decisions de joc</LP_Rec_Page_Decisions>
+  <LP_Rec_Page_Children>Nens ara</LP_Rec_Page_Children>
+  <LP_Rec_OnlySelected>Només el joc seleccionat</LP_Rec_OnlySelected>
+  <LP_Rec_Never>mai</LP_Rec_Never>
+  <LP_Rec_RideLine>3 darrers dies, {0} usos: {1}</LP_Rec_RideLine>
+  <LP_Rec_Last>darrer {0}</LP_Rec_Last>
+  <LP_Rec_With>amb {0}</LP_Rec_With>
+  <LP_Rec_Watchers>vist per {0}</LP_Rec_Watchers>
+  <LP_Rec_Seconds>{0} s</LP_Rec_Seconds>
+  <LP_Rec_WhyAlone>Per què sols: {0}</LP_Rec_WhyAlone>
+  <LP_Rec_HowCame>Com: {0}</LP_Rec_HowCame>
+  <LP_Rec_ChildLine>aprenentatge {0} · hora {1} · ara {2} · últim ús {3} · parc infantil {4} · cridant {5}</LP_Rec_ChildLine>
+  <LP_Rec_Ready>llest</LP_Rec_Ready>
+  <LP_Rec_ReadyIn>d'aquí a {0} h</LP_Rec_ReadyIn>
+  <LP_Rec_Drink>va a beure aigua</LP_Rec_Drink>
+  <LP_Rec_Joined>s'ha unit a un amic a {0}</LP_Rec_Joined>
+  <LP_Rec_ToPartner>va a {0}, on algú espera una parella</LP_Rec_ToPartner>
+  <LP_Rec_Chose>va triar {0}</LP_Rec_Chose>
+  <LP_Rec_RunRoll>tirada de córrer lliure (30%)</LP_Rec_RunRoll>
+  <LP_Rec_Running>corre pertot arreu</LP_Rec_Running>
+  <LP_Rec_Queue>fa cua per a {0}</LP_Rec_Queue>
+  <LP_Rec_Nobody>ningú cridat: {0}</LP_Rec_Nobody>
+  <LP_Rec_FromQueue>després de {0} s a la cua</LP_Rec_FromQueue>
+  <LP_Setting_FacialPlay>Connectar Facial Animation durant el joc</LP_Setting_FacialPlay>
+  <LP_Setting_FacialPlayTip>Fa servir un somriure existent només si el paquet de cares de Facial Animation instal·lat en té. En desactivar l'opció, Little Playgrounds es desconnecta immediatament; les altres animacions facials continuen funcionant. No s'afegeixen textures de cara noves.</LP_Setting_FacialPlayTip>
+  <LP_Setting_FacialPlayError>La connexió de les expressions facials s'ha aturat després d'un error. Desactiveu i torneu a activar aquesta opció per tornar-ho a provar.</LP_Setting_FacialPlayError>
+  <LP_Setting_Sounds>Sons dels jocs infantils</LP_Setting_Sounds>
+  <LP_Setting_SoundsTip>Petits sons mentre es juga: el grinyol dels gronxadors, els bots dels llits elàstics, els jocs de sorra i aigua, la font per beure. Només se senten amb el zoom molt a prop; segueixen el volum del joc i callen mentre el joc està en pausa. Els tobogans i la piscina de boles no fan cap so.</LP_Setting_SoundsTip>
+  <LP_Setting_SoundVolume>Volum dels sons dels jocs: {0}</LP_Setting_SoundVolume>
+  <LP_Setting_SoundRides>So de cada joc:</LP_Setting_SoundRides>
+  <LP_Setting_RunAround>Els nens de vegades corren al voltant d'un joc en lloc de fer-lo servir</LP_Setting_RunAround>
+  <LP_Setting_RunAroundTip>Un nen que ha triat un joc pot córrer al seu voltant en lloc de fer-lo servir, i aprèn tant com amb un gronxador. Als jocs compartits s'hi afegeix un amic; si no, un adult assignat a atencions infantils ve a mirar. Cal terra seca i lliure al costat del joc (ni aigua ni fang); si no, el nen simplement el fa servir.</LP_Setting_RunAroundTip>
+  <LP_Setting_RunAroundChance>Probabilitat cada vegada que un nen tria un joc: {0}</LP_Setting_RunAroundChance>
+  <LP_Setting_RunAroundIndoors>Córrer també sota teulada</LP_Setting_RunAroundIndoors>
+  <LP_Setting_RunAroundIndoorsTip>Desactivat: els nens només corren en terreny lliure sense teulada, de manera que els jocs d'interior simplement es fan servir; la marquesina d'ombra del parc infantil no compta com a teulada. Activat: també corren al voltant dels jocs d'interior si l'habitació té espai.</LP_Setting_RunAroundIndoorsTip>
+  <LP_Setting_CouplePlay>Les parelles juguen juntes</LP_Setting_CouplePlay>
+  <LP_Setting_CouplePlayTip>Un adult que tria un joc o un banc per a dos crida la seva parella, que hi va si està lliure o entre tasques corrents; a més, una parella sense res a fer de vegades se'n va de cita pel seu compte, com a màxim un cop al dia. S'esperen l'un a l'altre i després tots dos reben una petita bonificació d'estat d'ànim i d'opinió.</LP_Setting_CouplePlayTip>
+  <LP_Setting_RequireResearch>Per construir cal la recerca de {0}</LP_Setting_RequireResearch>
+  <LP_Setting_RequireResearchTip>Si està activat, tot el que afegeix aquest mod (jocs, bancs, tanques i terres) només es pot construir després d'investigar {0}. Els inicis habituals ja la tenen, així que només les colònies que comencen sense, com les tribus, l'han d'investigar primer. El que ja està construït es queda. Si està desactivat, tot es pot construir des del principi.</LP_Setting_RequireResearchTip>
+  <LP_Setting_ToddlerPlay>Els infants petits juguen als jocs</LP_Setting_ToddlerPlay>
+  <LP_Setting_ToddlerPlayMissing>cal el mod Toddlers</LP_Setting_ToddlerPlayMissing>
+  <LP_Setting_ToddlerPlayTip>Amb el mod Toddlers, els infants petits que ja caminen, també els que encara trontollen, juguen en aquests jocs: {0}. Els que encara gategen no hi pugen. Si està desactivat, els infants petits no fan servir cap joc. Sense el mod Toddlers això no fa res.</LP_Setting_ToddlerPlayTip>
+</LanguageData>

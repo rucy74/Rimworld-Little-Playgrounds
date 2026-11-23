@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_PlaySandLight.label>밝은 놀이터 모래</LP_PlaySandLight.label>
+  <LP_PlaySandLight.description>옅은 모래색과 잔잔한 결이 있는 놀이터 바닥입니다. 기존 고운 모래와 입자감 있는 모래에 더해 선택할 수 있는 밝은 마감입니다.</LP_PlaySandLight.description>
+  <LP_PlaySand.label>고운 놀이터 모래</LP_PlaySand.label>
+  <LP_PlaySand.description>잘 다져진 따뜻한 베이지색 놀이터 모래입니다. 결이 곱고 무늬가 잔잔합니다.</LP_PlaySand.description>
+  <LP_PlaySandGrainy.label>입자감 있는 놀이터 모래</LP_PlaySandGrainy.label>
+  <LP_PlaySandGrainy.description>알갱이가 보이고 살짝 갈퀴질한 듯한 따뜻한 놀이터 모래입니다. 고운 모래보다 질감이 살아 있습니다.</LP_PlaySandGrainy.description>
+  <LP_RubberSage.label>세이지 놀이터 고무 바닥</LP_RubberSage.label>
+  <LP_RubberSage.description>무광 고무 칩 놀이터 바닥입니다. 은은한 결이 타일 줄눈 없이 이어집니다. 세이지·크림·살구색이 있습니다.</LP_RubberSage.description>
+  <LP_RubberCream.label>크림 놀이터 고무 바닥</LP_RubberCream.label>
+  <LP_RubberCream.description>무광 고무 칩 놀이터 바닥입니다. 은은한 결이 타일 줄눈 없이 이어집니다. 세이지·크림·살구색이 있습니다.</LP_RubberCream.description>
+  <LP_RubberApricot.label>살구색 놀이터 고무 바닥</LP_RubberApricot.label>
+  <LP_RubberApricot.description>무광 고무 칩 놀이터 바닥입니다. 은은한 결이 타일 줄눈 없이 이어집니다. 세이지·크림·살구색이 있습니다.</LP_RubberApricot.description>
+</LanguageData>

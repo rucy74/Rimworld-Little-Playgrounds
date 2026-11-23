@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_SteppingStump.label>drewniany stopień na plac zabaw</LP_SteppingStump.label>
+  <LP_SteppingStump.description>Niski stopień z tarcicy. Kamienne stopnie, drewniane stopnie i równoważnie łączą się ze sobą krawędziami. Tor przeszkód potrzebuje co najmniej dwóch pól (sama równoważnia ma dwa), a elementy stykające się tylko narożnikiem nie łączą się. Dzieci i dorośli idą połączoną trasą.</LP_SteppingStump.description>
+  <LP_SpringFox.label>lisek na sprężynie</LP_SpringFox.label>
+  <LP_SpringFox.description>Bujana zabawka w kształcie lisa, zamontowana na sprężynce. Jedno dziecko lub osoba dorosła może z niego korzystać samodzielnie. Postać zachowuje normalne ciało i odchyla się z zabawką w przód i w tył.</LP_SpringFox.description>
+  <LP_Roundabout.label>dębowa karuzela</LP_Roundabout.label>
+  <LP_Roundabout.description>Okrągła dębowa karuzela zabawowa z poręczami w kolorze szałwiowym, dla maksymalnie czterech osób. Może z niego korzystać samodzielnie jedna osoba. Zwalnia i zatrzymuje się, gdy ktoś wsiada lub wysiada.</LP_Roundabout.description>
+  <LP_Playhouse.label>mały sklepowy domek zabaw</LP_Playhouse.label>
+  <LP_Playhouse.description>Otwarty domek zabaw z małą ladą sklepową. Pobaw się w samodzielne prowadzenie sklepu lub powitaj drugiego gościa w oknie. Dzieci zyskują naukę, a dorośli rekreację.</LP_Playhouse.description>
+  <LP_DrinkingFountain.label>poidełko na dwóch wysokościach</LP_DrinkingFountain.label>
+  <LP_DrinkingFountain.description>Wysoka i niska misa do picia. Dzieci mogą zatrzymać się po zabawie na placu zabaw, żeby chwilę napić się wody; dorośli wybierają je również do rekreacji. Gdy ktoś z niego korzysta, płynie mały strumień wody. Nie dodaje potrzeby picia. Zbudowane z dowolnych bloków kamiennych; jego kształt i kolory pozostają takie same, niezależnie od tego, jakiego kamienia użyjesz.</LP_DrinkingFountain.description>
+  <LP_Hopscotch.label>ogrodowa gra w klasy</LP_Hopscotch.label>
+  <LP_Hopscotch.description>Osiem pomalowanych kwadratów w klasy. Dziecko lub dorosły przeskakuje liczby i wraca, bawiąc się samotnie, nie czekając na partnera. Zbudowany z dowolnych bloków kamiennych; jego kształt i kolory pozostają takie same, niezależnie od tego, jakiego kamienia użyjesz.</LP_Hopscotch.description>
+  <LP_SplashPad.label>wodny plac zabaw</LP_SplashPad.label>
+  <LP_SplashPad.description>Strumienie wody z poziomu gruntu rozpylają się w powtarzalny sposób, gdy po obszarze gry poruszają się maksymalnie trzy osoby. Każda osoba może grać także sama. Aktywność ta kończy się poniżej 10 stopni Celsjusza i nie może się rozpocząć, gdy powierzchnia pokryta jest śniegiem. Zbudowany z dowolnych bloków kamiennych; jego kształt i kolory pozostają takie same, niezależnie od tego, jakiego kamienia użyjesz.</LP_SplashPad.description>
+  <LP_SteppingStone.label>kamienny stopień na plac zabaw</LP_SteppingStone.label>
+  <LP_SteppingStone.description>Niski, zaokrąglony kamienny stopień. Kamienne stopnie, drewniane stopnie i równoważnie łączą się ze sobą krawędziami. Tor przeszkód potrzebuje co najmniej dwóch pól (sama równoważnia ma dwa), a elementy stykające się tylko narożnikiem nie łączą się. Odwiedzający idą połączoną odnogą i wracają. Jedna wizyta rezerwuje swoją trasę, do 24 elementów. Zbudowany z dowolnych bloków kamiennych; jego kształt i kolory pozostają takie same, niezależnie od tego, jakiego kamienia użyjesz.</LP_SteppingStone.description>
+  <LP_BalanceLog.label>równoważnia na plac zabaw</LP_BalanceLog.label>
+  <LP_BalanceLog.description>Niska dębowa równoważnia z bala, długa na dwa pola; można ją ustawić wzdłuż lub w poprzek. Kamienne stopnie, drewniane stopnie i równoważnie łączą się ze sobą krawędziami. Tor przeszkód potrzebuje co najmniej dwóch pól (sama równoważnia ma dwa), a elementy stykające się tylko narożnikiem nie łączą się. Odwiedzający idą po połączonej odnodze, utrzymując równowagę, i wracają. Wszystkie pola toru muszą pozostać wolne.</LP_BalanceLog.description>
+  <LP_PlayFence.label>dębowe ogrodzenie placu zabaw</LP_PlayFence.label>
+  <LP_PlayFence.description>Niskie dębowe sztachety połączone z kwadratowymi drewnianymi słupkami. Sąsiednie elementy ogrodzenia łączą się. To ozdobna, niska granica placu zabaw, którą można przekroczyć, a nie ogrodzenie zagrody dla zwierząt.</LP_PlayFence.description>
+  <LP_PlayEntrance.label>wejście na plac zabaw</LP_PlayEntrance.label>
+  <LP_PlayEntrance.description>Zawsze otwarte wejście z małym napisem Little Playgrounds. Przyjemny otwór na niski płot ogrodowy.</LP_PlayEntrance.description>
+  <LP_GardenFountain.label>fontanna ogrodowa</LP_GardenFountain.label>
+  <LP_GardenFountain.description>Niska misa z jasnego kamienia z delikatnie płynącą wodą. Ozdoba ogrodowa do umieszczenia w pobliżu miejsca do siedzenia. Zbudowany z dowolnych bloków kamiennych; jego kształt i kolory pozostają takie same, niezależnie od tego, jakiego kamienia użyjesz.</LP_GardenFountain.description>
+</LanguageData>

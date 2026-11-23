@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PlaySandLight.label>светлый песок для площадки</LP_PlaySandLight.label>
+  <LP_PlaySandLight.description>Бледный песок с нежной мелкой рябью для яркой игровой площадки. Это третья песчаная поверхность, наряду с мелким песком и зернистым песком.</LP_PlaySandLight.description>
+  <LP_PlaySand.label>мелкий песок для детской площадки</LP_PlaySand.label>
+  <LP_PlaySand.description>Осевший теплый бежевый песок для игровых площадок с мелкими зернами и тихими неглубокими вариациями.</LP_PlaySand.description>
+  <LP_PlaySandGrainy.label>зернистый песок для детской площадки</LP_PlaySandGrainy.label>
+  <LP_PlaySandGrainy.description>Тёплый песок для игровых площадок с заметными песчинками и слегка разровненной граблями поверхностью. Более фактурная альтернатива мелкому песку для детской площадки.</LP_PlaySandGrainy.description>
+  <LP_RubberSage.label>шалфейно-зелёное резиновое покрытие</LP_RubberSage.label>
+  <LP_RubberSage.description>Матовая поверхность детской площадки из резиновой крошки. Его тонкая текстура соединяется без плиточной сетки. Доступен в цветах шалфея, сливок и абрикоса.</LP_RubberSage.description>
+  <LP_RubberCream.label>кремовое резиновое покрытие</LP_RubberCream.label>
+  <LP_RubberCream.description>Матовая поверхность детской площадки из резиновой крошки. Его тонкая текстура соединяется без плиточной сетки. Доступен в цветах шалфея, сливок и абрикоса.</LP_RubberCream.description>
+  <LP_RubberApricot.label>абрикосовое резиновое покрытие</LP_RubberApricot.label>
+  <LP_RubberApricot.description>Матовая поверхность детской площадки из резиновой крошки. Его тонкая текстура соединяется без плиточной сетки. Доступен в цветах шалфея, сливок и абрикоса.</LP_RubberApricot.description>
+</LanguageData>

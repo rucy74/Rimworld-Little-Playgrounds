@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Setting_LearningWeight>Preferens för lärande genom lek på lekplatsen: {0} (standard: 2)</LP_Setting_LearningWeight>
+  <LP_Setting_LearningWeightDescription>Justera hur ofta ett barn väljer lekplats som en inlärningsaktivitet. Ett högre värde gör att denna aktivitet mer sannolikt kommer att väljas.</LP_Setting_LearningWeightDescription>
+  <LP_Setting_LearningWeightTip>Vid 1 har lekplatslek samma valvikt som golvritning eller naturlöpning. Vid 2 fördubblas dess urvalsvikt. Det betyder inte dubbelt så många faktiska besök. Den separata 50 % chansen att leka när barnet är ledigt är oförändrad. Inställningen gäller när nästa inlärningsönskemål väljs. Nuvarande önskemål och pågående lek är oförändrade.</LP_Setting_LearningWeightTip>
+  <LP_Setting_LearningWeightTiming>Gäller när ett nytt inlärningsönskemål väljs. Befintliga önskemål och pågående lek behålls.</LP_Setting_LearningWeightTiming>
+</LanguageData>

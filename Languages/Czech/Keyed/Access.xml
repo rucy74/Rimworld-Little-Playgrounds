@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_VisitorCount>Návštěvníci: {0} / {1}</LP_VisitorCount>
+  <LP_AudienceButton>Návštěvníci: {0}</LP_AudienceButton>
+  <LP_AudienceCurrent>Povolení návštěvníci: {0}</LP_AudienceCurrent>
+  <LP_AudienceDescription>Vyberte, kdo smí používat toto vybavení. Výchozí volba: všichni. Vyloučení návštěvníci ukončí svou aktuální návštěvu nebo opustí frontu. Tato volba se uloží.</LP_AudienceDescription>
+  <LP_AudienceEveryone>Všichni</LP_AudienceEveryone>
+  <LP_AudienceChildren>Pouze děti</LP_AudienceChildren>
+  <LP_AudienceAdults>Pouze dospělí</LP_AudienceAdults>
+</LanguageData>

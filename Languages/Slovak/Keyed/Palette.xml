@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PaletteButton>Farebná schéma</LP_PaletteButton>
+  <LP_PaletteDescription>Vyberte farby tohto ihriska. Aktuálna: {0}. Okamžite zmení vzhľad; náklady na výstavbu a výkon zostávajú rovnaké.</LP_PaletteDescription>
+  <LP_PaletteCurrent>Farebná schéma: {0}</LP_PaletteCurrent>
+  <LP_PaletteLegacy>Pôvodná úprava</LP_PaletteLegacy>
+  <LP_PaletteBlue>Drevo + modrá</LP_PaletteBlue>
+  <LP_PaletteYellow>Drevo + žltá</LP_PaletteYellow>
+  <LP_PaletteSage>Drevo + šalviová zelená</LP_PaletteSage>
+  <LP_PaletteClassic>Klasické farby</LP_PaletteClassic>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PlaySandLight.label>açık renk oyun alanı kumu</LP_PlaySandLight.label>
+  <LP_PlaySandLight.description>Aydınlık ve ferah bir oyun alanı için hafif, sığ dalgalı açık renk kum. İnce ve iri taneli kumun yanında üçüncü yüzey seçeneğidir.</LP_PlaySandLight.description>
+  <LP_PlaySand.label>ince oyun alanı kumu</LP_PlaySand.label>
+  <LP_PlaySand.description>İnce taneli, hafif dalgalı yüzeyi olan, oturmuş sıcak bej oyun alanı kumu.</LP_PlaySand.description>
+  <LP_PlaySandGrainy.label>iri taneli oyun alanı kumu</LP_PlaySandGrainy.label>
+  <LP_PlaySandGrainy.description>Taneleri görülen, yüzeyi hafifçe tırmıklanmış sıcak renkli oyun alanı kumu. İnce oyun alanı kumuna göre daha dokulu bir seçenek.</LP_PlaySandGrainy.description>
+  <LP_RubberSage.label>adaçayı yeşili kauçuk zemin</LP_RubberSage.label>
+  <LP_RubberSage.description>Mat kauçuk kırıntılı oyun alanı yüzeyi. İnce dokusu, döşeme ızgarası olmadan birleşir. Adaçayı yeşili, krem ve kayısı renkleri vardır.</LP_RubberSage.description>
+  <LP_RubberCream.label>krem rengi kauçuk zemin</LP_RubberCream.label>
+  <LP_RubberCream.description>Mat kauçuk kırıntılı oyun alanı yüzeyi. İnce dokusu, döşeme ızgarası olmadan birleşir. Adaçayı yeşili, krem ve kayısı renkleri vardır.</LP_RubberCream.description>
+  <LP_RubberApricot.label>kayısı rengi kauçuk zemin</LP_RubberApricot.label>
+  <LP_RubberApricot.description>Mat kauçuk kırıntılı oyun alanı yüzeyi. İnce dokusu, döşeme ızgarası olmadan birleşir. Adaçayı yeşili, krem ve kayısı renkleri vardır.</LP_RubberApricot.description>
+</LanguageData>

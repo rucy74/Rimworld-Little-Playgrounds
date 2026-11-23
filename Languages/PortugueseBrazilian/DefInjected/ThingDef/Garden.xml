@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Sandbox.label>caixa de areia de carvalho</LP_Sandbox.label>
+  <LP_Sandbox.description>Uma caixa de areia em carvalho claro com assentos de canto em marfim. Até três crianças ou adultos transformam um monte em uma torre e depois em um castelo de areia, sozinhos ou juntos. As crianças aprendem; os adultos ganham recreação. Sua criação permanece depois que eles saem e se desgasta lentamente quando não é usada.</LP_Sandbox.description>
+  <LP_GardenBench.label>banco de jardim</LP_GardenBench.label>
+  <LP_GardenBench.description>Banco arredondado em carvalho e marfim com capacidade para duas pessoas. Os colonos podem escolhê-lo para recreação ou receber ordens para relaxar aqui. Coloque um toldo uma célula atrás do banco para protegê-lo.</LP_GardenBench.description>
+  <LP_ShadeCanopy.label>toldo para playground</LP_ShadeCanopy.label>
+  <LP_ShadeCanopy.description>Um dossel de tecido creme em postes verde-sálvia. Coloque seu marcador central uma célula atrás de um banco. Faz sombra em uma área de cinco por três à frente sem substituir os telhados existentes. O tecido permanece opaco sobre os visitantes sentados e esmaece quando sua imagem elevada cobre um personagem.</LP_ShadeCanopy.description>
+  <LP_OakCurb.label>borda de parque infantil em carvalho</LP_OakCurb.label>
+  <LP_OakCurb.description>Borda baixa e arredondada em carvalho. As bordas adjacentes do playground se conectam automaticamente, inclusive nos cantos. Os personagens podem passar por cima dela.</LP_OakCurb.description>
+  <LP_IvoryCurb.label>borda de playground</LP_IvoryCurb.label>
+  <LP_IvoryCurb.description>Borda baixa em marfim para delimitação de playground acabada. As bordas adjacentes do playground se conectam automaticamente, inclusive nos cantos. Os personagens podem passar por cima dela. Construído a partir de quaisquer blocos de pedra; sua forma e cores permanecem as mesmas, independentemente da pedra que você usar.</LP_IvoryCurb.description>
+</LanguageData>

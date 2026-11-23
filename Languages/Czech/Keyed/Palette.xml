@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PaletteButton>Barevné schéma</LP_PaletteButton>
+  <LP_PaletteDescription>Vyberte barvy tohoto hřiště. Aktuální: {0}. Okamžitě změní vzhled; náklady na výstavbu a výkon zůstávají stejné.</LP_PaletteDescription>
+  <LP_PaletteCurrent>Barevné schéma: {0}</LP_PaletteCurrent>
+  <LP_PaletteLegacy>Původní provedení</LP_PaletteLegacy>
+  <LP_PaletteBlue>Dřevo + modrá</LP_PaletteBlue>
+  <LP_PaletteYellow>Dřevo + žlutá</LP_PaletteYellow>
+  <LP_PaletteSage>Dřevo + šalvějová zelená</LP_PaletteSage>
+  <LP_PaletteClassic>Klasické barvy</LP_PaletteClassic>
+</LanguageData>

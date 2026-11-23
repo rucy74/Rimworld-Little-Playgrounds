@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PaletteButton>Schemat kolorów</LP_PaletteButton>
+  <LP_PaletteDescription>Wybierz kolory tego placu zabaw. Obecne: {0}. Natychmiast zmienia wygląd; koszty budowy i wydajność pozostają takie same.</LP_PaletteDescription>
+  <LP_PaletteCurrent>Schemat kolorów: {0}</LP_PaletteCurrent>
+  <LP_PaletteLegacy>Oryginalne wykończenie</LP_PaletteLegacy>
+  <LP_PaletteBlue>Drewno + niebieski</LP_PaletteBlue>
+  <LP_PaletteYellow>Drewno + żółty</LP_PaletteYellow>
+  <LP_PaletteSage>Drewno + szałwiowa zieleń</LP_PaletteSage>
+  <LP_PaletteClassic>Klasyczne kolory</LP_PaletteClassic>
+</LanguageData>

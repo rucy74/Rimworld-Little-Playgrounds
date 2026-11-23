@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PlaySandLight.label>arena clara para parque infantil</LP_PlaySandLight.label>
+  <LP_PlaySandLight.description>Arena pálida con ondulaciones suaves y poco profundas para un patio de juegos luminoso. Se trata de una tercera superficie de arena, junto a la arena fina y la arena granulada.</LP_PlaySandLight.description>
+  <LP_PlaySand.label>arena fina para parques infantiles</LP_PlaySand.label>
+  <LP_PlaySand.description>Arena de juegos de color beige cálido y asentada con granos finos y una variación tranquila y poco profunda.</LP_PlaySand.description>
+  <LP_PlaySandGrainy.label>arena granulada para juegos infantiles</LP_PlaySandGrainy.label>
+  <LP_PlaySandGrainy.description>Arena cálida para parques infantiles con granos visibles y una superficie ligeramente rastrillada. Una alternativa con más textura a la arena fina para parques infantiles.</LP_PlaySandGrainy.description>
+  <LP_RubberSage.label>piso de caucho verde salvia</LP_RubberSage.label>
+  <LP_RubberSage.description>Una superficie de juego de caucho y migas mate. Su textura sutil se une sin rejilla de azulejos. Disponible en salvia, crema y albaricoque.</LP_RubberSage.description>
+  <LP_RubberCream.label>piso de caucho color crema</LP_RubberCream.label>
+  <LP_RubberCream.description>Una superficie de juego de caucho-miga mate. Su textura sutil se une sin rejilla de azulejos. Disponible en salvia, crema y albaricoque.</LP_RubberCream.description>
+  <LP_RubberApricot.label>piso de caucho color albaricoque</LP_RubberApricot.label>
+  <LP_RubberApricot.description>Una superficie de juego de caucho-miga mate. Su textura sutil se une sin rejilla de azulejos. Disponible en salvia, crema y albaricoque.</LP_RubberApricot.description>
+</LanguageData>

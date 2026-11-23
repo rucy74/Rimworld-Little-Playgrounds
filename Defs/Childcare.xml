@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Adults playing with children as Childcare work (vanilla "play with babies" pattern). These JobDefs have no
+       joyKind on purpose: the adult gains Social joy directly in PlaygroundCare.GainSocialJoy, never through recreation. -->
+  <JobDef Name="LP_CareBase" Abstract="True">
+    <casualInterruptible>true</casualInterruptible>
+    <modExtensions><li Class="LittlePlaygrounds.PlaygroundCareExtension" /></modExtensions>
+  </JobDef>
+  <JobDef ParentName="LP_CareBase">
+    <defName>LP_CareSwing</defName>
+    <driverClass>LittlePlaygrounds.JobDriver_RideSwing</driverClass>
+    <reportString>swinging with TargetB.</reportString>
+  </JobDef>
+  <JobDef ParentName="LP_CareBase">
+    <defName>LP_CareSeesaw</defName>
+    <driverClass>LittlePlaygrounds.JobDriver_RideSeesaw</driverClass>
+    <reportString>riding the seesaw with TargetB.</reportString>
+  </JobDef>
+  <JobDef ParentName="LP_CareBase">
+    <defName>LP_CareSand</defName>
+    <driverClass>LittlePlaygrounds.JobDriver_GardenVisit</driverClass>
+    <reportString>building sandcastles with TargetB.</reportString>
+  </JobDef>
+  <JobDef ParentName="LP_CareBase">
+    <defName>LP_CareRoundabout</defName>
+    <driverClass>LittlePlaygrounds.JobDriver_VisitPlayground</driverClass>
+    <reportString>spinning the roundabout with TargetB.</reportString>
+  </JobDef>
+  <JobDef ParentName="LP_CareBase">
+    <defName>LP_CarePlayhouse</defName>
+    <driverClass>LittlePlaygrounds.JobDriver_VisitPlayground</driverClass>
+    <reportString>playing shop with TargetB.</reportString>
+  </JobDef>
+  <JobDef ParentName="LP_CareBase">
+    <defName>LP_CareBounceTogether</defName>
+    <driverClass>LittlePlaygrounds.JobDriver_VisitPlayground</driverClass>
+    <reportString>bouncing on the trampoline with TargetB.</reportString>
+  </JobDef>
+  <JobDef>
+    <defName>LP_WatchChildPlay</defName>
+    <driverClass>LittlePlaygrounds.JobDriver_WatchChildPlay</driverClass>
+    <reportString>watching TargetB play.</reportString>
+    <casualInterruptible>true</casualInterruptible>
+  </JobDef>
+  <WorkGiverDef>
+    <defName>LP_PlayWithChild</defName>
+    <label>play with children</label>
+    <giverClass>LittlePlaygrounds.WorkGiver_PlayWithChild</giverClass>
+    <workType>Childcare</workType>
+    <verb>play with</verb>
+    <gerund>playing with</gerund>
+    <priorityInType>70</priorityInType>
+    <requiredCapacities><li>Moving</li></requiredCapacities>
+  </WorkGiverDef>
+  <!-- Neutral native pose: the job owns facing while watching, and movement mods can defer to HasAnimation. -->
+  <AnimationDef>
+    <defName>LP_WatchChildPose</defName><durationTicks>3000</durationTicks><loopMode>Loop</loopMode>
+    <keyframeParts><li><key>Root</key><value>
+      <keyframes><li><tick>0</tick><angle>0</angle></li></keyframes>
+    </value></li></keyframeParts>
+  </AnimationDef>
+  <!-- A child version of vanilla PlayedWithMe (which is filtered to babies). Same values. -->
+  <ThoughtDef>
+    <defName>LP_PlayedWithMe</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <stackLimit>5</stackLimit>
+    <stackedEffectMultiplier>0.9</stackedEffectMultiplier>
+    <durationDays>3</durationDays>
+    <validWhileDespawned>true</validWhileDespawned>
+    <developmentalStageFilter>Child</developmentalStageFilter>
+    <stages><li><label>played with me</label><baseOpinionOffset>8</baseOpinionOffset></li></stages>
+  </ThoughtDef>
+</Defs>

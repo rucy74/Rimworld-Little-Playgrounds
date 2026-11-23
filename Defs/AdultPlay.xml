@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <JoyGiverDef Name="LP_AdultPlayBase" Abstract="True">
+    <giverClass>LittlePlaygrounds.JoyGiver_PlayOnPlayground</giverClass>
+    <baseChance>1</baseChance><joyKind>Gaming_Dexterity</joyKind>
+    <requiredCapacities><li>Moving</li></requiredCapacities>
+  </JoyGiverDef>
+  <JoyGiverDef ParentName="LP_AdultPlayBase">
+    <defName>LP_AdultSwing</defName><thingDefs><li>LP_Swing</li></thingDefs><jobDef>LP_RideSwing</jobDef>
+  </JoyGiverDef>
+  <JoyGiverDef ParentName="LP_AdultPlayBase">
+    <defName>LP_AdultSlide</defName><thingDefs><li>LP_Slide</li></thingDefs><jobDef>LP_RideSlide</jobDef>
+  </JoyGiverDef>
+  <JoyGiverDef ParentName="LP_AdultPlayBase">
+    <defName>LP_AdultSeesaw</defName><thingDefs><li>LP_Seesaw</li></thingDefs><jobDef>LP_RideSeesaw</jobDef>
+  </JoyGiverDef>
+  <JoyGiverDef ParentName="LP_AdultPlayBase">
+    <defName>LP_AdultSand</defName><thingDefs><li>LP_Sandbox</li></thingDefs><jobDef>LP_PlayInSand</jobDef>
+  </JoyGiverDef>
+</Defs>

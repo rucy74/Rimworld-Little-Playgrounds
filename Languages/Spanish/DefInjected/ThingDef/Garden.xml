@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Sandbox.label>arenero de roble</LP_Sandbox.label>
+  <LP_Sandbox.description>Un arenero de roble pálido con asientos esquineros de marfil. Hasta tres niños o adultos forman una torre con un montículo y luego un castillo de arena, solos o juntos. Los niños adquieren aprendizaje; los adultos ganan diversión. Su creación permanece después de que se van y se desgasta lentamente cuando no se utiliza.</LP_Sandbox.description>
+  <LP_GardenBench.label>banco de jardín</LP_GardenBench.label>
+  <LP_GardenBench.description>Un banco redondeado de roble y marfil con espacio para dos personas. Los colonos pueden elegirlo para divertirse o recibir órdenes de relajarse aquí. Coloque un dosel de sombra una celda detrás del banco para protegerlo.</LP_GardenBench.description>
+  <LP_ShadeCanopy.label>marquesina para zona de juegos</LP_ShadeCanopy.label>
+  <LP_ShadeCanopy.description>Un dosel de tela color crema sobre postes verde salvia. Coloque su marcador central una celda detrás de un banco. Da sombra a un área de cinco por tres por delante sin reemplazar los techos existentes. La tela permanece opaca sobre los visitantes sentados y se desvanece cuando su imagen elevada tapa a un personaje.</LP_ShadeCanopy.description>
+  <LP_OakCurb.label>borde de parque infantil de roble</LP_OakCurb.label>
+  <LP_OakCurb.description>Borde bajo redondeado de roble. Los bordes del patio de juegos adyacentes se conectan automáticamente, incluso alrededor de las esquinas. Los personajes pueden pasar por encima.</LP_OakCurb.description>
+  <LP_IvoryCurb.label>borde de parque infantil</LP_IvoryCurb.label>
+  <LP_IvoryCurb.description>Borde bajo de marfil para un límite de área de juegos terminado. Los bordes del patio de juegos adyacentes se conectan automáticamente, incluso alrededor de las esquinas. Los personajes pueden pasar por encima. Construido a partir de bloques de piedra; su forma y colores permanecen iguales independientemente de la piedra que utilices.</LP_IvoryCurb.description>
+</LanguageData>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_BlockedUnavailable>Kullanılamıyor</LP_BlockedUnavailable>
+  <LP_BlockedCannotPlay>Bu etkinliği kullanamaz</LP_BlockedCannotPlay>
+  <LP_BlockedDrafted>Çatışma modunda</LP_BlockedDrafted>
+  <LP_BlockedDowned>Etkisiz hâlde</LP_BlockedDowned>
+  <LP_BlockedMentalState>Ruhsal çöküş yaşıyor</LP_BlockedMentalState>
+  <LP_BlockedForbidden>Yasak veya izinli alanın dışında</LP_BlockedForbidden>
+  <LP_BlockedAudience>Bu oyun aletinin yaş ayarı izin vermiyor</LP_BlockedAudience>
+  <LP_BlockedTooHot>Oyun alanı çok sıcak</LP_BlockedTooHot>
+  <LP_BlockedTooCold>Oyun alanı çok soğuk</LP_BlockedTooCold>
+  <LP_BlockedBusy>Kullanımda veya ayırtılmış</LP_BlockedBusy>
+  <LP_BlockedEntrance>Boş bir giriş veya çıkışa ulaşılamıyor</LP_BlockedEntrance>
+  <LP_BlockedReturning>Koltuk geri dönüyor</LP_BlockedReturning>
+  <LP_BlockedCourseTooShort>En az iki parkur parçası birleştirilmeli</LP_BlockedCourseTooShort>
+  <LP_BlockedWaterCold>Su oyunu için çok soğuk veya karlı</LP_BlockedWaterCold>
+  <LP_DesignButton>Tasarım</LP_DesignButton>
+  <LP_DesignDescription>Bu oyun aletinin görünümünü seçin. Güncel: {0}. Renkler ayrıca seçilir.</LP_DesignDescription>
+  <LP_DesignOriginal>Orijinal</LP_DesignOriginal>
+  <LP_DesignTimber>Ahşap</LP_DesignTimber>
+  <LP_DesignBusy>Herkes oyun aletini kullanmayı bitirene kadar bekleyin.</LP_DesignBusy>
+  <LP_DesignCurrent>Tasarım: {0}</LP_DesignCurrent>
+</LanguageData>

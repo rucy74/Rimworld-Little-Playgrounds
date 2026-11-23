@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_RideSwing.reportString>играет на качелях</LP_RideSwing.reportString>
+  <LP_RideSlide.reportString>играет на горке</LP_RideSlide.reportString>
+  <LP_RideSeesaw.reportString>играет на качелях-балансире</LP_RideSeesaw.reportString>
+  <LP_PlayInSand.reportString>строит замки из песка</LP_PlayInSand.reportString>
+  <LP_RelaxOnBench.reportString>отдыхает на садовой скамейке</LP_RelaxOnBench.reportString>
+  <LP_WaitForPlayground.reportString>недолго ждёт TargetA</LP_WaitForPlayground.reportString>
+  <LP_BounceTrampoline.reportString>подпрыгивает на TargetA</LP_BounceTrampoline.reportString>
+  <LP_RideZipline.reportString>катается на TargetA</LP_RideZipline.reportString>
+  <LP_RideSpringFox.reportString>качается на TargetA</LP_RideSpringFox.reportString>
+  <LP_SpinRoundabout.reportString>крутится на TargetA</LP_SpinRoundabout.reportString>
+  <LP_PlayShop.reportString>играет в магазин у TargetA</LP_PlayShop.reportString>
+  <LP_PlayHopscotch.reportString>играет в классики</LP_PlayHopscotch.reportString>
+  <LP_PlaySplashPad.reportString>играет в струях воды</LP_PlaySplashPad.reportString>
+  <LP_WalkCourse.reportString>проходит полосу препятствий</LP_WalkCourse.reportString>
+  <LP_BounceTogether.reportString>подпрыгивает на TargetA</LP_BounceTogether.reportString>
+  <LP_DrinkAtFountain.reportString>пьёт воду из TargetA</LP_DrinkAtFountain.reportString>
+  <LP_CareSwing.reportString>качается на качелях вместе с TargetB</LP_CareSwing.reportString>
+  <LP_CareSeesaw.reportString>качается на качелях-балансире вместе с TargetB</LP_CareSeesaw.reportString>
+  <LP_CareSand.reportString>строит замки из песка вместе с TargetB</LP_CareSand.reportString>
+  <LP_CareRoundabout.reportString>крутит карусель вместе с TargetB</LP_CareRoundabout.reportString>
+  <LP_CarePlayhouse.reportString>играет в магазин вместе с TargetB</LP_CarePlayhouse.reportString>
+  <LP_CareBounceTogether.reportString>прыгает на батуте вместе с TargetB</LP_CareBounceTogether.reportString>
+  <LP_WatchChildPlay.reportString>смотрит, как играет TargetB</LP_WatchChildPlay.reportString>
+</LanguageData>

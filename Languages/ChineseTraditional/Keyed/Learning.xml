@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Setting_LearningWeight>遊樂場學習偏好：{0}（預設：2）</LP_Setting_LearningWeight>
+  <LP_Setting_LearningWeightDescription>調整孩子選擇遊樂場玩耍作為學習活動的頻率。值越高，該活動就越有可能被選擇。</LP_Setting_LearningWeightDescription>
+  <LP_Setting_LearningWeightTip>為 1 時，遊樂場玩耍與地板塗鴉、探索自然等普通活動的選擇權重相同。為 2 時，選擇權重加倍，但實際遊玩次數並不會翻倍。這不影響空閒時 50% 的玩耍機率。變更將在下次選擇學習願望時生效；現有的願望和正在進行的玩耍會保留。</LP_Setting_LearningWeightTip>
+  <LP_Setting_LearningWeightTiming>選擇新的學習願望時適用。現有的願望和正在進行的遊戲將被保留。</LP_Setting_LearningWeightTiming>
+</LanguageData>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_BlockedUnavailable>Unavailable</LP_BlockedUnavailable>
+  <LP_BlockedCannotPlay>Cannot use this activity</LP_BlockedCannotPlay>
+  <LP_BlockedDrafted>Drafted</LP_BlockedDrafted>
+  <LP_BlockedDowned>Downed</LP_BlockedDowned>
+  <LP_BlockedMentalState>In a mental state</LP_BlockedMentalState>
+  <LP_BlockedForbidden>Forbidden or outside allowed area</LP_BlockedForbidden>
+  <LP_BlockedAudience>Not allowed by this facility's age setting</LP_BlockedAudience>
+  <LP_BlockedTooHot>Too hot at the playground</LP_BlockedTooHot>
+  <LP_BlockedTooCold>Too cold at the playground</LP_BlockedTooCold>
+  <LP_BlockedBusy>In use or reserved</LP_BlockedBusy>
+  <LP_BlockedEntrance>Cannot reach a clear entrance or exit</LP_BlockedEntrance>
+  <LP_BlockedReturning>The seat is returning</LP_BlockedReturning>
+  <LP_BlockedCourseTooShort>Connect at least two course pieces</LP_BlockedCourseTooShort>
+  <LP_BlockedWaterCold>Too cold or snowy for water play</LP_BlockedWaterCold>
+  <LP_DesignButton>Design</LP_DesignButton>
+  <LP_DesignDescription>Choose the appearance of this facility. Current: {0}. Colors are selected separately.</LP_DesignDescription>
+  <LP_DesignOriginal>Original</LP_DesignOriginal>
+  <LP_DesignTimber>Timber</LP_DesignTimber>
+  <LP_DesignBusy>Wait until everyone has finished using the facility.</LP_DesignBusy>
+  <LP_DesignCurrent>Design: {0}</LP_DesignCurrent>
+</LanguageData>

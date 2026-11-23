@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Setting_LearningWeight>Preferència per aprendre mitjançant el joc al pati: {0} (per defecte: 2)</LP_Setting_LearningWeight>
+  <LP_Setting_LearningWeightDescription>Ajusteu la freqüència amb què un nen tria el joc al pati com a activitat d'aprenentatge. Un valor més alt fa que aquesta activitat sigui més probable que sigui escollida.</LP_Setting_LearningWeightDescription>
+  <LP_Setting_LearningWeightTip>A l'1, el joc al pati té el mateix pes de selecció que dibuixar a terra o córrer per la natura. En 2, el seu pes de selecció es duplica. Això no significa el doble de visites reals. La probabilitat separada del 50% de jugar quan està inactiu no canvia. La configuració s'aplica quan es selecciona el següent desig d'aprenentatge. Els desitjos actuals i el joc en curs no canvien.</LP_Setting_LearningWeightTip>
+  <LP_Setting_LearningWeightTiming>S'aplica quan s'escull un nou desig d'aprenentatge. Es mantenen els desitjos existents i el joc en curs.</LP_Setting_LearningWeightTiming>
+</LanguageData>

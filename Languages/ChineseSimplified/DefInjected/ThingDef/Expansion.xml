@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_SteppingStump.label>游乐场木桩踏步</LP_SteppingStump.label>
+  <LP_SteppingStump.description>由切割木材制成的低矮踏步。踏脚石、木桩踏步与平衡独木桥可沿边相接。路线至少需要两格，一个独木桥本身就占两格。仅角部接触不会连接。孩子与成年人沿相连的路线前进。</LP_SteppingStump.description>
+  <LP_SpringFox.label>狐狸弹簧摇摇乐</LP_SpringFox.label>
+  <LP_SpringFox.description>安装在弹簧上的狐狸造型摇摇乐。孩子或成年人可以独自玩耍，保持原有身体外形，随玩具一起前后倾斜。</LP_SpringFox.description>
+  <LP_Roundabout.label>橡木旋转游乐盘</LP_Roundabout.label>
+  <LP_Roundabout.description>带鼠尾草绿扶手的圆形橡木游乐盘，最多可供四人使用。一人也能玩；有人加入或离开时，会减速停下。</LP_Roundabout.description>
+  <LP_Playhouse.label>商店扮演小屋</LP_Playhouse.label>
+  <LP_Playhouse.description>正面开放、带小柜台的游戏屋。可以独自扮演店主，也能迎接站在窗口前的第二位玩家。孩子获得学习，成年人获得娱乐。</LP_Playhouse.description>
+  <LP_DrinkingFountain.label>双高度饮水台</LP_DrinkingFountain.label>
+  <LP_DrinkingFountain.description>带高低两个饮水口的饮水台。孩子玩耍后偶尔会来短暂喝水，成年人也会选择它来娱乐。使用时会喷出细水流。本模组不添加口渴需求。可用任意石砖建造，形状与配色不随石材变化。</LP_DrinkingFountain.description>
+  <LP_Hopscotch.label>花园跳房子</LP_Hopscotch.label>
+  <LP_Hopscotch.description>绘有八个格子的跳房子场地。孩子或成年人沿数字跳过去再返回，可以独自玩，无需等待同伴。可用任意石砖建造，形状与配色不随石材变化。</LP_Hopscotch.description>
+  <LP_SplashPad.label>游乐场喷水区</LP_SplashPad.label>
+  <LP_SplashPad.description>最多三人在地面喷水口之间穿行，水柱按节奏喷出；一人也能独自玩耍。低于10摄氏度时停止开放，积雪时无法开始使用。可用任意石砖建造，形状与配色不随石材变化。</LP_SplashPad.description>
+  <LP_SteppingStone.label>游乐场踏脚石</LP_SteppingStone.label>
+  <LP_SteppingStone.description>低矮圆润的踏脚石。踏脚石、木桩踏步与平衡独木桥可沿边相接。路线至少需要两格，一个独木桥本身就占两格。仅角部接触不会连接。使用者沿相连的一条路径走过去再返回，每次游玩预留最多24个部件。可用任意石砖建造，形状与配色不随石材变化。</LP_SteppingStone.description>
+  <LP_BalanceLog.label>平衡独木桥</LP_BalanceLog.label>
+  <LP_BalanceLog.description>低矮的橡木平衡独木桥，长两格，可纵向或横向摆放。踏脚石、木桩踏步与独木桥可沿边相接；路线至少需要两格，单个独木桥已满足条件。仅角部接触不会连接。使用者沿相连路径保持平衡前进，再返回。请保持整条路线畅通。</LP_BalanceLog.description>
+  <LP_PlayFence.label>橡木游乐场围栏</LP_PlayFence.label>
+  <LP_PlayFence.description>方形木柱连接低矮的橡木竖条，相邻围栏会自动连接。这是可以跨越的装饰性游乐场边界，不能作为动物围栏。</LP_PlayFence.description>
+  <LP_PlayEntrance.label>游乐场入口</LP_PlayEntrance.label>
+  <LP_PlayEntrance.description>一直敞开的入口，挂着小小的 Little Playgrounds 标牌。适合低矮花园围栏的温馨出入口。</LP_PlayEntrance.description>
+  <LP_GardenFountain.label>花园喷泉</LP_GardenFountain.label>
+  <LP_GardenFountain.description>低矮的浅色石质水池，水流柔和。可放在座椅附近，作为花园中心装饰。可用任意石砖建造，形状与配色不随石材变化。</LP_GardenFountain.description>
+</LanguageData>

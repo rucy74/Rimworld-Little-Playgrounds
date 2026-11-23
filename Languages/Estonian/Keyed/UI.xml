@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Menu_PlaySwing>Mängige kiigel</LP_Menu_PlaySwing>
+  <LP_Menu_PlaySlide>Mängige liumäel</LP_Menu_PlaySlide>
+  <LP_Menu_PlaySeesaw>Mängige kiiklaual</LP_Menu_PlaySeesaw>
+  <LP_Menu_JumpTrampoline>Hüpake batuudil</LP_Menu_JumpTrampoline>
+  <LP_Menu_RideZipline>Sõitke trossiliuguga</LP_Menu_RideZipline>
+  <LP_Menu_BuildSandcastles>Ehitage liivalossid</LP_Menu_BuildSandcastles>
+  <LP_Menu_RelaxBench>Lõõgastuge pingil</LP_Menu_RelaxBench>
+  <LP_Menu_TakeDrink>Jooge vett</LP_Menu_TakeDrink>
+  <LP_Menu_PlayCourse>Mängige sellel mänguväljaku takistusrajal</LP_Menu_PlayCourse>
+  <LP_Menu_PlayAt>Mängige mänguvahendil {0}</LP_Menu_PlayAt>
+  <LP_Inspect_CourseLinked>Rada, milles on {0} ühendatud ruutu.</LP_Inspect_CourseLinked>
+  <LP_Inspect_CourseAlone>Üksinda, seega ei saa siin veel keegi mängida. Asetage selle kõrvale serv serva vastu veel üks astekivi, puitaste või tasakaalupalk.</LP_Inspect_CourseAlone>
+  <LP_Inspect_CourseCorner>Puutub teist tükki ainult nurgaga, see ei ühenda. Tükid ühenduvad serv serva vastu.</LP_Inspect_CourseCorner>
+  <LP_Inspect_CourseWaiting>Ühendub kõrvalasuva kavandatud tükiga, kui see on valmis.</LP_Inspect_CourseWaiting>
+  <LP_Menu_CourseTooShort>Mängige mööda seda rada (vajab veel ühte tükki servast servani)</LP_Menu_CourseTooShort>
+  <LP_Place_CourseLinked>Ühendub {0} ruudu pikkuseks rajaks</LP_Place_CourseLinked>
+  <LP_Place_CourseOccupied>Siin on juba teine rajatükk</LP_Place_CourseOccupied>
+  <LP_Place_CourseSelf>Moodustab üksi {0} ruudu raja</LP_Place_CourseSelf>
+  <LP_Place_CourseCorner>Nurgaga kokkupuude ei ühenda, asetage see serv serva vastu</LP_Place_CourseCorner>
+  <LP_Place_CourseAlone>Üksinda ei saa mängida, asetage teine tükk servast servani</LP_Place_CourseAlone>
+  <LP_Inspect_SplashClosed>Veemäng suletud: alla 10°C.</LP_Inspect_SplashClosed>
+  <LP_Inspect_SeatReturning>Tühi iste naaseb</LP_Inspect_SeatReturning>
+  <LP_Inspect_Rider>Sõitja: {0}</LP_Inspect_Rider>
+  <LP_Inspect_ReadyOne>Ühe sõitja jaoks valmis</LP_Inspect_ReadyOne>
+  <LP_Inspect_ReadyAny>Sõitja jaoks valmis</LP_Inspect_ReadyAny>
+  <LP_Inspect_SlideRider>Sõitja: {0} — {1}</LP_Inspect_SlideRider>
+  <LP_SlidePhase_approach>lähenemine</LP_SlidePhase_approach>
+  <LP_SlidePhase_boarding>pealeminek</LP_SlidePhase_boarding>
+  <LP_SlidePhase_climbing>ronimine</LP_SlidePhase_climbing>
+  <LP_SlidePhase_platform>platvorm</LP_SlidePhase_platform>
+  <LP_SlidePhase_seated>istub</LP_SlidePhase_seated>
+  <LP_SlidePhase_sliding>libiseb</LP_SlidePhase_sliding>
+  <LP_SlidePhase_landing>maandumine</LP_SlidePhase_landing>
+  <LP_SlidePhase_finished>valmis</LP_SlidePhase_finished>
+  <LP_Inspect_SwingSeats>Vasak iste: {0}\nParem iste: {1}</LP_Inspect_SwingSeats>
+  <LP_Inspect_SeatFree>saadaval</LP_Inspect_SeatFree>
+  <LP_Inspect_SeesawTogether>Koos mängimine</LP_Inspect_SeesawTogether>
+  <LP_Inspect_SeesawWaiting>Pealeminek</LP_Inspect_SeesawWaiting>
+  <LP_Inspect_SeesawSolo>Üksi mängimine</LP_Inspect_SeesawSolo>
+  <LP_Inspect_SeesawFree>Saadaval on kaks kohta</LP_Inspect_SeesawFree>
+  <LP_Inspect_SandCastle>Siia ehitatud liivaloss</LP_Inspect_SandCastle>
+  <LP_Inspect_SandTower>Liivatorn võtab kuju</LP_Inspect_SandTower>
+  <LP_Inspect_SandMound>Väike liivaküngas</LP_Inspect_SandMound>
+  <LP_Inspect_SandReady>Liivamänguks valmis</LP_Inspect_SandReady>
+  <LP_Setting_ChildcarePlay>Täiskasvanud mängivad lastega lapsehoiu raames</LP_Setting_ChildcarePlay>
+  <LP_Setting_ChildcarePlayTip>Kui see on lubatud, külastab lapsehoidu määratud täiskasvanu üksi mängivat last. Täiskasvanu saab ühineda lapsega kiigel, kiiklaual, liivakastis, mänguväljaku karussellil, mängumajas või suurel batuudil või vaadata pealt ühekohaliste mänguvahendite kõrval. Täiskasvanu saab veidi sotsiaalset lõbu, nagu beebiga mängides. Kui see seade on keelatud, saavad täiskasvanud siiski oma vaba aja veetmise ajal lastega mängida.</LP_Setting_ChildcarePlayTip>
+  <LP_Setting_RecordPlay>Mänguväljaku logi (silumiseks)</LP_Setting_RecordPlay>
+  <LP_Setting_RecordPlayTip>Kui see on lubatud, salvestab see logi iga mänguväljaku külastuse: kes mängis, kes liitus või vaatas, kuidas nad saabusid ja miks mitme istmega varustust üksi kasutati. Lugege seadmete teabepaneeli või valige allpool Kuva logi. Sama teave salvestatakse ka allolevasse faili.</LP_Setting_RecordPlayTip>
+  <LP_Rec_Open>Vaata logi</LP_Rec_Open>
+  <LP_Rec_Title>Mänguväljaku logi</LP_Rec_Title>
+  <LP_Rec_NoMap>Laadige asulakaart, et vaadata selle mänguväljaku logi.</LP_Rec_NoMap>
+  <LP_Why_Other>pole siin</LP_Why_Other>
+  <LP_Why_Drafted>võitluses</LP_Why_Drafted>
+  <LP_Why_Downed>töövõimetu</LP_Why_Downed>
+  <LP_Why_Mental>vaimne murre</LP_Why_Mental>
+  <LP_Why_Burning>leekides</LP_Why_Burning>
+  <LP_Why_Ordered>täidab käsku</LP_Why_Ordered>
+  <LP_Why_Busy>hõivatud ({0})</LP_Why_Busy>
+  <LP_Why_Gathering>kogunemisel või rühmas</LP_Why_Gathering>
+  <LP_Why_Fighting>võitleb</LP_Why_Fighting>
+  <LP_Why_Needs>hakkab sööma või magama</LP_Why_Needs>
+  <LP_Why_NotPlayTime>pole lõbutund</LP_Why_NotPlayTime>
+  <LP_Why_JoyFull>lõbu on juba täis</LP_Why_JoyFull>
+  <LP_Why_PlayCooldown>just mängis (uuesti {0} h)</LP_Why_PlayCooldown>
+  <LP_Why_CareSettingOff>Mängimine lapsehoiu raames on modi seadetes välja lülitatud</LP_Why_CareSettingOff>
+  <LP_Why_NotWorkHour>pole töötund</LP_Why_NotWorkHour>
+  <LP_Why_CannotChildcare>ei saa lapsehoidu teha</LP_Why_CannotChildcare>
+  <LP_Why_ChildcareOff>Lapsehoid on töö vahekaardil välja lülitatud</LP_Why_ChildcareOff>
+  <LP_Why_CallCooldown>kutsus hiljuti kedagi (uuesti {0} h pärast)</LP_Why_CallCooldown>
+  <LP_Why_BeingCalled>teine laps on juba kutsunud</LP_Why_BeingCalled>
+  <LP_Why_Dislike>nad ei salli teineteist (arvamus {0})</LP_Why_Dislike>
+  <LP_Why_TooFar>liiga kaugel ({0} s, piirang {1} s)</LP_Why_TooFar>
+  <LP_Why_NotAllowedFun>sellist lõbu pole lubatud (pealkiri)</LP_Why_NotAllowedFun>
+  <LP_Why_NoWatchSpot>pole vaba vaatamiskohta</LP_Why_NoWatchSpot>
+  <LP_Why_NoSeat>pole istet ega teed mänguvahendini</LP_Why_NoSeat>
+  <LP_Rec_CallerCooldown>see laps kutsus hiljuti kedagi (uuesti {0} h pärast)</LP_Rec_CallerCooldown>
+  <LP_Rec_NoFriendSite>läheduses pole ühist mänguvahendit kahe vaba kohaga</LP_Rec_NoFriendSite>
+  <LP_Rec_NoChildren>pole teist last</LP_Rec_NoChildren>
+  <LP_Rec_Friends>sõbrad: {0}</LP_Rec_Friends>
+  <LP_Rec_SomeoneThere>keegi on juba mänguvahendil või teel</LP_Rec_SomeoneThere>
+  <LP_Rec_Called>kutsus: {0} ({1})</LP_Rec_Called>
+  <LP_Rec_CalledBy>kutsuja: {0}</LP_Rec_CalledBy>
+  <LP_Rec_NoAdults>pole täiskasvanut</LP_Rec_NoAdults>
+  <LP_Rec_Adults>täiskasvanud: {0}</LP_Rec_Adults>
+  <LP_Rec_Kind_Friend>sõber</LP_Rec_Kind_Friend>
+  <LP_Rec_Kind_Care>Lapsehoid</LP_Rec_Kind_Care>
+  <LP_Rec_Kind_Watch>vaatamiseks</LP_Rec_Kind_Watch>
+  <LP_Rec_Kind_Recreation>lõbu</LP_Rec_Kind_Recreation>
+  <LP_Rec_Hold>Ootas {0} s sissepääsu juures: {1}</LP_Rec_Hold>
+  <LP_Rec_HoldCap>ootas terved 10 s</LP_Rec_HoldCap>
+  <LP_Rec_HoldRiding>keegi teine sai peale</LP_Rec_HoldRiding>
+  <LP_Rec_HoldLate>{0} ei jõudnud õigeks ajaks kohale</LP_Rec_HoldLate>
+  <LP_Rec_HoldArrivedName>{0} saabus</LP_Rec_HoldArrivedName>
+  <LP_Rec_HoldArrived>kaaslane saabus</LP_Rec_HoldArrived>
+  <LP_Rec_CompanionMissed>kutsus: {0}, kes ei tulnud kaasa (nüüd: {1})</LP_Rec_CompanionMissed>
+  <LP_Rec_WhyUnknown>tuli põhjusel {0}; keegi teine ei tulnud</LP_Rec_WhyUnknown>
+  <LP_Rec_Src_Unknown>teadmata</LP_Rec_Src_Unknown>
+  <LP_Rec_Src_Learning>õppimine</LP_Rec_Src_Learning>
+  <LP_Rec_Src_Idle>vaba aeg</LP_Rec_Src_Idle>
+  <LP_Rec_Src_Invitation>kutse</LP_Rec_Src_Invitation>
+  <LP_Rec_Src_Queue>järjekord</LP_Rec_Src_Queue>
+  <LP_Rec_Src_FriendCall>sõbra kutsel</LP_Rec_Src_FriendCall>
+  <LP_Rec_Src_CareCall>kutsutud (lapsehoid)</LP_Rec_Src_CareCall>
+  <LP_Rec_Src_WatchCall>kutsutud vaatama</LP_Rec_Src_WatchCall>
+  <LP_Rec_Src_RecreationCall>kutsutud (lõbu)</LP_Rec_Src_RecreationCall>
+  <LP_Rec_Src_CareWork>Lapsehoiutöö</LP_Rec_Src_CareWork>
+  <LP_Rec_Src_Recreation>lõbu</LP_Rec_Src_Recreation>
+  <LP_Rec_Src_Ordered>käsu peale</LP_Rec_Src_Ordered>
+  <LP_Rec_Mode_ChildAlone>laps üksi</LP_Rec_Mode_ChildAlone>
+  <LP_Rec_Mode_Children>lapsed koos</LP_Rec_Mode_Children>
+  <LP_Rec_Mode_WithCare>koos lapsehoidu tegeva täiskasvanuga</LP_Rec_Mode_WithCare>
+  <LP_Rec_Mode_WithRec>täiskasvanuga</LP_Rec_Mode_WithRec>
+  <LP_Rec_Mode_Watched>täiskasvanud vaatavad</LP_Rec_Mode_Watched>
+  <LP_Rec_Mode_AdultAlone>üksi täiskasvanu</LP_Rec_Mode_AdultAlone>
+  <LP_Rec_Mode_AdultCare>lapsega mängiv täiskasvanu</LP_Rec_Mode_AdultCare>
+  <LP_Rec_Mode_AdultWithChild>täiskasvanu koos lapsega</LP_Rec_Mode_AdultWithChild>
+  <LP_Rec_Mode_Adults>täiskasvanud koos</LP_Rec_Mode_Adults>
+  <LP_Rec_Role_child>laps</LP_Rec_Role_child>
+  <LP_Rec_Role_care>Lapsehoid</LP_Rec_Role_care>
+  <LP_Rec_Role_adult>täiskasvanu</LP_Rec_Role_adult>
+  <LP_Rec_JustNow>just praegu</LP_Rec_JustNow>
+  <LP_Rec_Ago>{0} h tagasi</LP_Rec_Ago>
+  <LP_Rec_Inspect>Logi, viimased 3 päeva: {0} sõitu ({1})</LP_Rec_Inspect>
+  <LP_Rec_InspectAlone>kasutatud üksi: {0}</LP_Rec_InspectAlone>
+  <LP_Rec_File>Logifail: {0}</LP_Rec_File>
+  <LP_Rec_Off>Mänguväljaku logi on välja lülitatud. Lülitage see sisse jaotises Valikud &gt; Modifikatsiooni seaded &gt; Little Playgrounds.</LP_Rec_Off>
+  <LP_Rec_Page_Rides>Mänguväljaku varustus</LP_Rec_Page_Rides>
+  <LP_Rec_Page_Recent>Hiljutised mänguväljaku külastused</LP_Rec_Page_Recent>
+  <LP_Rec_Page_Decisions>Mänguvalikud</LP_Rec_Page_Decisions>
+  <LP_Rec_Page_Children>Lapsed nüüd</LP_Rec_Page_Children>
+  <LP_Rec_OnlySelected>Ainult valitud mänguvahend</LP_Rec_OnlySelected>
+  <LP_Rec_Never>mitte kunagi</LP_Rec_Never>
+  <LP_Rec_RideLine>viimased 3 päeva {0} sõitu: {1}</LP_Rec_RideLine>
+  <LP_Rec_Last>viimati {0}</LP_Rec_Last>
+  <LP_Rec_With>{0}-ga</LP_Rec_With>
+  <LP_Rec_Watchers>vaatas pealt: {0}</LP_Rec_Watchers>
+  <LP_Rec_Seconds>{0} s</LP_Rec_Seconds>
+  <LP_Rec_WhyAlone>Miks üksi: {0}</LP_Rec_WhyAlone>
+  <LP_Rec_HowCame>Kuidas: {0}</LP_Rec_HowCame>
+  <LP_Rec_ChildLine>õppimine {0} · tund {1} · praegu {2} · viimane sõit {3} · mänguväljak {4} · kutsub {5}</LP_Rec_ChildLine>
+  <LP_Rec_Ready>valmis</LP_Rec_Ready>
+  <LP_Rec_ReadyIn>{0} h pärast</LP_Rec_ReadyIn>
+  <LP_Rec_Drink>läheb jooma</LP_Rec_Drink>
+  <LP_Rec_Joined>liitus sõbraga: {0}</LP_Rec_Joined>
+  <LP_Rec_ToPartner>läheb {0}-sse, kus keegi ootab partnerit</LP_Rec_ToPartner>
+  <LP_Rec_Chose>valis {0}</LP_Rec_Chose>
+  <LP_Rec_RunRoll>loos vabaks jooksmiseks (30%)</LP_Rec_RunRoll>
+  <LP_Rec_Running>jookseb ringi</LP_Rec_Running>
+  <LP_Rec_Queue>seisab järjekorras: {0}</LP_Rec_Queue>
+  <LP_Rec_Nobody>kedagi ei kutsutud: {0}</LP_Rec_Nobody>
+  <LP_Rec_FromQueue>pärast {0} s järjekorras</LP_Rec_FromQueue>
+  <LP_Setting_FacialPlay>Facial Animationi näoilmed mängimise ajal</LP_Setting_FacialPlay>
+  <LP_Setting_FacialPlayTip>Kasutab olemasolevat naeratust ainult siis, kui paigaldatud Facial Animationi näopakett seda toetab. Väljalülitamisel katkestab Little Playgrounds ühenduse kohe; teised näoanimatsioonid töötavad edasi. Uusi näotekstuure ei lisata.</LP_Setting_FacialPlayTip>
+  <LP_Setting_FacialPlayError>Näoilmete ühendus peatati vea tõttu. Uuesti proovimiseks tuleb see valik välja ja uuesti sisse lülitada.</LP_Setting_FacialPlayError>
+  <LP_Setting_Sounds>Mänguvahendite helid</LP_Setting_Sounds>
+  <LP_Setting_SoundsTip>Väikesed helid mängimise ajal: kiiged kriuksuvad, batuudid vetruvad, liiva- ja veemäng, joogipurskkaev. Need on kuulda ainult siis, kui pilt on lähedale suumitud; need järgivad mängu helitugevust ja vaikivad, kui mäng on pausil. Liumägedel ja pallimerel heli pole.</LP_Setting_SoundsTip>
+  <LP_Setting_SoundVolume>Mänguvahendite helitugevus: {0}</LP_Setting_SoundVolume>
+  <LP_Setting_SoundRides>Heli iga mänguvahendi kohta:</LP_Setting_SoundRides>
+  <LP_Setting_RunAround>Lapsed jooksevad mõnikord mänguvahendi ümber, selle asemel et seda kasutada</LP_Setting_RunAround>
+  <LP_Setting_RunAroundTip>Mänguvahendi valinud laps võib selle asemel ümber selle joosta ja õpib sellest sama palju kui kiikumisest. Mitmekohalistel mänguvahenditel liitub sõber; muidu tuleb vaatama lapsehoidu määratud täiskasvanu. Mänguvahendi kõrval peab olema kuiva vaba maad (mitte vett ega muda), muidu laps lihtsalt kasutab mänguvahendit.</LP_Setting_RunAroundTip>
+  <LP_Setting_RunAroundChance>Tõenäosus iga kord, kui laps mänguvahendi valib: {0}</LP_Setting_RunAroundChance>
+  <LP_Setting_RunAroundIndoors>Jooksmine ka katuse all</LP_Setting_RunAroundIndoors>
+  <LP_Setting_RunAroundIndoorsTip>Kui see on välja lülitatud, jooksevad lapsed ainult lageda taeva all ja siseruumides olevaid mänguvahendeid lihtsalt kasutatakse; mänguväljaku varjualust katuseks ei loeta. Kui see on sisse lülitatud, jooksevad nad ka siseruumides olevate mänguvahendite ümber, kui toas on ruumi.</LP_Setting_RunAroundIndoorsTip>
+  <LP_Setting_CouplePlay>Paarid mängivad koos</LP_Setting_CouplePlay>
+  <LP_Setting_CouplePlayTip>Täiskasvanu, kes valib kahekohalise mänguvahendi või pingi, kutsub oma kallima, kes tuleb, kui ta on vaba või tavaliste tööde vahel. Paar, kel pole midagi teha, läheb mõnikord ka omal käel kohtingule, kõige rohkem kord päevas. Nad ootavad teineteist ja pärast saavad mõlemad väikese boonuse meeleolule ja arvamusele.</LP_Setting_CouplePlayTip>
+  <LP_Setting_RequireResearch>Ehitamiseks on vaja uuringut „{0}“</LP_Setting_RequireResearch>
+  <LP_Setting_RequireResearchTip>Kui see on sisse lülitatud, saab kõike, mida see mod lisab (mänguvahendid, pingid, aiad ja põrandad), ehitada alles pärast uuringu „{0}“ lõpetamist. Tavalistes algustes on see juba olemas, nii et enne peavad seda uurima ainult kolooniad, mis alustavad ilma selleta, näiteks hõimud. Juba ehitatu jääb alles. Kui see on välja lülitatud, saab kõike ehitada algusest peale.</LP_Setting_RequireResearchTip>
+  <LP_Setting_ToddlerPlay>Väikelapsed mängivad mänguvahenditel</LP_Setting_ToddlerPlay>
+  <LP_Setting_ToddlerPlayMissing>vajab Toddlers modi</LP_Setting_ToddlerPlayMissing>
+  <LP_Setting_ToddlerPlayTip>Toddlers modiga mängivad kõndida oskavad väikelapsed, ka need, kes veel vaaruvad, nendel mänguvahenditel: {0}. Roomavad väikelapsed neile ei lähe. Kui see on välja lülitatud, ei kasuta väikelapsed ühtegi mänguvahendit. Ilma Toddlers modita ei tee see midagi.</LP_Setting_ToddlerPlayTip>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PlaySandLight.label>ljus lekplatssand</LP_PlaySandLight.label>
+  <LP_PlaySandLight.description>Blek sand med milda, grunda krusningar för en ljus lekplats. Detta är en tredje sandyta, tillsammans med fin sand och kornig sand.</LP_PlaySandLight.description>
+  <LP_PlaySand.label>fin lekplatssand</LP_PlaySand.label>
+  <LP_PlaySand.description>Fast, varm beige lekplatssand med fina korn och lugn, grund variation.</LP_PlaySand.description>
+  <LP_PlaySandGrainy.label>kornig lekplatssand</LP_PlaySandGrainy.label>
+  <LP_PlaySandGrainy.description>Varm lekplatssand med synliga korn och en lätt krattad yta. Ett mer texturerat alternativ till fin lekplatssand.</LP_PlaySandGrainy.description>
+  <LP_RubberSage.label>salviagrönt gummiunderlag</LP_RubberSage.label>
+  <LP_RubberSage.description>En lekplatsyta med matt gummismula. Dess subtila konsistens sammanfogas utan ett kakelgaller. Finns i salvia, kräm och aprikos.</LP_RubberSage.description>
+  <LP_RubberCream.label>krämfärgat gummiunderlag</LP_RubberCream.label>
+  <LP_RubberCream.description>En lekplatsyta med matt gummismula. Dess subtila konsistens sammanfogas utan ett kakelgaller. Finns i salvia, kräm och aprikos.</LP_RubberCream.description>
+  <LP_RubberApricot.label>aprikosfärgat gummiunderlag</LP_RubberApricot.label>
+  <LP_RubberApricot.description>En lekplatsyta med matt gummismula. Dess subtila konsistens sammanfogas utan ett kakelgaller. Finns i salvia, kräm och aprikos.</LP_RubberApricot.description>
+</LanguageData>

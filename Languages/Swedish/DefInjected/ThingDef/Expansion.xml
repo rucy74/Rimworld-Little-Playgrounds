@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_SteppingStump.label>timmersteg på lekplatsen</LP_SteppingStump.label>
+  <LP_SteppingStump.description>En låg plattform av sågat trä att kliva på. Trampstenar, timmersteg och balansstockar kopplas ihop när deras kanter möts. En bana måste täcka minst två celler (en balansstock ensam täcker två), och bitar som bara möts i ett hörn kopplas inte ihop. Barn och vuxna följer den sammankopplade vägen.</LP_SteppingStump.description>
+  <LP_SpringFox.label>rävformad fjädergunga</LP_SpringFox.label>
+  <LP_SpringFox.description>En rävformad gungleksak monterad på en fjäder. Ett barn eller en vuxen kan använda den ensam. Karaktären behåller sin normala kropp och lutar sig fram och tillbaka med leksaken.</LP_SpringFox.description>
+  <LP_Roundabout.label>lekkarusell i ek</LP_Roundabout.label>
+  <LP_Roundabout.description>En rund lekplatskarusell i ek med salviagröna ledstänger för upp till fyra personer. En person kan snurra den ensam. Den saktar ner och stannar när någon kliver av eller på.</LP_Roundabout.description>
+  <LP_Playhouse.label>liten butikslekstuga</LP_Playhouse.label>
+  <LP_Playhouse.description>En lekstuga med öppen front och en liten butiksdisk. Lek affär ensam, eller ta emot en andra besökare vid fönstret. Barn lär sig och vuxna får rekreation.</LP_Playhouse.description>
+  <LP_DrinkingFountain.label>dricksvattenfontän i två höjder</LP_DrinkingFountain.label>
+  <LP_DrinkingFountain.description>En hög och en låg dricksskål. Barn kan stanna och dricka lite vatten efter leken; vuxna väljer den också för rekreation. Den lilla vattenstrålen rinner medan den används. Detta tillför inte ett törstbehov. Byggs av valfria stenblock; formen och färgerna förblir desamma vilken sten du än använder.</LP_DrinkingFountain.description>
+  <LP_Hopscotch.label>hopphage</LP_Hopscotch.label>
+  <LP_Hopscotch.description>Åtta målade hopphagsrutor. Ett barn eller en vuxen hoppar längs numren och återvänder, leker ensam utan att vänta på en partner. Byggs av valfria stenblock; formen och färgerna förblir desamma vilken sten du än använder.</LP_Hopscotch.description>
+  <LP_SplashPad.label>vattenlekplats med strålar</LP_SplashPad.label>
+  <LP_SplashPad.description>Vattenstrålar på marknivå sprutar i ett upprepande mönster när upp till tre personer rör sig runt lekområdet. Varje person kan också leka ensam. Denna aktivitet stannar under 10 grader Celsius och kan inte starta när ytan är täckt av snö. Byggs av valfria stenblock; formen och färgerna förblir desamma vilken sten du än använder.</LP_SplashPad.description>
+  <LP_SteppingStone.label>trampsten på lekplatsen</LP_SteppingStone.label>
+  <LP_SteppingStone.description>En låg, rundad trampsten. Trampstenar, timmersteg och balansstockar kopplas ihop när deras kanter möts. En bana måste täcka minst två celler (en balansstock ensam täcker två), och bitar som bara möts i ett hörn kopplas inte ihop. Besökare följer en sammankopplad gren och återvänder. Varje besök reserverar en rutt på upp till 24 bitar. Byggs av valfria stenblock; formen och färgerna förblir desamma vilken sten du än använder.</LP_SteppingStone.description>
+  <LP_BalanceLog.label>balansstock</LP_BalanceLog.label>
+  <LP_BalanceLog.description>En låg balansstock av ek, två celler lång; den kan läggas på längden eller tvären. Trampstenar, timmersteg och balansstockar kopplas ihop när deras kanter möts. En bana måste täcka minst två celler (en balansstock ensam täcker två), och bitar som bara möts i ett hörn kopplas inte ihop. Besökare balanserar längs en sammankopplad gren och återvänder. Alla banans celler måste hållas fria.</LP_BalanceLog.description>
+  <LP_PlayFence.label>lekplatsstaket i ek</LP_PlayFence.label>
+  <LP_PlayFence.description>Låga ekspjälor fästa vid fyrkantiga timmerstolpar. Intilliggande staketdelar kopplas ihop. Detta är en dekorativ lekplatsgräns som man kan kliva över, inte en hägnad för djur.</LP_PlayFence.description>
+  <LP_PlayEntrance.label>entré till lekplatsen</LP_PlayEntrance.label>
+  <LP_PlayEntrance.description>En alltid öppen entré med en liten skylt med Little Playgrounds. En välkomnande öppning för ett lågt trädgårdsstaket.</LP_PlayEntrance.description>
+  <LP_GardenFountain.label>trädgårdsfontän</LP_GardenFountain.label>
+  <LP_GardenFountain.description>En låg blek stenbassäng med mjukt rinnande vatten. Ett blickfång i trädgården att placera nära sittgruppen. Byggs av valfria stenblock; formen och färgerna förblir desamma vilken sten du än använder.</LP_GardenFountain.description>
+</LanguageData>

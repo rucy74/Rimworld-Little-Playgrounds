@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_SteppingStump.label>degrau de madeira para playground</LP_SteppingStump.label>
+  <LP_SteppingStump.description>Plataforma baixa feita de madeira serrada, para pisar. Pedras de passagem, degraus de madeira e troncos de equilíbrio se conectam uns aos outros pelas bordas. Um percurso precisa ocupar pelo menos duas células (um tronco de equilíbrio sozinho já ocupa duas), e peças que só se tocam em um canto não se conectam. Crianças e adultos seguem o percurso conectado.</LP_SteppingStump.description>
+  <LP_SpringFox.label>gangorra de mola em forma de raposa</LP_SpringFox.label>
+  <LP_SpringFox.description>Um brinquedo de balanço em forma de raposa montado em uma mola. Uma criança ou adulto pode usá-lo sozinho. O personagem mantém o corpo normal e se inclina para frente e para trás com o brinquedo.</LP_SpringFox.description>
+  <LP_Roundabout.label>gira-gira de carvalho</LP_Roundabout.label>
+  <LP_Roundabout.description>Um gira-gira redondo de carvalho com corrimãos verde-sálvia, para até quatro pessoas. Uma pessoa pode girá-lo sozinha. Ele diminui a velocidade e para quando alguém entra ou sai.</LP_Roundabout.description>
+  <LP_Playhouse.label>casinha com lojinha</LP_Playhouse.label>
+  <LP_Playhouse.description>Uma casinha de brincar com a frente aberta e um pequeno balcão de loja. Brinque de cuidar da loja sozinho ou receba um segundo visitante na janela. As crianças aprendem e os adultos ganham recreação.</LP_Playhouse.description>
+  <LP_DrinkingFountain.label>bebedouro com duas alturas</LP_DrinkingFountain.label>
+  <LP_DrinkingFountain.description>Uma tigela alta e outra baixa. As crianças podem parar para beber um pouco de água após as atividades no playground; os adultos também o escolhem para recreação. O pequeno filete de água corre enquanto é usado. Isso não adiciona a necessidade de sede. Construído a partir de quaisquer blocos de pedra; sua forma e cores permanecem as mesmas, independentemente da pedra que você usar.</LP_DrinkingFountain.description>
+  <LP_Hopscotch.label>amarelinha de jardim</LP_Hopscotch.label>
+  <LP_Hopscotch.description>Oito quadrados de amarelinha pintados. Uma criança ou adulto salta pelos números e volta, brincando sozinho, sem esperar companheiro. Construído a partir de quaisquer blocos de pedra; sua forma e cores permanecem as mesmas, independentemente da pedra que você usar.</LP_Hopscotch.description>
+  <LP_SplashPad.label>área de brincadeiras com jatos de água</LP_SplashPad.label>
+  <LP_SplashPad.description>Jatos de água ao nível do solo são pulverizados em um padrão repetitivo enquanto até três pessoas se movimentam pela área de jogo. Cada pessoa também pode jogar sozinha. Esta atividade para abaixo de 10 graus Celsius e não pode começar quando a superfície estiver coberta de neve. Pode ser construído a partir de quaisquer blocos de pedra, do mesmo formato e cores.</LP_SplashPad.description>
+  <LP_SteppingStone.label>pedra de passagem para playground</LP_SteppingStone.label>
+  <LP_SteppingStone.description>Uma pedra de passagem baixa e arredondada. Pedras de passagem, degraus de madeira e troncos de equilíbrio se conectam uns aos outros pelas bordas. Um percurso precisa ocupar pelo menos duas células (um tronco de equilíbrio sozinho já ocupa duas), e peças que só se tocam em um canto não se conectam. Os visitantes seguem um trecho conectado e retornam. Cada visita reserva seu percurso, até 24 peças. Pode ser construído a partir de quaisquer blocos de pedra, do mesmo formato e cores.</LP_SteppingStone.description>
+  <LP_BalanceLog.label>tronco de equilíbrio</LP_BalanceLog.label>
+  <LP_BalanceLog.description>Tronco de equilíbrio baixo de carvalho, com duas células de comprimento; pode ser colocado no comprimento ou na transversal. Pedras de passagem, degraus de madeira e troncos de equilíbrio se conectam uns aos outros pelas bordas. Um percurso precisa ocupar pelo menos duas células (um tronco de equilíbrio sozinho já ocupa duas), e peças que só se tocam em um canto não se conectam. Os visitantes se equilibram ao longo de um trecho conectado e retornam. Todas as células do percurso devem ficar desimpedidas.</LP_BalanceLog.description>
+  <LP_PlayFence.label>cerca de carvalho para playground</LP_PlayFence.label>
+  <LP_PlayFence.description>Estacas baixas de carvalho unidas a postes quadrados de madeira. Peças de cerca adjacentes se conectam. Este é um limite decorativo de playground, não uma barreira de curral para animais.</LP_PlayFence.description>
+  <LP_PlayEntrance.label>entrada do parque infantil</LP_PlayEntrance.label>
+  <LP_PlayEntrance.description>Uma entrada sempre aberta com uma pequena placa do Little Playgrounds. Uma abertura acolhedora para uma cerca baixa de jardim.</LP_PlayEntrance.description>
+  <LP_GardenFountain.label>fonte de jardim</LP_GardenFountain.label>
+  <LP_GardenFountain.description>Uma bacia baixa de pedra clara com água fluindo suavemente. Uma peça central de jardim para colocar perto da área de estar. Construído a partir de quaisquer blocos de pedra; sua forma e cores permanecem as mesmas, independentemente da pedra que você usar.</LP_GardenFountain.description>
+</LanguageData>

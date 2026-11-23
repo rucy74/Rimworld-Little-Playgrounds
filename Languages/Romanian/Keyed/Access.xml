@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_VisitorCount>Vizitatori: {0} / {1}</LP_VisitorCount>
+  <LP_AudienceButton>Vizitatori: {0}</LP_AudienceButton>
+  <LP_AudienceCurrent>Vizitatori permiși: {0}</LP_AudienceCurrent>
+  <LP_AudienceDescription>Alegeți cine poate folosi acest echipament. Implicit: toată lumea. Vizitatorii excluși își opresc vizita curentă sau ies din coadă. Această alegere este salvată.</LP_AudienceDescription>
+  <LP_AudienceEveryone>Toată lumea</LP_AudienceEveryone>
+  <LP_AudienceChildren>Numai copii</LP_AudienceChildren>
+  <LP_AudienceAdults>Numai adulți</LP_AudienceAdults>
+</LanguageData>

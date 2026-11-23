@@ -1,0 +1,474 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <ThingDef Name="LP_ExpansionBase" Abstract="True" ParentName="LP_GardenBuilding">
+    <thingClass>LittlePlaygrounds.Building_PlaygroundFacility</thingClass>
+    <comps><li Class="LittlePlaygrounds.CompProperties_PlaygroundAccess"/></comps>
+    <tickerType>Normal</tickerType>
+    <building>
+      <joyKind>Gaming_Dexterity</joyKind>
+    </building>
+  </ThingDef>
+  <ThingDef ParentName="LP_ExpansionBase">
+    <defName>LP_SpringFox</defName><rotatable>true</rotatable><placeWorkers><li>LittlePlaygrounds.PlaceWorker_TurnSidesOnly</li></placeWorkers>
+    <label>fox spring rider</label>
+    <description>A sculpted fox on a spring. A child or adult can rock alone, with their own intact pawn leaning with the ride.</description>
+    <size>(1,2)</size>
+    <tickerType>Never</tickerType>
+    <graphicData>
+      <texPath>ExpansionIcons/SpringRider</texPath>
+      <graphicClass>LittlePlaygrounds.Graphic_PlaygroundExpansion</graphicClass>
+      <drawSize>(1.972,1.452)</drawSize>
+      <drawOffset>(0,0,0.1921)</drawOffset>
+    </graphicData>
+    <costList>
+      <WoodLog>20</WoodLog>
+      <Steel>25</Steel>
+    </costList>
+    <modExtensions><li Class="LittlePlaygrounds.TurnProperties"><kind>SideView</kind></li>
+      <li Class="LittlePlaygrounds.ExpansionProperties">
+        <kind>SpringRider</kind>
+        <seats>1</seats>
+      </li>
+    </modExtensions>
+  <comps><li Class="LittlePlaygrounds.CompProperties_PlaygroundDesign"/></comps></ThingDef>
+  <JoyGiverDef ParentName="LP_AdultPlayBase">
+    <defName>LP_AdultSpringFox</defName>
+    <thingDefs>
+      <li>LP_SpringFox</li>
+    </thingDefs>
+    <jobDef>LP_RideSpringFox</jobDef>
+  </JoyGiverDef>
+  <ThingDef ParentName="LP_ExpansionBase">
+    <defName>LP_Roundabout</defName>
+    <label>oak roundabout</label>
+    <description>A round oak platform with sage handrails for up to four visitors. One person can spin it; it slows to a stop for anyone joining or leaving.</description>
+    <size>(3,3)</size>
+    <graphicData>
+      <texPath>ExpansionIcons/Roundabout</texPath>
+      <graphicClass>LittlePlaygrounds.Graphic_PlaygroundExpansion</graphicClass>
+      <drawSize>(3,3)</drawSize>
+    </graphicData>
+    <costList>
+      <WoodLog>45</WoodLog>
+      <Steel>65</Steel>
+    </costList>
+    <modExtensions>
+      <li Class="LittlePlaygrounds.ExpansionProperties">
+        <kind>Roundabout</kind>
+        <seats>4</seats>
+      </li>
+    </modExtensions>
+  <comps><li Class="LittlePlaygrounds.CompProperties_PlaygroundDesign"/></comps></ThingDef>
+  <JoyGiverDef ParentName="LP_AdultPlayBase">
+    <defName>LP_AdultRoundabout</defName>
+    <thingDefs>
+      <li>LP_Roundabout</li>
+    </thingDefs>
+    <jobDef>LP_SpinRoundabout</jobDef>
+  </JoyGiverDef>
+  <ThingDef ParentName="LP_ExpansionBase">
+    <defName>LP_Playhouse</defName>
+    <label>little shop playhouse</label>
+    <description>An open-front playhouse with a little shop counter. Play at running the shop alone, or welcome a second visitor at the window. Children learn and adults gain recreation.</description>
+    <size>(3,3)</size>
+    <tickerType>Never</tickerType>
+    <graphicData>
+      <texPath>ExpansionIcons/Playhouse</texPath>
+      <graphicClass>LittlePlaygrounds.Graphic_PlaygroundExpansion</graphicClass>
+      <drawSize>(3.636600,3.636600)</drawSize>
+      <drawOffset>(0.000000,0,0.350900)</drawOffset>
+    </graphicData>
+    <costList>
+      <WoodLog>80</WoodLog>
+      <Steel>15</Steel>
+    </costList>
+    <modExtensions>
+      <li Class="LittlePlaygrounds.ExpansionProperties">
+        <kind>Playhouse</kind>
+        <seats>2</seats>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <JoyGiverDef ParentName="LP_AdultPlayBase">
+    <defName>LP_AdultPlayhouse</defName>
+    <thingDefs>
+      <li>LP_Playhouse</li>
+    </thingDefs>
+    <jobDef>LP_PlayShop</jobDef>
+  </JoyGiverDef>
+  <ThingDef ParentName="LP_ExpansionBase">
+    <defName>LP_DrinkingFountain</defName>
+    <building><joyKind>Meditative</joyKind></building>
+    <stuffCategories><li>Stony</li></stuffCategories><costStuffCount>25</costStuffCount>
+    <label>two-height drinking fountain</label>
+    <description>A tall and a low drinking bowl. Children can stop for a brief drink after playground activities; adults also choose it for recreation. The small water stream runs while it is used. This does not add a thirst need. Built from any stone blocks; its shape and colors stay the same whichever stone you use.</description>
+    <size>(3,1)</size>
+    <tickerType>Never</tickerType>
+    <graphicData>
+      <texPath>ExpansionIcons/Drink</texPath>
+      <graphicClass>LittlePlaygrounds.Graphic_PlaygroundExpansion</graphicClass>
+      <drawSize>(2.13,1.33125)</drawSize>
+      <drawOffset>(0,0,0.351875)</drawOffset>
+    </graphicData>
+    <costList>
+      <Steel>65</Steel>
+    </costList>
+    <modExtensions>
+      <li Class="LittlePlaygrounds.ExpansionProperties">
+        <kind>Drink</kind>
+        <seats>2</seats>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <JoyGiverDef ParentName="LP_AdultPlayBase">
+    <defName>LP_AdultDrinkingFountain</defName>
+    <thingDefs>
+      <li>LP_DrinkingFountain</li>
+    </thingDefs>
+    <jobDef>LP_DrinkAtFountain</jobDef>
+    <joyKind>Meditative</joyKind>
+    <baseChance>0.3</baseChance>
+  </JoyGiverDef>
+  <ThingDef ParentName="LP_ExpansionBase">
+    <defName>LP_Hopscotch</defName><rotatable>true</rotatable>
+    <stuffCategories><li>Stony</li></stuffCategories><costStuffCount>12</costStuffCount>
+    <label>garden hopscotch</label>
+    <description>Eight painted hopscotch squares. A child or adult hops along the numbers and returns, playing alone without waiting for a partner. Built from any stone blocks; its shape and colors stay the same whichever stone you use.</description>
+    <size>(2,5)</size>
+    <tickerType>Never</tickerType>
+    <graphicData>
+      <texPath>ExpansionIcons/Hopscotch</texPath>
+      <graphicClass>LittlePlaygrounds.Graphic_PlaygroundExpansion</graphicClass>
+      <drawSize>(2.0984,4.9842)</drawSize>
+    </graphicData>
+    <costList>
+      <Cloth>4</Cloth>
+    </costList>
+    <modExtensions><li Class="LittlePlaygrounds.TurnProperties"><kind>Flat</kind></li>
+      <li Class="LittlePlaygrounds.ExpansionProperties">
+        <kind>Hopscotch</kind>
+        <seats>1</seats>
+      </li>
+    </modExtensions>
+    <statBases>
+      <WorkToBuild>180</WorkToBuild>
+    </statBases>
+  </ThingDef>
+  <JoyGiverDef ParentName="LP_AdultPlayBase">
+    <defName>LP_AdultHopscotch</defName>
+    <thingDefs>
+      <li>LP_Hopscotch</li>
+    </thingDefs>
+    <jobDef>LP_PlayHopscotch</jobDef>
+  </JoyGiverDef>
+  <ThingDef ParentName="LP_ExpansionBase">
+    <defName>LP_SplashPad</defName>
+    <stuffCategories><li>Stony</li></stuffCategories><costStuffCount>45</costStuffCount>
+    <label>playground splash pad</label>
+    <description>Flush water jets pulse while up to three visitors weave across the pad. Each visitor can play alone. Water play closes below 10 degrees Celsius and cannot begin under snow. Built from any stone blocks; its shape and colors stay the same whichever stone you use.</description>
+    <size>(3,3)</size>
+    <tickerType>Never</tickerType>
+    <graphicData>
+      <texPath>ExpansionIcons/SplashPad</texPath>
+      <graphicClass>LittlePlaygrounds.Graphic_PlaygroundExpansion</graphicClass>
+      <drawSize>(2.9415,2.7931)</drawSize>
+      <drawOffset>(0,0,0.00795)</drawOffset>
+    </graphicData>
+    <costList>
+      <Steel>70</Steel>
+    </costList>
+    <modExtensions>
+      <li Class="LittlePlaygrounds.ExpansionProperties">
+        <kind>SplashPad</kind>
+        <seats>3</seats>
+      </li>
+    </modExtensions>
+    <statBases>
+      <WorkToBuild>2200</WorkToBuild>
+    </statBases>
+  </ThingDef>
+  <JoyGiverDef ParentName="LP_AdultPlayBase">
+    <defName>LP_AdultSplashPad</defName>
+    <thingDefs>
+      <li>LP_SplashPad</li>
+    </thingDefs>
+    <jobDef>LP_PlaySplashPad</jobDef>
+  </JoyGiverDef>
+  <ThingDef ParentName="LP_ExpansionBase">
+    <defName>LP_SteppingStone</defName>
+    <placeWorkers><li>LittlePlaygrounds.PlaceWorker_CourseLink</li></placeWorkers>
+    <stuffCategories><li>Stony</li></stuffCategories><costStuffCount>3</costStuffCount>
+    <drawStyleCategory>Defenses</drawStyleCategory>
+    <label>playground stepping stone</label>
+    <description>A low rounded stepping stone. Stepping stones, timber steps and balance logs all link to each other edge to edge. A course needs at least two cells (a balance log alone has two), and pieces that only meet at a corner do not link. Visitors follow a connected branch and return. One visit reserves its route, up to 24 pieces. Built from any stone blocks; its shape and colors stay the same whichever stone you use.</description>
+    <size>(1,1)</size>
+    <tickerType>Never</tickerType>
+    <graphicData>
+      <texPath>ExpansionIcons/SteppingStone</texPath>
+      <graphicClass>LittlePlaygrounds.Graphic_PlaygroundExpansion</graphicClass>
+      <drawSize>(1,1)</drawSize>
+    </graphicData>
+    <modExtensions>
+      <li Class="LittlePlaygrounds.ExpansionProperties">
+        <kind>SteppingStone</kind>
+        <seats>1</seats>
+      </li>
+    </modExtensions>
+    <statBases>
+      <WorkToBuild>180</WorkToBuild>
+      <Beauty>1</Beauty>
+    </statBases>
+  </ThingDef>
+  <JoyGiverDef ParentName="LP_AdultPlayBase">
+    <defName>LP_AdultSteppingStone</defName>
+    <thingDefs>
+      <li>LP_SteppingStone</li>
+    </thingDefs>
+    <jobDef>LP_WalkCourse</jobDef>
+  </JoyGiverDef>
+  <ThingDef ParentName="LP_ExpansionBase">
+    <defName>LP_SteppingStump</defName>
+    <placeWorkers><li>LittlePlaygrounds.PlaceWorker_CourseLink</li></placeWorkers>
+    <drawStyleCategory>Defenses</drawStyleCategory>
+    <label>playground timber step</label>
+    <description>A low sawn-timber stepping pad. Stepping stones, timber steps and balance logs all link to each other edge to edge. A course needs at least two cells (a balance log alone has two), and pieces that only meet at a corner do not link. Children and adults follow the connected route.</description>
+    <size>(1,1)</size>
+    <tickerType>Never</tickerType>
+    <graphicData>
+      <texPath>ExpansionIcons/SteppingStump</texPath>
+      <graphicClass>LittlePlaygrounds.Graphic_PlaygroundExpansion</graphicClass>
+      <drawSize>(0.9,0.9)</drawSize>
+    </graphicData>
+    <costList>
+      <WoodLog>5</WoodLog>
+    </costList>
+    <modExtensions>
+      <li Class="LittlePlaygrounds.ExpansionProperties">
+        <kind>SteppingStone</kind>
+        <seats>1</seats>
+        <woodenStep>true</woodenStep>
+      </li>
+    </modExtensions>
+    <statBases>
+      <WorkToBuild>180</WorkToBuild>
+      <Beauty>1</Beauty>
+    </statBases>
+  </ThingDef>
+  <JoyGiverDef ParentName="LP_AdultPlayBase">
+    <defName>LP_AdultSteppingStump</defName>
+    <thingDefs>
+      <li>LP_SteppingStump</li>
+    </thingDefs>
+    <jobDef>LP_WalkCourse</jobDef>
+  </JoyGiverDef>
+  <ThingDef ParentName="LP_ExpansionBase">
+    <defName>LP_BalanceLog</defName>
+    <placeWorkers><li>LittlePlaygrounds.PlaceWorker_CourseLink</li></placeWorkers>
+    <drawStyleCategory>Defenses</drawStyleCategory>
+    <label>playground balance log</label>
+    <description>A low oak balance log, two cells long; place it lengthwise or crosswise. Stepping stones, timber steps and balance logs all link to each other edge to edge. A course needs at least two cells (a balance log alone has two), and pieces that only meet at a corner do not link. Visitors balance along a connected branch, then return. All course cells must remain clear.</description>
+    <size>(2,1)</size>
+    <rotatable>true</rotatable>
+    <tickerType>Never</tickerType>
+    <graphicData>
+      <texPath>ExpansionIcons/BalanceLog</texPath>
+      <graphicClass>LittlePlaygrounds.Graphic_PlaygroundExpansion</graphicClass>
+      <drawSize>(2.06,0.39825)</drawSize>
+      <drawOffset>(0,0,-0.0416)</drawOffset>
+    </graphicData>
+    <costList>
+      <WoodLog>8</WoodLog>
+    </costList>
+    <modExtensions>
+      <li Class="LittlePlaygrounds.ExpansionProperties">
+        <kind>BalanceLog</kind>
+        <seats>1</seats>
+      </li>
+    </modExtensions>
+    <statBases>
+      <WorkToBuild>360</WorkToBuild>
+      <Beauty>2</Beauty>
+    </statBases>
+  </ThingDef>
+  <JoyGiverDef ParentName="LP_AdultPlayBase">
+    <defName>LP_AdultBalanceLog</defName>
+    <thingDefs>
+      <li>LP_BalanceLog</li>
+    </thingDefs>
+    <jobDef>LP_WalkCourse</jobDef>
+  </JoyGiverDef>
+  <ThingDef ParentName="LP_ExpansionBase">
+    <defName>LP_PlayFence</defName>
+    <building><joyKind IsNull="True" /></building>
+    <drawStyleCategory>Defenses</drawStyleCategory>
+    <designationCategory>Structure</designationCategory>
+    <label>oak playground fence</label>
+    <description>Low oak pickets joined to square timber posts. Adjacent fence pieces connect. This is a decorative, step-over playground boundary, not an animal pen barrier.</description>
+    <size>(1,1)</size>
+    <tickerType>Never</tickerType>
+    <graphicData>
+      <texPath>ExpansionIcons/Fence</texPath>
+      <graphicClass>LittlePlaygrounds.Graphic_PlaygroundExpansion</graphicClass>
+      <drawSize>(1,0.65)</drawSize>
+      <drawOffset>(0,0,0.28)</drawOffset>
+    </graphicData>
+    <costList>
+      <WoodLog>4</WoodLog>
+      <Steel>1</Steel>
+    </costList>
+    <modExtensions>
+      <li Class="LittlePlaygrounds.ExpansionProperties">
+        <kind>Fence</kind>
+        <seats>0</seats>
+      </li>
+    </modExtensions>
+    <statBases>
+      <WorkToBuild>180</WorkToBuild>
+      <Beauty>1</Beauty>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="LP_ExpansionBase">
+    <defName>LP_PlayEntrance</defName>
+    <building><joyKind IsNull="True" /></building>
+    <designationCategory>Structure</designationCategory>
+    <label>playground entrance</label>
+    <description>An always-open entrance with a small Little Playgrounds sign. A welcoming opening for a low garden fence.</description>
+    <size>(3,1)</size>
+    <tickerType>Never</tickerType>
+    <graphicData>
+      <texPath>ExpansionIcons/Entrance</texPath>
+      <graphicClass>LittlePlaygrounds.Graphic_PlaygroundExpansion</graphicClass>
+      <drawSize>(3.25,0.82)</drawSize>
+      <drawOffset>(0,0,0.34)</drawOffset>
+    </graphicData>
+    <costList>
+      <WoodLog>18</WoodLog>
+      <Steel>6</Steel>
+    </costList>
+    <modExtensions>
+      <li Class="LittlePlaygrounds.ExpansionProperties">
+        <kind>Entrance</kind>
+        <seats>0</seats>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="LP_ExpansionBase">
+    <defName>LP_GardenFountain</defName>
+    <stuffCategories><li>Stony</li></stuffCategories><costStuffCount>90</costStuffCount>
+    <building><joyKind IsNull="True" /></building>
+    <designationCategory>Furniture</designationCategory>
+    <label>garden fountain</label>
+    <description>A low pale stone basin with gently flowing water. A garden centerpiece to place near the seating area. Built from any stone blocks; its shape and colors stay the same whichever stone you use.</description>
+    <size>(3,3)</size>
+    <tickerType>Never</tickerType>
+    <graphicData>
+      <texPath>ExpansionIcons/Fountain</texPath>
+      <graphicClass>LittlePlaygrounds.Graphic_PlaygroundExpansion</graphicClass>
+      <drawSize>(2.573,1.829)</drawSize>
+      <drawOffset>(0,0,0.1705)</drawOffset>
+    </graphicData>
+    <passability>Impassable</passability>
+    <!-- The low basin blocks walking but intentionally allows sight and shots over it. -->
+    <disableImpassableShotOverConfigError>true</disableImpassableShotOverConfigError>
+    <costList>
+      <Steel>20</Steel>
+    </costList>
+    <modExtensions>
+      <li Class="LittlePlaygrounds.ExpansionProperties">
+        <kind>Fountain</kind>
+        <seats>0</seats>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <JobDef>
+    <defName>LP_RideSpringFox</defName>
+    <driverClass>LittlePlaygrounds.JobDriver_VisitPlayground</driverClass>
+    <reportString>riding TargetA.</reportString>
+    <casualInterruptible>true</casualInterruptible>
+    <joyKind>Gaming_Dexterity</joyKind>
+    <joyGainRate>1</joyGainRate>
+    <joyMaxParticipants>1</joyMaxParticipants>
+  </JobDef>
+  <JobDef>
+    <defName>LP_SpinRoundabout</defName>
+    <driverClass>LittlePlaygrounds.JobDriver_VisitPlayground</driverClass>
+    <reportString>spinning on TargetA.</reportString>
+    <casualInterruptible>true</casualInterruptible>
+    <joyKind>Gaming_Dexterity</joyKind>
+    <joyGainRate>1</joyGainRate>
+    <joyMaxParticipants>4</joyMaxParticipants>
+  </JobDef>
+  <JobDef>
+    <defName>LP_PlayShop</defName>
+    <driverClass>LittlePlaygrounds.JobDriver_VisitPlayground</driverClass>
+    <reportString>playing shop at TargetA.</reportString>
+    <casualInterruptible>true</casualInterruptible>
+    <joyKind>Gaming_Dexterity</joyKind>
+    <joyGainRate>1</joyGainRate>
+    <joyMaxParticipants>2</joyMaxParticipants>
+  </JobDef>
+  <JobDef>
+    <defName>LP_PlayHopscotch</defName>
+    <driverClass>LittlePlaygrounds.JobDriver_VisitPlayground</driverClass>
+    <reportString>playing hopscotch.</reportString>
+    <casualInterruptible>true</casualInterruptible>
+    <joyKind>Gaming_Dexterity</joyKind>
+    <joyGainRate>1</joyGainRate>
+    <joyMaxParticipants>1</joyMaxParticipants>
+  </JobDef>
+  <JobDef>
+    <defName>LP_PlaySplashPad</defName>
+    <driverClass>LittlePlaygrounds.JobDriver_VisitPlayground</driverClass>
+    <reportString>playing in the water jets.</reportString>
+    <casualInterruptible>true</casualInterruptible>
+    <joyKind>Gaming_Dexterity</joyKind>
+    <joyGainRate>1</joyGainRate>
+    <joyMaxParticipants>3</joyMaxParticipants>
+  </JobDef>
+  <JobDef>
+    <defName>LP_WalkCourse</defName>
+    <driverClass>LittlePlaygrounds.JobDriver_VisitPlayground</driverClass>
+    <reportString>crossing the playground course.</reportString>
+    <casualInterruptible>true</casualInterruptible>
+    <joyKind>Gaming_Dexterity</joyKind>
+    <joyGainRate>1</joyGainRate>
+    <joyMaxParticipants>1</joyMaxParticipants>
+  </JobDef>
+  <JobDef>
+    <defName>LP_BounceTogether</defName>
+    <driverClass>LittlePlaygrounds.JobDriver_VisitPlayground</driverClass>
+    <reportString>bouncing on TargetA.</reportString>
+    <casualInterruptible>true</casualInterruptible>
+    <joyKind>Gaming_Dexterity</joyKind>
+    <joyGainRate>1</joyGainRate>
+    <joyMaxParticipants>3</joyMaxParticipants>
+  </JobDef>
+  <JobDef>
+    <defName>LP_DrinkAtFountain</defName>
+    <driverClass>LittlePlaygrounds.JobDriver_VisitPlayground</driverClass>
+    <reportString>having a drink at TargetA.</reportString>
+    <casualInterruptible>true</casualInterruptible>
+    <joyKind>Meditative</joyKind>
+    <joyGainRate>1</joyGainRate>
+    <joyMaxParticipants>2</joyMaxParticipants>
+  </JobDef>
+  <AnimationDef>
+    <defName>LP_ExpansionPose</defName>
+    <durationTicks>10000</durationTicks>
+    <loopMode>Loop</loopMode>
+    <keyframeParts>
+      <li>
+        <key>Root</key>
+        <value>
+          <workerType>LittlePlaygrounds.ExpansionAnimationWorker</workerType>
+          <keyframes>
+            <li>
+              <tick>0</tick>
+              <angle>0</angle>
+            </li>
+          </keyframes>
+        </value>
+      </li>
+    </keyframeParts>
+  </AnimationDef>
+</Defs>

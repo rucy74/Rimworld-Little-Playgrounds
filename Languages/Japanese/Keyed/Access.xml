@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_VisitorCount>利用者: {0} / {1}</LP_VisitorCount>
+  <LP_AudienceButton>利用者: {0}</LP_AudienceButton>
+  <LP_AudienceCurrent>許可された利用者: {0}</LP_AudienceCurrent>
+  <LP_AudienceDescription>この遊具を使える人を選びます。初期設定は全員です。除外された利用者は、現在の利用や順番待ちをやめます。この選択は保存されます。</LP_AudienceDescription>
+  <LP_AudienceEveryone>全員</LP_AudienceEveryone>
+  <LP_AudienceChildren>子供のみ</LP_AudienceChildren>
+  <LP_AudienceAdults>大人限定</LP_AudienceAdults>
+</LanguageData>

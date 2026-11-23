@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_VisitorCount>Návštevníci: {0} / {1}</LP_VisitorCount>
+  <LP_AudienceButton>Návštevníci: {0}</LP_AudienceButton>
+  <LP_AudienceCurrent>Povolení návštevníci: {0}</LP_AudienceCurrent>
+  <LP_AudienceDescription>Vyberte, kto môže používať toto zariadenie. Predvolene: všetci. Vylúčení návštevníci ukončia svoju aktuálnu návštevu alebo opustia rad. Táto voľba sa uloží.</LP_AudienceDescription>
+  <LP_AudienceEveryone>Všetci</LP_AudienceEveryone>
+  <LP_AudienceChildren>Len deti</LP_AudienceChildren>
+  <LP_AudienceAdults>Len pre dospelých</LP_AudienceAdults>
+</LanguageData>

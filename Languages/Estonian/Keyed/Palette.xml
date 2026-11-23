@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PaletteButton>Värviskeem</LP_PaletteButton>
+  <LP_PaletteDescription>Valige selle mänguväljaku värvid. Praegune: {0}. Muudab välimust koheselt; ehituskulud ja jõudlus jäävad samaks.</LP_PaletteDescription>
+  <LP_PaletteCurrent>Värviskeem: {0}</LP_PaletteCurrent>
+  <LP_PaletteLegacy>Algne viimistlus</LP_PaletteLegacy>
+  <LP_PaletteBlue>Puit + sinine</LP_PaletteBlue>
+  <LP_PaletteYellow>Puit + kollane</LP_PaletteYellow>
+  <LP_PaletteSage>Puit + salveiroheline</LP_PaletteSage>
+  <LP_PaletteClassic>Klassikalised värvid</LP_PaletteClassic>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Sandbox.label>Sandkasten aus Eiche</LP_Sandbox.label>
+  <LP_Sandbox.description>Ein Sandkasten aus heller Eiche mit elfenbeinfarbenen Ecksitzen. Bis zu drei Kinder oder Erwachsene formen allein oder gemeinsam aus einem Hügel einen Turm und anschließend eine Sandburg. Kinder lernen; für Erwachsene dient es der Entspannung. Ihre Kreation bleibt auch nach dem Verlassen erhalten und nutzt sich langsam ab, wenn sie nicht verwendet wird.</LP_Sandbox.description>
+  <LP_GardenBench.label>Gartenbank</LP_GardenBench.label>
+  <LP_GardenBench.description>Eine abgerundete Bank aus Eiche und Elfenbein mit Platz für zwei Personen. Kolonisten können sie zur Entspannung wählen oder den Befehl erhalten, sich hier auszuruhen. Platzieren Sie eine Schattenüberdachung ein Feld hinter der Bank, um sie zu beschatten.</LP_GardenBench.description>
+  <LP_ShadeCanopy.label>Spielplatz-Schattenüberdachung</LP_ShadeCanopy.label>
+  <LP_ShadeCanopy.description>Ein cremefarbener Stoffbaldachin auf salbeigrünen Pfosten. Platzieren Sie den Mittelmarker ein Feld hinter einer Bank. Er überdacht einen Bereich von fünf mal drei Feldern davor, ohne bestehende Dächer zu ersetzen. Der Stoff bleibt über sitzenden Besuchern undurchsichtig und verblasst, wenn sein erhöht gezeichnetes Bild eine Person verdeckt.</LP_ShadeCanopy.description>
+  <LP_OakCurb.label>Spielplatzeinfassung aus Eiche</LP_OakCurb.label>
+  <LP_OakCurb.description>Niedrige abgerundete Einfassung aus Eiche. Angrenzende Spielplatzeinfassungen verbinden sich automatisch, auch um Ecken herum. Personen können darüber steigen.</LP_OakCurb.description>
+  <LP_IvoryCurb.label>Spielplatzeinfassung</LP_IvoryCurb.label>
+  <LP_IvoryCurb.description>Niedrige elfenbeinfarbene Einfassung für eine fertige Spielplatzbegrenzung. Angrenzende Spielplatzeinfassungen verbinden sich automatisch, auch um Ecken herum. Personen können darüber steigen. Aus beliebigen Steinblöcken gebaut; ihre Form und Farben bleiben gleich, egal welchen Stein Sie verwenden.</LP_IvoryCurb.description>
+</LanguageData>

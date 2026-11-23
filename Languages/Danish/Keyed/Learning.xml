@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Setting_LearningWeight>Præference for læring gennem legepladsleg: {0} (standard: 2)</LP_Setting_LearningWeight>
+  <LP_Setting_LearningWeightDescription>Juster, hvor ofte et barn vælger legepladsleg som læringsønske. En højere værdi gør, at denne aktivitet er mere tilbøjelig til at blive valgt.</LP_Setting_LearningWeightDescription>
+  <LP_Setting_LearningWeightTip>Ved 1 har legepladsleg samme udvælgelsesvægt som gulvtegning eller naturløb. Ved 2 fordobles dens udvælgelsesvægt. Det betyder ikke dobbelt så mange faktiske besøg. Den separate 50 % chance for at lege, når barnet er ledigt, er uændret. Indstillingen gælder, når næste læringsønske vælges. Nuværende ønsker og igangværende leg er uændrede.</LP_Setting_LearningWeightTip>
+  <LP_Setting_LearningWeightTiming>Gælder når et nyt læringsønske er valgt. Eksisterende ønsker og leg i gang holdes.</LP_Setting_LearningWeightTiming>
+</LanguageData>

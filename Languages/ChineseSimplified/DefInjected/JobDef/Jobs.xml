@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_RideSwing.reportString>正在荡秋千。</LP_RideSwing.reportString>
+  <LP_RideSlide.reportString>正在滑滑梯。</LP_RideSlide.reportString>
+  <LP_RideSeesaw.reportString>正在玩跷跷板。</LP_RideSeesaw.reportString>
+  <LP_PlayInSand.reportString>正在堆沙堡。</LP_PlayInSand.reportString>
+  <LP_RelaxOnBench.reportString>正在花园长椅上休息。</LP_RelaxOnBench.reportString>
+  <LP_WaitForPlayground.reportString>正在短暂等待 TargetA。</LP_WaitForPlayground.reportString>
+  <LP_BounceTrampoline.reportString>正在 TargetA 上跳跃。</LP_BounceTrampoline.reportString>
+  <LP_RideZipline.reportString>正在乘坐 TargetA。</LP_RideZipline.reportString>
+  <LP_RideSpringFox.reportString>正在玩 TargetA。</LP_RideSpringFox.reportString>
+  <LP_SpinRoundabout.reportString>正在 TargetA 上旋转。</LP_SpinRoundabout.reportString>
+  <LP_PlayShop.reportString>正在 TargetA 玩商店扮演。</LP_PlayShop.reportString>
+  <LP_PlayHopscotch.reportString>正在玩跳房子。</LP_PlayHopscotch.reportString>
+  <LP_PlaySplashPad.reportString>正在喷水区玩水。</LP_PlaySplashPad.reportString>
+  <LP_WalkCourse.reportString>正在穿过游乐场路线。</LP_WalkCourse.reportString>
+  <LP_BounceTogether.reportString>正在 TargetA 上跳跃。</LP_BounceTogether.reportString>
+  <LP_DrinkAtFountain.reportString>正在 TargetA 喝水。</LP_DrinkAtFountain.reportString>
+  <LP_CareSwing.reportString>正在和 TargetB 荡秋千。</LP_CareSwing.reportString>
+  <LP_CareSeesaw.reportString>正在和 TargetB 玩跷跷板。</LP_CareSeesaw.reportString>
+  <LP_CareSand.reportString>正在和 TargetB 堆沙堡。</LP_CareSand.reportString>
+  <LP_CareRoundabout.reportString>正在和 TargetB 玩旋转游乐盘。</LP_CareRoundabout.reportString>
+  <LP_CarePlayhouse.reportString>正在和 TargetB 玩商店扮演。</LP_CarePlayhouse.reportString>
+  <LP_CareBounceTogether.reportString>正在和 TargetB 跳蹦床。</LP_CareBounceTogether.reportString>
+  <LP_WatchChildPlay.reportString>正在观看 TargetB 玩耍。</LP_WatchChildPlay.reportString>
+</LanguageData>

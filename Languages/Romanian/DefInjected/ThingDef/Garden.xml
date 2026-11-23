@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Sandbox.label>cutie cu nisip din stejar</LP_Sandbox.label>
+  <LP_Sandbox.description>O cutie de nisip din stejar pal, cu scaune de colț de fildeș. Până la trei copii sau adulți modelează o movilă într-un turn și apoi un castel de nisip, singuri sau împreună. Copiii învață; adulții câștigă recreere. Creația lor rămâne după ce pleacă și se uzează încet când nu este folosită.</LP_Sandbox.description>
+  <LP_GardenBench.label>bancă de grădină</LP_GardenBench.label>
+  <LP_GardenBench.description>O bancă rotunjită din stejar și fildeș, cu loc pentru două persoane. Coloniștii o pot alege pentru recreere sau pot primi ordin să se relaxeze aici. Așezați baldachinul pentru umbrirea locului de joacă la o celulă în spatele băncii, ca s-o adăpostească.</LP_GardenBench.description>
+  <LP_ShadeCanopy.label>baldachin pentru umbrirea locului de joacă</LP_ShadeCanopy.label>
+  <LP_ShadeCanopy.description>Un baldachin din țesătură crem pe stâlpi verde-salvie. Plasați marcatorul central la o celulă în spatele unei bănci. Adăpostește o zonă de cinci pe trei celule în față, fără a înlocui acoperișurile existente. Materialul rămâne opac peste vizitatorii așezați și devine transparent atunci când imaginea sa înălțată ascunde un pion.</LP_ShadeCanopy.description>
+  <LP_OakCurb.label>bordură de stejar pentru locul de joacă</LP_OakCurb.label>
+  <LP_OakCurb.description>Bordură joasă și rotunjită de stejar. Bordurile alăturate se conectează automat, inclusiv la colțuri. Pionii pot păși peste ea.</LP_OakCurb.description>
+  <LP_IvoryCurb.label>bordură pentru locul de joacă</LP_IvoryCurb.label>
+  <LP_IvoryCurb.description>Bordură joasă de culoarea fildeșului, pentru o margine îngrijită a locului de joacă. Bordurile alăturate se conectează automat, inclusiv la colțuri. Pionii pot păși peste ea. Construită din orice blocuri de piatră; forma și culorile sale rămân aceleași, indiferent de piatra pe care o folosiți.</LP_IvoryCurb.description>
+</LanguageData>

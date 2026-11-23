@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Setting_LearningWeight>遊び場での学習の優先度：{0}（初期値：2）</LP_Setting_LearningWeight>
+  <LP_Setting_LearningWeightDescription>子供が学習活動として遊び場での遊びを選択する頻度を調整します。値が大きいほど、このアクティビティが選択される可能性が高くなります。</LP_Setting_LearningWeightDescription>
+  <LP_Setting_LearningWeightTip>1 では、遊び場遊びの選ばれやすさが落書きやかけっこなどの通常の活動と同じになります。2 ではその重みが2倍になりますが、実際の利用回数が2倍になるわけではありません。暇な時間に遊ぶ50%の確率には影響しません。変更は次に子供が望む学習活動を選ぶときから適用され、すでに望んでいる活動と進行中の遊びはそのまま残ります。</LP_Setting_LearningWeightTip>
+  <LP_Setting_LearningWeightTiming>子供が新しく望む学習活動を選ぶときに適用されます。すでに望んでいる活動と進行中の遊びはそのまま残ります。</LP_Setting_LearningWeightTiming>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Trampoline.label>trampoliini</LP_Trampoline.label>
+  <LP_Trampoline.description>Matala trampoliini lyhyillä jaloilla, leveällä pehmustetulla reunalla ja pienellä askelmalla. Yksi lapsi tai aikuinen astuu matolle, tekee muutaman pienen hypyn ja pomppii sitten korkeammalle ennen asettumistaan. Lapset oppivat; aikuiset saavat hupia. Pidä eteläinen sisäänkäynti vapaana.</LP_Trampoline.description>
+  <LP_Zipline.label>puinen leikkikentän vaijeriliuku</LP_Zipline.label>
+  <LP_Zipline.description>Lyhyt kaapeliliuku kahden puutuen välillä. Yksi lapsi tai aikuinen istuu riippuvalle istuimelle, liukuu toiseen päähän ja astuu pois. Tyhjä istuin palaa lähtöpylväälle ennen kuin seuraava pääsee kyytiin. Lapset oppivat; aikuiset saavat hupia. Pidä molemmat eteläiset kulkuruudut vapaina.</LP_Zipline.description>
+</LanguageData>

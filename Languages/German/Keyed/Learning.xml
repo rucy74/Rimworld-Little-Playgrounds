@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Setting_LearningWeight>Präferenz für Lernen durch Spielen auf dem Spielplatz: {0} (Standard: 2)</LP_Setting_LearningWeight>
+  <LP_Setting_LearningWeightDescription>Passen Sie an, wie oft ein Kind das Spielen auf dem Spielplatz als Lernaktivität wählt. Ein höherer Wert erhöht die Wahrscheinlichkeit, dass diese Aktivität ausgewählt wird.</LP_Setting_LearningWeightDescription>
+  <LP_Setting_LearningWeightTip>Bei 1 hat das Spielen auf dem Spielplatz das gleiche Auswahlgewicht wie gewöhnliche Aktivitäten, etwa auf dem Boden zeichnen oder Natur erkunden. Bei 2 wird sein Auswahlgewicht verdoppelt. Dies bedeutet nicht doppelt so viele tatsächliche Besuche. Die separate 50%-Chance, im Leerlauf zu spielen, bleibt unverändert. Die Einstellung gilt bei Auswahl des nächsten Lernwunsches. Die aktuellen Wünsche und das laufende Spiel bleiben unverändert.</LP_Setting_LearningWeightTip>
+  <LP_Setting_LearningWeightTiming>Gilt, wenn ein neuer Lernwunsch gewählt wird. Bestehende Wünsche und laufende Spiele bleiben erhalten.</LP_Setting_LearningWeightTiming>
+</LanguageData>

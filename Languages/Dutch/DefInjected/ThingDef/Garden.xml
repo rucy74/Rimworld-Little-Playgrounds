@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Sandbox.label>eiken zandbak</LP_Sandbox.label>
+  <LP_Sandbox.description>Een licht eiken zandbak met ivoren hoekzitplaatsen. Maximaal drie kinderen of volwassenen vormen een heuvel tot een toren en vervolgens tot een zandkasteel, alleen of samen. Kinderen leren; volwassenen krijgen recreatie. Hun creatie blijft nadat ze zijn vertrokken en verslijt langzaam als ze niet worden gebruikt.</LP_Sandbox.description>
+  <LP_GardenBench.label>tuinbank</LP_GardenBench.label>
+  <LP_GardenBench.description>Een ronde bank van eiken en ivoor met ruimte voor twee personen. Kolonisten kunnen hem kiezen voor recreatie of de opdracht krijgen om hier te ontspannen. Plaats een schaduwluifel één vakje achter de bank om hem te beschutten.</LP_GardenBench.description>
+  <LP_ShadeCanopy.label>schaduwluifel voor speeltuin</LP_ShadeCanopy.label>
+  <LP_ShadeCanopy.description>Een crèmekleurige stoffen luifel op saliegroene palen. Plaats de middelste markering één vakje achter een bank. Hij beschut een gebied van vijf bij drie ervoor, zonder bestaande daken te vervangen. De stof blijft ondoorzichtig boven zittende bezoekers en vervaagt wanneer de verhoogde afbeelding iemand verbergt.</LP_ShadeCanopy.description>
+  <LP_OakCurb.label>eiken speeltuinrand</LP_OakCurb.label>
+  <LP_OakCurb.description>Lage afgeronde eikenhouten rand. Aangrenzende speeltuinranden sluiten automatisch aan, ook om hoeken. Iedereen kan eroverheen stappen.</LP_OakCurb.description>
+  <LP_IvoryCurb.label>speeltuinrand</LP_IvoryCurb.label>
+  <LP_IvoryCurb.description>Lage ivoren rand voor een afgewerkte speelplaatsafscheiding. Aangrenzende speeltuinranden sluiten automatisch aan, ook om hoeken. Iedereen kan eroverheen stappen. Gebouwd uit stenen blokken; de vorm en kleuren blijven hetzelfde, welke steen je ook gebruikt.</LP_IvoryCurb.description>
+</LanguageData>

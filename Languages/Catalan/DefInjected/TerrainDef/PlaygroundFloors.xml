@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PlaySandLight.label>sorra clara de parc infantil</LP_PlaySandLight.label>
+  <LP_PlaySandLight.description>Sorra pàl·lida amb ondulacions suaus i poc profundes per a un parc lluminós. Aquesta és una tercera superfície de sorra, juntament amb la sorra fina i la sorra granulosa.</LP_PlaySandLight.description>
+  <LP_PlaySand.label>sorra fina del parc infantil</LP_PlaySand.label>
+  <LP_PlaySand.description>Sorra de parc infantil assentada, de color beix càlid, amb grans fins i una variació suau i poc marcada.</LP_PlaySand.description>
+  <LP_PlaySandGrainy.label>sorra granulosa del parc infantil</LP_PlaySandGrainy.label>
+  <LP_PlaySandGrainy.description>Sorra càlida del parc infantil amb grans visibles i una superfície lleugerament rasclada. Una alternativa més texturada a la sorra fina del parc infantil.</LP_PlaySandGrainy.description>
+  <LP_RubberSage.label>paviment de cautxú verd sàlvia</LP_RubberSage.label>
+  <LP_RubberSage.description>Una superfície de joc de molla de goma mat. La seva textura subtil s'uneix sense una graella de rajoles. Disponible en sàlvia, crema i albercoc.</LP_RubberSage.description>
+  <LP_RubberCream.label>paviment de cautxú de color crema</LP_RubberCream.label>
+  <LP_RubberCream.description>Una superfície de joc de molla de goma mat. La seva textura subtil s'uneix sense una graella de rajoles. Disponible en sàlvia, crema i albercoc.</LP_RubberCream.description>
+  <LP_RubberApricot.label>paviment de cautxú de color albercoc</LP_RubberApricot.label>
+  <LP_RubberApricot.description>Una superfície de joc de molla de goma mat. La seva textura subtil s'uneix sense una graella de rajoles. Disponible en sàlvia, crema i albercoc.</LP_RubberApricot.description>
+</LanguageData>

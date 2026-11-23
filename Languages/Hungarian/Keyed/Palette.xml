@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PaletteButton>Színséma</LP_PaletteButton>
+  <LP_PaletteDescription>Válassza ki a játszóeszköz színeit. Jelenlegi: {0}. Azonnal megváltoztatja a megjelenést; az építési költségek és a teljesítmény változatlanok maradnak.</LP_PaletteDescription>
+  <LP_PaletteCurrent>Színséma: {0}</LP_PaletteCurrent>
+  <LP_PaletteLegacy>Eredeti kivitel</LP_PaletteLegacy>
+  <LP_PaletteBlue>Fa + kék</LP_PaletteBlue>
+  <LP_PaletteYellow>Fa + sárga</LP_PaletteYellow>
+  <LP_PaletteSage>Fa + zsályazöld</LP_PaletteSage>
+  <LP_PaletteClassic>Klasszikus színek</LP_PaletteClassic>
+</LanguageData>

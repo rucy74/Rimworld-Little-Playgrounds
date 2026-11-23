@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Setting_LearningWeight>Preference pro učení prostřednictvím hry na hřišti: {0} (výchozí: 2)</LP_Setting_LearningWeight>
+  <LP_Setting_LearningWeightDescription>Upravte, jak často si dítě vybírá hru na hřišti jako učební aktivitu. Vyšší hodnota zvyšuje pravděpodobnost výběru této aktivity.</LP_Setting_LearningWeightDescription>
+  <LP_Setting_LearningWeightTip>Při 1 má hra na hřišti stejnou váhu losování jako běžné aktivity, například „kreslení na podlahu“ nebo „pobíhání po přírodě“. Při 2 se tato váha zdvojnásobí, ne skutečný počet návštěv. Neovlivňuje to 50% šanci na hraní ve volném čase. Změny platí od dalšího losování touhy po učení; stávající touhy a probíhající hra zůstanou zachovány.</LP_Setting_LearningWeightTip>
+  <LP_Setting_LearningWeightTiming>Platí, když je vybrán nový vzdělávací požadavek. Stávající touhy a probíhající hra jsou zachovány.</LP_Setting_LearningWeightTiming>
+</LanguageData>

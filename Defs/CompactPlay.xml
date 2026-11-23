@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef Name="LP_CompactBase" Abstract="True" ParentName="LP_ExpansionBase">
+    <tickerType>Never</tickerType>
+    <statBases><MaxHitPoints>140</MaxHitPoints><WorkToBuild>1200</WorkToBuild><Mass>12</Mass><Flammability>0.6</Flammability><Beauty>4</Beauty></statBases>
+  </ThingDef>
+  <ThingDef ParentName="LP_CompactBase">
+    <defName>LP_CompactSlide</defName><rotatable>true</rotatable><label>little slide</label>
+    <description>A low, compact slide for an indoor playroom or outdoor playground. Climb the three steps, cross the platform and slide down. Keep the entrance and landing clear. Children gain learning; adults gain recreation.</description>
+    <size>(2,3)</size>
+    <graphicData><texPath>Things/Building/CompactSlideV1</texPath><graphicClass>LittlePlaygrounds.Graphic_PlaygroundTurn</graphicClass><drawSize>(4.0128,4.0128)</drawSize></graphicData>
+    <costList><Steel>25</Steel><WoodLog>15</WoodLog></costList>
+    <modExtensions><li Class="LittlePlaygrounds.TurnProperties"><kind>Distinct</kind></li><li Class="LittlePlaygrounds.ExpansionProperties"><kind>CompactSlide</kind><seats>1</seats></li></modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="LP_CompactBase">
+    <defName>LP_FloorRocker</defName><rotatable>true</rotatable><label>floor rocker</label>
+    <description>A low, rounded rocking seesaw for indoors or outdoors. One visitor can rock alone; two can sit facing each other. Children gain learning; adults gain recreation.</description>
+    <size>(3,2)</size>
+    <graphicData><texPath>Things/Building/FloorRockerV1</texPath><graphicClass>LittlePlaygrounds.Graphic_PlaygroundTurn</graphicClass><drawSize>(3.135,3.135)</drawSize></graphicData>
+    <costList><Steel>25</Steel><WoodLog>15</WoodLog></costList>
+    <modExtensions><li Class="LittlePlaygrounds.TurnProperties"><kind>Symmetric</kind></li><li Class="LittlePlaygrounds.ExpansionProperties"><kind>FloorRocker</kind><seats>2</seats></li></modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="LP_CompactBase">
+    <defName>LP_BallPit</defName><label>little ball pit</label>
+    <description>A small padded pit filled with colorful play balls. Up to two visitors can wade and play together, indoors or outdoors. Children gain learning; adults gain recreation.</description>
+    <size>(3,3)</size>
+    <graphicData><texPath>Things/Building/BallPitFilledV1</texPath><graphicClass>Graphic_Single</graphicClass><drawSize>(5.016,5.016)</drawSize></graphicData>
+    <costList><Cloth>35</Cloth><Steel>15</Steel></costList>
+    <modExtensions><li Class="LittlePlaygrounds.ExpansionProperties"><kind>BallPit</kind><seats>2</seats></li></modExtensions>
+  </ThingDef>
+  <JobDef Name="LP_CompactJob" Abstract="True">
+    <driverClass>LittlePlaygrounds.JobDriver_VisitPlayground</driverClass><casualInterruptible>true</casualInterruptible>
+    <joyKind>Gaming_Dexterity</joyKind><joyGainRate>1</joyGainRate>
+  </JobDef>
+  <JobDef ParentName="LP_CompactJob"><defName>LP_RideCompactSlide</defName><reportString>playing on the little slide.</reportString><joyMaxParticipants>1</joyMaxParticipants></JobDef>
+  <JobDef ParentName="LP_CompactJob"><defName>LP_RideFloorRocker</defName><reportString>rocking on the floor rocker.</reportString><joyMaxParticipants>2</joyMaxParticipants></JobDef>
+  <JobDef ParentName="LP_CompactJob"><defName>LP_PlayBallPit</defName><reportString>playing in the ball pit.</reportString><joyMaxParticipants>2</joyMaxParticipants></JobDef>
+  <JobDef ParentName="LP_CareBase"><defName>LP_CareFloorRocker</defName><driverClass>LittlePlaygrounds.JobDriver_VisitPlayground</driverClass><reportString>rocking with TargetB.</reportString></JobDef>
+  <JobDef ParentName="LP_CareBase"><defName>LP_CareBallPit</defName><driverClass>LittlePlaygrounds.JobDriver_VisitPlayground</driverClass><reportString>playing in the ball pit with TargetB.</reportString></JobDef>
+  <JoyGiverDef ParentName="LP_AdultPlayBase"><defName>LP_AdultCompactSlide</defName><thingDefs><li>LP_CompactSlide</li></thingDefs><jobDef>LP_RideCompactSlide</jobDef></JoyGiverDef>
+  <JoyGiverDef ParentName="LP_AdultPlayBase"><defName>LP_AdultFloorRocker</defName><thingDefs><li>LP_FloorRocker</li></thingDefs><jobDef>LP_RideFloorRocker</jobDef></JoyGiverDef>
+  <JoyGiverDef ParentName="LP_AdultPlayBase"><defName>LP_AdultBallPit</defName><thingDefs><li>LP_BallPit</li></thingDefs><jobDef>LP_PlayBallPit</jobDef></JoyGiverDef>
+</Defs>

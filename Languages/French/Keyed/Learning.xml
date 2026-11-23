@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Setting_LearningWeight>Préférence pour les jeux au parc : {0} (défaut : 2)</LP_Setting_LearningWeight>
+  <LP_Setting_LearningWeightDescription>Ajustez la fréquence à laquelle un enfant choisit le jeu sur le terrain de jeu comme activité d'apprentissage. Une valeur plus élevée rend cette activité plus susceptible d'être choisie.</LP_Setting_LearningWeightDescription>
+  <LP_Setting_LearningWeightTip>À 1, le jeu sur terrain de jeu a le même poids de sélection que le dessin au sol ou la course dans la nature. A 2, son poids de sélection est doublé. Cela ne signifie pas deux fois plus de visites réelles. Les 50 % de chances distinctes de jouer en mode inactif restent inchangées. Le réglage s'applique lorsque le prochain désir d'apprentissage est sélectionné. Les désirs actuels et le jeu en cours sont inchangés.</LP_Setting_LearningWeightTip>
+  <LP_Setting_LearningWeightTiming>S'applique lorsqu'une nouvelle envie d'apprentissage est choisie. Les envies existantes et les jeux en cours sont conservés.</LP_Setting_LearningWeightTiming>
+</LanguageData>

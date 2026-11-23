@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_VisitorCount>Επισκέπτες: {0} / {1}</LP_VisitorCount>
+  <LP_AudienceButton>Επισκέπτες: {0}</LP_AudienceButton>
+  <LP_AudienceCurrent>Επιτρεπόμενοι επισκέπτες: {0}</LP_AudienceCurrent>
+  <LP_AudienceDescription>Επιλέξτε ποιος μπορεί να χρησιμοποιεί αυτόν τον εξοπλισμό. Προεπιλογή: όλοι. Οι αποκλεισμένοι επισκέπτες σταματούν την τρέχουσα επίσκεψη ή την αναμονή τους. Η επιλογή αποθηκεύεται.</LP_AudienceDescription>
+  <LP_AudienceEveryone>Όλοι</LP_AudienceEveryone>
+  <LP_AudienceChildren>Μόνο για παιδιά</LP_AudienceChildren>
+  <LP_AudienceAdults>Μόνο για ενήλικες</LP_AudienceAdults>
+</LanguageData>

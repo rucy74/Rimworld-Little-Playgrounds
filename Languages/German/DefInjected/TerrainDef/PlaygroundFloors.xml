@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PlaySandLight.label>heller Spielplatzsand</LP_PlaySandLight.label>
+  <LP_PlaySandLight.description>Heller Sand mit sanften, flachen Wellen für einen hellen Spielplatz. Dies ist neben Feinsand und körnigem Sand eine dritte Sandfläche.</LP_PlaySandLight.description>
+  <LP_PlaySand.label>feiner Spielplatzsand</LP_PlaySand.label>
+  <LP_PlaySand.description>Fester, warmbeiger Spielplatzsand mit feiner Körnung und ruhiger, flacher Variation.</LP_PlaySand.description>
+  <LP_PlaySandGrainy.label>körniger Spielplatzsand</LP_PlaySandGrainy.label>
+  <LP_PlaySandGrainy.description>Warmer Spielplatzsand mit sichtbaren Körnern und einer leicht geharkten Oberfläche. Eine strukturiertere Alternative zu feinem Spielplatzsand.</LP_PlaySandGrainy.description>
+  <LP_RubberSage.label>salbeigrüner Gummiboden</LP_RubberSage.label>
+  <LP_RubberSage.description>Eine matte Spielplatzoberfläche aus Gummikrümeln. Ihre dezente Struktur fügt sich ohne Fliesenraster zusammen. Erhältlich in Salbei, Creme und Aprikose.</LP_RubberSage.description>
+  <LP_RubberCream.label>cremefarbener Gummiboden</LP_RubberCream.label>
+  <LP_RubberCream.description>Eine matte Spielplatzoberfläche aus Gummikrümeln. Ihre dezente Struktur fügt sich ohne Fliesenraster zusammen. Erhältlich in Salbei, Creme und Aprikose.</LP_RubberCream.description>
+  <LP_RubberApricot.label>aprikosenfarbener Gummiboden</LP_RubberApricot.label>
+  <LP_RubberApricot.description>Eine matte Spielplatzoberfläche aus Gummikrümeln. Ihre dezente Struktur fügt sich ohne Fliesenraster zusammen. Erhältlich in Salbei, Creme und Aprikose.</LP_RubberApricot.description>
+</LanguageData>

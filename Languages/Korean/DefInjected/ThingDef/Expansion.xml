@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_SteppingStump.label>놀이터 목재 발판</LP_SteppingStump.label>
+  <LP_SteppingStump.description>낮고 넓게 자른 원목 발판입니다. 징검돌·목재 발판·균형 통나무는 변이 맞닿으면 서로 이어집니다. 코스는 두 칸 이상이어야 하고(균형 통나무는 하나로도 두 칸), 모서리로만 닿은 조각은 이어지지 않습니다. 아이와 어른이 혼자 건너갔다 돌아옵니다.</LP_SteppingStump.description>
+  <LP_SpringFox.label>여우 흔들말</LP_SpringFox.label>
+  <LP_SpringFox.description>세이지색 스프링 위에 올라탄 원목 여우입니다. 아이와 어른이 혼자 타고 몸을 기울이며 흔들 수 있습니다.</LP_SpringFox.description>
+  <LP_Roundabout.label>원목 회전 놀이대</LP_Roundabout.label>
+  <LP_Roundabout.description>최대 네 명이 함께 타는 회전 놀이대입니다. 혼자서도 돌릴 수 있고, 누군가 타거나 내릴 때는 서서히 멈춥니다.</LP_Roundabout.description>
+  <LP_Playhouse.label>작은 가게 놀이집</LP_Playhouse.label>
+  <LP_Playhouse.description>원목 계산대와 작은 창문이 있는 놀이집입니다. 혼자 가게를 돌보거나, 두 사람이 주인과 손님 역할로 놀 수 있습니다. 아이는 학습, 어른은 오락을 얻습니다.</LP_Playhouse.description>
+  <LP_DrinkingFountain.label>두 높이 급수대</LP_DrinkingFountain.label>
+  <LP_DrinkingFountain.description>아이용 낮은 물받이와 어른용 높은 물받이가 있는 급수대입니다. 놀고 난 아이가 가까운 급수대에 잠시 들러 물을 마십니다. 이용 중에만 작은 물줄기가 흐릅니다. 별도의 갈증 욕구는 추가하지 않습니다. 어떤 돌 벽돌로 지어도 모양과 색은 그대로입니다.</LP_DrinkingFountain.description>
+  <LP_Hopscotch.label>놀이터 사방치기</LP_Hopscotch.label>
+  <LP_Hopscotch.description>숫자가 그려진 여덟 칸을 따라 폴짝폴짝 건너갔다 돌아옵니다. 아이와 어른 모두 혼자 즐길 수 있습니다. 어떤 돌 벽돌로 지어도 모양과 색은 그대로입니다.</LP_Hopscotch.description>
+  <LP_SplashPad.label>놀이터 바닥분수</LP_SplashPad.label>
+  <LP_SplashPad.description>바닥에서 오르내리는 물줄기 사이를 오가는 놀이 공간입니다. 혼자 또는 최대 세 명이 함께 놀 수 있습니다. 기온이 10도 미만이거나 눈이 쌓이면 새 놀이를 시작하지 않습니다. 어떤 돌 벽돌로 지어도 모양과 색은 그대로입니다.</LP_SplashPad.description>
+  <LP_SteppingStone.label>놀이터 징검돌</LP_SteppingStone.label>
+  <LP_SteppingStone.description>낮고 둥근 징검돌입니다. 징검돌·목재 발판·균형 통나무는 변이 맞닿으면 서로 이어집니다. 코스는 두 칸 이상이어야 하고(균형 통나무는 하나로도 두 칸), 모서리로만 닿은 조각은 이어지지 않습니다. 방문자는 최대 24칸의 한 갈래를 따라 갔다 돌아오며, 이용 중인 경로를 예약합니다. 어떤 돌 벽돌로 지어도 모양과 색은 그대로입니다.</LP_SteppingStone.description>
+  <LP_BalanceLog.label>놀이터 균형 통나무</LP_BalanceLog.label>
+  <LP_BalanceLog.description>두 칸 길이의 낮은 원목 균형 통나무입니다. 가로나 세로로 놓을 수 있습니다. 징검돌·목재 발판·균형 통나무는 변이 맞닿으면 서로 이어집니다. 코스는 두 칸 이상이어야 하고(균형 통나무는 하나로도 두 칸), 모서리로만 닿은 조각은 이어지지 않습니다. 경로를 막는 장애물이 생기면 놀이를 멈춥니다.</LP_BalanceLog.description>
+  <LP_PlayFence.label>원목 놀이터 울타리</LP_PlayFence.label>
+  <LP_PlayFence.description>사각 원목 기둥과 나무 울타리살을 이어 만든 낮은 울타리입니다. 이웃한 울타리끼리 연결됩니다. 정착민이 넘을 수 있는 장식용 경계이며 동물 우리를 가두는 울타리는 아닙니다.</LP_PlayFence.description>
+  <LP_PlayEntrance.label>놀이터 입구</LP_PlayEntrance.label>
+  <LP_PlayEntrance.description>작은 Little Playgrounds 표지판이 달린 열린 입구입니다. 놀이터 울타리 사이에 놓으세요.</LP_PlayEntrance.description>
+  <LP_GardenFountain.label>정원 분수</LP_GardenFountain.label>
+  <LP_GardenFountain.description>아이보리색 석재 수반에서 물이 부드럽게 흐르는 낮은 정원 분수입니다. 벤치 주변이나 놀이터 중심을 꾸미기 좋습니다. 어떤 돌 벽돌로 지어도 모양과 색은 그대로입니다.</LP_GardenFountain.description>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Sandbox.label>橡木沙坑</LP_Sandbox.label>
+  <LP_Sandbox.description>淺色橡木沙坑，四角設有象牙色座位。最多三名孩子或成年人可以獨自或一起將沙堆變成沙塔，再堆成沙堡。孩子獲得學習，成年人獲得娛樂。作品會在離開後保留一段時間，閒置時逐漸消散。</LP_Sandbox.description>
+  <LP_GardenBench.label>花園長椅</LP_GardenBench.label>
+  <LP_GardenBench.description>圓潤的橡木與象牙色長椅，可坐兩人。殖民者可以自行選擇它來娛樂，也可以接受指令在這裡休息。將遮陽篷放在長椅後方一格可提供遮蔽。</LP_GardenBench.description>
+  <LP_ShadeCanopy.label>遊樂場遮陽篷</LP_ShadeCanopy.label>
+  <LP_ShadeCanopy.description>鼠尾草綠支柱撐起奶油色布篷。將中心標記放在長椅後方一格，可遮蔽前方五格寬、三格深的區域，不會替換已有屋頂。坐著的人上方的篷布保持不透明；高處篷布圖像遮住人物時會淡出。</LP_ShadeCanopy.description>
+  <LP_OakCurb.label>橡木遊樂場邊緣</LP_OakCurb.label>
+  <LP_OakCurb.description>低矮圓潤的橡木邊緣。相鄰部件會自動連接，包括轉角。人物可以跨過去。</LP_OakCurb.description>
+  <LP_IvoryCurb.label>遊樂場邊緣</LP_IvoryCurb.label>
+  <LP_IvoryCurb.description>低矮的象牙色邊緣，使遊樂場邊界更整齊。相鄰部件會自動連接，包括轉角，人物可以跨越。可用任意石磚建造，形狀與配色不隨石材變化。</LP_IvoryCurb.description>
+</LanguageData>

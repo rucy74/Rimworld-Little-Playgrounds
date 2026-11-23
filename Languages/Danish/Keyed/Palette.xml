@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PaletteButton>Farveskema</LP_PaletteButton>
+  <LP_PaletteDescription>Vælg denne legeplads' farver. Nuværende: {0}. Ændrer udseende med det samme; byggeomkostninger og ydeevne forbliver de samme.</LP_PaletteDescription>
+  <LP_PaletteCurrent>Farveskema: {0}</LP_PaletteCurrent>
+  <LP_PaletteLegacy>Oprindelig overflade</LP_PaletteLegacy>
+  <LP_PaletteBlue>Træ + blå</LP_PaletteBlue>
+  <LP_PaletteYellow>Træ + gul</LP_PaletteYellow>
+  <LP_PaletteSage>Træ + salviegrøn</LP_PaletteSage>
+  <LP_PaletteClassic>Klassiske farver</LP_PaletteClassic>
+</LanguageData>

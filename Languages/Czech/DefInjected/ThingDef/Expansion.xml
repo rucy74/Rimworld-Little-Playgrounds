@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_SteppingStump.label>dřevěný schůdek na hřišti</LP_SteppingStump.label>
+  <LP_SteppingStump.description>Nízký nášlapný schůdek z řeziva. Nášlapné kameny, dřevěné schůdky a balanční klády se navzájem spojují hranami. Překážková dráha potřebuje alespoň dvě políčka (samotná balanční kláda má dvě) a díly, které se dotýkají jen rohem, se nespojí. Děti i dospělí jdou po propojené trase.</LP_SteppingStump.description>
+  <LP_SpringFox.label>liščí houpadlo na pružině</LP_SpringFox.label>
+  <LP_SpringFox.description>Houpací hračka ve tvaru lišky upevněná na pružině. Může jej používat jedno dítě nebo dospělý sám. Postavička si zachovává své normální tělo a naklání se s hračkou dopředu a dozadu.</LP_SpringFox.description>
+  <LP_Roundabout.label>dubový kolotoč</LP_Roundabout.label>
+  <LP_Roundabout.description>Kulatý dubový dětský kolotoč se šalvějově zelenými madly až pro čtyři osoby. Jedna osoba jej může používat sama. Zpomalí a zastaví, když někdo nastoupí nebo vystoupí.</LP_Roundabout.description>
+  <LP_Playhouse.label>malý obchod na hraní</LP_Playhouse.label>
+  <LP_Playhouse.description>Otevřený dům na hraní s malým prodejním pultem. Zahrajte si na vedení obchodu sami nebo přivítejte druhého návštěvníka u výlohy. Děti získávají učení; dospělí relaxaci.</LP_Playhouse.description>
+  <LP_DrinkingFountain.label>pítko ve dvou výškách</LP_DrinkingFountain.label>
+  <LP_DrinkingFountain.description>Vysoká a nízká miska na pití. Po hraní na hřišti se děti mohou zastavit a krátce se napít vody; dospělí si ho volí i k relaxaci. Když se používá, teče malý proud vody. Nepřidává potřebu žízně. Postaveno z jakýchkoli kamenných bloků; jeho tvar a barvy zůstanou stejné bez ohledu na to, jaký kámen použijete.</LP_DrinkingFountain.description>
+  <LP_Hopscotch.label>zahradní skákací panák</LP_Hopscotch.label>
+  <LP_Hopscotch.description>Osm malovaných poskokových čtverců. Dítě nebo dospělý poskakuje po číslech a vrací se, hraje si sám, aniž by čekal na partnera. Postaveno z jakýchkoli kamenných bloků; jeho tvar a barvy zůstanou stejné bez ohledu na to, jaký kámen použijete.</LP_Hopscotch.description>
+  <LP_SplashPad.label>vodní hřiště s tryskami</LP_SplashPad.label>
+  <LP_SplashPad.description>Přízemní vodní trysky stříkají v opakujícím se vzoru, když se po hřišti pohybují až tři lidé. Každý může hrát i sám. Tato činnost se zastaví pod 10 stupni Celsia a nemůže začít, když je povrch pokrytý sněhem. Postaveno z jakýchkoli kamenných bloků; jeho tvar a barvy zůstanou stejné bez ohledu na to, jaký kámen použijete.</LP_SplashPad.description>
+  <LP_SteppingStone.label>nášlapný kámen na hřiště</LP_SteppingStone.label>
+  <LP_SteppingStone.description>Nízký zaoblený nášlapný kámen. Nášlapné kameny, dřevěné schůdky a balanční klády se navzájem spojují hranami. Překážková dráha potřebuje alespoň dvě políčka (samotná balanční kláda má dvě) a díly, které se dotýkají jen rohem, se nespojí. Návštěvníci projdou propojenou větví a vrátí se. Jedna návštěva si rezervuje svou trasu, nejvýš 24 dílů. Postaveno z jakýchkoli kamenných bloků; jeho tvar a barvy zůstanou stejné bez ohledu na to, jaký kámen použijete.</LP_SteppingStone.description>
+  <LP_BalanceLog.label>balanční kláda</LP_BalanceLog.label>
+  <LP_BalanceLog.description>Nízká dubová balanční kláda dlouhá dvě políčka; lze ji položit podélně i napříč. Nášlapné kameny, dřevěné schůdky a balanční klády se navzájem spojují hranami. Překážková dráha potřebuje alespoň dvě políčka (samotná balanční kláda má dvě) a díly, které se dotýkají jen rohem, se nespojí. Návštěvníci balancují po propojené větvi a pak se vrátí. Všechna políčka dráhy musí zůstat volná.</LP_BalanceLog.description>
+  <LP_PlayFence.label>dubový plot hřiště</LP_PlayFence.label>
+  <LP_PlayFence.description>Nízké dubové laťky spojené se čtvercovými dřevěnými sloupky. Sousední plotové díly se spojují. Jde o dekorativní hranici hřiště, kterou lze překročit, nikoli o zábranu ohrady pro zvířata.</LP_PlayFence.description>
+  <LP_PlayEntrance.label>vstup na hřiště</LP_PlayEntrance.label>
+  <LP_PlayEntrance.description>Vždy otevřený vchod s malým nápisem Little Playgrounds. Přívětivý otvor pro nízký zahradní plot.</LP_PlayEntrance.description>
+  <LP_GardenFountain.label>zahradní fontána</LP_GardenFountain.label>
+  <LP_GardenFountain.description>Nízká světlá kamenná mísa s mírně tekoucí vodou. Středobodem zahrady k umístění poblíž místa k sezení. Postaveno z jakýchkoli kamenných bloků; jeho tvar a barvy zůstanou stejné bez ohledu na to, jaký kámen použijete.</LP_GardenFountain.description>
+</LanguageData>

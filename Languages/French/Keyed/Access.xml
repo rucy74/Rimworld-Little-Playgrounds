@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_VisitorCount>Visiteurs : {0} / {1}</LP_VisitorCount>
+  <LP_AudienceButton>Visiteurs : {0}</LP_AudienceButton>
+  <LP_AudienceCurrent>Visiteurs autorisés : {0}</LP_AudienceCurrent>
+  <LP_AudienceDescription>Choisissez qui peut utiliser cet équipement. Tout le monde est la valeur par défaut. Les visiteurs exclus arrêtent leur visite ou leur file d'attente en cours. Ce choix est enregistré.</LP_AudienceDescription>
+  <LP_AudienceEveryone>Tout le monde</LP_AudienceEveryone>
+  <LP_AudienceChildren>Enfants uniquement</LP_AudienceChildren>
+  <LP_AudienceAdults>Adultes uniquement</LP_AudienceAdults>
+</LanguageData>

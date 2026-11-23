@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_SteppingStump.label>játszótéri fa lépőlap</LP_SteppingStump.label>
+  <LP_SteppingStump.description>Alacsony lépőlap fűrészelt fából. A lépőkövek, fa lépőlapok és egyensúlyozó farönkök élben illeszkedve kapcsolódnak egymáshoz. Egy pályához legalább két cella kell (egy egyensúlyozó farönk önmagában kettő), és a csak sarkon érintkező darabok nem kapcsolódnak össze. Gyerekek és felnőttek az összekapcsolt útvonalat követik.</LP_SteppingStump.description>
+  <LP_SpringFox.label>róka alakú rugós játék</LP_SpringFox.label>
+  <LP_SpringFox.description>Rugóra szerelt, róka alakú rugós játék. Egy gyermek vagy felnőtt használhatja egyedül. A karakter megőrzi normál testét, és előre-hátra dől a játékkal.</LP_SpringFox.description>
+  <LP_Roundabout.label>tölgyfa körhinta</LP_Roundabout.label>
+  <LP_Roundabout.description>Kerek tölgyfa játszótéri körhinta zsályazöld kapaszkodókkal, maximum négy személy részére. Egy személy használhatja egyedül. Lelassul és leáll, ha valaki fel- vagy leszáll.</LP_Roundabout.description>
+  <LP_Playhouse.label>kis bolt játszóház</LP_Playhouse.label>
+  <LP_Playhouse.description>Elöl nyitott játszóház kis bolti pulttal. Játsszon egyedül boltost, vagy fogadjon egy második látogatót az ablaknál. A gyerekek tanulnak, a felnőttek pedig élvezethez jutnak.</LP_Playhouse.description>
+  <LP_DrinkingFountain.label>két magasságú ivókút</LP_DrinkingFountain.label>
+  <LP_DrinkingFountain.description>Egy magas és egy alacsony ivótál. A játszótéri tevékenységek után a gyerekek megállhatnak egy kis vízre; a felnőttek szórakozásként is választják. Használat közben vékony vízsugár folyik. Ez nem ad hozzá szomjúság szükségletet. Bármilyen kőtömbből épülhet; alakja és színei ugyanazok maradnak, bármilyen követ használ is.</LP_DrinkingFountain.description>
+  <LP_Hopscotch.label>kerti ugróiskola</LP_Hopscotch.label>
+  <LP_Hopscotch.description>Nyolc festett ugróiskola-négyzet. Egy gyerek vagy felnőtt végigugrál a számokon, és visszatér, egyedül játszik, anélkül, hogy partnerre várna. Bármilyen kőtömbből épülhet; alakja és színei ugyanazok maradnak, bármilyen követ használ is.</LP_Hopscotch.description>
+  <LP_SplashPad.label>vízsugaras játszótér</LP_SplashPad.label>
+  <LP_SplashPad.description>A talajszintű vízsugarak ismétlődő mintázatban permeteznek, miközben legfeljebb három ember mozog a játéktéren. Mindenki játszhat egyedül is. Ez a tevékenység 10 Celsius-fok alatt leáll, és nem indulhat el, ha a felületet hó borítja. Bármilyen kőtömbből felépíthető, azonos formában és színben.</LP_SplashPad.description>
+  <LP_SteppingStone.label>játszótéri lépőkő</LP_SteppingStone.label>
+  <LP_SteppingStone.description>Alacsony, lekerekített lépőkő. A lépőkövek, fa lépőlapok és egyensúlyozó farönkök élben illeszkedve kapcsolódnak egymáshoz. Egy pályához legalább két cella kell (egy egyensúlyozó farönk önmagában kettő), és a csak sarkon érintkező darabok nem kapcsolódnak össze. A látogatók egy összekapcsolt ágon végigmennek, majd visszatérnek. Egy látogatás lefoglalja az útvonalát, legfeljebb 24 darabig. Bármilyen kőtömbből felépíthető, azonos formában és színben.</LP_SteppingStone.description>
+  <LP_BalanceLog.label>egyensúlyozó farönk</LP_BalanceLog.label>
+  <LP_BalanceLog.description>Alacsony tölgyfa egyensúlyozó farönk, két cella hosszú; hosszában vagy keresztben is elhelyezhető. A lépőkövek, fa lépőlapok és egyensúlyozó farönkök élben illeszkedve kapcsolódnak egymáshoz. Egy pályához legalább két cella kell (egy egyensúlyozó farönk önmagában kettő), és a csak sarkon érintkező darabok nem kapcsolódnak össze. A látogatók egyensúlyozva végigmennek egy összekapcsolt ágon, majd visszatérnek. A pálya minden cellájának szabadon kell maradnia.</LP_BalanceLog.description>
+  <LP_PlayFence.label>tölgyfa játszótéri kerítés</LP_PlayFence.label>
+  <LP_PlayFence.description>Alacsony tölgyfa lécek négyzetes faoszlopokhoz rögzítve. A szomszédos kerítésdarabok összekapcsolódnak. Ez egy díszítő, átléphető játszótéri határ, nem állatkarám kerítése.</LP_PlayFence.description>
+  <LP_PlayEntrance.label>játszótéri bejárat</LP_PlayEntrance.label>
+  <LP_PlayEntrance.description>Mindig nyitott bejárat egy kis Little Playgrounds táblával. Barátságos nyílás egy alacsony kerti kerítésen.</LP_PlayEntrance.description>
+  <LP_GardenFountain.label>kerti szökőkút</LP_GardenFountain.label>
+  <LP_GardenFountain.description>Alacsony, halvány kőből készült medence finoman folyó vízzel. Kert központi eleme, amelyet az ülősarok közelében helyezhet el. Bármilyen kőtömbből épült; alakja és színei ugyanazok maradnak, bármilyen követ használ is.</LP_GardenFountain.description>
+</LanguageData>

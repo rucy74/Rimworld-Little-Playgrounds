@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_RideSwing.reportString>đang chơi xích đu.</LP_RideSwing.reportString>
+  <LP_RideSlide.reportString>đang chơi cầu trượt.</LP_RideSlide.reportString>
+  <LP_RideSeesaw.reportString>đang chơi bập bênh.</LP_RideSeesaw.reportString>
+  <LP_PlayInSand.reportString>đang xây lâu đài cát.</LP_PlayInSand.reportString>
+  <LP_RelaxOnBench.reportString>đang thư giãn trên ghế sân vườn.</LP_RelaxOnBench.reportString>
+  <LP_WaitForPlayground.reportString>đang đợi TargetA trong giây lát.</LP_WaitForPlayground.reportString>
+  <LP_BounceTrampoline.reportString>đang nhún trên TargetA.</LP_BounceTrampoline.reportString>
+  <LP_RideZipline.reportString>đang chơi TargetA.</LP_RideZipline.reportString>
+  <LP_RideSpringFox.reportString>đang chơi TargetA.</LP_RideSpringFox.reportString>
+  <LP_SpinRoundabout.reportString>đang quay trên TargetA.</LP_SpinRoundabout.reportString>
+  <LP_PlayShop.reportString>đang chơi bán hàng tại TargetA.</LP_PlayShop.reportString>
+  <LP_PlayHopscotch.reportString>đang chơi nhảy lò cò.</LP_PlayHopscotch.reportString>
+  <LP_PlaySplashPad.reportString>đang chơi đùa giữa các tia nước.</LP_PlaySplashPad.reportString>
+  <LP_WalkCourse.reportString>đang đi qua tuyến sân chơi.</LP_WalkCourse.reportString>
+  <LP_BounceTogether.reportString>đang nhún trên TargetA.</LP_BounceTogether.reportString>
+  <LP_DrinkAtFountain.reportString>đang uống nước tại TargetA.</LP_DrinkAtFountain.reportString>
+  <LP_CareSwing.reportString>đang chơi xích đu cùng TargetB.</LP_CareSwing.reportString>
+  <LP_CareSeesaw.reportString>đang chơi bập bênh cùng TargetB.</LP_CareSeesaw.reportString>
+  <LP_CareSand.reportString>đang xây lâu đài cát cùng TargetB.</LP_CareSand.reportString>
+  <LP_CareRoundabout.reportString>đang chơi mâm xoay cùng TargetB.</LP_CareRoundabout.reportString>
+  <LP_CarePlayhouse.reportString>đang chơi bán hàng cùng TargetB.</LP_CarePlayhouse.reportString>
+  <LP_CareBounceTogether.reportString>đang nhún trên bạt nhún cùng TargetB.</LP_CareBounceTogether.reportString>
+  <LP_WatchChildPlay.reportString>đang xem TargetB chơi.</LP_WatchChildPlay.reportString>
+</LanguageData>

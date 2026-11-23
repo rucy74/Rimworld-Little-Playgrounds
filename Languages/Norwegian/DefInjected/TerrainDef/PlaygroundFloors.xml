@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PlaySandLight.label>lys lekeplasssand</LP_PlaySandLight.label>
+  <LP_PlaySandLight.description>Blek sand med milde, grunne krusninger for en lys lekeplass. Dette er en tredje sandoverflate, sammen med fin sand og kornete sand.</LP_PlaySandLight.description>
+  <LP_PlaySand.label>fin lekeplasssand</LP_PlaySand.label>
+  <LP_PlaySand.description>Fast, varm beige lekeplasssand med fine korn og rolige, grunne variasjoner.</LP_PlaySand.description>
+  <LP_PlaySandGrainy.label>kornet lekeplasssand</LP_PlaySandGrainy.label>
+  <LP_PlaySandGrainy.description>Varm lekeplasssand med synlige korn og en lett raket overflate. Et mer teksturert alternativ til fin lekeplasssand.</LP_PlaySandGrainy.description>
+  <LP_RubberSage.label>salviegrønt gummidekke</LP_RubberSage.label>
+  <LP_RubberSage.description>En lekeplassoverflate med matt gummismuler. Dens subtile tekstur føyes sammen uten et flisgitter. Tilgjengelig i salvie, krem og aprikos.</LP_RubberSage.description>
+  <LP_RubberCream.label>kremfarget gummidekke</LP_RubberCream.label>
+  <LP_RubberCream.description>En lekeplassoverflate med matt gummismuler. Dens subtile tekstur føyes sammen uten et flisgitter. Tilgjengelig i salvie, krem og aprikos.</LP_RubberCream.description>
+  <LP_RubberApricot.label>aprikosfarget gummidekke</LP_RubberApricot.label>
+  <LP_RubberApricot.description>En lekeplassoverflate med matt gummismuler. Dens subtile tekstur føyes sammen uten et flisgitter. Tilgjengelig i salvie, krem og aprikos.</LP_RubberApricot.description>
+</LanguageData>

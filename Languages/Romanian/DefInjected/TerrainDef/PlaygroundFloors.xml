@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PlaySandLight.label>nisip deschis la culoare pentru joacă</LP_PlaySandLight.label>
+  <LP_PlaySandLight.description>Nisip pal, cu ondulații blânde și puțin adânci pentru un loc de joacă luminos. Aceasta este o a treia suprafață de nisip, alături de nisipul fin și nisipul granulat.</LP_PlaySandLight.description>
+  <LP_PlaySand.label>nisip fin pentru teren de joacă</LP_PlaySand.label>
+  <LP_PlaySand.description>Nisip de joacă bej cald și așezat, cu granule fine și variație liniștită și superficială.</LP_PlaySand.description>
+  <LP_PlaySandGrainy.label>nisip granulat de teren de joacă</LP_PlaySandGrainy.label>
+  <LP_PlaySandGrainy.description>Nisip cald pentru locul de joacă, cu granule vizibile și o suprafață ușor greblată. O alternativă mai texturată la nisipul fin al locului de joacă.</LP_PlaySandGrainy.description>
+  <LP_RubberSage.label>pardoseală de cauciuc verde-salvie</LP_RubberSage.label>
+  <LP_RubberSage.description>O suprafață de joacă mată din cauciuc. Textura sa subtilă se îmbină fără grilă de plăci. Disponibil în salvie, cremă și caise.</LP_RubberSage.description>
+  <LP_RubberCream.label>pardoseală de cauciuc crem</LP_RubberCream.label>
+  <LP_RubberCream.description>O suprafață de joacă mată din cauciuc. Textura sa subtilă se îmbină fără grilă de plăci. Disponibil în salvie, cremă și caise.</LP_RubberCream.description>
+  <LP_RubberApricot.label>pardoseală de cauciuc caisă</LP_RubberApricot.label>
+  <LP_RubberApricot.description>O suprafață de joacă mată din cauciuc. Textura sa subtilă se îmbină fără grilă de plăci. Disponibil în salvie, cremă și caise.</LP_RubberApricot.description>
+</LanguageData>

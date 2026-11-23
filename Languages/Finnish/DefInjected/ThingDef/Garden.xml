@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Sandbox.label>tammihiekkalaatikko</LP_Sandbox.label>
+  <LP_Sandbox.description>Vaaleantamminen hiekkalaatikko norsunluunvärisillä kulmaistuimilla. Jopa kolme lasta tai aikuista muotoilee hiekkakasasta tornin ja sitten hiekkalinnan yksin tai yhdessä. Lapset oppivat; aikuiset saavat hupia. Niiden luomus säilyy niiden lähtemisen jälkeen ja kuluu hitaasti pois, kun niitä ei käytetä.</LP_Sandbox.description>
+  <LP_GardenBench.label>puutarhapenkki</LP_GardenBench.label>
+  <LP_GardenBench.description>Pyöreä tammi-norsunluupenkki, jossa on tilaa kahdelle hengelle. Asukkaat voivat valita sen huviksi, tai heidät voidaan käskeä rentoutumaan täällä. Aseta leikkipuiston katos yhden ruudun verran penkin taakse suojaamaan sitä.</LP_GardenBench.description>
+  <LP_ShadeCanopy.label>leikkipuiston katos</LP_ShadeCanopy.label>
+  <LP_ShadeCanopy.description>Kermanvärinen kangaskatos salviapylväissä. Aseta sen keskimerkki yhden ruudun verran penkin taakse. Se suojaa viisi kertaa kolmea aluetta edessä korvaamatta olemassa olevia kattoja. Kangas pysyy läpinäkymättömänä istuvien vierailijoiden päällä ja haalistuu, kun sen kohotettu kuva peittää hahmon.</LP_ShadeCanopy.description>
+  <LP_OakCurb.label>tamminen leikkikentän reuna</LP_OakCurb.label>
+  <LP_OakCurb.description>Matala pyöristetty tammireuna. Viereiset leikkikentän reunat yhdistyvät automaattisesti, myös kulmien ympärillä. Hahmot voivat astua sen yli.</LP_OakCurb.description>
+  <LP_IvoryCurb.label>leikkikentän reuna</LP_IvoryCurb.label>
+  <LP_IvoryCurb.description>Matala norsunluun reuna viimeistellylle leikkikentän rajalle. Viereiset leikkikentän reunat yhdistyvät automaattisesti, myös kulmien ympärillä. Hahmot voivat astua sen yli. Rakennetaan mistä tahansa kivipaloista; sen muoto ja värit pysyvät samoina, mitä kiveä käytätkin.</LP_IvoryCurb.description>
+</LanguageData>

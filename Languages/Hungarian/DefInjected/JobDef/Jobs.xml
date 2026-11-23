@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_RideSwing.reportString>a hintán játszik.</LP_RideSwing.reportString>
+  <LP_RideSlide.reportString>a csúszdán játszik.</LP_RideSlide.reportString>
+  <LP_RideSeesaw.reportString>a libikókán játszik.</LP_RideSeesaw.reportString>
+  <LP_PlayInSand.reportString>homokvárat épít.</LP_PlayInSand.reportString>
+  <LP_RelaxOnBench.reportString>pihen a kerti padon.</LP_RelaxOnBench.reportString>
+  <LP_WaitForPlayground.reportString>rövid ideig vár rá: TargetA.</LP_WaitForPlayground.reportString>
+  <LP_BounceTrampoline.reportString>pattog rajta: TargetA.</LP_BounceTrampoline.reportString>
+  <LP_RideZipline.reportString>csúszik rajta: TargetA.</LP_RideZipline.reportString>
+  <LP_RideSpringFox.reportString>ringatózik rajta: TargetA.</LP_RideSpringFox.reportString>
+  <LP_SpinRoundabout.reportString>forog rajta: TargetA.</LP_SpinRoundabout.reportString>
+  <LP_PlayShop.reportString>boltosat játszik itt: TargetA.</LP_PlayShop.reportString>
+  <LP_PlayHopscotch.reportString>ugróiskolázik.</LP_PlayHopscotch.reportString>
+  <LP_PlaySplashPad.reportString>a vízsugarakban játszik.</LP_PlaySplashPad.reportString>
+  <LP_WalkCourse.reportString>végigmegy a játszótéri pályán.</LP_WalkCourse.reportString>
+  <LP_BounceTogether.reportString>pattog rajta: TargetA.</LP_BounceTogether.reportString>
+  <LP_DrinkAtFountain.reportString>vizet iszik itt: TargetA.</LP_DrinkAtFountain.reportString>
+  <LP_CareSwing.reportString>hintázik vele: TargetB.</LP_CareSwing.reportString>
+  <LP_CareSeesaw.reportString>libikókázik vele: TargetB.</LP_CareSeesaw.reportString>
+  <LP_CareSand.reportString>homokvárat épít vele: TargetB.</LP_CareSand.reportString>
+  <LP_CareRoundabout.reportString>körhintázik vele: TargetB.</LP_CareRoundabout.reportString>
+  <LP_CarePlayhouse.reportString>boltosat játszik vele: TargetB.</LP_CarePlayhouse.reportString>
+  <LP_CareBounceTogether.reportString>trambulinon ugrál vele: TargetB.</LP_CareBounceTogether.reportString>
+  <LP_WatchChildPlay.reportString>nézi, ahogy játszik: TargetB.</LP_WatchChildPlay.reportString>
+</LanguageData>

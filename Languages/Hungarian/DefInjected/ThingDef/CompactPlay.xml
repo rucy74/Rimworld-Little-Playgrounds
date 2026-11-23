@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_CompactSlide.label>kis csúszda</LP_CompactSlide.label>
+  <LP_CompactSlide.description>Alacsony, kis méretű csúszda beltéri játszószobába vagy kültéri játszótérre. Felmásznak a három lépcsőfokon, átmennek a pihenőn, majd lecsúsznak. Tartsa szabadon a bejáratot és az érkezési helyet. A gyerekek tanulásban, a felnőttek pedig élvezetben részesülnek.</LP_CompactSlide.description>
+  <LP_FloorRocker.label>billegő libikóka</LP_FloorRocker.label>
+  <LP_FloorRocker.description>Alacsony, lekerekített talpú billegő libikóka bel- és kültérre. Egy látogató egyedül is billegtetheti, ketten pedig egymással szemben ülhetnek rajta. A gyerekek tanulásban, a felnőttek pedig élvezetben részesülnek.</LP_FloorRocker.description>
+  <LP_BallPit.label>kis labdamedence</LP_BallPit.label>
+  <LP_BallPit.description>Kis, párnázott medence tele színes játéklabdákkal. Legfeljebb két látogató gázolhat benne és játszhat együtt, bel- vagy kültéren. A gyerekek tanulásban, a felnőttek pedig élvezetben részesülnek.</LP_BallPit.description>
+</LanguageData>

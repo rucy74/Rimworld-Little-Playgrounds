@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_VisitorCount>Ziyaretçiler: {0} / {1}</LP_VisitorCount>
+  <LP_AudienceButton>Ziyaretçiler: {0}</LP_AudienceButton>
+  <LP_AudienceCurrent>İzin verilen ziyaretçiler: {0}</LP_AudienceCurrent>
+  <LP_AudienceDescription>Bu oyun aletini kimlerin kullanabileceğini seçin. Varsayılan: herkes. Hariç tutulan ziyaretçiler mevcut kullanımlarını veya sıralarını bırakır. Bu seçim kaydedilir.</LP_AudienceDescription>
+  <LP_AudienceEveryone>Herkes</LP_AudienceEveryone>
+  <LP_AudienceChildren>Yalnızca çocuklar</LP_AudienceChildren>
+  <LP_AudienceAdults>Yalnızca yetişkinler</LP_AudienceAdults>
+</LanguageData>

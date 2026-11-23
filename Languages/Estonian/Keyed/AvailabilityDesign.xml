@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_BlockedUnavailable>Pole saadaval</LP_BlockedUnavailable>
+  <LP_BlockedCannotPlay>Ei saa selles tegevuses osaleda</LP_BlockedCannotPlay>
+  <LP_BlockedDrafted>Võitluses</LP_BlockedDrafted>
+  <LP_BlockedDowned>Töövõimetu</LP_BlockedDowned>
+  <LP_BlockedMentalState>Vaimses murdes</LP_BlockedMentalState>
+  <LP_BlockedForbidden>Keelatud või väljaspool lubatud ala</LP_BlockedForbidden>
+  <LP_BlockedAudience>Selle mänguvahendi vanusepiirang ei luba</LP_BlockedAudience>
+  <LP_BlockedTooHot>Mänguväljakul on liiga palav</LP_BlockedTooHot>
+  <LP_BlockedTooCold>Mänguväljakul on liiga külm</LP_BlockedTooCold>
+  <LP_BlockedBusy>Kasutusel või reserveeritud</LP_BlockedBusy>
+  <LP_BlockedEntrance>Vaba sisse- või väljapääsuni ei pääse</LP_BlockedEntrance>
+  <LP_BlockedReturning>Iste on tagasiteel</LP_BlockedReturning>
+  <LP_BlockedCourseTooShort>Vaja on vähemalt kahte ühendatud rajaosa</LP_BlockedCourseTooShort>
+  <LP_BlockedWaterCold>Veemänguks liiga külm või lumine</LP_BlockedWaterCold>
+  <LP_DesignButton>Kujundus</LP_DesignButton>
+  <LP_DesignDescription>Selle mänguvahendi välimuse valik. Praegune: {0}. Värvid valitakse eraldi.</LP_DesignDescription>
+  <LP_DesignOriginal>Algne</LP_DesignOriginal>
+  <LP_DesignTimber>Puit</LP_DesignTimber>
+  <LP_DesignBusy>Kujundust saab muuta alles siis, kui keegi seda mänguvahendit enam ei kasuta.</LP_DesignBusy>
+  <LP_DesignCurrent>Kujundus: {0}</LP_DesignCurrent>
+</LanguageData>

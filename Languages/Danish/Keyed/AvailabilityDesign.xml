@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_BlockedUnavailable>Ikke tilgængelig</LP_BlockedUnavailable>
+  <LP_BlockedCannotPlay>Kan ikke bruge denne aktivitet</LP_BlockedCannotPlay>
+  <LP_BlockedDrafted>Indkaldt</LP_BlockedDrafted>
+  <LP_BlockedDowned>Ukampdygtig</LP_BlockedDowned>
+  <LP_BlockedMentalState>Har et mentalt sammenbrud</LP_BlockedMentalState>
+  <LP_BlockedForbidden>Forbudt eller uden for tilladt område</LP_BlockedForbidden>
+  <LP_BlockedAudience>Ikke tilladt efter legeredskabets aldersindstilling</LP_BlockedAudience>
+  <LP_BlockedTooHot>For varmt på legepladsen</LP_BlockedTooHot>
+  <LP_BlockedTooCold>For koldt på legepladsen</LP_BlockedTooCold>
+  <LP_BlockedBusy>I brug eller reserveret</LP_BlockedBusy>
+  <LP_BlockedEntrance>Kan ikke nå en fri indgang eller udgang</LP_BlockedEntrance>
+  <LP_BlockedReturning>Sædet er på vej tilbage</LP_BlockedReturning>
+  <LP_BlockedCourseTooShort>Forbind mindst to banestykker</LP_BlockedCourseTooShort>
+  <LP_BlockedWaterCold>For koldt eller snedækket til vandleg</LP_BlockedWaterCold>
+  <LP_DesignButton>Design</LP_DesignButton>
+  <LP_DesignDescription>Vælg udseendet på dette legeredskab. Nuværende: {0}. Farver vælges separat.</LP_DesignDescription>
+  <LP_DesignOriginal>Original</LP_DesignOriginal>
+  <LP_DesignTimber>Træ</LP_DesignTimber>
+  <LP_DesignBusy>Designet kan først skiftes, når ingen længere bruger legeredskabet.</LP_DesignBusy>
+  <LP_DesignCurrent>Design: {0}</LP_DesignCurrent>
+</LanguageData>

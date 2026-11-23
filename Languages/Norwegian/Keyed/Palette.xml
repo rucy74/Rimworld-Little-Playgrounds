@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PaletteButton>Fargeskjema</LP_PaletteButton>
+  <LP_PaletteDescription>Velg fargene på denne lekeplassen. Nåværende: {0}. Endrer utseende umiddelbart; byggekostnadene og ytelsen forblir de samme.</LP_PaletteDescription>
+  <LP_PaletteCurrent>Fargeskjema: {0}</LP_PaletteCurrent>
+  <LP_PaletteLegacy>Opprinnelig utførelse</LP_PaletteLegacy>
+  <LP_PaletteBlue>Tre + blått</LP_PaletteBlue>
+  <LP_PaletteYellow>Tre + gul</LP_PaletteYellow>
+  <LP_PaletteSage>Tre + salviegrønt</LP_PaletteSage>
+  <LP_PaletteClassic>Klassiske farger</LP_PaletteClassic>
+</LanguageData>

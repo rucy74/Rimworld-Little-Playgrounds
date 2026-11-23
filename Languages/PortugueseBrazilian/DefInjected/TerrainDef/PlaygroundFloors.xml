@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PlaySandLight.label>areia clara de parquinho</LP_PlaySandLight.label>
+  <LP_PlaySandLight.description>Areia clara com ondulações suaves e rasas para um playground iluminado. Esta é uma terceira superfície de areia, ao lado da areia fina e da areia granulada.</LP_PlaySandLight.description>
+  <LP_PlaySand.label>areia fina para playground</LP_PlaySand.label>
+  <LP_PlaySand.description>Areia de playground assentada, de um bege quente, com grãos finos e uma variação suave e discreta.</LP_PlaySand.description>
+  <LP_PlaySandGrainy.label>areia granulada de playground</LP_PlaySandGrainy.label>
+  <LP_PlaySandGrainy.description>Areia quente de playground com grãos visíveis e superfície levemente rastelada. Uma alternativa mais texturizada à areia fina de playground.</LP_PlaySandGrainy.description>
+  <LP_RubberSage.label>piso emborrachado verde-sálvia</LP_RubberSage.label>
+  <LP_RubberSage.description>Uma superfície fosca de borracha para playground. Sua textura sutil une-se sem grade de ladrilhos. Disponível em sálvia, creme e damasco.</LP_RubberSage.description>
+  <LP_RubberCream.label>borracha creme para playground</LP_RubberCream.label>
+  <LP_RubberCream.description>Uma superfície fosca de borracha para playground. Sua textura sutil une-se sem grade de ladrilhos. Disponível em sálvia, creme e damasco.</LP_RubberCream.description>
+  <LP_RubberApricot.label>borracha cor de damasco para playground</LP_RubberApricot.label>
+  <LP_RubberApricot.description>Uma superfície fosca de borracha para playground. Sua textura sutil une-se sem grade de ladrilhos. Disponível em sálvia, creme e damasco.</LP_RubberApricot.description>
+</LanguageData>

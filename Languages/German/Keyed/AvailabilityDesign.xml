@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_BlockedUnavailable>Nicht verfügbar</LP_BlockedUnavailable>
+  <LP_BlockedCannotPlay>Kann diese Aktivität nicht nutzen</LP_BlockedCannotPlay>
+  <LP_BlockedDrafted>Im Kampfmodus</LP_BlockedDrafted>
+  <LP_BlockedDowned>Liegt am Boden</LP_BlockedDowned>
+  <LP_BlockedMentalState>Übergeschnappt</LP_BlockedMentalState>
+  <LP_BlockedForbidden>Verboten oder außerhalb des erlaubten Gebiets</LP_BlockedForbidden>
+  <LP_BlockedAudience>Durch die Alterseinstellung dieses Geräts nicht erlaubt</LP_BlockedAudience>
+  <LP_BlockedTooHot>Zu heiß auf dem Spielplatz</LP_BlockedTooHot>
+  <LP_BlockedTooCold>Zu kalt auf dem Spielplatz</LP_BlockedTooCold>
+  <LP_BlockedBusy>Belegt oder reserviert</LP_BlockedBusy>
+  <LP_BlockedEntrance>Kein freier Ein- oder Ausgang erreichbar</LP_BlockedEntrance>
+  <LP_BlockedReturning>Der Sitz fährt noch zurück</LP_BlockedReturning>
+  <LP_BlockedCourseTooShort>Mindestens zwei Parcoursteile verbinden</LP_BlockedCourseTooShort>
+  <LP_BlockedWaterCold>Zu kalt oder verschneit für Wasserspiel</LP_BlockedWaterCold>
+  <LP_DesignButton>Design</LP_DesignButton>
+  <LP_DesignDescription>Aussehen dieses Geräts wählen. Aktuell: {0}. Die Farben werden separat gewählt.</LP_DesignDescription>
+  <LP_DesignOriginal>Original</LP_DesignOriginal>
+  <LP_DesignTimber>Holz</LP_DesignTimber>
+  <LP_DesignBusy>Das Design kann erst geändert werden, wenn niemand mehr das Gerät benutzt.</LP_DesignBusy>
+  <LP_DesignCurrent>Design: {0}</LP_DesignCurrent>
+</LanguageData>

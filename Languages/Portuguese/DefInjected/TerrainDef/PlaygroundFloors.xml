@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PlaySandLight.label>areia clara para parque infantil</LP_PlaySandLight.label>
+  <LP_PlaySandLight.description>Areia clara com ondulações suaves e superficiais para um parque infantil iluminado. Esta é uma terceira superfície de areia, ao lado da areia fina e da areia granulada.</LP_PlaySandLight.description>
+  <LP_PlaySand.label>areia fina para parque infantil</LP_PlaySand.label>
+  <LP_PlaySand.description>Areia de parque infantil assente, de um bege quente, com grãos finos e uma variação suave e discreta.</LP_PlaySand.description>
+  <LP_PlaySandGrainy.label>areia granulada de parque infantil</LP_PlaySandGrainy.label>
+  <LP_PlaySandGrainy.description>Areia quente de parque infantil com grãos visíveis e superfície levemente alisada com ancinho. Uma alternativa mais texturizada à areia fina de recreio.</LP_PlaySandGrainy.description>
+  <LP_RubberSage.label>pavimento de borracha verde-sálvia</LP_RubberSage.label>
+  <LP_RubberSage.description>Uma superfície fosca de borracha para um parque infantil. A sua textura subtil une-se sem grade de azulejos. Disponível em sálvia, creme e alperce.</LP_RubberSage.description>
+  <LP_RubberCream.label>borracha creme para parque infantil</LP_RubberCream.label>
+  <LP_RubberCream.description>Uma superfície fosca de borracha para um parque infantil. A sua textura subtil une-se sem grade de azulejos. Disponível em sálvia, creme e alperce.</LP_RubberCream.description>
+  <LP_RubberApricot.label>borracha cor de alperce para parque infantil</LP_RubberApricot.label>
+  <LP_RubberApricot.description>Uma superfície fosca de borracha para um parque infantil. A sua textura subtil une-se sem grade de azulejos. Disponível em sálvia, creme e alperce.</LP_RubberApricot.description>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Setting_LearningWeight>Mänguväljaku mängimise kaudu õppimise eelistus: {0} (vaikeseade: 2)</LP_Setting_LearningWeight>
+  <LP_Setting_LearningWeightDescription>Reguleerige, kui sageli laps valib õppetegevuseks mänguväljakul mängimise. Kõrgem väärtus muudab selle tegevuse suurema tõenäosusega valituks.</LP_Setting_LearningWeightDescription>
+  <LP_Setting_LearningWeightTip>Väärtusel 1 on mänguväljakul mängimisel sama valikukaal kui tavalistel tegevustel, näiteks põrandale joonistamisel või looduses jooksmisel. Väärtusel 2 valikukaal kahekordistub, kuid tegelikke külastusi ei tule kaks korda rohkem. See ei mõjuta eraldi 50% võimalust vabal ajal mängida. Muudatus rakendub järgmise õppimissoovi valimisel; olemasolevad soovid ja pooleliolev mäng säilivad.</LP_Setting_LearningWeightTip>
+  <LP_Setting_LearningWeightTiming>Kehtib uue õppimissoovi valimisel. Säilitatakse olemasolevad soovid ja pooleliolev mäng.</LP_Setting_LearningWeightTiming>
+</LanguageData>

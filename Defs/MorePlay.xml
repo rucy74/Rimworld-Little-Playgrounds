@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef Name="LP_MorePlayBase" Abstract="True" ParentName="LP_ExpansionBase">
+    <tickerType>Never</tickerType>
+    <building><isEdifice>true</isEdifice></building>
+    <statBases><MaxHitPoints>140</MaxHitPoints><WorkToBuild>1200</WorkToBuild><Mass>12</Mass><Flammability>0.6</Flammability><Beauty>3</Beauty></statBases>
+  </ThingDef>
+  <ThingDef ParentName="LP_MorePlayBase">
+    <defName>LP_BubbleTub</defName><label>bubble tub</label>
+    <description>A small wooden tub of soapy water with a bubble wand. It needs no playground around it. One visitor stands south of the tub and blows bubbles, and a second can run around catching them if there is open ground nearby. Keep the cell south of the tub clear. Children gain learning; adults gain recreation.</description>
+    <size>(1,1)</size><passability>Impassable</passability><disableImpassableShotOverConfigError>true</disableImpassableShotOverConfigError>
+    <graphicData><texPath>Things/Building/BubbleTubV1</texPath><graphicClass>Graphic_Single</graphicClass><drawSize>(1.25,1.25)</drawSize><shadowData><volume>(0.75,0.3,0.4)</volume></shadowData></graphicData>
+    <costList><WoodLog>20</WoodLog></costList>
+    <statBases><WorkToBuild>500</WorkToBuild><Mass>6</Mass><Beauty>2</Beauty></statBases>
+    <modExtensions><li Class="LittlePlaygrounds.ExpansionProperties"><kind>BubbleTub</kind><seats>2</seats></li></modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="LP_MorePlayBase">
+    <defName>LP_PullUpBar</defName><label>pull-up bar</label>
+    <description>A low iron bar between two timber posts. It needs no playground around it. Up to two visitors hang from it, do pull-ups, work along it hand over hand and sit on top. Keep the south side clear. Children gain learning; adults gain recreation.</description>
+    <size>(2,1)</size><passability>Impassable</passability><disableImpassableShotOverConfigError>true</disableImpassableShotOverConfigError>
+    <graphicData><texPath>Things/Building/PullBarV1</texPath><graphicClass>Graphic_Single</graphicClass><drawSize>(2.5,2)</drawSize><shadowData><volume>(2.0,0.3,0.3)</volume><offset>(0,0,-0.28)</offset></shadowData></graphicData>
+    <costList><WoodLog>30</WoodLog><Steel>15</Steel></costList>
+    <statBases><WorkToBuild>900</WorkToBuild><Mass>10</Mass><Beauty>1</Beauty></statBases>
+    <modExtensions><li Class="LittlePlaygrounds.ExpansionProperties"><kind>PullBar</kind><seats>2</seats></li></modExtensions>
+  </ThingDef>
+  <JobDef ParentName="LP_CompactJob"><defName>LP_SwingOnBar</defName><reportString>playing on the pull-up bar.</reportString><joyMaxParticipants>2</joyMaxParticipants></JobDef>
+  <JobDef ParentName="LP_CompactJob"><defName>LP_BlowBubbles</defName><reportString>playing with bubbles.</reportString><joyMaxParticipants>2</joyMaxParticipants></JobDef>
+  <JobDef ParentName="LP_CareBase"><defName>LP_CareBubbles</defName><driverClass>LittlePlaygrounds.JobDriver_VisitPlayground</driverClass><reportString>playing with bubbles with TargetB.</reportString></JobDef>
+  <JoyGiverDef ParentName="LP_AdultPlayBase"><defName>LP_AdultPullUpBar</defName><thingDefs><li>LP_PullUpBar</li></thingDefs><jobDef>LP_SwingOnBar</jobDef></JoyGiverDef>
+  <JoyGiverDef ParentName="LP_AdultPlayBase"><defName>LP_AdultBubbleTub</defName><thingDefs><li>LP_BubbleTub</li></thingDefs><jobDef>LP_BlowBubbles</jobDef></JoyGiverDef>
+</Defs>

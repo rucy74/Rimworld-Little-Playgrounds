@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_SteppingStump.label>Spielplatz-Holzstufe</LP_SteppingStump.label>
+  <LP_SteppingStump.description>Eine niedrige Plattform aus gesägtem Holz zum Betreten. Trittsteine, Holzstufen und Balancierstämme verbinden sich, wenn sich ihre Kanten berühren. Ein Parcours muss mindestens zwei Felder umfassen; ein Balancierstamm allein deckt schon zwei ab. Teile, die sich nur an einer Ecke berühren, verbinden sich nicht. Kinder und Erwachsene folgen der zusammenhängenden Route.</LP_SteppingStump.description>
+  <LP_SpringFox.label>Fuchs-Federwippe</LP_SpringFox.label>
+  <LP_SpringFox.description>Ein fuchsförmiges Schaukelspielzeug, das auf einer Feder montiert ist. Ein Kind oder ein Erwachsener kann es alleine benutzen. Die Figur behält ihren normalen Körper und lehnt sich mit dem Spielzeug vor und zurück.</LP_SpringFox.description>
+  <LP_Roundabout.label>Eichenholzkarussell</LP_Roundabout.label>
+  <LP_Roundabout.description>Ein rundes Spielplatzkarussell aus Eiche mit salbeigrünen Handläufen für bis zu vier Personen. Eine Person kann es alleine benutzen. Es wird langsamer und stoppt, wenn jemand ein- oder aussteigt.</LP_Roundabout.description>
+  <LP_Playhouse.label>kleines Ladenspielhaus</LP_Playhouse.label>
+  <LP_Playhouse.description>Ein Spielhaus mit offener Front und kleiner Ladentheke. Führen Sie den Laden alleine oder begrüßen Sie einen zweiten Besucher am Schaufenster. Kinder lernen; für Erwachsene dient es der Entspannung.</LP_Playhouse.description>
+  <LP_DrinkingFountain.label>Trinkbrunnen mit zwei Höhen</LP_DrinkingFountain.label>
+  <LP_DrinkingFountain.description>Eine hohe und eine niedrige Trinkschale. Nach dem Spielen auf dem Spielplatz können Kinder hier kurz etwas trinken; Erwachsene nutzen ihn auch zur Entspannung. Der kleine Wasserlauf läuft während der Nutzung. Dadurch entsteht kein Durstbedürfnis. Aus beliebigen Steinblöcken gebaut; seine Form und Farben bleiben gleich, egal welchen Stein Sie verwenden.</LP_DrinkingFountain.description>
+  <LP_Hopscotch.label>Hüpfkästchen</LP_Hopscotch.label>
+  <LP_Hopscotch.description>Acht aufgemalte Hüpfkästchen-Felder. Ein Kind oder ein Erwachsener hüpft an den Zahlen entlang und kehrt zurück, spielt alleine, ohne auf einen Partner zu warten. Aus beliebigen Steinblöcken gebaut; seine Form und Farben bleiben gleich, egal welchen Stein Sie verwenden.</LP_Hopscotch.description>
+  <LP_SplashPad.label>Wasserspielplatz</LP_SplashPad.label>
+  <LP_SplashPad.description>Bodennahe Wasserstrahlen sprühen in einem sich wiederholenden Muster, während sich bis zu drei Personen im Spielbereich bewegen. Jede Person kann auch alleine spielen. Diese Aktivität stoppt unter 10 Grad Celsius und kann nicht gestartet werden, wenn die Oberfläche mit Schnee bedeckt ist. Aus beliebigen Steinblöcken gebaut; seine Form und Farben bleiben gleich, egal welchen Stein Sie verwenden.</LP_SplashPad.description>
+  <LP_SteppingStone.label>Spielplatz-Trittstein</LP_SteppingStone.label>
+  <LP_SteppingStone.description>Eine niedrige, abgerundete Trittplattform aus Stein. Trittsteine, Holzstufen und Balancierstämme verbinden sich, wenn sich ihre Kanten berühren. Ein Parcours muss mindestens zwei Felder umfassen; ein Balancierstamm allein deckt schon zwei ab. Teile, die sich nur an einer Ecke berühren, verbinden sich nicht. Besucher folgen einer zusammenhängenden Route und kehren zurück. Jeder Besuch reserviert eine Route von bis zu 24 Stück. Aus beliebigen Steinblöcken gebaut; seine Form und Farben bleiben gleich, egal welchen Stein Sie verwenden.</LP_SteppingStone.description>
+  <LP_BalanceLog.label>Balancierstamm</LP_BalanceLog.label>
+  <LP_BalanceLog.description>Ein niedriger Balancierstamm aus Eiche, zwei Felder lang; er kann längs oder quer platziert werden. Trittsteine, Holzstufen und Balancierstämme verbinden sich, wenn sich ihre Kanten berühren. Ein Parcours muss mindestens zwei Felder umfassen; ein Balancierstamm allein deckt schon zwei ab. Teile, die sich nur an einer Ecke berühren, verbinden sich nicht. Besucher balancieren auf einer zusammenhängenden Route und kehren zurück. Alle Felder des Parcours müssen frei bleiben.</LP_BalanceLog.description>
+  <LP_PlayFence.label>Spielplatzzaun aus Eiche</LP_PlayFence.label>
+  <LP_PlayFence.description>Niedrige Eichenlatten, verbunden mit Kantholzpfosten. Benachbarte Zaunstücke verbinden sich. Hierbei handelt es sich um eine dekorative, übersteigbare Spielplatzbegrenzung, nicht um eine Absperrung für Tiergehege.</LP_PlayFence.description>
+  <LP_PlayEntrance.label>Spielplatzeingang</LP_PlayEntrance.label>
+  <LP_PlayEntrance.description>Ein immer geöffneter Eingang mit einem kleinen Little Playgrounds-Schild. Eine einladende Öffnung für einen niedrigen Gartenzaun.</LP_PlayEntrance.description>
+  <LP_GardenFountain.label>Gartenbrunnen</LP_GardenFountain.label>
+  <LP_GardenFountain.description>Ein niedriges Becken aus hellem Stein mit sanft fließendem Wasser. Ein Blickfang für den Garten, am besten in der Nähe des Sitzbereichs. Aus beliebigen Steinblöcken gebaut; seine Form und Farben bleiben gleich, egal welchen Stein Sie verwenden.</LP_GardenFountain.description>
+</LanguageData>

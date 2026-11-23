@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PaletteButton>Колірна схема</LP_PaletteButton>
+  <LP_PaletteDescription>Виберіть кольори цього майданчика. Поточний: {0}. Миттєво змінює зовнішній вигляд; вартість будівництва та продуктивність залишаються незмінними.</LP_PaletteDescription>
+  <LP_PaletteCurrent>Колірна схема: {0}</LP_PaletteCurrent>
+  <LP_PaletteLegacy>Оригінальна обробка</LP_PaletteLegacy>
+  <LP_PaletteBlue>Дерево + синій</LP_PaletteBlue>
+  <LP_PaletteYellow>Дерево + жовтий</LP_PaletteYellow>
+  <LP_PaletteSage>Дерево + шавлієвий зелений</LP_PaletteSage>
+  <LP_PaletteClassic>Класичні кольори</LP_PaletteClassic>
+</LanguageData>

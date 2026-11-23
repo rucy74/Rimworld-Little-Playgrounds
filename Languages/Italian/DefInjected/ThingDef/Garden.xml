@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Sandbox.label>sabbiera in quercia</LP_Sandbox.label>
+  <LP_Sandbox.description>Una sabbiera in rovere chiaro con sedili angolari in avorio. Fino a tre bambini o adulti modellano un tumulo in una torre e poi in un castello di sabbia, da soli o insieme. I bambini imparano; gli adulti ottengono svago. La loro creazione rimane dopo che se ne sono andati e si consuma lentamente quando non viene utilizzata.</LP_Sandbox.description>
+  <LP_GardenBench.label>panca da giardino</LP_GardenBench.label>
+  <LP_GardenBench.description>Una panca arrotondata in rovere e avorio con spazio per due persone. I coloni possono sceglierla per svago o ricevere l'ordine di rilassarsi qui. Posiziona una tenda parasole una cella dietro la panca per ripararla.</LP_GardenBench.description>
+  <LP_ShadeCanopy.label>tenda parasole per parco giochi</LP_ShadeCanopy.label>
+  <LP_ShadeCanopy.description>Una tettoia in tessuto color crema su pali color salvia. Posiziona il suo indicatore centrale una cella dietro una panchina. Ripara un'area di cinque per tre antistante senza sostituire i tetti esistenti. Il tessuto rimane opaco sopra i visitatori seduti e diventa trasparente quando la sua immagine sollevata copre un personaggio.</LP_ShadeCanopy.description>
+  <LP_OakCurb.label>bordo per parco giochi in quercia</LP_OakCurb.label>
+  <LP_OakCurb.description>Bordo basso in rovere arrotondato. Il bordo del parco giochi adiacente si collega automaticamente, anche attorno agli angoli. I personaggi possono scavalcarlo.</LP_OakCurb.description>
+  <LP_IvoryCurb.label>bordatura per parco giochi</LP_IvoryCurb.label>
+  <LP_IvoryCurb.description>Bordo basso color avorio per delimitare il parco giochi finito. Il bordo del parco giochi adiacente si collega automaticamente, anche attorno agli angoli. I personaggi possono scavalcarlo. Costruito da qualsiasi blocco di pietra; la sua forma e i suoi colori rimangono gli stessi qualunque pietra usi.</LP_IvoryCurb.description>
+</LanguageData>

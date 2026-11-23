@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_SteppingStump.label>graó de fusta del pati</LP_SteppingStump.label>
+  <LP_SteppingStump.description>Plataforma baixa feta de fusta serrada, per trepitjar. Les pedres de pas, els graons de fusta i els troncs d'equilibri s'enllacen entre ells vora amb vora. Un recorregut ha d'ocupar almenys dues cel·les (un tronc d'equilibri tot sol ja n'ocupa dues), i les peces que només es toquen per una cantonada no s'enllacen. Nens i adults segueixen la ruta connectada.</LP_SteppingStump.description>
+  <LP_SpringFox.label>balancí de molla en forma de guineu</LP_SpringFox.label>
+  <LP_SpringFox.description>Una joguina de balanceig amb forma de guineu muntada sobre una molla. Un nen o adult pot utilitzar-lo sol. El personatge manté el seu cos normal i s'inclina cap endavant i cap enrere amb la joguina.</LP_SpringFox.description>
+  <LP_Roundabout.label>carrusel de roure</LP_Roundabout.label>
+  <LP_Roundabout.description>Un carrusel rodó de parc infantil de roure amb passamans de color verd sàlvia, per a un màxim de quatre persones. Una persona pot utilitzar-lo sola. S'alenteix i s'atura quan algú puja o baixa.</LP_Roundabout.description>
+  <LP_Playhouse.label>casa de jocs de la petita botiga</LP_Playhouse.label>
+  <LP_Playhouse.description>Una casa de jocs oberta amb un petit mostrador. Juga a dirigir la botiga sol o dóna la benvinguda a un segon visitant a l'aparador. Els nens aprenen i els adults guanyen entreteniment.</LP_Playhouse.description>
+  <LP_DrinkingFountain.label>font per beure de dues alçades</LP_DrinkingFountain.label>
+  <LP_DrinkingFountain.description>Una pica alta i una de baixa per beure. Els nens s'hi poden aturar per beure una mica d'aigua després de jugar al parc infantil; els adults també la trien per entretenir-se. El petit raig d'aigua raja mentre s'utilitza. Això no afegeix cap necessitat de set. Construïda amb qualsevol bloc de pedra; la seva forma i colors es mantenen iguals sigui quina sigui la pedra que utilitzeu.</LP_DrinkingFountain.description>
+  <LP_Hopscotch.label>xarranca de jardí</LP_Hopscotch.label>
+  <LP_Hopscotch.description>Vuit caselles de xarranca pintades. Un nen o adult salta pels números i torna, jugant sol sense esperar cap company. Construïda amb qualsevol bloc de pedra; la seva forma i colors es mantenen iguals sigui quina sigui la pedra que utilitzeu.</LP_Hopscotch.description>
+  <LP_SplashPad.label>zona de jocs amb dolls d'aigua</LP_SplashPad.label>
+  <LP_SplashPad.description>Els dolls d'aigua a nivell del sòl ruixen en un patró repetitiu mentre fins a tres persones es mouen per l'àrea de joc. Cada persona també pot jugar sol. Aquesta activitat s'atura per sota dels 10 graus centígrads i no pot començar quan la superfície està coberta de neu. Es pot construir amb qualsevol bloc de pedra, amb la mateixa forma i colors.</LP_SplashPad.description>
+  <LP_SteppingStone.label>pedra de pas del parc infantil</LP_SteppingStone.label>
+  <LP_SteppingStone.description>Una pedra de pas baixa i arrodonida. Les pedres de pas, els graons de fusta i els troncs d'equilibri s'enllacen entre ells vora amb vora. Un recorregut ha d'ocupar almenys dues cel·les (un tronc d'equilibri tot sol ja n'ocupa dues), i les peces que només es toquen per una cantonada no s'enllacen. Els visitants segueixen una branca connectada i tornen. Cada visita reserva el seu recorregut, de fins a 24 peces. Es pot construir amb qualsevol bloc de pedra, amb la mateixa forma i colors.</LP_SteppingStone.description>
+  <LP_BalanceLog.label>tronc d'equilibri</LP_BalanceLog.label>
+  <LP_BalanceLog.description>Un tronc d'equilibri baix de roure, de dues cel·les de llargada; es pot col·locar al llarg o de través. Les pedres de pas, els graons de fusta i els troncs d'equilibri s'enllacen entre ells vora amb vora. Un recorregut ha d'ocupar almenys dues cel·les (un tronc d'equilibri tot sol ja n'ocupa dues), i les peces que només es toquen per una cantonada no s'enllacen. Els visitants avancen en equilibri per una branca connectada i després tornen. Totes les cel·les del recorregut han de quedar lliures.</LP_BalanceLog.description>
+  <LP_PlayFence.label>tanca de jocs de roure</LP_PlayFence.label>
+  <LP_PlayFence.description>Piquets baixos de roure units a pals quadrats de fusta. Les peces de tanca adjacents es connecten. Es tracta d'un límit decoratiu del parc infantil, no d'una barrera de corral per a animals.</LP_PlayFence.description>
+  <LP_PlayEntrance.label>entrada al parc infantil</LP_PlayEntrance.label>
+  <LP_PlayEntrance.description>Una entrada sempre oberta amb un petit cartell de Little Playgrounds. Una obertura acollidora per a una tanca baixa del jardí.</LP_PlayEntrance.description>
+  <LP_GardenFountain.label>font de jardí</LP_GardenFountain.label>
+  <LP_GardenFountain.description>Conca baixa de pedra pàl·lida amb aigua que flueix suaument. Una peça central de jardí per col·locar a prop de la zona d'estar. Construïda amb qualsevol bloc de pedra; la seva forma i colors es mantenen iguals sigui quina sigui la pedra que utilitzeu.</LP_GardenFountain.description>
+</LanguageData>

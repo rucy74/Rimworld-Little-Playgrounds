@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Sandbox.label>meşe kum havuzu</LP_Sandbox.label>
+  <LP_Sandbox.description>Fildişi köşe oturakları olan açık renkli meşe kum havuzu. En fazla üç çocuk veya yetişkin, tek başına veya birlikte bir kum tümseğini önce bir kuleye, sonra da bir kumdan kaleye dönüştürür. Çocuklar öğrenme, yetişkinler eğlence kazanır. Yaptıkları, onlar gittikten sonra da kalır ve kullanılmadığında yavaş yavaş aşınır.</LP_Sandbox.description>
+  <LP_GardenBench.label>bahçe bankı</LP_GardenBench.label>
+  <LP_GardenBench.description>İki kişinin sığabileceği, yuvarlak hatlı meşe ve fildişi bir bank. Koloniciler onu eğlence için seçebilir ya da burada dinlenmeleri emredilebilir. Gölgede kalması için bankın bir kare arkasına bir gölgelik yerleştirin.</LP_GardenBench.description>
+  <LP_ShadeCanopy.label>oyun alanı gölgeliği</LP_ShadeCanopy.label>
+  <LP_ShadeCanopy.description>Adaçayı yeşili direkler üzerinde krem rengi kumaş bir gölgelik. Orta işaretini bir bankın bir kare arkasına yerleştirin. Mevcut çatıların yerini almadan öndeki beşe üçlük bir alanı gölgeler. Kumaş, oturan ziyaretçilerin üzerinde opak kalır ve yükseltilmiş görüntüsü bir karakteri kapattığında soluklaşır.</LP_ShadeCanopy.description>
+  <LP_OakCurb.label>meşe oyun alanı bordürü</LP_OakCurb.label>
+  <LP_OakCurb.description>Alçak, yuvarlak meşe bordür. Bitişik oyun alanı bordürleri, köşeler de dahil olmak üzere otomatik olarak birleşir. Karakterler üzerinden geçebilir.</LP_OakCurb.description>
+  <LP_IvoryCurb.label>oyun alanı bordürü</LP_IvoryCurb.label>
+  <LP_IvoryCurb.description>Oyun alanı sınırını tamamlayan alçak fildişi bordür. Bitişik oyun alanı bordürleri, köşeler de dahil olmak üzere otomatik olarak birleşir. Karakterler üzerinden geçebilir. Her türlü taş bloktan yapılabilir; şekli ve renkleri taş türüne göre değişmez.</LP_IvoryCurb.description>
+</LanguageData>

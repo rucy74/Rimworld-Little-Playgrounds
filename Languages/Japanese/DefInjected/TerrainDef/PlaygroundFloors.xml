@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PlaySandLight.label>明るい色の遊び場の砂</LP_PlaySandLight.label>
+  <LP_PlaySandLight.description>浅く柔らかな模様のある淡い砂で、明るく開放的な遊び場を作れます。細砂と粗砂に続く3種類目の砂地です。</LP_PlaySandLight.description>
+  <LP_PlaySand.label>遊び場の細砂</LP_PlaySand.label>
+  <LP_PlaySand.description>温かみのあるベージュ色の細かな砂です。表面には穏やかな起伏があります。</LP_PlaySand.description>
+  <LP_PlaySandGrainy.label>遊び場の粗砂</LP_PlaySandGrainy.label>
+  <LP_PlaySandGrainy.description>砂粒が見え、軽くならした跡のある温かい色合いの砂です。細砂より粒の質感が目立ちます。</LP_PlaySandGrainy.description>
+  <LP_RubberSage.label>セージグリーンのゴム舗装</LP_RubberSage.label>
+  <LP_RubberSage.description>つやを抑えたゴムチップの遊び場用舗装です。控えめな質感で、敷き詰めても格子状の継ぎ目が目立ちません。セージグリーン、クリーム、アプリコットの3色があります。</LP_RubberSage.description>
+  <LP_RubberCream.label>クリーム色のゴム舗装</LP_RubberCream.label>
+  <LP_RubberCream.description>つやを抑えたゴムチップの遊び場用舗装です。控えめな質感で、敷き詰めても格子状の継ぎ目が目立ちません。セージグリーン、クリーム、アプリコットの3色があります。</LP_RubberCream.description>
+  <LP_RubberApricot.label>アプリコット色のゴム舗装</LP_RubberApricot.label>
+  <LP_RubberApricot.description>つやを抑えたゴムチップの遊び場用舗装です。控えめな質感で、敷き詰めても格子状の継ぎ目が目立ちません。セージグリーン、クリーム、アプリコットの3色があります。</LP_RubberApricot.description>
+</LanguageData>

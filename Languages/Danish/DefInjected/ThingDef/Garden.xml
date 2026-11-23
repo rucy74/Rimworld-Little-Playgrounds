@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Sandbox.label>egetræssandkasse</LP_Sandbox.label>
+  <LP_Sandbox.description>En sandkasse af bleg egetræ med elfenbenhjørnesæder. Op til tre børn eller voksne former en høj til et tårn og derefter et sandslot, alene eller sammen. Børn får læring; voksne får rekreation. Deres skabelse forbliver, efter de er gået, og slides langsomt væk, når de ikke bliver brugt.</LP_Sandbox.description>
+  <LP_GardenBench.label>havebænk</LP_GardenBench.label>
+  <LP_GardenBench.description>En afrundet bænk af egetræ og elfenben med plads til to personer. Kolonister kan vælge den til rekreation eller blive beordret til at slappe af her. Placer en skyggebaldakin en celle bag bænken for at skærme den.</LP_GardenBench.description>
+  <LP_ShadeCanopy.label>skyggebaldakin til legepladsen</LP_ShadeCanopy.label>
+  <LP_ShadeCanopy.description>En baldakin af cremet stof på salviegrønne stolper. Placer dens midtermarkør en celle bag en bænk. Den skærmer et område på fem gange tre foran sig uden at erstatte eksisterende tage. Stoffet forbliver uigennemsigtigt over siddende besøgende og falmer, når dets hævede billede skjuler en person.</LP_ShadeCanopy.description>
+  <LP_OakCurb.label>legepladskant af eg</LP_OakCurb.label>
+  <LP_OakCurb.description>Lav afrundet egetræskant. Tilstødende legepladskanter forbindes automatisk, også rundt om hjørner. Alle kan træde over den.</LP_OakCurb.description>
+  <LP_IvoryCurb.label>legepladskant</LP_IvoryCurb.label>
+  <LP_IvoryCurb.description>Lav elfenbenskant for en færdig legepladsgrænse. Tilstødende legepladskanter forbindes automatisk, også rundt om hjørner. Alle kan træde over den. Bygges af alle slags stenblokke; formen og farverne forbliver de samme, uanset hvilken sten du bruger.</LP_IvoryCurb.description>
+</LanguageData>

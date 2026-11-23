@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Menu_PlaySwing>Chơi xích đu</LP_Menu_PlaySwing>
+  <LP_Menu_PlaySlide>Chơi cầu trượt</LP_Menu_PlaySlide>
+  <LP_Menu_PlaySeesaw>Chơi bập bênh</LP_Menu_PlaySeesaw>
+  <LP_Menu_JumpTrampoline>Nhún trên bạt nhún</LP_Menu_JumpTrampoline>
+  <LP_Menu_RideZipline>Chơi đu dây trượt</LP_Menu_RideZipline>
+  <LP_Menu_BuildSandcastles>Xây lâu đài cát</LP_Menu_BuildSandcastles>
+  <LP_Menu_RelaxBench>Thư giãn trên băng ghế</LP_Menu_RelaxBench>
+  <LP_Menu_TakeDrink>Uống nước</LP_Menu_TakeDrink>
+  <LP_Menu_PlayCourse>Chơi theo tuyến này</LP_Menu_PlayCourse>
+  <LP_Menu_PlayAt>Chơi tại {0}</LP_Menu_PlayAt>
+  <LP_Inspect_CourseLinked>Tuyến gồm {0} ô đã nối.</LP_Inspect_CourseLinked>
+  <LP_Inspect_CourseAlone>Đang đứng riêng nên chưa ai chơi được ở đây. Hãy đặt thêm một đá bước chân, bậc gỗ hoặc khúc gỗ thăng bằng sao cho cạnh chạm cạnh với nó.</LP_Inspect_CourseAlone>
+  <LP_Inspect_CourseCorner>Chỉ chạm một bộ phận khác ở góc, nên không nối. Các bộ phận nối khi cạnh chạm cạnh.</LP_Inspect_CourseCorner>
+  <LP_Inspect_CourseWaiting>Sẽ nối với bộ phận đã lên kế hoạch bên cạnh khi bộ phận đó được xây xong.</LP_Inspect_CourseWaiting>
+  <LP_Menu_CourseTooShort>Chơi theo tuyến này (cần thêm một bộ phận cạnh chạm cạnh)</LP_Menu_CourseTooShort>
+  <LP_Place_CourseLinked>Nối thành tuyến {0} ô</LP_Place_CourseLinked>
+  <LP_Place_CourseOccupied>Đã có một bộ phận tuyến khác ở đây</LP_Place_CourseOccupied>
+  <LP_Place_CourseSelf>Tự tạo thành tuyến {0} ô</LP_Place_CourseSelf>
+  <LP_Place_CourseCorner>Chạm góc không nối được, hãy đặt cạnh chạm cạnh</LP_Place_CourseCorner>
+  <LP_Place_CourseAlone>Không thể chơi khi đứng riêng, hãy đặt thêm một bộ phận cạnh chạm cạnh</LP_Place_CourseAlone>
+  <LP_Inspect_SplashClosed>Tạm ngừng chơi nước: dưới 10°C.</LP_Inspect_SplashClosed>
+  <LP_Inspect_SeatReturning>Ghế trống quay trở lại</LP_Inspect_SeatReturning>
+  <LP_Inspect_Rider>Người chơi: {0}</LP_Inspect_Rider>
+  <LP_Inspect_ReadyOne>Sẵn sàng cho một người chơi</LP_Inspect_ReadyOne>
+  <LP_Inspect_ReadyAny>Sẵn sàng cho người chơi</LP_Inspect_ReadyAny>
+  <LP_Inspect_SlideRider>Người chơi: {0} — {1}</LP_Inspect_SlideRider>
+  <LP_SlidePhase_approach>đến gần</LP_SlidePhase_approach>
+  <LP_SlidePhase_boarding>lên cầu trượt</LP_SlidePhase_boarding>
+  <LP_SlidePhase_climbing>leo lên</LP_SlidePhase_climbing>
+  <LP_SlidePhase_platform>sàn trên cao</LP_SlidePhase_platform>
+  <LP_SlidePhase_seated>ngồi</LP_SlidePhase_seated>
+  <LP_SlidePhase_sliding>trượt</LP_SlidePhase_sliding>
+  <LP_SlidePhase_landing>tiếp đất</LP_SlidePhase_landing>
+  <LP_SlidePhase_finished>đã hoàn thành</LP_SlidePhase_finished>
+  <LP_Inspect_SwingSeats>Ghế trái: {0}\nGhế phải: {1}</LP_Inspect_SwingSeats>
+  <LP_Inspect_SeatFree>còn trống</LP_Inspect_SeatFree>
+  <LP_Inspect_SeesawTogether>Cùng nhau chơi đùa</LP_Inspect_SeesawTogether>
+  <LP_Inspect_SeesawWaiting>Đang lên ghế</LP_Inspect_SeesawWaiting>
+  <LP_Inspect_SeesawSolo>Chơi một mình</LP_Inspect_SeesawSolo>
+  <LP_Inspect_SeesawFree>Còn hai chỗ ngồi</LP_Inspect_SeesawFree>
+  <LP_Inspect_SandCastle>Một lâu đài cát được xây dựng ở đây</LP_Inspect_SandCastle>
+  <LP_Inspect_SandTower>Một tháp cát đang thành hình</LP_Inspect_SandTower>
+  <LP_Inspect_SandMound>Một gò cát nhỏ</LP_Inspect_SandMound>
+  <LP_Inspect_SandReady>Sẵn sàng chơi cát</LP_Inspect_SandReady>
+  <LP_Setting_ChildcarePlay>Người lớn chơi cùng trẻ khi làm việc chăm trẻ</LP_Setting_ChildcarePlay>
+  <LP_Setting_ChildcarePlayTip>Khi bật, người lớn được giao chăm trẻ sẽ đến với trẻ đang chơi một mình. Ở thiết bị chơi chung (xích đu, bập bênh, hộp cát, mâm xoay, nhà chơi bán hàng, bạt nhún lớn), người lớn ngồi vào chỗ trống và chơi cùng; bên cạnh thiết bị chơi một mình, người lớn đứng xem. Giống như khi chơi với em bé, người lớn nhận một ít giải trí xã hội. Khi tắt, người lớn chỉ chơi cùng trẻ trong giờ giải trí của chính mình.</LP_Setting_ChildcarePlayTip>
+  <LP_Setting_RecordPlay>Nhật ký sân chơi (để gỡ lỗi)</LP_Setting_RecordPlay>
+  <LP_Setting_RecordPlayTip>Khi bật, mỗi lượt chơi được ghi lại: ai chơi, ai chơi cùng hoặc quan sát, họ đến bằng cách nào và tại sao thiết bị nhiều chỗ lại được dùng một mình. Xem bảng thông tin của thiết bị hoặc chọn Xem nhật ký bên dưới. Nội dung cũng được ghi vào tệp bên dưới.</LP_Setting_RecordPlayTip>
+  <LP_Rec_Open>Xem nhật ký</LP_Rec_Open>
+  <LP_Rec_Title>Nhật ký sân chơi</LP_Rec_Title>
+  <LP_Rec_NoMap>Hãy tải bản đồ khu định cư để xem nhật ký sân chơi.</LP_Rec_NoMap>
+  <LP_Why_Other>không có ở đây</LP_Why_Other>
+  <LP_Why_Drafted>đang ở chế độ chiến đấu</LP_Why_Drafted>
+  <LP_Why_Downed>đã ngã gục</LP_Why_Downed>
+  <LP_Why_Mental>suy sụp tinh thần</LP_Why_Mental>
+  <LP_Why_Burning>đang cháy</LP_Why_Burning>
+  <LP_Why_Ordered>đang làm theo lệnh</LP_Why_Ordered>
+  <LP_Why_Busy>bận ({0})</LP_Why_Busy>
+  <LP_Why_Gathering>trong một cuộc tụ tập hoặc nhóm</LP_Why_Gathering>
+  <LP_Why_Fighting>chiến đấu</LP_Why_Fighting>
+  <LP_Why_Needs>sắp ăn hoặc sắp ngủ</LP_Why_Needs>
+  <LP_Why_NotPlayTime>không phải giờ giải trí</LP_Why_NotPlayTime>
+  <LP_Why_JoyFull>giải trí đã đầy rồi</LP_Why_JoyFull>
+  <LP_Why_PlayCooldown>vừa chơi xong (chơi lại sau {0} giờ)</LP_Why_PlayCooldown>
+  <LP_Why_CareSettingOff>Chơi cùng trẻ khi chăm trẻ đang tắt trong cài đặt mod</LP_Why_CareSettingOff>
+  <LP_Why_NotWorkHour>không phải giờ làm việc</LP_Why_NotWorkHour>
+  <LP_Why_CannotChildcare>không thể làm việc chăm trẻ</LP_Why_CannotChildcare>
+  <LP_Why_ChildcareOff>Chăm trẻ đang tắt trong bảng công việc</LP_Why_ChildcareOff>
+  <LP_Why_CallCooldown>vừa được gọi gần đây (gọi lại sau {0} giờ)</LP_Why_CallCooldown>
+  <LP_Why_BeingCalled>đã được gọi bởi một đứa trẻ khác</LP_Why_BeingCalled>
+  <LP_Why_Dislike>họ không ưa nhau (quan điểm {0})</LP_Why_Dislike>
+  <LP_Why_TooFar>quá xa ({0} giây, giới hạn {1} giây)</LP_Why_TooFar>
+  <LP_Why_NotAllowedFun>tước hiệu không cho phép trò vui này</LP_Why_NotAllowedFun>
+  <LP_Why_NoWatchSpot>không còn chỗ trống để xem</LP_Why_NoWatchSpot>
+  <LP_Why_NoSeat>không có chỗ ngồi hoặc lối đi</LP_Why_NoSeat>
+  <LP_Rec_CallerCooldown>đứa trẻ này vừa gọi ai đó gần đây (gọi lại sau {0} giờ)</LP_Rec_CallerCooldown>
+  <LP_Rec_NoFriendSite>gần đây không có thiết bị chơi chung còn hai chỗ trống</LP_Rec_NoFriendSite>
+  <LP_Rec_NoChildren>không có đứa trẻ nào khác</LP_Rec_NoChildren>
+  <LP_Rec_Friends>bạn bè: {0}</LP_Rec_Friends>
+  <LP_Rec_SomeoneThere>đã có người đang chơi hoặc đang đến</LP_Rec_SomeoneThere>
+  <LP_Rec_Called>đã gọi {0} ({1})</LP_Rec_Called>
+  <LP_Rec_CalledBy>được gọi bởi {0}</LP_Rec_CalledBy>
+  <LP_Rec_NoAdults>không có người lớn</LP_Rec_NoAdults>
+  <LP_Rec_Adults>người lớn: {0}</LP_Rec_Adults>
+  <LP_Rec_Kind_Friend>bạn</LP_Rec_Kind_Friend>
+  <LP_Rec_Kind_Care>chăm trẻ</LP_Rec_Kind_Care>
+  <LP_Rec_Kind_Watch>đến xem</LP_Rec_Kind_Watch>
+  <LP_Rec_Kind_Recreation>giải trí</LP_Rec_Kind_Recreation>
+  <LP_Rec_Hold>đã chờ {0} giây ở lối vào: {1}</LP_Rec_Hold>
+  <LP_Rec_HoldCap>đã đợi đủ 10 giây</LP_Rec_HoldCap>
+  <LP_Rec_HoldRiding>có người khác đã lên chơi</LP_Rec_HoldRiding>
+  <LP_Rec_HoldLate>{0} không đến kịp</LP_Rec_HoldLate>
+  <LP_Rec_HoldArrivedName>{0} đã đến</LP_Rec_HoldArrivedName>
+  <LP_Rec_HoldArrived>người bạn đồng hành đã đến</LP_Rec_HoldArrived>
+  <LP_Rec_CompanionMissed>đã gọi {0}, nhưng người đó không chơi cùng (hiện tại: {1})</LP_Rec_CompanionMissed>
+  <LP_Rec_WhyUnknown>đến vì {0}; không có ai khác đến</LP_Rec_WhyUnknown>
+  <LP_Rec_Src_Unknown>không rõ</LP_Rec_Src_Unknown>
+  <LP_Rec_Src_Learning>học tập</LP_Rec_Src_Learning>
+  <LP_Rec_Src_Idle>rảnh rỗi</LP_Rec_Src_Idle>
+  <LP_Rec_Src_Invitation>lời mời</LP_Rec_Src_Invitation>
+  <LP_Rec_Src_Queue>hàng đợi</LP_Rec_Src_Queue>
+  <LP_Rec_Src_FriendCall>được một người bạn gọi</LP_Rec_Src_FriendCall>
+  <LP_Rec_Src_CareCall>được gọi (chăm trẻ)</LP_Rec_Src_CareCall>
+  <LP_Rec_Src_WatchCall>được gọi đến xem</LP_Rec_Src_WatchCall>
+  <LP_Rec_Src_RecreationCall>được gọi (giải trí)</LP_Rec_Src_RecreationCall>
+  <LP_Rec_Src_CareWork>công việc chăm trẻ</LP_Rec_Src_CareWork>
+  <LP_Rec_Src_Recreation>giải trí</LP_Rec_Src_Recreation>
+  <LP_Rec_Src_Ordered>theo lệnh</LP_Rec_Src_Ordered>
+  <LP_Rec_Mode_ChildAlone>trẻ chơi một mình</LP_Rec_Mode_ChildAlone>
+  <LP_Rec_Mode_Children>trẻ em cùng nhau</LP_Rec_Mode_Children>
+  <LP_Rec_Mode_WithCare>với người lớn chăm trẻ</LP_Rec_Mode_WithCare>
+  <LP_Rec_Mode_WithRec>với người lớn</LP_Rec_Mode_WithRec>
+  <LP_Rec_Mode_Watched>người lớn xem</LP_Rec_Mode_Watched>
+  <LP_Rec_Mode_AdultAlone>người lớn một mình</LP_Rec_Mode_AdultAlone>
+  <LP_Rec_Mode_AdultCare>người lớn chơi với trẻ em</LP_Rec_Mode_AdultCare>
+  <LP_Rec_Mode_AdultWithChild>người lớn với một đứa trẻ</LP_Rec_Mode_AdultWithChild>
+  <LP_Rec_Mode_Adults>người lớn cùng nhau</LP_Rec_Mode_Adults>
+  <LP_Rec_Role_child>đứa trẻ</LP_Rec_Role_child>
+  <LP_Rec_Role_care>chăm trẻ</LP_Rec_Role_care>
+  <LP_Rec_Role_adult>người lớn</LP_Rec_Role_adult>
+  <LP_Rec_JustNow>vừa rồi</LP_Rec_JustNow>
+  <LP_Rec_Ago>{0} giờ trước</LP_Rec_Ago>
+  <LP_Rec_Inspect>Nhật ký, 3 ngày qua: {0} lượt chơi ({1})</LP_Rec_Inspect>
+  <LP_Rec_InspectAlone>sử dụng một mình: {0}</LP_Rec_InspectAlone>
+  <LP_Rec_File>Tệp nhật ký: {0}</LP_Rec_File>
+  <LP_Rec_Off>Nhật ký sân chơi đang tắt. Bật trong Cài đặt &gt; Cài đặt Mod &gt; Little Playgrounds.</LP_Rec_Off>
+  <LP_Rec_Page_Rides>Thiết bị vui chơi</LP_Rec_Page_Rides>
+  <LP_Rec_Page_Recent>Các lượt chơi gần đây</LP_Rec_Page_Recent>
+  <LP_Rec_Page_Decisions>Lựa chọn chơi</LP_Rec_Page_Decisions>
+  <LP_Rec_Page_Children>Trẻ em hiện tại</LP_Rec_Page_Children>
+  <LP_Rec_OnlySelected>Chỉ thiết bị đã chọn</LP_Rec_OnlySelected>
+  <LP_Rec_Never>không bao giờ</LP_Rec_Never>
+  <LP_Rec_RideLine>3 ngày qua {0} lượt chơi: {1}</LP_Rec_RideLine>
+  <LP_Rec_Last>lần cuối {0}</LP_Rec_Last>
+  <LP_Rec_With>với {0}</LP_Rec_With>
+  <LP_Rec_Watchers>được xem bởi {0}</LP_Rec_Watchers>
+  <LP_Rec_Seconds>{0} s</LP_Rec_Seconds>
+  <LP_Rec_WhyAlone>Sao lại một mình: {0}</LP_Rec_WhyAlone>
+  <LP_Rec_HowCame>Cách đến: {0}</LP_Rec_HowCame>
+  <LP_Rec_ChildLine>học tập {0} · giờ {1} · hiện tại {2} · lượt chơi cuối {3} · sân chơi {4} · gọi {5}</LP_Rec_ChildLine>
+  <LP_Rec_Ready>đã sẵn sàng</LP_Rec_Ready>
+  <LP_Rec_ReadyIn>sau {0} giờ</LP_Rec_ReadyIn>
+  <LP_Rec_Drink>đi uống nước</LP_Rec_Drink>
+  <LP_Rec_Joined>đã chơi cùng một người bạn tại {0}</LP_Rec_Joined>
+  <LP_Rec_ToPartner>đi đến {0}, nơi có người đang đợi bạn chơi cùng</LP_Rec_ToPartner>
+  <LP_Rec_Chose>đã chọn {0}</LP_Rec_Chose>
+  <LP_Rec_RunRoll>lượt gieo chạy tự do (30%)</LP_Rec_RunRoll>
+  <LP_Rec_Running>chạy loanh quanh</LP_Rec_Running>
+  <LP_Rec_Queue>xếp hàng chờ {0}</LP_Rec_Queue>
+  <LP_Rec_Nobody>không gọi ai: {0}</LP_Rec_Nobody>
+  <LP_Rec_FromQueue>sau {0} giây xếp hàng</LP_Rec_FromQueue>
+  <LP_Setting_FacialPlay>Kết nối Facial Animation khi vui chơi</LP_Setting_FacialPlay>
+  <LP_Setting_FacialPlayTip>Chỉ dùng nụ cười có sẵn khi gói khuôn mặt Facial Animation đã cài có hỗ trợ. Tắt để ngắt kết nối Little Playgrounds ngay lập tức; các hoạt ảnh khuôn mặt khác vẫn hoạt động. Không thêm hình khuôn mặt mới.</LP_Setting_FacialPlayTip>
+  <LP_Setting_FacialPlayError>Kết nối biểu cảm đã dừng do lỗi. Hãy tắt rồi bật lại tùy chọn này để thử lại.</LP_Setting_FacialPlayError>
+  <LP_Setting_Sounds>Âm thanh thiết bị vui chơi</LP_Setting_Sounds>
+  <LP_Setting_SoundsTip>Những âm thanh nhỏ khi chơi: tiếng xích đu kẽo kẹt, tiếng bạt nhún nảy, tiếng chơi cát và chơi nước, tiếng vòi nước uống. Chỉ nghe thấy khi phóng to gần; âm lượng theo thiết lập âm lượng game và im lặng khi game tạm dừng. Cầu trượt và hồ bóng không có âm thanh.</LP_Setting_SoundsTip>
+  <LP_Setting_SoundVolume>Âm lượng thiết bị vui chơi: {0}</LP_Setting_SoundVolume>
+  <LP_Setting_SoundRides>Âm thanh cho từng thiết bị:</LP_Setting_SoundRides>
+  <LP_Setting_RunAround>Trẻ đôi khi chạy quanh thiết bị thay vì chơi trên đó</LP_Setting_RunAround>
+  <LP_Setting_RunAroundTip>Trẻ đã chọn một thiết bị có thể chạy quanh nó thay vì chơi, và nhận học tập ngang với một lượt chơi xích đu. Với thiết bị chơi chung, một người bạn sẽ chạy cùng; nếu không, một người lớn được giao chăm trẻ sẽ đến trông. Cần có đất trống khô bên cạnh thiết bị (không phải nước hay bùn), nếu không trẻ sẽ chơi như bình thường.</LP_Setting_RunAroundTip>
+  <LP_Setting_RunAroundChance>Xác suất mỗi lần trẻ chọn thiết bị: {0}</LP_Setting_RunAroundChance>
+  <LP_Setting_RunAroundIndoors>Chạy cả dưới mái nhà</LP_Setting_RunAroundIndoors>
+  <LP_Setting_RunAroundIndoorsTip>Khi tắt, trẻ chỉ chạy trên đất trống ngoài trời, nên thiết bị trong nhà sẽ được chơi như bình thường; mái che sân chơi không tính là mái nhà. Khi bật, trẻ cũng chạy quanh thiết bị trong nhà nếu phòng đủ chỗ.</LP_Setting_RunAroundIndoorsTip>
+  <LP_Setting_CouplePlay>Các cặp đôi cùng nhau vui chơi</LP_Setting_CouplePlay>
+  <LP_Setting_CouplePlayTip>Người lớn chọn một thiết bị hoặc băng ghế dành cho hai người sẽ gọi người yêu của mình; người ấy sẽ đến nếu đang rảnh hoặc đang giữa các việc thường ngày. Cặp đôi không có việc gì làm đôi khi cũng tự đi hẹn hò, tối đa một lần mỗi ngày. Họ chờ nhau, và sau đó cả hai đều được tăng một chút tâm trạng và quan điểm về nhau.</LP_Setting_CouplePlayTip>
+  <LP_Setting_RequireResearch>Cần nghiên cứu {0} để xây</LP_Setting_RequireResearch>
+  <LP_Setting_RequireResearchTip>Khi bật, mọi thứ mod này thêm vào (thiết bị, ghế dài, hàng rào và sàn) chỉ xây được sau khi nghiên cứu {0}. Các kiểu khởi đầu thông thường đã có sẵn nghiên cứu này, nên chỉ những thuộc địa bắt đầu mà không có nó, như bộ lạc, mới phải nghiên cứu trước. Những gì đã xây vẫn giữ nguyên. Khi tắt, mọi thứ đều xây được ngay từ đầu.</LP_Setting_RequireResearchTip>
+  <LP_Setting_ToddlerPlay>Trẻ mới biết đi chơi trên thiết bị</LP_Setting_ToddlerPlay>
+  <LP_Setting_ToddlerPlayMissing>cần mod Toddlers</LP_Setting_ToddlerPlayMissing>
+  <LP_Setting_ToddlerPlayTip>Khi có mod Toddlers, trẻ mới biết đi (kể cả bé còn đi chập chững) sẽ chơi trên các thiết bị này: {0}. Bé còn đang bò thì không chơi. Khi tắt, trẻ mới biết đi không dùng thiết bị nào. Không có mod Toddlers thì tùy chọn này không có tác dụng.</LP_Setting_ToddlerPlayTip>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Setting_LearningWeight>Preferencja nauki poprzez zabawę na placu zabaw: {0} (domyślnie: 2)</LP_Setting_LearningWeight>
+  <LP_Setting_LearningWeightDescription>Dostosuj częstotliwość, z jaką dziecko wybiera zabawę na placu zabaw jako formę nauki. Wyższa wartość zwiększa prawdopodobieństwo wyboru tej aktywności.</LP_Setting_LearningWeightDescription>
+  <LP_Setting_LearningWeightTip>Przy wartości 1 zabawa na placu zabaw ma taką samą wagę losowania jak zwykłe zajęcia, takie jak "rysowanie po podłodze" czy "bieganie po dworze". Przy wartości 2 ta waga się podwaja, ale nie rzeczywista liczba wizyt. Nie wpływa to na 50% szans na zabawę w czasie wolnym. Zmiany obowiązują od następnego losowania chęci nauki; istniejące chęci i trwająca zabawa zostają zachowane.</LP_Setting_LearningWeightTip>
+  <LP_Setting_LearningWeightTiming>Ma zastosowanie, gdy zostanie wybrana nowa chęć uczenia się. Istniejące pragnienia i trwająca gra zostają zachowane.</LP_Setting_LearningWeightTiming>
+</LanguageData>

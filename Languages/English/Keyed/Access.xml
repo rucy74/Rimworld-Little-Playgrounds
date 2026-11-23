@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_VisitorCount>Visitors: {0} / {1}</LP_VisitorCount>
+  <LP_AudienceButton>Visitors: {0}</LP_AudienceButton>
+  <LP_AudienceCurrent>Allowed visitors: {0}</LP_AudienceCurrent>
+  <LP_AudienceDescription>Choose who may use this equipment. Everyone is the default. Excluded visitors stop their current visit or queue. This choice is saved.</LP_AudienceDescription>
+  <LP_AudienceEveryone>Everyone</LP_AudienceEveryone>
+  <LP_AudienceChildren>Children only</LP_AudienceChildren>
+  <LP_AudienceAdults>Adults only</LP_AudienceAdults>
+</LanguageData>

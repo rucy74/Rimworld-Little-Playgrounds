@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <!-- With the Toddlers mod only: its walking toddlers can choose our gentler rides beside their own games. Without it the first path matches nothing. -->
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThinkTreeDef[defName="HumanlikeToddler"]</xpath>
+    <match Class="PatchOperationInsert">
+      <xpath>Defs/ThinkTreeDef[defName="HumanlikeToddler"]//li[@Class="Toddlers.JobGiver_ToddlerPlay"]</xpath>
+      <value>
+        <li Class="LittlePlaygrounds.JobGiver_ToddlerPlayground" />
+      </value>
+    </match>
+  </Operation>
+</Patch>

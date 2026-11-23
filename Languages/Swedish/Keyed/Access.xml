@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_VisitorCount>Besökare: {0} / {1}</LP_VisitorCount>
+  <LP_AudienceButton>Besökare: {0}</LP_AudienceButton>
+  <LP_AudienceCurrent>Tillåtna besökare: {0}</LP_AudienceCurrent>
+  <LP_AudienceDescription>Välj vem som får använda den här utrustningen. Alla är standard. Uteslutna besökare stoppar sitt nuvarande besök eller kö. Detta val sparas.</LP_AudienceDescription>
+  <LP_AudienceEveryone>Alla</LP_AudienceEveryone>
+  <LP_AudienceChildren>Endast barn</LP_AudienceChildren>
+  <LP_AudienceAdults>Endast vuxna</LP_AudienceAdults>
+</LanguageData>

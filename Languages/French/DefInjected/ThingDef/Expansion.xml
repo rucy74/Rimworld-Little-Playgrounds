@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_SteppingStump.label>marche de parcours en bois</LP_SteppingStump.label>
+  <LP_SteppingStump.description>Une plateforme basse en bois scié, sur laquelle marcher. Les pierres de parcours, les marches en bois et les rondins d'équilibre se relient les uns aux autres par leurs côtés. Un parcours doit couvrir au moins deux cases (un rondin d'équilibre en couvre déjà deux à lui seul), et les éléments qui ne se touchent que par un coin ne se relient pas. Enfants et adultes suivent le parcours relié.</LP_SteppingStump.description>
+  <LP_SpringFox.label>jeu sur ressort en forme de renard</LP_SpringFox.label>
+  <LP_SpringFox.description>Un jouet à bascule en forme de renard monté sur ressort. Un enfant ou un adulte peut l'utiliser seul. Le personnage garde son corps normal et se penche d'avant en arrière avec le jouet.</LP_SpringFox.description>
+  <LP_Roundabout.label>tourniquet en chêne</LP_Roundabout.label>
+  <LP_Roundabout.description>Un tourniquet rond en chêne avec rampes vert sauge, pouvant accueillir jusqu'à quatre personnes. Une personne peut le faire tourner ; il ralentit jusqu'à l'arrêt quand quelqu'un monte ou descend.</LP_Roundabout.description>
+  <LP_Playhouse.label>petite maisonnette de magasin</LP_Playhouse.label>
+  <LP_Playhouse.description>Une maisonnette à façade ouverte avec un petit comptoir de magasin. Jouez seul à la marchande ou accueillez un deuxième visiteur à la fenêtre. Les enfants apprennent et les adultes profitent des loisirs.</LP_Playhouse.description>
+  <LP_DrinkingFountain.label>fontaine à boire à deux hauteurs</LP_DrinkingFountain.label>
+  <LP_DrinkingFountain.description>Une vasque haute et une vasque basse. Les enfants peuvent s'arrêter pour boire un peu après leurs jeux sur le terrain de jeu ; les adultes la choisissent aussi pour leurs loisirs. Le petit jet d'eau coule pendant l'utilisation. Cela n'ajoute aucun besoin de soif. Construite à partir de n'importe quel bloc de pierre ; sa forme et ses couleurs restent les mêmes quelle que soit la pierre utilisée.</LP_DrinkingFountain.description>
+  <LP_Hopscotch.label>marelle de jardin</LP_Hopscotch.label>
+  <LP_Hopscotch.description>Huit carrés de marelle peints. Un enfant ou un adulte sautille parmi les numéros et revient, jouant seul sans attendre de partenaire. Construit à partir de n'importe quel bloc de pierre ; sa forme et ses couleurs restent les mêmes quelle que soit la pierre utilisée.</LP_Hopscotch.description>
+  <LP_SplashPad.label>aire de jeux d'eau</LP_SplashPad.label>
+  <LP_SplashPad.description>Des jets d'eau au niveau du sol sont pulvérisés de manière répétitive alors que jusqu'à trois personnes se déplacent dans l'aire de jeu. Chaque personne peut également jouer seul. Cette activité s'arrête en dessous de 10 degrés Celsius et ne peut démarrer lorsque la surface est recouverte de neige. Il peut être construit à partir de n’importe quel bloc de pierre, de même forme et de même couleur.</LP_SplashPad.description>
+  <LP_SteppingStone.label>pierre de parcours</LP_SteppingStone.label>
+  <LP_SteppingStone.description>Une pierre basse et arrondie servant de marche. Les pierres, les marches en bois et les rondins d'équilibre se relient par leurs côtés. Un parcours doit occuper au moins deux cases ; un rondin suffit à lui seul. Un contact par les coins ne relie pas les éléments. Les visiteurs suivent un chemin du parcours, puis reviennent. Chaque visite réserve jusqu'à 24 éléments. La construction accepte tous les blocs de pierre, sans changer la forme ni les couleurs.</LP_SteppingStone.description>
+  <LP_BalanceLog.label>rondin d'équilibre</LP_BalanceLog.label>
+  <LP_BalanceLog.description>Un rondin d'équilibre en chêne, bas et long de deux cases, à placer dans l'un ou l'autre sens. Les pierres, les marches en bois et les rondins se relient par leurs côtés. Un parcours doit occuper au moins deux cases ; un rondin suffit à lui seul. Un contact par les coins ne relie pas les éléments. Les visiteurs suivent un chemin du parcours en équilibre, puis reviennent. Toutes les cases du parcours doivent rester dégagées.</LP_BalanceLog.description>
+  <LP_PlayFence.label>clôture de jeux en chêne</LP_PlayFence.label>
+  <LP_PlayFence.description>Piquets bas en chêne assemblés à des poteaux en bois équarri. Les pièces de clôture adjacentes se connectent. Il s’agit d’une limite de terrain de jeu décorative et enjambante, et non d’une barrière d’enclos pour animaux.</LP_PlayFence.description>
+  <LP_PlayEntrance.label>entrée du terrain de jeu</LP_PlayEntrance.label>
+  <LP_PlayEntrance.description>Une entrée toujours ouverte avec un petit panneau Little Playgrounds. Une ouverture accueillante pour une clôture de jardin basse.</LP_PlayEntrance.description>
+  <LP_GardenFountain.label>fontaine de jardin</LP_GardenFountain.label>
+  <LP_GardenFountain.description>Un bassin bas en pierre pâle avec de l'eau qui coule doucement. Une pièce maîtresse de jardin à placer près du coin salon. Construit à partir de n'importe quel bloc de pierre ; sa forme et ses couleurs restent les mêmes quelle que soit la pierre utilisée.</LP_GardenFountain.description>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Sandbox.label>オーク材の砂場</LP_Sandbox.label>
+  <LP_Sandbox.description>淡いオーク材の砂場で、角にはアイボリーの座席があります。最大3人の子供や大人が、1人でも一緒でも砂山を塔、そして城へと作り上げます。子供は学習、大人は娯楽を得ます。作品は遊んだ後も残り、使われていない間に少しずつ崩れます。</LP_Sandbox.description>
+  <LP_GardenBench.label>庭のベンチ</LP_GardenBench.label>
+  <LP_GardenBench.description>オーク材とアイボリーで仕上げた丸みのある2人掛けベンチです。入植者は娯楽として選び、指示して休ませることもできます。ベンチの1マス後ろに日よけを置くと屋根が付きます。</LP_GardenBench.description>
+  <LP_ShadeCanopy.label>遊び場の日よけ</LP_ShadeCanopy.label>
+  <LP_ShadeCanopy.description>セージグリーンの支柱でクリーム色の布を支えています。中心の印をベンチの1マス後ろに置くと、既存の屋根を置き換えず前方の幅5マス、奥行き3マスを覆います。着席中の人の上では布は不透明のままです。高い位置の絵が人物を隠すときは薄く表示されます。</LP_ShadeCanopy.description>
+  <LP_OakCurb.label>オーク材の遊び場の縁取り</LP_OakCurb.label>
+  <LP_OakCurb.description>低く丸みのあるオーク材の縁取りです。隣接する部品は角も含め自動でつながります。人物は跨ぐことができます。</LP_OakCurb.description>
+  <LP_IvoryCurb.label>遊び場の縁取り</LP_IvoryCurb.label>
+  <LP_IvoryCurb.description>境界を整える低いアイボリー色の縁取りです。隣接する部品は角も含め自動でつながり、人物は跨ぐことができます。どの石材ブロックでも建設でき、素材によって形や色は変わりません。</LP_IvoryCurb.description>
+</LanguageData>

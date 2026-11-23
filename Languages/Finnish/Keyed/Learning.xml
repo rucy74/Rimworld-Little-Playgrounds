@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Setting_LearningWeight>Oppiminen leikkikenttäleikin kautta: {0} (oletus: 2)</LP_Setting_LearningWeight>
+  <LP_Setting_LearningWeightDescription>Säädä, kuinka usein lapsi valitsee leikkikenttäleikin oppimishaluksi. Korkeampi arvo tekee tämän toiminnon valituksi todennäköisemmin.</LP_Setting_LearningWeightDescription>
+  <LP_Setting_LearningWeightTip>Arvolla 1 leikkikenttäleikillä on sama valintapaino kuin tavallisilla toiminnoilla, kuten lattiapiirtämisellä tai luontojuoksulla. Arvolla 2 valintapaino kaksinkertaistuu, mutta vierailuja ei tule kaksinkertaisesti. Tämä ei vaikuta erilliseen 50 %:n mahdollisuuteen leikkiä joutoaikana. Muutokset koskevat seuraavaa oppimishalun valintaa; nykyiset toiveet ja käynnissä oleva leikki säilyvät.</LP_Setting_LearningWeightTip>
+  <LP_Setting_LearningWeightTiming>Koskee, kun valitaan uusi oppimishalu. Olemassa olevat toiveet ja käynnissä oleva leikki säilytetään.</LP_Setting_LearningWeightTiming>
+</LanguageData>

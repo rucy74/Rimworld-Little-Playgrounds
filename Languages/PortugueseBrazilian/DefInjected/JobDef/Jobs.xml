@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_RideSwing.reportString>brincando no balanço.</LP_RideSwing.reportString>
+  <LP_RideSlide.reportString>brincando no escorregador.</LP_RideSlide.reportString>
+  <LP_RideSeesaw.reportString>brincando na gangorra.</LP_RideSeesaw.reportString>
+  <LP_PlayInSand.reportString>construindo castelos de areia.</LP_PlayInSand.reportString>
+  <LP_RelaxOnBench.reportString>relaxando no banco do jardim.</LP_RelaxOnBench.reportString>
+  <LP_WaitForPlayground.reportString>aguardando brevemente por TargetA.</LP_WaitForPlayground.reportString>
+  <LP_BounceTrampoline.reportString>saltando em TargetA.</LP_BounceTrampoline.reportString>
+  <LP_RideZipline.reportString>deslizando em TargetA.</LP_RideZipline.reportString>
+  <LP_RideSpringFox.reportString>balançando em TargetA.</LP_RideSpringFox.reportString>
+  <LP_SpinRoundabout.reportString>girando em TargetA.</LP_SpinRoundabout.reportString>
+  <LP_PlayShop.reportString>brincando de loja em TargetA.</LP_PlayShop.reportString>
+  <LP_PlayHopscotch.reportString>brincando de amarelinha.</LP_PlayHopscotch.reportString>
+  <LP_PlaySplashPad.reportString>brincando nos jatos d'água.</LP_PlaySplashPad.reportString>
+  <LP_WalkCourse.reportString>atravessando o percurso do playground.</LP_WalkCourse.reportString>
+  <LP_BounceTogether.reportString>saltando em TargetA.</LP_BounceTogether.reportString>
+  <LP_DrinkAtFountain.reportString>bebendo água em TargetA.</LP_DrinkAtFountain.reportString>
+  <LP_CareSwing.reportString>balançando com TargetB.</LP_CareSwing.reportString>
+  <LP_CareSeesaw.reportString>andando na gangorra com TargetB.</LP_CareSeesaw.reportString>
+  <LP_CareSand.reportString>construindo castelos de areia com TargetB.</LP_CareSand.reportString>
+  <LP_CareRoundabout.reportString>girando o gira-gira com TargetB.</LP_CareRoundabout.reportString>
+  <LP_CarePlayhouse.reportString>brincando de loja com TargetB.</LP_CarePlayhouse.reportString>
+  <LP_CareBounceTogether.reportString>saltando na cama elástica com TargetB.</LP_CareBounceTogether.reportString>
+  <LP_WatchChildPlay.reportString>assistindo TargetB brincar.</LP_WatchChildPlay.reportString>
+</LanguageData>

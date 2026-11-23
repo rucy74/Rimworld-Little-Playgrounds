@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Sandbox.label>eikesandkasse</LP_Sandbox.label>
+  <LP_Sandbox.description>En blek eikesandkasse med hjørneseter i elfenben. Opptil tre barn eller voksne former en haug til et tårn og deretter et sandslott, alene eller sammen. Barn får læring; voksne får rekreasjon. Skapelsen deres forblir etter at de drar og slites sakte bort når den ikke brukes.</LP_Sandbox.description>
+  <LP_GardenBench.label>hagebenk</LP_GardenBench.label>
+  <LP_GardenBench.description>En avrundet benk i eik og elfenben med plass til to personer. Kolonister kan velge den for rekreasjon eller bli beordret til å slappe av her. Plasser et skyggetak én celle bak benken for å skjerme den.</LP_GardenBench.description>
+  <LP_ShadeCanopy.label>skyggetak for lekeplassen</LP_ShadeCanopy.label>
+  <LP_ShadeCanopy.description>En baldakin av kremstoff på salviestolper. Plasser sentermarkøren en celle bak en benk. Den beskytter et fem ganger tre område foran uten å erstatte eksisterende tak. Stoffet forblir ugjennomsiktig over sittende besøkende og blekner når det opphøyde bildet skjuler en person.</LP_ShadeCanopy.description>
+  <LP_OakCurb.label>lekeplasskant i eik</LP_OakCurb.label>
+  <LP_OakCurb.description>Lav avrundet eikekant. Tilstøtende lekeplasskanter kobles automatisk til, inkludert rundt hjørner. Alle kan tråkke over den.</LP_OakCurb.description>
+  <LP_IvoryCurb.label>lekeplasskant</LP_IvoryCurb.label>
+  <LP_IvoryCurb.description>Lav elfenbenskant for en ferdig lekeplassgrense. Tilstøtende lekeplasskanter kobles automatisk til, inkludert rundt hjørner. Alle kan tråkke over den. Bygget av alle steinblokker; formen og fargene forblir de samme uansett hvilken stein du bruker.</LP_IvoryCurb.description>
+</LanguageData>

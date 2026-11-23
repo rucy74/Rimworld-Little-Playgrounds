@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_BlockedUnavailable>Недоступно</LP_BlockedUnavailable>
+  <LP_BlockedCannotPlay>Не может участвовать в этом занятии</LP_BlockedCannotPlay>
+  <LP_BlockedDrafted>В режиме призыва</LP_BlockedDrafted>
+  <LP_BlockedDowned>Обездвижен</LP_BlockedDowned>
+  <LP_BlockedMentalState>В нервном срыве</LP_BlockedMentalState>
+  <LP_BlockedForbidden>Запрещено или вне разрешённой области</LP_BlockedForbidden>
+  <LP_BlockedAudience>Не подходит по возрастной настройке оборудования</LP_BlockedAudience>
+  <LP_BlockedTooHot>На площадке слишком жарко</LP_BlockedTooHot>
+  <LP_BlockedTooCold>На площадке слишком холодно</LP_BlockedTooCold>
+  <LP_BlockedBusy>Используется или занято</LP_BlockedBusy>
+  <LP_BlockedEntrance>Нет доступа к свободному входу или выходу</LP_BlockedEntrance>
+  <LP_BlockedReturning>Сиденье возвращается</LP_BlockedReturning>
+  <LP_BlockedCourseTooShort>Соедините хотя бы два элемента полосы препятствий</LP_BlockedCourseTooShort>
+  <LP_BlockedWaterCold>Слишком холодно или снежно для игр с водой</LP_BlockedWaterCold>
+  <LP_DesignButton>Дизайн</LP_DesignButton>
+  <LP_DesignDescription>Выберите внешний вид этого оборудования. Текущий: {0}. Цвета выбираются отдельно.</LP_DesignDescription>
+  <LP_DesignOriginal>Оригинальный</LP_DesignOriginal>
+  <LP_DesignTimber>Деревянный</LP_DesignTimber>
+  <LP_DesignBusy>Дождитесь, пока все закончат пользоваться оборудованием.</LP_DesignBusy>
+  <LP_DesignCurrent>Дизайн: {0}</LP_DesignCurrent>
+</LanguageData>

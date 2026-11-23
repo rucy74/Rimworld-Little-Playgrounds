@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PaletteButton>Esquema de colors</LP_PaletteButton>
+  <LP_PaletteDescription>Tria els colors d'aquest pati. Actual: {0}. Canvia l'aparença immediatament; els costos de construcció i el rendiment es mantenen iguals.</LP_PaletteDescription>
+  <LP_PaletteCurrent>Esquema de colors: {0}</LP_PaletteCurrent>
+  <LP_PaletteLegacy>Acabat original</LP_PaletteLegacy>
+  <LP_PaletteBlue>Fusta + blau</LP_PaletteBlue>
+  <LP_PaletteYellow>Fusta + groc</LP_PaletteYellow>
+  <LP_PaletteSage>Fusta + verd sàlvia</LP_PaletteSage>
+  <LP_PaletteClassic>Colors clàssics</LP_PaletteClassic>
+</LanguageData>

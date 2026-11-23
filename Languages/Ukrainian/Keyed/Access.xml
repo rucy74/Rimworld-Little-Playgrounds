@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_VisitorCount>Відвідувачі: {0} / {1}</LP_VisitorCount>
+  <LP_AudienceButton>Відвідувачі: {0}</LP_AudienceButton>
+  <LP_AudienceCurrent>Дозволені відвідувачі: {0}</LP_AudienceCurrent>
+  <LP_AudienceDescription>Виберіть, хто може користуватися цим обладнанням. За замовчуванням — усі. Виключені відвідувачі припиняють поточне відвідування або виходять із черги. Цей вибір зберігається.</LP_AudienceDescription>
+  <LP_AudienceEveryone>Усі</LP_AudienceEveryone>
+  <LP_AudienceChildren>Тільки діти</LP_AudienceChildren>
+  <LP_AudienceAdults>Тільки для дорослих</LP_AudienceAdults>
+</LanguageData>

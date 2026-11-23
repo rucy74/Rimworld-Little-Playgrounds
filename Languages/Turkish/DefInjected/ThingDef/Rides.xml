@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_Swing.label>oyun alanı salıncağı</LP_Swing.label>
+  <LP_Swing.description>Seçilebilir dört renk şeması olan, iki oturaklı yüksek bir salıncak. Çocuklar ve yetişkinler ayrı oturaklarda ileri geri sallanır. Çocuklar öğrenme, yetişkinler eğlence kazanır. Girişleri açık bırakın.</LP_Swing.description>
+  <LP_Slide.label>oyun alanı kaydırağı</LP_Slide.label>
+  <LP_Slide.description>Solunda basamaklar, sağında kaygan bir kayma oluğu bulunan bir oyun alanı kaydırağı. Çocuklar ve yetişkinler yukarı tırmanır, tepede oturur ve aşağı kayar. Çocuklar öğrenme, yetişkinler eğlence kazanır. İki ucunu da açık tutun.</LP_Slide.description>
+  <LP_Seesaw.label>bahçe tahterevallisi</LP_Seesaw.label>
+  <LP_Seesaw.description>İki minderli oturağı olan kıvrımlı meşe tahterevalli. Tek kişi yere yakın uçta hafifçe yaylanabilir; iki kişi sırayla yükselip alçalır. Çocuklar ve yetişkinler tek başına, kendi aralarında veya birlikte oynayabilir. Çocuklar öğrenme, yetişkinler eğlence kazanır. İki ucu da boş bırakın.</LP_Seesaw.description>
+</LanguageData>

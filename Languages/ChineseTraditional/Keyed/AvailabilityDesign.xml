@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_BlockedUnavailable>無法使用</LP_BlockedUnavailable>
+  <LP_BlockedCannotPlay>無法參與此活動</LP_BlockedCannotPlay>
+  <LP_BlockedDrafted>已徵召</LP_BlockedDrafted>
+  <LP_BlockedDowned>無法行動</LP_BlockedDowned>
+  <LP_BlockedMentalState>精神崩潰中</LP_BlockedMentalState>
+  <LP_BlockedForbidden>被禁止或在活動區之外</LP_BlockedForbidden>
+  <LP_BlockedAudience>不符合此設施的年齡設定</LP_BlockedAudience>
+  <LP_BlockedTooHot>遊樂場太熱</LP_BlockedTooHot>
+  <LP_BlockedTooCold>遊樂場太冷</LP_BlockedTooCold>
+  <LP_BlockedBusy>使用中或已被預留</LP_BlockedBusy>
+  <LP_BlockedEntrance>無法抵達暢通的入口或出口</LP_BlockedEntrance>
+  <LP_BlockedReturning>座椅正在返回</LP_BlockedReturning>
+  <LP_BlockedCourseTooShort>需連接至少兩個路線部件</LP_BlockedCourseTooShort>
+  <LP_BlockedWaterCold>太冷或有積雪，無法玩水</LP_BlockedWaterCold>
+  <LP_DesignButton>外觀</LP_DesignButton>
+  <LP_DesignDescription>選擇此設施的外觀。目前：{0}。顏色需另行選擇。</LP_DesignDescription>
+  <LP_DesignOriginal>原版</LP_DesignOriginal>
+  <LP_DesignTimber>原木</LP_DesignTimber>
+  <LP_DesignBusy>請等所有人用完此設施後再更改外觀。</LP_DesignBusy>
+  <LP_DesignCurrent>外觀：{0}</LP_DesignCurrent>
+</LanguageData>

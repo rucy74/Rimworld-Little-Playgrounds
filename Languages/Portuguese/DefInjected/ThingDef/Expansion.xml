@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_SteppingStump.label>degrau de madeira para parque infantil</LP_SteppingStump.label>
+  <LP_SteppingStump.description>Plataforma baixa feita de madeira serrada, para pisar. As poldras, os degraus de madeira e os troncos de equilíbrio ligam-se uns aos outros pelas arestas. Um percurso tem de ocupar pelo menos duas células (um tronco de equilíbrio sozinho já ocupa duas) e as peças que só se tocam num canto não se ligam. Crianças e adultos seguem o percurso ligado.</LP_SteppingStump.description>
+  <LP_SpringFox.label>baloiço de mola em forma de raposa</LP_SpringFox.label>
+  <LP_SpringFox.description>Um brinquedo de baloiço em forma de raposa montado numa mola. Uma criança ou adulto pode usá-lo sozinho. A personagem mantém o corpo normal e inclina-se para a frente e para trás com o brinquedo.</LP_SpringFox.description>
+  <LP_Roundabout.label>carrossel de carvalho</LP_Roundabout.label>
+  <LP_Roundabout.description>Um carrossel redondo em carvalho com corrimãos verde-sálvia, para até quatro pessoas. Uma pessoa pode fazê-lo girar; abranda e para quando alguém entra ou sai.</LP_Roundabout.description>
+  <LP_Playhouse.label>casinha com lojinha</LP_Playhouse.label>
+  <LP_Playhouse.description>Uma casinha de brincar com a frente aberta e um pequeno balcão de loja. Brinque às lojas sozinho ou receba um segundo visitante à janela. As crianças aprendem e os adultos ganham recreação.</LP_Playhouse.description>
+  <LP_DrinkingFountain.label>bebedouro a duas alturas</LP_DrinkingFountain.label>
+  <LP_DrinkingFountain.description>Uma taça alta e outra baixa. As crianças podem parar para beber um pouco de água após as atividades no parque infantil; os adultos também o escolhem para recreação. O pequeno fio de água corre enquanto é utilizado. Isto não acrescenta a necessidade de sede. Construído a partir de quaisquer blocos de pedra; a sua forma e cores permanecem as mesmas, independentemente da pedra que utilizar.</LP_DrinkingFountain.description>
+  <LP_Hopscotch.label>jogo da macaca</LP_Hopscotch.label>
+  <LP_Hopscotch.description>Oito quadrados pintados do jogo da macaca. Uma criança ou adulto salta pelos números e regressa, brincando sozinho, sem esperar companheiro. Construído a partir de quaisquer blocos de pedra; a sua forma e cores permanecem as mesmas, independentemente da pedra que utilizar.</LP_Hopscotch.description>
+  <LP_SplashPad.label>zona de jogos com jatos de água</LP_SplashPad.label>
+  <LP_SplashPad.description>Os jatos de água ao nível do solo são pulverizados num padrão repetitivo enquanto até três pessoas se movimentam pela área de jogo. Cada pessoa pode também jogar sozinha. Esta atividade pára abaixo dos 10 graus Celsius e não pode começar quando a superfície está coberta de neve. Pode ser construído a partir de quaisquer blocos de pedra, do mesmo formato e cores.</LP_SplashPad.description>
+  <LP_SteppingStone.label>poldra para parque infantil</LP_SteppingStone.label>
+  <LP_SteppingStone.description>Uma poldra de pedra, baixa e arredondada. As poldras, os degraus de madeira e os troncos de equilíbrio ligam-se uns aos outros pelas arestas. Um percurso tem de ocupar pelo menos duas células (um tronco de equilíbrio sozinho já ocupa duas) e as peças que só se tocam num canto não se ligam. Os visitantes seguem um ramo ligado e regressam. Cada visita reserva o seu percurso, até 24 peças. Pode ser construído a partir de quaisquer blocos de pedra, do mesmo formato e cores.</LP_SteppingStone.description>
+  <LP_BalanceLog.label>tronco de equilíbrio</LP_BalanceLog.label>
+  <LP_BalanceLog.description>Tronco de equilíbrio baixo em carvalho, com duas células de comprimento; pode ser colocado ao comprido ou na transversal. As poldras, os degraus de madeira e os troncos de equilíbrio ligam-se uns aos outros pelas arestas. Um percurso tem de ocupar pelo menos duas células (um tronco de equilíbrio sozinho já ocupa duas) e as peças que só se tocam num canto não se ligam. Os visitantes equilibram-se ao longo de um ramo ligado e regressam. Todas as células do percurso devem ficar desimpedidas.</LP_BalanceLog.description>
+  <LP_PlayFence.label>vedação de carvalho para parque infantil</LP_PlayFence.label>
+  <LP_PlayFence.description>Estacas baixas de carvalho unidas a postes quadrados de madeira. Peças de vedação adjacentes ligam-se. Este é um limite decorativo de parque infantil, não uma barreira de curral para animais.</LP_PlayFence.description>
+  <LP_PlayEntrance.label>entrada do parque infantil</LP_PlayEntrance.label>
+  <LP_PlayEntrance.description>Uma entrada sempre aberta com uma pequena placa do Little Playgrounds. Uma abertura acolhedora para uma vedação baixa de jardim.</LP_PlayEntrance.description>
+  <LP_GardenFountain.label>fonte de jardim</LP_GardenFountain.label>
+  <LP_GardenFountain.description>Uma bacia baixa de pedra clara com água a fluir suavemente. Uma peça central de jardim para colocar perto da área de estar. Construído a partir de quaisquer blocos de pedra; a sua forma e cores permanecem as mesmas, independentemente da pedra que utilizar.</LP_GardenFountain.description>
+</LanguageData>

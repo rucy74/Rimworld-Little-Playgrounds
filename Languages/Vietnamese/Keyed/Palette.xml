@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PaletteButton>Cách phối màu</LP_PaletteButton>
+  <LP_PaletteDescription>Chọn màu sắc của sân chơi này. Hiện tại: {0}. Thay đổi diện mạo ngay lập tức; chi phí xây dựng và hiệu suất vẫn giữ nguyên.</LP_PaletteDescription>
+  <LP_PaletteCurrent>Bảng màu: {0}</LP_PaletteCurrent>
+  <LP_PaletteLegacy>Hoàn thiện ban đầu</LP_PaletteLegacy>
+  <LP_PaletteBlue>Gỗ + xanh</LP_PaletteBlue>
+  <LP_PaletteYellow>Gỗ + vàng</LP_PaletteYellow>
+  <LP_PaletteSage>Gỗ + xanh xô thơm</LP_PaletteSage>
+  <LP_PaletteClassic>Màu sắc cổ điển</LP_PaletteClassic>
+</LanguageData>

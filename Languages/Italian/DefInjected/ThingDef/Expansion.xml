@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_SteppingStump.label>gradino in legno per parco giochi</LP_SteppingStump.label>
+  <LP_SteppingStump.description>Una piattaforma bassa in legno segato, su cui camminare. Pietre di passaggio, gradini di legno e tronchi da equilibrio si collegano tra loro lato contro lato. Un percorso deve occupare almeno due celle (un tronco da equilibrio da solo ne occupa già due) e i pezzi che si toccano solo in un angolo non si collegano. Bambini e adulti seguono il percorso collegato.</LP_SteppingStump.description>
+  <LP_SpringFox.label>gioco a molla a forma di volpe</LP_SpringFox.label>
+  <LP_SpringFox.description>Un giocattolo a dondolo a forma di volpe montato su molla. Un bambino o un adulto può usarlo da solo. Il personaggio mantiene il suo corpo normale e si inclina avanti e indietro con il giocattolo.</LP_SpringFox.description>
+  <LP_Roundabout.label>giostra girevole in quercia</LP_Roundabout.label>
+  <LP_Roundabout.description>Una giostra da gioco rotonda in quercia con corrimano verde salvia, per un massimo di quattro persone. Una persona può usarlo da sola. Rallenta e si ferma quando qualcuno sale o scende.</LP_Roundabout.description>
+  <LP_Playhouse.label>casetta con negozietto</LP_Playhouse.label>
+  <LP_Playhouse.description>Una casetta da gioco con facciata aperta e un piccolo bancone da negozio. Gioca a fare il negoziante da solo o accogli un secondo visitatore alla finestrella. I bambini imparano e gli adulti si divertono.</LP_Playhouse.description>
+  <LP_DrinkingFountain.label>fontanella a due altezze</LP_DrinkingFountain.label>
+  <LP_DrinkingFountain.description>Una ciotola alta e una bassa. I bambini possono fermarsi a bere un sorso dopo aver giocato al parco giochi; anche gli adulti la scelgono per svago. Il piccolo getto d'acqua scorre mentre viene usata. Non aggiunge il bisogno di sete. Costruita con qualsiasi blocco di pietra; la sua forma e i suoi colori rimangono gli stessi qualunque pietra usi.</LP_DrinkingFountain.description>
+  <LP_Hopscotch.label>campana da giardino</LP_Hopscotch.label>
+  <LP_Hopscotch.description>Otto quadrati di campana dipinti. Un bambino o un adulto salta lungo i numeri e ritorna, giocando da solo senza aspettare un partner. Costruito da qualsiasi blocco di pietra; la sua forma e i suoi colori rimangono gli stessi qualunque pietra usi.</LP_Hopscotch.description>
+  <LP_SplashPad.label>area giochi con getti d'acqua</LP_SplashPad.label>
+  <LP_SplashPad.description>Getti d'acqua a livello del suolo spruzzano in uno schema ripetuto mentre un massimo di tre persone si muovono nell'area di gioco. Ogni persona può anche giocare da sola. Questa attività si ferma sotto i 10 gradi Celsius e non può iniziare quando la superficie è coperta di neve. Può essere costruito con qualsiasi blocco di pietra, con la stessa forma e colore.</LP_SplashPad.description>
+  <LP_SteppingStone.label>pietra di passaggio per parco giochi</LP_SteppingStone.label>
+  <LP_SteppingStone.description>Una pietra di passaggio bassa e arrotondata. Pietre di passaggio, gradini di legno e tronchi da equilibrio si collegano tra loro lato contro lato. Un percorso deve occupare almeno due celle (un tronco da equilibrio da solo ne occupa già due) e i pezzi che si toccano solo in un angolo non si collegano. I visitatori seguono un ramo collegato e ritornano. Ogni visita riserva il proprio percorso, fino a 24 pezzi. Può essere costruita con qualsiasi blocco di pietra, con la stessa forma e colore.</LP_SteppingStone.description>
+  <LP_BalanceLog.label>tronco da equilibrio</LP_BalanceLog.label>
+  <LP_BalanceLog.description>Un tronco da equilibrio basso in quercia, lungo due celle; si può posizionare per il lungo o per il largo. Pietre di passaggio, gradini di legno e tronchi da equilibrio si collegano tra loro lato contro lato. Un percorso deve occupare almeno due celle (un tronco da equilibrio da solo ne occupa già due) e i pezzi che si toccano solo in un angolo non si collegano. I visitatori procedono in equilibrio lungo un ramo collegato, poi ritornano. Tutte le celle del percorso devono rimanere libere.</LP_BalanceLog.description>
+  <LP_PlayFence.label>recinzione per parco giochi in quercia</LP_PlayFence.label>
+  <LP_PlayFence.description>Bassi picchetti di quercia uniti a pali di legno quadrati. I pezzi di recinzione adiacenti si collegano. Si tratta di un confine decorativo scavalcabile per il parco giochi, non di una barriera per recinti per animali.</LP_PlayFence.description>
+  <LP_PlayEntrance.label>ingresso parco giochi</LP_PlayEntrance.label>
+  <LP_PlayEntrance.description>Un ingresso sempre aperto con un piccolo cartello Little Playgrounds. Un'apertura accogliente per una recinzione bassa da giardino.</LP_PlayEntrance.description>
+  <LP_GardenFountain.label>fontana da giardino</LP_GardenFountain.label>
+  <LP_GardenFountain.description>Una vasca bassa in pietra chiara dove scorre dolcemente l'acqua. Un elemento centrale da giardino da posizionare vicino alla zona salotto. Costruita con qualsiasi blocco di pietra; la sua forma e i suoi colori rimangono gli stessi qualunque pietra usi.</LP_GardenFountain.description>
+</LanguageData>

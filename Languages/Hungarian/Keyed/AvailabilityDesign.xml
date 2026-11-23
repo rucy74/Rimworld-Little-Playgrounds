@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_BlockedUnavailable>Nem elérhető</LP_BlockedUnavailable>
+  <LP_BlockedCannotPlay>Nem veheti igénybe ezt a tevékenységet</LP_BlockedCannotPlay>
+  <LP_BlockedDrafted>Besorozva</LP_BlockedDrafted>
+  <LP_BlockedDowned>Földre került</LP_BlockedDowned>
+  <LP_BlockedMentalState>Mentális állapotban</LP_BlockedMentalState>
+  <LP_BlockedForbidden>Tilos vagy a megengedett körzeten kívül</LP_BlockedForbidden>
+  <LP_BlockedAudience>A berendezés korhatár-beállítása nem engedi</LP_BlockedAudience>
+  <LP_BlockedTooHot>Túl meleg van a játszótéren</LP_BlockedTooHot>
+  <LP_BlockedTooCold>Túl hideg van a játszótéren</LP_BlockedTooCold>
+  <LP_BlockedBusy>Használatban vagy fenntartva</LP_BlockedBusy>
+  <LP_BlockedEntrance>Nem érhető el szabad be- vagy kijárat</LP_BlockedEntrance>
+  <LP_BlockedReturning>Az ülés visszafelé tart</LP_BlockedReturning>
+  <LP_BlockedCourseTooShort>Kapcsoljon össze legalább két pályaelemet</LP_BlockedCourseTooShort>
+  <LP_BlockedWaterCold>Túl hideg vagy havas a vizes játékhoz</LP_BlockedWaterCold>
+  <LP_DesignButton>Kinézet</LP_DesignButton>
+  <LP_DesignDescription>Válassza ki a berendezés kinézetét. Jelenlegi: {0}. A színeket külön lehet kiválasztani.</LP_DesignDescription>
+  <LP_DesignOriginal>Eredeti</LP_DesignOriginal>
+  <LP_DesignTimber>Natúr fa</LP_DesignTimber>
+  <LP_DesignBusy>Várja meg, amíg mindenki befejezi a berendezés használatát.</LP_DesignBusy>
+  <LP_DesignCurrent>Kinézet: {0}</LP_DesignCurrent>
+</LanguageData>

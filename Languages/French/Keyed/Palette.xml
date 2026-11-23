@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PaletteButton>Jeu de couleurs</LP_PaletteButton>
+  <LP_PaletteDescription>Choisissez les couleurs de ce terrain de jeu. Actuel : {0}. Change d'apparence immédiatement ; les coûts de construction et les performances restent les mêmes.</LP_PaletteDescription>
+  <LP_PaletteCurrent>Jeu de couleurs : {0}</LP_PaletteCurrent>
+  <LP_PaletteLegacy>Finition originale</LP_PaletteLegacy>
+  <LP_PaletteBlue>Bois + bleu</LP_PaletteBlue>
+  <LP_PaletteYellow>Bois + jaune</LP_PaletteYellow>
+  <LP_PaletteSage>Bois + vert sauge</LP_PaletteSage>
+  <LP_PaletteClassic>Couleurs classiques</LP_PaletteClassic>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PlaySandLight.label>jasny piasek na plac zabaw</LP_PlaySandLight.label>
+  <LP_PlaySandLight.description>Jasny piasek z delikatnymi, płytkimi falami dla jasnego placu zabaw. To trzecia, obok drobnego i ziarnistego piasku, powierzchnia piasku.</LP_PlaySandLight.description>
+  <LP_PlaySand.label>drobny piasek do zabaw</LP_PlaySand.label>
+  <LP_PlaySand.description>Osiadły, ciepły beżowy piasek na plac zabaw z drobnymi ziarnami i cichą, płytką odmianą.</LP_PlaySand.description>
+  <LP_PlaySandGrainy.label>ziarnisty piasek do zabaw</LP_PlaySandGrainy.label>
+  <LP_PlaySandGrainy.description>Ciepły piasek na plac zabaw z widocznymi ziarnami i lekko grabioną powierzchnią. Bardziej teksturowana alternatywa dla drobnego piasku na plac zabaw.</LP_PlaySandGrainy.description>
+  <LP_RubberSage.label>szałwiowa nawierzchnia gumowa</LP_RubberSage.label>
+  <LP_RubberSage.description>Matowa powierzchnia placu zabaw z gumy. Jej subtelna faktura łączy się bez siatki płytek. Dostępny w kolorze szałwiowym, śmietankowym i morelowym.</LP_RubberSage.description>
+  <LP_RubberCream.label>kremowa nawierzchnia gumowa</LP_RubberCream.label>
+  <LP_RubberCream.description>Matowa powierzchnia placu zabaw z gumy okruchowej. Jej subtelna faktura łączy się bez siatki płytek. Dostępny w kolorze szałwiowym, śmietankowym i morelowym.</LP_RubberCream.description>
+  <LP_RubberApricot.label>morelowa nawierzchnia gumowa</LP_RubberApricot.label>
+  <LP_RubberApricot.description>Matowa powierzchnia placu zabaw z gumy. Jej subtelna faktura łączy się bez siatki płytek. Dostępny w kolorze szałwiowym, śmietankowym i morelowym.</LP_RubberApricot.description>
+</LanguageData>

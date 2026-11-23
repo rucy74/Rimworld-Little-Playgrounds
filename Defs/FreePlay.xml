@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Running around a ride instead of riding it: PlaygroundRunning, mod option runAround. -->
+  <JobDef>
+    <defName>LP_RunAround</defName>
+    <driverClass>LittlePlaygrounds.JobDriver_RunAround</driverClass>
+    <reportString>running around the playground.</reportString>
+  </JobDef>
+</Defs>

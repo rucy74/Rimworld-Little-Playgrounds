@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_PlaySandLight.label>світлий пісок для майданчика</LP_PlaySandLight.label>
+  <LP_PlaySandLight.description>Світлий пісок із м’якою неглибокою брижістю для яскравого ігрового майданчика. Це третя піщана поверхня, поряд з дрібним піском і зернистим піском.</LP_PlaySandLight.description>
+  <LP_PlaySand.label>дрібний дитячий пісок</LP_PlaySand.label>
+  <LP_PlaySand.description>Осілий теплий бежевий пісок для дитячих майданчиків з дрібним зерном і тихою мілкою варіацією.</LP_PlaySand.description>
+  <LP_PlaySandGrainy.label>зернистий пісок на дитячому майданчику</LP_PlaySandGrainy.label>
+  <LP_PlaySandGrainy.description>Теплий пісок для дитячого майданчика з помітними піщинками та злегка розрівняною граблями поверхнею. Більш фактурна альтернатива дрібному піску для дитячих майданчиків.</LP_PlaySandGrainy.description>
+  <LP_RubberSage.label>шавлієво-зелене гумове покриття</LP_RubberSage.label>
+  <LP_RubberSage.description>Матове покриття майданчика з гумової крихти. Його тонка текстура з’єднується без плиткової сітки. Доступний у шавлії, кремі та абрикосі.</LP_RubberSage.description>
+  <LP_RubberCream.label>кремове гумове покриття</LP_RubberCream.label>
+  <LP_RubberCream.description>Матове покриття майданчика з гумової крихти. Його тонка текстура з’єднується без плиткової сітки. Доступний у шавлії, кремі та абрикосі.</LP_RubberCream.description>
+  <LP_RubberApricot.label>абрикосове гумове покриття</LP_RubberApricot.label>
+  <LP_RubberApricot.description>Матове покриття майданчика з гумової крихти. Його тонка текстура з’єднується без плиткової сітки. Доступний у шавлії, кремі та абрикосі.</LP_RubberApricot.description>
+</LanguageData>

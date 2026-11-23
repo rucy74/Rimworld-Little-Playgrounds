@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LP_BlockedUnavailable>Inte tillgänglig</LP_BlockedUnavailable>
+  <LP_BlockedCannotPlay>Kan inte använda den här aktiviteten</LP_BlockedCannotPlay>
+  <LP_BlockedDrafted>Kommenderad</LP_BlockedDrafted>
+  <LP_BlockedDowned>Däckad</LP_BlockedDowned>
+  <LP_BlockedMentalState>I ett mentalt tillstånd</LP_BlockedMentalState>
+  <LP_BlockedForbidden>Förbjuden eller utanför tillåtet område</LP_BlockedForbidden>
+  <LP_BlockedAudience>Inte tillåten enligt lekredskapets åldersinställning</LP_BlockedAudience>
+  <LP_BlockedTooHot>För varmt på lekplatsen</LP_BlockedTooHot>
+  <LP_BlockedTooCold>För kallt på lekplatsen</LP_BlockedTooCold>
+  <LP_BlockedBusy>Används eller är reserverad</LP_BlockedBusy>
+  <LP_BlockedEntrance>Kan inte nå en fri ingång eller utgång</LP_BlockedEntrance>
+  <LP_BlockedReturning>Sätet är på väg tillbaka</LP_BlockedReturning>
+  <LP_BlockedCourseTooShort>Koppla ihop minst två bandelar</LP_BlockedCourseTooShort>
+  <LP_BlockedWaterCold>För kallt eller snöigt för vattenlek</LP_BlockedWaterCold>
+  <LP_DesignButton>Design</LP_DesignButton>
+  <LP_DesignDescription>Välj utseendet på det här lekredskapet. Nuvarande: {0}. Färger väljs separat.</LP_DesignDescription>
+  <LP_DesignOriginal>Original</LP_DesignOriginal>
+  <LP_DesignTimber>Trä</LP_DesignTimber>
+  <LP_DesignBusy>Designen kan bara ändras när ingen längre använder lekredskapet.</LP_DesignBusy>
+  <LP_DesignCurrent>Design: {0}</LP_DesignCurrent>
+</LanguageData>

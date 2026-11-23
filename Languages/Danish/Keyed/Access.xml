@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LP_VisitorCount>Besøgende: {0} / {1}</LP_VisitorCount>
+  <LP_AudienceButton>Besøgende: {0}</LP_AudienceButton>
+  <LP_AudienceCurrent>Tilladte besøgende: {0}</LP_AudienceCurrent>
+  <LP_AudienceDescription>Vælg, hvem der må bruge dette udstyr. Alle er standard. Ekskluderede besøgende stopper deres nuværende besøg eller kø. Dette valg er gemt.</LP_AudienceDescription>
+  <LP_AudienceEveryone>Alle</LP_AudienceEveryone>
+  <LP_AudienceChildren>Kun børn</LP_AudienceChildren>
+  <LP_AudienceAdults>Kun voksne</LP_AudienceAdults>
+</LanguageData>
