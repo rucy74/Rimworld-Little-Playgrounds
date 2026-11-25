@@ -6,7 +6,7 @@ Build a playground and watch your colonists use it. A child can start rocking on
 
 [Subscribe on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3828953545) · [Illustrated guide (English)](https://rucy74.github.io/Rimworld-Little-Playgrounds/) · [Browse the 0.1.7 source and mod files](https://github.com/rucy74/Rimworld-Little-Playgrounds/tree/v0.1.7)
 
-![Little Playgrounds in RimWorld](About/Preview.png)
+![Little Playgrounds: children bounce, swing, spin and build a sandcastle](https://raw.githubusercontent.com/rucy74/Rimworld-Little-Playgrounds/gh-pages/workshop-cover.gif)
 
 ## Build your first playground
 
@@ -48,3 +48,4 @@ The resulting `LittlePlaygrounds.dll` goes into `1.7/Assemblies/` or `1.6/Assemb
 - 2026-11-23 23:18 KST — Steam 0.1.7 기준 설치, 놀이 설정, 소스 빌드 안내를 추가했습니다.
 - 2026-11-24 23:31 KST — 상단에 한국어 플레이·코드 안내서 링크를 추가했습니다.
 - 2026-11-25 23:11 KST — GitHub Pages 안내서 29쪽을 영어로 게시하고 상단 링크에 언어를 표시했습니다.
+- 2026-11-25 23:16 KST — 저장소와 영어 안내서의 첫 화면에 창작마당 GIF 표지를 적용했습니다.
